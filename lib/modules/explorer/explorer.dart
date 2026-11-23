@@ -320,9 +320,9 @@ class OccupationDetail extends StatelessWidget {
     return Scaffold(appBar: AppBar(title: Text(title)), body: ListView(padding: const EdgeInsets.all(16), children: [
       if (locale != 'fr') Card(child: Padding(padding: const EdgeInsets.all(12), child: Text(AppLocalizations.of(context)!.explorerDetailTranslationNotice))),
       _Section(title: AppLocalizations.of(context)!.explorerPresentation, child: Text(purpose)),
-      _Section(title: AppLocalizations.of(context)!.explorerMainTasks, child: _bulletList(missions)),
-      _Section(title: AppLocalizations.of(context)!.explorerSkills, child: skills.isEmpty ? Text(AppLocalizations.of(context)!.explorerSkillsMissing) : _bulletList(skills.map((skill) => ExplorerData.displaySkill(skill, locale: locale)).toList())),
-      _Section(title: AppLocalizations.of(context)!.explorerKnowledge, child: knowledge.isEmpty ? Text(AppLocalizations.of(context)!.explorerKnowledgeMissing) : _bulletList(knowledge)),
+      _Section(title: AppLocalizations.of(context)!.explorerMainTasks, child: _bulletList(missions, l10n.explorerMissingContent)),
+      _Section(title: AppLocalizations.of(context)!.explorerSkills, child: skills.isEmpty ? Text(AppLocalizations.of(context)!.explorerSkillsMissing) : _bulletList(skills.map((skill) => ExplorerData.displaySkill(skill, locale: locale)).toList(), l10n.explorerMissingContent)),
+      _Section(title: AppLocalizations.of(context)!.explorerKnowledge, child: knowledge.isEmpty ? Text(AppLocalizations.of(context)!.explorerKnowledgeMissing) : _bulletList(knowledge, l10n.explorerMissingContent)),
       _Section(title: AppLocalizations.of(context)!.explorerWorkEnvironment, child: Text(workContext)),
       _Section(title: AppLocalizations.of(context)!.explorerTrainingPath, child: Text(pathwayText)),
       if ((pathway['notes_$locale'] ?? pathway['notes_fr'] ?? '').toString().isNotEmpty) _Section(title: AppLocalizations.of(context)!.explorerQualifications, child: Text((pathway['notes_$locale'] ?? pathway['notes_fr']).toString())),
@@ -336,10 +336,10 @@ class OccupationDetail extends StatelessWidget {
       ])),
     ]));
   }
-  Widget _bulletList(List<dynamic> values) => Column(
+  Widget _bulletList(List<dynamic> values, String missingContent) => Column(
     crossAxisAlignment: CrossAxisAlignment.start,
     children: values.isEmpty
-        ? [Text(AppLocalizations.of(context)!.explorerMissingContent)]
+        ? [Text(missingContent)]
         : values.map((value) => Padding(
             padding: const EdgeInsets.only(bottom: 7),
             child: Row(

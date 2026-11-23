@@ -13,7 +13,7 @@ class TextNormalizer {
     'ý': 'y', 'ÿ': 'y', 'œ': 'oe', 'æ': 'ae',
   };
 
-  static const Set<String> _stopWords = {
+  static final Set<String> _stopWords = {
     // French
     'a', 'au', 'aux', 'avec', 'ce', 'ces', 'dans', 'de', 'des', 'du', 'elle',
     'en', 'et', 'eux', 'il', 'je', 'la', 'le', 'les', 'leur', 'lui', 'ma',
@@ -54,7 +54,7 @@ class TextNormalizer {
     final normalizedText = normalize(text);
     final normalizedPhrase = normalize(phrase);
     if (normalizedText.isEmpty || normalizedPhrase.isEmpty) return false;
-    return RegExp('(^| )${RegExp.escape(normalizedPhrase)}( |$)')
+    return RegExp(r'(^| )' + RegExp.escape(normalizedPhrase) + r'( |$)')
         .hasMatch(normalizedText);
   }
 
