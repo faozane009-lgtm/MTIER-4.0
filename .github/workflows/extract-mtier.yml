@@ -1,0 +1,114 @@
+
+name: Extract M-TIER source from ZIP
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract source archive safely
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path, PurePosixPath
+          from zipfile import ZipFile
+          import shutil
+          import stat
+
+          archive = Path(
+              "MTIER-4.0-DEZIPPE-VERSION-A-POUR-GITHUB.zip"
+          )
+          output = Path("/tmp/mtier-source")
+          output.mkdir(parents=True, exist_ok=True)
+
+          if not archive.is_file():
+              raise SystemExit(f"Archive introuvable: {archive}")
+
+          with ZipFile(archive) as z:
+              files = [i for i in z.infolist() if not i.is_dir()]
+              parts = [PurePosixPath(i.filename).parts for i in files]
+
+              roots = {p[0] for p in parts if p}
+              strip_root = (
+                  len(roots) == 1
+                  and all(len(p) > 1 for p in parts)
+              )
+
+              root_name = next(iter(roots)) if strip_root else None
+
+              for info in z.infolist():
+                  raw = PurePosixPath(info.filename)
+
+                  if raw.is_absolute() or ".." in raw.parts:
+                      raise SystemExit(
+                          f"Chemin ZIP non autorisé: {info.filename}"
+                      )
+
+                  mode = (info.external_attr >> 16) & 0o170000
+                  if mode == stat.S_IFLNK:
+                      raise SystemExit(
+                          f"Lien symbolique refusé: {info.filename}"
+                      )
+
+                  parts = raw.parts
+                  if strip_root and parts and parts[0] == root_name:
+                      parts = parts[1:]
+
+                  if not parts:
+                      continue
+
+                  target = output.joinpath(*parts)
+
+                  if info.is_dir():
+                      target.mkdir(parents=True, exist_ok=True)
+                      continue
+
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  with z.open(info) as source, target.open("wb") as dest:
+                      shutil.copyfileobj(source, dest)
+
+          if not any(output.iterdir()):
+              raise SystemExit("L'archive ne contient aucun fichier.")
+          PY
+
+      - name: Copy source files to repository root
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import shutil
+
+          source = Path("/tmp/mtier-source")
+          shutil.copytree(source, Path("."), dirs_exist_ok=True)
+          PY
+
+      - name: Remove transfer archives
+        run: |
+          rm -f \
+            MTIER-4.0-DEZIPPE-VERSION-A-POUR-GITHUB.zip \
+            MTIER-4.0-IMPORT-LOT-1.zip \
+            MTIER-4.0-IMPORT-LOT-2.zip
+
+      - name: Commit extracted source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Extract M-TIER 4.0 source files"
+          git push
+          
