@@ -13,7 +13,7 @@ class TextNormalizer {
     'ý': 'y', 'ÿ': 'y', 'œ': 'oe', 'æ': 'ae',
   };
 
-  static final Set<String> _stopWords = {
+  static const Set<String> _stopWords = {
     // French
     'a', 'au', 'aux', 'avec', 'ce', 'ces', 'dans', 'de', 'des', 'du', 'elle',
     'en', 'et', 'eux', 'il', 'je', 'la', 'le', 'les', 'leur', 'lui', 'ma',
@@ -22,14 +22,14 @@ class TextNormalizer {
     'sur', 'ta', 'te', 'tes', 'toi', 'ton', 'tu', 'un', 'une', 'vos', 'votre',
     'vous', 'y',
     // English
-    'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has',
-    'have', 'he', 'her', 'his', 'i', 'in', 'is', 'it', 'its', 'me', 'my',
-    'of', 'on', 'or', 'our', 'she', 'that', 'the', 'their', 'them', 'they',
+    'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from', 'has',
+    'have', 'he', 'her', 'his', 'i', 'in', 'is', 'it', 'its', 'my',
+    'of', 'or', 'our', 'she', 'that', 'the', 'their', 'them', 'they',
     'this', 'to', 'was', 'we', 'were', 'with', 'you', 'your',
     // Spanish
-    'al', 'como', 'con', 'de', 'del', 'el', 'ella', 'ellas', 'ellos', 'en',
-    'es', 'esta', 'este', 'la', 'las', 'lo', 'los', 'mi', 'mis', 'o', 'para',
-    'por', 'que', 'se', 'su', 'sus', 'un', 'una', 'unos', 'unas', 'y',
+    'al', 'como', 'con', 'del', 'el', 'ella', 'ellas', 'ellos',
+    'es', 'esta', 'este', 'las', 'lo', 'los', 'mi', 'mis', 'o', 'para',
+    'por', 'su', 'sus', 'una', 'unos', 'unas',
   };
 
   static String normalize(String value) {

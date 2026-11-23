@@ -145,7 +145,7 @@ class _AcademyPageState extends State<AcademyPage> {
                 items: matches.map((m) => DropdownMenuItem<String>(value: m.occupation['id'].toString(), child: Text('${m.occupation['canonical_title']?[locale] ?? m.occupation['canonical_title']?['fr'] ?? m.occupation['id']} · ${m.score}%', overflow: TextOverflow.ellipsis))).toList(),
                 onChanged: (v) => setState(() => selectedOccupationId = v),
               ),
-              if (selected != null) _AcademyOccupationCard(match: selected!, locale: locale),
+              if (selected != null) _AcademyOccupationCard(match: selected, locale: locale),
             ],
             const SizedBox(height: 14),
             Text(AppLocalizations.of(context)!.academyIntroPaths, style: Theme.of(context).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold)),
