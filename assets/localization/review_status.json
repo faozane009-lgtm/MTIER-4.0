@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_locale": "fr",
+  "locales": {
+    "fr": {
+      "status": "source_content",
+      "reviewed_by": null
+    },
+    "en": {
+      "status": "machine_draft_needs_human_review",
+      "reviewed_by": null
+    },
+    "es": {
+      "status": "machine_draft_needs_human_review",
+      "reviewed_by": null
+    }
+  },
+  "scope": "Flutter ARB interface messages and shared product terminology",
+  "note": "No human linguistic review is claimed for EN or ES in this project snapshot."
+}

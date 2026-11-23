@@ -1,0 +1,123 @@
+name: M-TIER Flutter CI
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: flutter-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate-and-build:
+    name: Analyze, test and build Android APK
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Install Flutter stable (first run discovers exact version)
+        id: flutter
+        uses: subosito/flutter-action@1a449444c387b1966244ae4d4f8c696479add0b2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Record Flutter and Dart versions
+        shell: bash
+        run: |
+          set -euo pipefail
+          flutter --version
+          {
+            echo '## Flutter toolchain'
+            echo '```text'
+            flutter --version
+            echo '```'
+            echo ''
+            echo 'The exact Flutter version above must be pinned in the workflow and README after this first CI run.'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Generate Android platform if missing
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -d android ]; then
+            flutter create . --platforms=android
+          fi
+          if [ -f test/widget_test.dart ]; then
+            if grep -qE 'Counter increments|counter increments|You have pushed the button' test/widget_test.dart; then
+              rm test/widget_test.dart
+              echo 'Removed the default Flutter counter widget test.'
+            fi
+          fi
+
+      - name: Patch Android application metadata and permissions
+        run: python3 scripts/patch_android.py
+
+      - name: Fetch fonts when the project provides the script
+        if: ${{ hashFiles('scripts/fetch_fonts.sh') != '' }}
+        shell: bash
+        run: bash scripts/fetch_fonts.sh
+
+      - name: Install Dart and Flutter dependencies
+        run: flutter pub get
+
+      - name: Generate localizations when configured
+        if: ${{ hashFiles('l10n.yaml') != '' }}
+        run: flutter gen-l10n
+
+      - name: Run Explorer asset integrity check
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -f tests_explorer_assets.py ]; then
+            python3 tests_explorer_assets.py
+          else
+            echo 'tests_explorer_assets.py not present yet; skipping.'
+          fi
+
+      - name: Report FR/EN/ES localization coverage
+        run: python3 scripts/audit_localization.py
+
+      - name: Run Python verification scripts
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -d scripts ]; then
+            while IFS= read -r -d '' script; do
+              case "$script" in
+                scripts/check_translations.py) continue ;;
+              esac
+              echo "Running $script"
+              python3 "$script"
+            done < <(find scripts -maxdepth 1 -type f -name 'check_*.py' -print0 | sort -z)
+          fi
+
+      - name: Check translations (non-blocking until explicitly enabled)
+        if: ${{ hashFiles('scripts/check_translations.py') != '' }}
+        continue-on-error: ${{ vars.TRANSLATIONS_COMPLETE != 'true' }}
+        run: python3 scripts/check_translations.py
+
+      - name: Analyze Dart and Flutter code
+        run: flutter analyze
+
+      - name: Run Flutter tests
+        run: flutter test
+
+      - name: Build debug APK
+        run: flutter build apk --debug
+
+      - name: Upload debug APK
+        if: ${{ always() && hashFiles('build/app/outputs/flutter-apk/app-debug.apk') != '' }}
+        uses: actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808
+        with:
+          name: mtier-debug-apk-${{ github.run_number }}
+          path: build/app/outputs/flutter-apk/app-debug.apk
+          if-no-files-found: error
+          retention-days: 14

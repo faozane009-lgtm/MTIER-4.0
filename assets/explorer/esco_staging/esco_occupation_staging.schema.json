@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "M-TIER ESCO occupation staging bundle",
+  "type": "object",
+  "required": ["dataset", "dataset_version", "status", "languages", "record_count", "records", "publication_rule"],
+  "properties": {
+    "dataset": {"const": "ESCO"},
+    "dataset_version": {"type": "string", "minLength": 1},
+    "status": {"const": "staging_not_publishable"},
+    "imported_at_utc": {"type": "string"},
+    "languages": {"type": "array", "items": {"type": "string", "minLength": 2}, "uniqueItems": true},
+    "counts_by_language": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+    "record_count": {"type": "integer", "minimum": 0},
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["uri", "labels", "descriptions", "aliases"],
+        "properties": {
+          "uri": {"type": "string", "format": "uri"},
+          "labels": {"type": "object", "minProperties": 1, "additionalProperties": {"type": "string", "minLength": 1}},
+          "descriptions": {"type": "object", "additionalProperties": {"type": "string"}},
+          "aliases": {"type": "object", "additionalProperties": {"type": "array", "items": {"type": "string"}}},
+          "source_isco_group": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "source_notice": {"type": "string"},
+    "adaptation_notice": {"type": "string"},
+    "publication_rule": {"type": "string"}
+  }
+}

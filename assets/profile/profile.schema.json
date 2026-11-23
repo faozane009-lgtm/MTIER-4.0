@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "M-TIER Profile",
+  "type": "object",
+  "required": [
+    "profile_id",
+    "profile_visibility",
+    "preferences",
+    "consents",
+    "created_at",
+    "updated_at"
+  ],
+  "properties": {
+    "profile_id": {
+      "type": "string"
+    },
+    "display_name": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "country_code": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[A-Z]{2}$"
+    },
+    "age_band": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "13-17",
+        "18-24",
+        "25-34",
+        "35-44",
+        "45-54",
+        "55+",
+        null
+      ]
+    },
+    "profile_visibility": {
+      "const": "private"
+    },
+    "preferences": {
+      "type": "object"
+    },
+    "consents": {
+      "type": "object",
+      "properties": {
+        "personalization": {
+          "type": "boolean"
+        },
+        "portfolio_public_sharing": {
+          "type": "boolean"
+        },
+        "analytics_optional": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "region": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "education_level": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "primary",
+        "secondary",
+        "vocational",
+        "undergraduate",
+        "graduate",
+        "other",
+        null
+      ]
+    },
+    "education_detail": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "interest_domains": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 80
+      },
+      "uniqueItems": true
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 80
+      },
+      "uniqueItems": true
+    },
+    "learning_format": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "practical",
+        "short_lessons",
+        "videos",
+        "reading",
+        "mixed",
+        null
+      ]
+    },
+    "preferred_language": {
+      "enum": [
+        "fr",
+        "en",
+        "es"
+      ]
+    },
+    "goals": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 160
+      },
+      "uniqueItems": true
+    },
+    "followed_occupation_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    }
+  }
+}

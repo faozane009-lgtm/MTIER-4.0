@@ -1,0 +1,30 @@
+{
+  "version": "3.2",
+  "checked_date": "2026-11-22",
+  "benchmarks": [
+    {
+      "benchmark_id": "BJ.ILOSTAT.EAR_EMTA_SEX_NB.2022.total",
+      "country_code": "BJ",
+      "country_name": "Bénin",
+      "indicator": "Average monthly earnings of employees by sex (total)",
+      "indicator_code": "EAR_EMTA_SEX_NB",
+      "value": 84524.927,
+      "currency": "XOF",
+      "period": "month",
+      "reference_period": "2022",
+      "statistic": "mean",
+      "gross_or_net": "not_stated",
+      "source_url": "https://ilostat.ilo.org/fr/data/country-profiles/ben/",
+      "source_data_mirror_url": "https://huggingface.co/datasets/electricsheepafrica/africa-ilo-ear-emta-sex-nb-average-monthly-earnings-of-employees-by-sex-local",
+      "evidence_status": "contextual_provisional",
+      "limitations": [
+        "National average for employees, not occupation-specific.",
+        "Not a low/median/high salary range.",
+        "Not representative of self-employed or informal workers as a separate occupation-specific population.",
+        "Do not display as the salary of any individual M-TIER occupation.",
+        "Reference year 2022; refresh before use in a current salary decision."
+      ]
+    }
+  ],
+  "display_rule": "This figure may appear only in a Benin labour-market context panel, never as the salary estimate for a particular occupation."
+}

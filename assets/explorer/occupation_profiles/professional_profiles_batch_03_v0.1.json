@@ -1,0 +1,1610 @@
+{
+  "profile_set_version": "0.2.0",
+  "batch_id": "batch_03",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "100 profils supplémentaires enrichis par lots contrôlés; ce lot 03 en couvre 10.",
+  "record_count": 10,
+  "methodology": "Profils éditoriaux originaux en français, structurés à partir des intitulés du catalogue et de cadres institutionnels de comparaison. Les sources étayent le contexte professionnel ou des familles de tâches; elles ne sont pas présentées comme des citations directes de chaque mission. Les informations américaines du BLS ne sont pas transposées au Bénin ou à d’autres pays. Aucun salaire, diplôme obligatoire, permis, certification ou perspective d’emploi locale n’est inféré. Revue professionnelle et vérification réglementaire nationale requises avant publication.",
+  "profiles": [
+    {
+      "occupation_id": "occupation.energy.technicien-solaire",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne en installation photovoltaïque",
+      "en_title": "Solar Photovoltaic Installer",
+      "purpose_fr": "Installe, met en service et entretient des systèmes photovoltaïques adaptés au site, aux besoins énergétiques et aux règles de sécurité applicables.",
+      "missions_fr": [
+        "Évaluer les caractéristiques du site et relever les contraintes utiles à l’installation.",
+        "Préparer les supports et implanter les composants conformément aux plans validés.",
+        "Installer les modules, structures et équipements prévus dans le périmètre de compétence.",
+        "Réaliser les contrôles de conformité et les essais de fonctionnement selon les procédures.",
+        "Expliquer à l’utilisateur les consignes d’exploitation et les limites du système.",
+        "Effectuer la maintenance préventive et signaler les anomalies nécessitant une intervention spécialisée."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de plans et schémas photovoltaïques",
+          "type": "technical"
+        },
+        {
+          "id": "Installation de systèmes photovoltaïques",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle et essais électriques dans le cadre autorisé",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic de premier niveau",
+          "type": "technical"
+        },
+        {
+          "id": "Prévention des risques et travail en hauteur",
+          "type": "methodological"
+        },
+        {
+          "id": "Communication avec les clients et l’équipe",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de conversion photovoltaïque",
+        "Composants d’un système solaire et stockage",
+        "Notions d’électricité et de protection",
+        "Règles locales de raccordement et de sécurité à vérifier",
+        "Dimensionnement de premier niveau, suivi des performances et limites des systèmes de stockage, sans se substituer aux études électriques habilitées."
+      ],
+      "work_context_fr": "Entreprises d’énergie solaire, installateurs, projets d’électrification décentralisée, services de maintenance et chantiers; interventions encadrées par les règles électriques et de sécurité locales. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.irena.jobs2025",
+          "use": "contexte_sectoriel_et_chaine_de_valeur"
+        },
+        {
+          "source_id": "source.bls.solar-pv-installers",
+          "use": "comparaison_des_taches_et_du_contexte_professionnel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "Le profil BLS décrit le contexte américain; les habilitations électriques, règles de raccordement, travail en hauteur et responsabilités doivent être vérifiés dans chaque pays. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Installs, commissions and maintains photovoltaic systems suited to the site, energy needs and applicable safety requirements.",
+      "purpose_es": "Instala, pone en servicio y mantiene sistemas fotovoltaicos adaptados al emplazamiento, las necesidades energéticas y los requisitos de seguridad aplicables.",
+      "missions_en": [
+        "Assess site characteristics and record constraints relevant to installation.",
+        "Prepare supports and position components according to approved plans.",
+        "Install planned modules, structures and equipment within the scope of competence.",
+        "Carry out compliance checks and operational tests in accordance with procedures.",
+        "Explain operating instructions and system limitations to the user.",
+        "Perform preventive maintenance and report issues requiring specialist intervention."
+      ],
+      "missions_es": [
+        "Evaluar las características del emplazamiento y registrar las limitaciones relevantes para la instalación.",
+        "Preparar los soportes y colocar los componentes conforme a los planos aprobados.",
+        "Instalar los módulos, estructuras y equipos previstos dentro de su ámbito de competencia.",
+        "Realizar controles de conformidad y pruebas de funcionamiento conforme a los procedimientos.",
+        "Explicar al usuario las instrucciones de funcionamiento y las limitaciones del sistema.",
+        "Realizar mantenimiento preventivo y comunicar las anomalías que requieran una intervención especializada."
+      ],
+      "work_context_en": "Solar-energy companies, installers, decentralized electrification projects, maintenance services and construction sites. Work is governed by local electrical and safety rules. Work requires traceable decisions, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Empresas de energía solar, instaladores, proyectos de electrificación descentralizada, servicios de mantenimiento y obras. Las intervenciones se rigen por las normas eléctricas y de seguridad locales. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The BLS profile describes the US context; electrical qualifications, grid-connection rules, working-at-height requirements and responsibilities must be checked in each country. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "El perfil BLS describe el contexto estadounidense; las habilitaciones eléctricas, las normas de conexión, los requisitos para trabajar en altura y las responsabilidades deben verificarse en cada país. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Reading photovoltaic plans and diagrams",
+          "type": "technical"
+        },
+        {
+          "id": "Photovoltaic-system installation",
+          "type": "technical"
+        },
+        {
+          "id": "Authorized electrical checks and testing",
+          "type": "technical"
+        },
+        {
+          "id": "First-level troubleshooting",
+          "type": "technical"
+        },
+        {
+          "id": "Risk prevention and working at height",
+          "type": "methodological"
+        },
+        {
+          "id": "Communication with customers and teams",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Photovoltaic conversion principles",
+        "Solar-system components and storage",
+        "Basic electricity and protection concepts",
+        "Local connection and safety rules to be checked",
+        "Basic sizing, performance monitoring and storage-system limitations without replacing work by authorized electrical professionals"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de planos y esquemas fotovoltaicos",
+          "type": "technical"
+        },
+        {
+          "id": "Instalación de sistemas fotovoltaicos",
+          "type": "technical"
+        },
+        {
+          "id": "Controles y pruebas eléctricas autorizadas",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico de primer nivel",
+          "type": "technical"
+        },
+        {
+          "id": "Prevención de riesgos y trabajo en altura",
+          "type": "methodological"
+        },
+        {
+          "id": "Comunicación con clientes y equipos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de conversión fotovoltaica",
+        "Componentes de sistemas solares y almacenamiento",
+        "Conceptos básicos de electricidad y protección",
+        "Normas locales de conexión y seguridad que deben verificarse",
+        "Dimensionamiento básico, seguimiento del rendimiento y límites de los sistemas de almacenamiento, sin sustituir los estudios eléctricos realizados por profesionales habilitados"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.energy.ingenieur-energie",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure en énergie",
+      "en_title": "Energy Engineer",
+      "purpose_fr": "Étudie, conçoit ou améliore des systèmes énergétiques afin de répondre à des besoins de production, de distribution ou d’efficacité avec des contraintes techniques, économiques et environnementales.",
+      "missions_fr": [
+        "Analyser les besoins énergétiques et les données de consommation ou de production.",
+        "Évaluer des solutions techniques selon les ressources, les contraintes du site et les objectifs du projet.",
+        "Réaliser ou superviser des études de dimensionnement et de performance.",
+        "Contribuer à la conception ou à l’amélioration d’installations énergétiques.",
+        "Suivre les indicateurs de performance, les essais et la mise en service.",
+        "Documenter les choix techniques, risques, coûts et recommandations."
+      ],
+      "skills": [
+        {
+          "id": "Analyse des systèmes énergétiques",
+          "type": "technical"
+        },
+        {
+          "id": "Dimensionnement et modélisation",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de données de consommation et de performance",
+          "type": "technical"
+        },
+        {
+          "id": "Évaluation technico-économique",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de projet multidisciplinaire",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication technique",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Thermodynamique et transferts d’énergie",
+        "Électricité et réseaux énergétiques",
+        "Énergies renouvelables et stockage",
+        "Efficacité énergétique et mesure de performance",
+        "Réglementation et normes locales à vérifier",
+        "Analyse technico-économique des scénarios énergétiques, hypothèses de coûts et analyse de sensibilité."
+      ],
+      "work_context_fr": "Bureaux d’études, producteurs et distributeurs d’énergie, industrie, collectivités, cabinets de conseil et projets d’énergies renouvelables. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.irena.jobs2025",
+          "use": "contexte_sectoriel_et_competences_de_la_transition"
+        },
+        {
+          "source_id": "source.iea.workforce-skills",
+          "use": "competences_et_besoins_de_main_d_oeuvre"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "Le titre recouvre des spécialités variées; les actes réservés, responsabilités de conception et exigences d’ingénierie dépendent des règles nationales. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Studies, designs or improves energy systems to meet generation, distribution or efficiency needs under technical, economic and environmental constraints.",
+      "purpose_es": "Estudia, diseña o mejora sistemas energéticos para responder a necesidades de producción, distribución o eficiencia con limitaciones técnicas, económicas y ambientales.",
+      "missions_en": [
+        "Analyze energy needs and consumption or generation data.",
+        "Assess technical solutions according to resources, site constraints and project objectives.",
+        "Carry out or supervise sizing and performance studies.",
+        "Contribute to designing or improving energy facilities.",
+        "Monitor performance indicators, tests and commissioning.",
+        "Document technical choices, risks, costs and recommendations."
+      ],
+      "missions_es": [
+        "Analizar las necesidades energéticas y los datos de consumo o producción.",
+        "Evaluar soluciones técnicas según los recursos, las limitaciones del emplazamiento y los objetivos del proyecto.",
+        "Realizar o supervisar estudios de dimensionamiento y rendimiento.",
+        "Contribuir al diseño o la mejora de instalaciones energéticas.",
+        "Supervisar los indicadores de rendimiento, los ensayos y la puesta en servicio.",
+        "Documentar las decisiones técnicas, los riesgos, los costes y las recomendaciones."
+      ],
+      "work_context_en": "Design consultancies, energy producers and distributors, industry, local authorities, advisory firms and renewable-energy projects. Work requires traceable decisions, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Consultoras, productores y distribuidores de energía, industria, administraciones locales, empresas de asesoramiento y proyectos de energías renovables. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The title covers several specializations; reserved activities, design responsibilities and engineering requirements depend on national rules. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "El título abarca distintas especialidades; los actos reservados, las responsabilidades de diseño y los requisitos de ingeniería dependen de las normas nacionales. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Energy-system analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Sizing and modelling",
+          "type": "technical"
+        },
+        {
+          "id": "Analysis of consumption and performance data",
+          "type": "technical"
+        },
+        {
+          "id": "Technical and economic assessment",
+          "type": "technical"
+        },
+        {
+          "id": "Multidisciplinary project management",
+          "type": "transferable"
+        },
+        {
+          "id": "Technical communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Thermodynamics and energy transfer",
+        "Electricity and energy networks",
+        "Renewable energy and storage",
+        "Energy efficiency and performance measurement",
+        "Local regulation and standards to be checked",
+        "Technical and economic analysis of energy scenarios, cost assumptions and sensitivity analysis"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis de sistemas energéticos",
+          "type": "technical"
+        },
+        {
+          "id": "Dimensionamiento y modelado",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de datos de consumo y rendimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Evaluación técnico-económica",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de proyectos multidisciplinares",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación técnica",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Termodinámica y transferencia de energía",
+        "Electricidad y redes energéticas",
+        "Energías renovables y almacenamiento",
+        "Eficiencia energética y medición del rendimiento",
+        "Normativa y estándares locales que deben verificarse",
+        "Análisis técnico-económico de escenarios energéticos, hipótesis de costes y análisis de sensibilidad"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.manuf.operateur-production",
+      "profile_version": "0.2",
+      "fr_title": "Opérateur / Opératrice de production industrielle",
+      "en_title": "Manufacturing Production Operator",
+      "purpose_fr": "Conduit une ou plusieurs étapes d’un processus de fabrication en respectant les consignes de production, de qualité, de traçabilité et de sécurité.",
+      "missions_fr": [
+        "Prendre connaissance du programme de fabrication et des instructions de poste.",
+        "Préparer les matières, composants et équipements nécessaires à l’opération.",
+        "Démarrer, alimenter et surveiller les équipements selon les procédures autorisées.",
+        "Contrôler les paramètres visibles du processus et signaler toute dérive.",
+        "Effectuer les contrôles de premier niveau et enregistrer les résultats.",
+        "Appliquer les règles de sécurité, d’hygiène, de qualité et de rangement du poste."
+      ],
+      "skills": [
+        {
+          "id": "Conduite de procédés ou de machines",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de consignes et fiches de fabrication",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle visuel et mesures de premier niveau",
+          "type": "technical"
+        },
+        {
+          "id": "Traçabilité de production",
+          "type": "technical"
+        },
+        {
+          "id": "Respect des règles de sécurité",
+          "type": "methodological"
+        },
+        {
+          "id": "Travail en équipe et transmission de consignes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Étapes du procédé industriel concerné",
+        "Notions de qualité et de conformité produit",
+        "Principes de maintenance autonome autorisée",
+        "Risques du poste et procédures d’urgence",
+        "Traçabilité des lots, enregistrements de production et gestion des écarts selon les procédures qualité."
+      ],
+      "work_context_fr": "Usines et ateliers de production dans l’agroalimentaire, les matériaux, la chimie, le textile, la métallurgie ou d’autres industries; horaires parfois organisés en équipes. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_des_operateurs_et_assembleurs"
+        },
+        {
+          "source_id": "source.bls.industrial-occupations",
+          "use": "comparaison_des_familles_de_taches_industrielles"
+        }
+      ],
+      "mapping_note": "Les tâches et risques varient fortement selon le procédé; les opérations dangereuses ou réglementées nécessitent formation, autorisation et supervision adaptées. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Operates one or more stages of a manufacturing process while following production, quality, traceability and safety instructions.",
+      "purpose_es": "Opera una o varias etapas de un proceso de fabricación respetando las instrucciones de producción, calidad, trazabilidad y seguridad.",
+      "missions_en": [
+        "Review the production schedule and workstation instructions.",
+        "Prepare the materials, components and equipment required for the operation.",
+        "Start, feed and monitor equipment in accordance with authorized procedures.",
+        "Check visible process parameters and report any deviation.",
+        "Carry out first-level checks and record the results.",
+        "Follow workstation safety, hygiene, quality and housekeeping rules."
+      ],
+      "missions_es": [
+        "Consultar el programa de fabricación y las instrucciones del puesto.",
+        "Preparar las materias primas, los componentes y los equipos necesarios para la operación.",
+        "Poner en marcha, alimentar y supervisar los equipos conforme a los procedimientos autorizados.",
+        "Controlar los parámetros visibles del proceso y comunicar cualquier desviación.",
+        "Realizar controles de primer nivel y registrar los resultados.",
+        "Aplicar las normas de seguridad, higiene, calidad y orden del puesto de trabajo."
+      ],
+      "work_context_en": "Factories and production workshops in food processing, materials, chemicals, textiles, metallurgy and other industries; shift work may apply. Work requires traceable decisions, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Fábricas y talleres de producción agroalimentaria, materiales, química, textil, metalurgia y otras industrias; puede haber trabajo por turnos. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "Tasks and risks vary considerably by process; hazardous or regulated operations require suitable training, authorization and supervision. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "Las tareas y los riesgos varían considerablemente según el proceso; las operaciones peligrosas o reguladas requieren formación, autorización y supervisión adecuadas. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Operating processes or machines",
+          "type": "technical"
+        },
+        {
+          "id": "Reading instructions and production sheets",
+          "type": "technical"
+        },
+        {
+          "id": "Visual checks and first-level measurements",
+          "type": "technical"
+        },
+        {
+          "id": "Production traceability",
+          "type": "technical"
+        },
+        {
+          "id": "Following safety rules",
+          "type": "methodological"
+        },
+        {
+          "id": "Teamwork and handover of instructions",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Stages of the relevant industrial process",
+        "Product quality and compliance concepts",
+        "Principles of authorized autonomous maintenance",
+        "Workstation hazards and emergency procedures",
+        "Batch traceability, production records and management of deviations under quality procedures"
+      ],
+      "skills_es": [
+        {
+          "id": "Manejo de procesos o máquinas",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de instrucciones y fichas de fabricación",
+          "type": "technical"
+        },
+        {
+          "id": "Controles visuales y mediciones de primer nivel",
+          "type": "technical"
+        },
+        {
+          "id": "Trazabilidad de la producción",
+          "type": "technical"
+        },
+        {
+          "id": "Cumplimiento de normas de seguridad",
+          "type": "methodological"
+        },
+        {
+          "id": "Trabajo en equipo y transmisión de instrucciones",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Etapas del proceso industrial correspondiente",
+        "Conceptos de calidad y conformidad del producto",
+        "Principios de mantenimiento autónomo autorizado",
+        "Riesgos del puesto y procedimientos de emergencia",
+        "Trazabilidad de lotes, registros de producción y gestión de desviaciones conforme a los procedimientos de calidad"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.manuf.technicien-maintenance-industrielle",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne de maintenance industrielle",
+      "en_title": "Industrial Machinery Maintenance Technician",
+      "purpose_fr": "Assure l’entretien et le diagnostic des équipements industriels afin de contribuer à leur disponibilité, leur fiabilité et la sécurité de leur utilisation.",
+      "missions_fr": [
+        "Réaliser les inspections et opérations de maintenance préventive planifiées.",
+        "Recueillir les symptômes et historiques d’une panne avant diagnostic.",
+        "Effectuer des contrôles mécaniques, électriques ou pneumatiques dans son périmètre d’autorisation.",
+        "Remplacer ou ajuster les composants selon les procédures et instructions techniques.",
+        "Réaliser des essais de remise en service avec les personnes habilitées.",
+        "Renseigner les interventions et proposer des améliorations de fiabilité."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de plans et schémas techniques",
+          "type": "technical"
+        },
+        {
+          "id": "Maintenance préventive",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic de pannes",
+          "type": "technical"
+        },
+        {
+          "id": "Mécanique industrielle",
+          "type": "technical"
+        },
+        {
+          "id": "Notions d’électricité et d’automatisme",
+          "type": "technical"
+        },
+        {
+          "id": "Traçabilité et coordination des interventions",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Fonctionnement des machines et systèmes industriels",
+        "Lubrification, usure et alignement",
+        "Bases d’électricité, pneumatique et hydraulique",
+        "Maintenance conditionnelle et analyse des défaillances",
+        "Consignation et prévention des risques",
+        "Gestion des pièces de rechange, historique des interventions et analyse des causes récurrentes de panne."
+      ],
+      "work_context_fr": "Ateliers de maintenance, usines, centrales, entreprises de services techniques et sites de production; interventions parfois en horaires décalés. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.industrial-occupations",
+          "use": "comparaison_des_taches_de_maintenance_industrielle"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_des_metiers_techniques"
+        }
+      ],
+      "mapping_note": "Les interventions électriques, en hauteur, sur machines ou équipements sous énergie doivent respecter les habilitations et procédures nationales et de l’employeur. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Maintains and diagnoses industrial equipment to support its availability, reliability and safe operation.",
+      "purpose_es": "Mantiene y diagnostica equipos industriales para contribuir a su disponibilidad, fiabilidad y uso seguro.",
+      "missions_en": [
+        "Carry out scheduled inspections and preventive-maintenance tasks.",
+        "Gather symptoms and breakdown history before diagnosis.",
+        "Perform mechanical, electrical or pneumatic checks within the authorized scope.",
+        "Replace or adjust components according to procedures and technical instructions.",
+        "Carry out return-to-service tests with authorized personnel.",
+        "Record maintenance work and recommend reliability improvements."
+      ],
+      "missions_es": [
+        "Realizar inspecciones y operaciones de mantenimiento preventivo planificadas.",
+        "Recopilar los síntomas y el historial de averías antes del diagnóstico.",
+        "Realizar controles mecánicos, eléctricos o neumáticos dentro del ámbito autorizado.",
+        "Sustituir o ajustar componentes conforme a los procedimientos e instrucciones técnicas.",
+        "Realizar pruebas de puesta en servicio con el personal habilitado.",
+        "Registrar las intervenciones y proponer mejoras de fiabilidad."
+      ],
+      "work_context_en": "Maintenance workshops, factories, power plants, technical service companies and production sites; work may involve shift schedules. Work requires traceable records, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Talleres de mantenimiento, fábricas, centrales, empresas de servicios técnicos y centros de producción; las intervenciones pueden realizarse en turnos. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "Electrical work, work at height and work on energized machinery or equipment must follow national and employer authorization procedures. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "Los trabajos eléctricos, en altura y sobre máquinas o equipos energizados deben respetar las habilitaciones y los procedimientos nacionales y del empleador. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Reading plans and technical diagrams",
+          "type": "technical"
+        },
+        {
+          "id": "Preventive maintenance",
+          "type": "technical"
+        },
+        {
+          "id": "Fault diagnosis",
+          "type": "technical"
+        },
+        {
+          "id": "Industrial mechanics",
+          "type": "technical"
+        },
+        {
+          "id": "Basic electricity and automation",
+          "type": "technical"
+        },
+        {
+          "id": "Maintenance traceability and coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Operation of industrial machines and systems",
+        "Lubrication, wear and alignment",
+        "Basics of electricity, pneumatics and hydraulics",
+        "Condition-based maintenance and failure analysis",
+        "Lockout and risk prevention",
+        "Spare-parts management, maintenance history and analysis of recurring failures"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de planos y esquemas técnicos",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento preventivo",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico de averías",
+          "type": "technical"
+        },
+        {
+          "id": "Mecánica industrial",
+          "type": "technical"
+        },
+        {
+          "id": "Conceptos básicos de electricidad y automatización",
+          "type": "technical"
+        },
+        {
+          "id": "Trazabilidad y coordinación de intervenciones",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Funcionamiento de máquinas y sistemas industriales",
+        "Lubricación, desgaste y alineación",
+        "Fundamentos de electricidad, neumática e hidráulica",
+        "Mantenimiento basado en condición y análisis de fallos",
+        "Consignación y prevención de riesgos",
+        "Gestión de repuestos, historial de intervenciones y análisis de causas recurrentes de averías"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.charge-biodiversite",
+      "profile_version": "0.2",
+      "fr_title": "Chargé / Chargée de biodiversité",
+      "en_title": "Biodiversity Officer",
+      "purpose_fr": "Contribue à connaître, préserver et suivre la biodiversité d’un territoire ou d’un projet en mobilisant des données écologiques et des mesures de gestion adaptées.",
+      "missions_fr": [
+        "Rassembler les données disponibles sur les habitats, espèces et pressions écologiques.",
+        "Préparer ou contribuer à des inventaires de terrain selon les protocoles applicables.",
+        "Analyser les enjeux de biodiversité et identifier les zones ou espèces sensibles.",
+        "Proposer des mesures d’évitement, de réduction, de restauration ou de suivi.",
+        "Échanger avec les équipes de projet, gestionnaires et parties prenantes locales.",
+        "Rédiger des notes, cartes et rapports de suivi avec les limites des données."
+      ],
+      "skills": [
+        {
+          "id": "Inventaires écologiques et observation de terrain",
+          "type": "technical"
+        },
+        {
+          "id": "Identification des habitats et espèces",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion et interprétation de données environnementales",
+          "type": "technical"
+        },
+        {
+          "id": "Cartographie et SIG de base",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction de rapports",
+          "type": "transferable"
+        },
+        {
+          "id": "Concertation avec les parties prenantes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Écologie et fonctionnement des écosystèmes",
+        "Méthodes d’inventaire et suivi écologique",
+        "Menaces sur la biodiversité et conservation",
+        "Principes de hiérarchie des mesures d’atténuation",
+        "Cadres juridiques nationaux de protection à vérifier",
+        "Indicateurs de biodiversité, protocoles de suivi écologique et principes de hiérarchie éviter-réduire-compenser."
+      ],
+      "work_context_fr": "Organismes publics, bureaux d’études, ONG, aires protégées, entreprises avec obligations environnementales et programmes de conservation. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.unep.eia-guidance",
+          "use": "contexte_des_evaluations_et_mesures_environnementales"
+        },
+        {
+          "source_id": "source.bls.environmental-technicians",
+          "use": "comparaison_des_taches_de_collecte_et_suivi_environnemental"
+        }
+      ],
+      "mapping_note": "Le titre n’est pas uniformisé internationalement; les protocoles d’inventaire, autorisations de prélèvement et règles de protection des espèces sont locaux. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Contributes to understanding, protecting and monitoring biodiversity in a territory or project by using ecological data and appropriate management measures.",
+      "purpose_es": "Contribuye al conocimiento, la protección y el seguimiento de la biodiversidad de un territorio o proyecto mediante datos ecológicos y medidas de gestión adecuadas.",
+      "missions_en": [
+        "Gather available data on habitats, species and ecological pressures.",
+        "Prepare or contribute to field inventories using applicable protocols.",
+        "Analyze biodiversity issues and identify sensitive areas or species.",
+        "Recommend avoidance, reduction, restoration or monitoring measures.",
+        "Engage with project teams, site managers and local stakeholders.",
+        "Prepare notes, maps and monitoring reports, stating data limitations."
+      ],
+      "missions_es": [
+        "Reunir los datos disponibles sobre hábitats, especies y presiones ecológicas.",
+        "Preparar o contribuir a inventarios de campo siguiendo los protocolos aplicables.",
+        "Analizar los retos relacionados con la biodiversidad e identificar las zonas o especies sensibles.",
+        "Proponer medidas de prevención, reducción, restauración o seguimiento.",
+        "Colaborar con los equipos de proyecto, los gestores y las partes interesadas locales.",
+        "Redactar notas, mapas e informes de seguimiento indicando las limitaciones de los datos."
+      ],
+      "work_context_en": "Public bodies, consultancies, NGOs, protected areas, companies with environmental obligations and conservation programmes. Work requires traceable decisions, coordination with relevant occupations and compliance with quality, safety and local requirements.",
+      "work_context_es": "Organismos públicos, consultoras, ONG, áreas protegidas, empresas con obligaciones ambientales y programas de conservación. El trabajo exige decisiones trazables, coordinación con los oficios pertinentes y cumplimiento de los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The job title is not standardized internationally. Survey protocols, sampling permits and species-protection rules are local. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "El título no está normalizado internacionalmente. Los protocolos de inventario, los permisos de muestreo y las normas de protección de especies son locales. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Ecological inventories and field observation",
+          "type": "technical"
+        },
+        {
+          "id": "Habitat and species identification",
+          "type": "technical"
+        },
+        {
+          "id": "Environmental data management and interpretation",
+          "type": "technical"
+        },
+        {
+          "id": "Basic mapping and GIS",
+          "type": "technical"
+        },
+        {
+          "id": "Report writing",
+          "type": "transferable"
+        },
+        {
+          "id": "Stakeholder engagement",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Ecology and ecosystem processes",
+        "Ecological inventory and monitoring methods",
+        "Threats to biodiversity and conservation",
+        "Mitigation hierarchy principles",
+        "National legal protection frameworks to be checked locally",
+        "Biodiversity indicators, ecological monitoring protocols and the avoid-reduce-compensate hierarchy"
+      ],
+      "skills_es": [
+        {
+          "id": "Inventarios ecológicos y observación de campo",
+          "type": "technical"
+        },
+        {
+          "id": "Identificación de hábitats y especies",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión e interpretación de datos ambientales",
+          "type": "technical"
+        },
+        {
+          "id": "Cartografía y SIG básicos",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción de informes",
+          "type": "transferable"
+        },
+        {
+          "id": "Consulta y colaboración con las partes interesadas",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Ecología y funcionamiento de los ecosistemas",
+        "Métodos de inventario y seguimiento ecológico",
+        "Amenazas para la biodiversidad y conservación",
+        "Principios de la jerarquía de medidas de mitigación",
+        "Marcos jurídicos nacionales de protección que deben verificarse localmente",
+        "Indicadores de biodiversidad, protocolos de seguimiento ecológico y jerarquía de evitar-reducir-compensar"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.technicien-eau-assainissement",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne eau et assainissement",
+      "en_title": "Water and Sanitation Technician",
+      "purpose_fr": "Contribue au contrôle, à l’exploitation ou au suivi d’installations et services liés à l’approvisionnement en eau, à l’assainissement et à la qualité des rejets.",
+      "missions_fr": [
+        "Réaliser des inspections de terrain sur les installations et réseaux relevant de son périmètre.",
+        "Prélever ou préparer des échantillons selon les protocoles de contrôle.",
+        "Relever les données de fonctionnement et signaler les écarts observés.",
+        "Participer au suivi des opérations d’entretien et de réparation.",
+        "Contribuer à la sensibilisation aux bonnes pratiques d’hygiène et d’utilisation des services.",
+        "Tenir à jour les fiches d’intervention et transmettre les incidents aux responsables."
+      ],
+      "skills": [
+        {
+          "id": "Inspection d’installations hydrauliques",
+          "type": "technical"
+        },
+        {
+          "id": "Prélèvement et suivi d’échantillons selon protocole",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de plans de réseaux",
+          "type": "technical"
+        },
+        {
+          "id": "Collecte et saisie de données de terrain",
+          "type": "technical"
+        },
+        {
+          "id": "Sensibilisation communautaire",
+          "type": "transferable"
+        },
+        {
+          "id": "Prévention des risques sanitaires et professionnels",
+          "type": "methodological"
+        }
+      ],
+      "knowledge": [
+        "Cycle de l’eau et principes d’assainissement",
+        "Réseaux d’eau potable et d’eaux usées",
+        "Notions de qualité de l’eau",
+        "Hygiène, sécurité et prévention des contaminations",
+        "Normes et responsabilités locales à vérifier",
+        "Prélèvements, chaîne de traçabilité et interprétation prudente des résultats de contrôle de qualité de l’eau."
+      ],
+      "work_context_fr": "Services publics, opérateurs d’eau, collectivités, ONG, bureaux d’études, chantiers hydrauliques et programmes d’assainissement. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.water-wastewater-operators",
+          "use": "comparaison_des_operations_et_controles"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_des_techniciens_de_procedes"
+        }
+      ],
+      "mapping_note": "Le profil est plus large que le poste d’opérateur d’usine; les prélèvements, analyses, raccordements et interventions doivent respecter les compétences et autorisations locales. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Contributes to the inspection, operation or monitoring of facilities and services related to water supply, sanitation and discharge quality.",
+      "purpose_es": "Contribuye al control, la explotación o el seguimiento de instalaciones y servicios relacionados con el abastecimiento de agua, el saneamiento y la calidad de los vertidos.",
+      "missions_en": [
+        "Carry out field inspections of facilities and networks within the assigned scope.",
+        "Collect or prepare samples in accordance with monitoring protocols.",
+        "Record operating data and report observed deviations.",
+        "Assist with monitoring maintenance and repair work.",
+        "Contribute to awareness activities on good hygiene practices and service use.",
+        "Keep intervention records up to date and report incidents to managers."
+      ],
+      "missions_es": [
+        "Realizar inspecciones de campo en las instalaciones y redes de su ámbito de responsabilidad.",
+        "Tomar o preparar muestras conforme a los protocolos de control.",
+        "Registrar los datos de funcionamiento y comunicar las desviaciones observadas.",
+        "Participar en el seguimiento de las operaciones de mantenimiento y reparación.",
+        "Contribuir a la sensibilización sobre buenas prácticas de higiene y uso de los servicios.",
+        "Mantener actualizadas las fichas de intervención y comunicar los incidentes a los responsables."
+      ],
+      "work_context_en": "Public services, water operators, local authorities, NGOs, consultancies, water infrastructure works and sanitation programmes. Work requires traceable decisions, coordination with relevant occupations and compliance with quality, safety and local requirements.",
+      "work_context_es": "Servicios públicos, operadores de agua, administraciones locales, ONG, consultoras, obras hidráulicas y programas de saneamiento. El trabajo exige decisiones trazables, coordinación con los oficios pertinentes y cumplimiento de los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "This profile is broader than a treatment-plant operator role. Sampling, analysis, connections and maintenance work must remain within local competence and authorization limits. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "Este perfil es más amplio que el puesto de operador de una planta. La toma de muestras, los análisis, las conexiones y las intervenciones deben respetar las competencias y autorizaciones locales. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Inspection of water infrastructure",
+          "type": "technical"
+        },
+        {
+          "id": "Sampling and sample tracking under protocols",
+          "type": "technical"
+        },
+        {
+          "id": "Reading network plans",
+          "type": "technical"
+        },
+        {
+          "id": "Field data collection and entry",
+          "type": "technical"
+        },
+        {
+          "id": "Community awareness",
+          "type": "transferable"
+        },
+        {
+          "id": "Health and occupational risk prevention",
+          "type": "methodological"
+        }
+      ],
+      "knowledge_en": [
+        "Water cycle and sanitation principles",
+        "Drinking-water and wastewater networks",
+        "Basic water-quality concepts",
+        "Hygiene, safety and contamination prevention",
+        "Local standards and responsibilities to be checked",
+        "Sampling, chain of custody and cautious interpretation of water-quality results"
+      ],
+      "skills_es": [
+        {
+          "id": "Inspección de instalaciones hidráulicas",
+          "type": "technical"
+        },
+        {
+          "id": "Toma y seguimiento de muestras conforme a protocolos",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de planos de redes",
+          "type": "technical"
+        },
+        {
+          "id": "Recopilación y registro de datos de campo",
+          "type": "technical"
+        },
+        {
+          "id": "Sensibilización comunitaria",
+          "type": "transferable"
+        },
+        {
+          "id": "Prevención de riesgos sanitarios y laborales",
+          "type": "methodological"
+        }
+      ],
+      "knowledge_es": [
+        "Ciclo del agua y principios de saneamiento",
+        "Redes de agua potable y aguas residuales",
+        "Conceptos básicos de calidad del agua",
+        "Higiene, seguridad y prevención de la contaminación",
+        "Normas y responsabilidades locales que deben verificarse",
+        "Muestreo, cadena de trazabilidad e interpretación prudente de los resultados de control de calidad del agua"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.ecologue",
+      "profile_version": "0.2",
+      "fr_title": "Écologue",
+      "en_title": "Ecologist",
+      "purpose_fr": "Étudie les relations entre les organismes vivants et leur environnement afin de produire des connaissances utiles à la gestion des milieux naturels et à la prise de décision.",
+      "missions_fr": [
+        "Formuler une question d’étude et définir un protocole adapté au milieu étudié.",
+        "Collecter des observations et données écologiques sur le terrain ou à partir de sources existantes.",
+        "Analyser les interactions entre espèces, habitats et facteurs environnementaux.",
+        "Interpréter les résultats en explicitant les incertitudes et limites méthodologiques.",
+        "Contribuer à des recommandations de conservation, restauration ou gestion.",
+        "Présenter les résultats dans des rapports, cartes ou restitutions accessibles."
+      ],
+      "skills": [
+        {
+          "id": "Conception de protocoles d’étude écologique",
+          "type": "technical"
+        },
+        {
+          "id": "Observation et identification biologique",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de données écologiques",
+          "type": "technical"
+        },
+        {
+          "id": "Statistiques appliquées",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction scientifique et technique",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication interdisciplinaire",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Écologie des populations et des communautés",
+        "Biodiversité et fonctionnement des écosystèmes",
+        "Méthodes d’échantillonnage",
+        "Statistiques et gestion de données",
+        "Conservation et restauration écologique",
+        "Écologie des populations et communautés, connectivité écologique et limites des méthodes d’inventaire."
+      ],
+      "work_context_fr": "Universités, centres de recherche, bureaux d’études, ONG, administrations environnementales et programmes de conservation. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.environmental-technicians",
+          "use": "contexte_comparatif_des_metiers_scientifiques_environnementaux"
+        },
+        {
+          "source_id": "source.unep.eia-guidance",
+          "use": "contexte_des_etudes_et_decisions_environnementales"
+        }
+      ],
+      "mapping_note": "Le périmètre varie entre recherche, expertise et appui à la décision; les méthodes et qualifications attendues dépendent du poste et du pays. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Studies relationships between living organisms and their environment to produce knowledge that supports natural-area management and decision-making.",
+      "purpose_es": "Estudia las relaciones entre los organismos vivos y su entorno para generar conocimientos útiles para la gestión de los medios naturales y la toma de decisiones.",
+      "missions_en": [
+        "Formulate a study question and define a protocol suited to the environment being studied.",
+        "Collect ecological observations and data in the field or from existing sources.",
+        "Analyze interactions between species, habitats and environmental factors.",
+        "Interpret results while explaining methodological uncertainty and limitations.",
+        "Contribute to recommendations for conservation, restoration or management.",
+        "Present results in reports, maps or accessible briefings."
+      ],
+      "missions_es": [
+        "Formular una pregunta de estudio y definir un protocolo adaptado al medio analizado.",
+        "Recopilar observaciones y datos ecológicos sobre el terreno o a partir de fuentes existentes.",
+        "Analizar las interacciones entre especies, hábitats y factores ambientales.",
+        "Interpretar los resultados explicando las incertidumbres y limitaciones metodológicas.",
+        "Contribuir a formular recomendaciones de conservación, restauración o gestión.",
+        "Presentar los resultados en informes, mapas o comunicaciones accesibles."
+      ],
+      "work_context_en": "Universities, research centres, consultancies, NGOs, environmental administrations and conservation programmes. Decisions and interventions must be traceable, coordinated with relevant occupations and compliant with quality, safety and local rules.",
+      "work_context_es": "Universidades, centros de investigación, consultoras, ONG, administraciones ambientales y programas de conservación. Las decisiones e intervenciones deben ser trazables, coordinarse con los oficios pertinentes y respetar los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The scope varies between research, expert assessment and decision support; methods and qualifications depend on the position and country. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "El ámbito varía entre investigación, peritaje y apoyo a la toma de decisiones; los métodos y las cualificaciones dependen del puesto y del país. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Designing ecological study protocols",
+          "type": "technical"
+        },
+        {
+          "id": "Biological observation and identification",
+          "type": "technical"
+        },
+        {
+          "id": "Ecological-data analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Applied statistics",
+          "type": "technical"
+        },
+        {
+          "id": "Scientific and technical writing",
+          "type": "transferable"
+        },
+        {
+          "id": "Interdisciplinary communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Population and community ecology",
+        "Biodiversity and ecosystem functioning",
+        "Sampling methods",
+        "Statistics and data management",
+        "Ecological conservation and restoration",
+        "Population and community ecology, ecological connectivity and limitations of inventory methods"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de protocolos de estudios ecológicos",
+          "type": "technical"
+        },
+        {
+          "id": "Observación e identificación biológica",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de datos ecológicos",
+          "type": "technical"
+        },
+        {
+          "id": "Estadística aplicada",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción científica y técnica",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación interdisciplinar",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Ecología de poblaciones y comunidades",
+        "Biodiversidad y funcionamiento de los ecosistemas",
+        "Métodos de muestreo",
+        "Estadística y gestión de datos",
+        "Conservación y restauración ecológica",
+        "Ecología de poblaciones y comunidades, conectividad ecológica y límites de los métodos de inventario"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.technicien-dechets",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne de gestion des déchets",
+      "en_title": "Waste Management Technician",
+      "purpose_fr": "Contribue à organiser, contrôler ou améliorer les opérations de collecte, tri, traitement et suivi des déchets dans le respect des exigences environnementales et de sécurité.",
+      "missions_fr": [
+        "Effectuer des relevés sur les flux, volumes et catégories de déchets.",
+        "Vérifier l’application des consignes de tri, stockage temporaire et traçabilité.",
+        "Suivre les opérations de collecte et d’acheminement avec les prestataires concernés.",
+        "Participer aux contrôles de site et signaler les situations non conformes.",
+        "Contribuer aux actions de réduction, valorisation ou amélioration des pratiques.",
+        "Renseigner les registres et préparer des rapports de suivi."
+      ],
+      "skills": [
+        {
+          "id": "Caractérisation et suivi des flux de déchets",
+          "type": "technical"
+        },
+        {
+          "id": "Traçabilité et tenue de registres",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle des pratiques de tri et stockage",
+          "type": "technical"
+        },
+        {
+          "id": "Sensibilisation environnementale",
+          "type": "transferable"
+        },
+        {
+          "id": "Analyse simple de données",
+          "type": "technical"
+        },
+        {
+          "id": "Prévention des risques et sécurité",
+          "type": "methodological"
+        }
+      ],
+      "knowledge": [
+        "Typologie et classification des déchets",
+        "Principes de collecte, tri et valorisation",
+        "Risques sanitaires et environnementaux",
+        "Traçabilité et réglementation locale",
+        "Économie circulaire et prévention des déchets",
+        "Caractérisation des flux, traçabilité des déchets et principes de prévention, réemploi et valorisation."
+      ],
+      "work_context_fr": "Collectivités, entreprises de collecte et traitement, industries, sites de construction, bureaux de contrôle et organisations environnementales. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_des_operateurs_de_traitement"
+        },
+        {
+          "source_id": "source.unep.eia-guidance",
+          "use": "contexte_de_gestion_des_impacts_environnementaux"
+        },
+        {
+          "source_id": "source.bls.water-wastewater-operators",
+          "use": "comparaison_des_environnements_de_traitement_et_controle"
+        }
+      ],
+      "mapping_note": "Les catégories de déchets, filières autorisées, transport et traitement sont régis par des règles locales; aucune procédure de manipulation de déchets dangereux n’est définie par cette fiche. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Helps organize, check or improve waste collection, sorting, treatment and monitoring operations in accordance with environmental and safety requirements.",
+      "purpose_es": "Contribuye a organizar, controlar o mejorar las operaciones de recogida, clasificación, tratamiento y seguimiento de residuos conforme a los requisitos ambientales y de seguridad.",
+      "missions_en": [
+        "Record waste flows, volumes and categories.",
+        "Check compliance with sorting, temporary-storage and traceability instructions.",
+        "Monitor collection and transport operations with the relevant service providers.",
+        "Take part in site checks and report non-compliant situations.",
+        "Contribute to waste reduction, recovery and practice-improvement activities.",
+        "Complete registers and prepare monitoring reports."
+      ],
+      "missions_es": [
+        "Registrar los flujos, volúmenes y categorías de residuos.",
+        "Comprobar la aplicación de las instrucciones de clasificación, almacenamiento temporal y trazabilidad.",
+        "Supervisar las operaciones de recogida y transporte junto con los proveedores correspondientes.",
+        "Participar en controles de las instalaciones y comunicar situaciones no conformes.",
+        "Contribuir a acciones de reducción, valorización y mejora de prácticas.",
+        "Completar registros y preparar informes de seguimiento."
+      ],
+      "work_context_en": "Local authorities, waste collection and treatment companies, industries, construction sites, inspection firms and environmental organizations. Decisions and interventions must be traceable, coordinated with relevant occupations and compliant with quality, safety and local rules.",
+      "work_context_es": "Entidades locales, empresas de recogida y tratamiento, industrias, obras, organismos de control y organizaciones ambientales. Las decisiones e intervenciones deben ser trazables, coordinarse con los oficios pertinentes y respetar los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "Waste categories, authorized channels, transport and treatment are governed by local rules; this profile does not define procedures for handling hazardous waste. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "Las categorías de residuos, los canales autorizados, el transporte y el tratamiento se rigen por normas locales; este perfil no define procedimientos de manipulación de residuos peligrosos. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Characterizing and monitoring waste flows",
+          "type": "technical"
+        },
+        {
+          "id": "Traceability and record-keeping",
+          "type": "technical"
+        },
+        {
+          "id": "Checking sorting and storage practices",
+          "type": "technical"
+        },
+        {
+          "id": "Environmental awareness",
+          "type": "transferable"
+        },
+        {
+          "id": "Basic data analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Risk prevention and safety",
+          "type": "methodological"
+        }
+      ],
+      "knowledge_en": [
+        "Waste types and classification",
+        "Collection, sorting and recovery principles",
+        "Health and environmental risks",
+        "Traceability and local regulation",
+        "Circular economy and waste prevention",
+        "Waste-flow characterization, traceability and principles of prevention, reuse and recovery"
+      ],
+      "skills_es": [
+        {
+          "id": "Caracterización y seguimiento de flujos de residuos",
+          "type": "technical"
+        },
+        {
+          "id": "Trazabilidad y mantenimiento de registros",
+          "type": "technical"
+        },
+        {
+          "id": "Control de prácticas de clasificación y almacenamiento",
+          "type": "technical"
+        },
+        {
+          "id": "Sensibilización ambiental",
+          "type": "transferable"
+        },
+        {
+          "id": "Análisis básico de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Prevención de riesgos y seguridad",
+          "type": "methodological"
+        }
+      ],
+      "knowledge_es": [
+        "Tipos y clasificación de residuos",
+        "Principios de recogida, clasificación y valorización",
+        "Riesgos sanitarios y ambientales",
+        "Trazabilidad y normativa local",
+        "Economía circular y prevención de residuos",
+        "Caracterización y trazabilidad de flujos de residuos y principios de prevención, reutilización y valorización"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.analyste-climat",
+      "profile_version": "0.2",
+      "fr_title": "Analyste climat",
+      "en_title": "Climate Analyst",
+      "purpose_fr": "Analyse des données et connaissances climatiques afin d’éclairer l’évaluation des risques, la planification de l’adaptation et les stratégies de réduction des émissions.",
+      "missions_fr": [
+        "Rassembler des données climatiques et socio-environnementales issues de sources documentées.",
+        "Contrôler la qualité, la cohérence temporelle et la provenance des jeux de données.",
+        "Analyser les tendances, aléas et indicateurs climatiques adaptés à la question étudiée.",
+        "Contribuer à l’évaluation de vulnérabilité et des risques climatiques.",
+        "Préparer des visualisations, notes et synthèses avec les incertitudes explicites.",
+        "Présenter les résultats aux équipes techniques et décideurs sans surinterpréter les projections."
+      ],
+      "skills": [
+        {
+          "id": "Analyse de données climatiques",
+          "type": "technical"
+        },
+        {
+          "id": "Statistiques et séries temporelles",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de données et reproductibilité",
+          "type": "technical"
+        },
+        {
+          "id": "Cartographie et SIG",
+          "type": "technical"
+        },
+        {
+          "id": "Communication des incertitudes",
+          "type": "transferable"
+        },
+        {
+          "id": "Rédaction de synthèses décisionnelles",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Système climatique et variabilité",
+        "Indicateurs et scénarios climatiques",
+        "Statistiques appliquées",
+        "Vulnérabilité, exposition et risques",
+        "Adaptation et atténuation",
+        "Limites des modèles et incertitudes",
+        "Incertitudes des projections climatiques, scénarios d’émissions et méthodes de suivi des indicateurs d’adaptation."
+      ],
+      "work_context_fr": "Instituts météorologiques, administrations, recherche, ONG, bureaux d’études, organismes de développement et entreprises exposées aux risques climatiques. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.unep.eia-guidance",
+          "use": "contexte_de_lintegration_des_enjeux_environnementaux"
+        },
+        {
+          "source_id": "source.ilo.future-skills",
+          "use": "contexte_des_competences_vertes_et_climatiques"
+        }
+      ],
+      "mapping_note": "Le rôle peut être scientifique, technique ou orienté politiques publiques; les analyses doivent citer les jeux de données, périodes, scénarios et incertitudes. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Analyzes climate data and knowledge to inform risk assessment, adaptation planning and emissions-reduction strategies.",
+      "purpose_es": "Analiza datos y conocimientos climáticos para orientar la evaluación de riesgos, la planificación de la adaptación y las estrategias de reducción de emisiones.",
+      "missions_en": [
+        "Gather documented climate and socio-environmental data sources.",
+        "Check data quality, time consistency and provenance.",
+        "Analyze climate trends, hazards and indicators suited to the study question.",
+        "Contribute to climate-vulnerability and risk assessments.",
+        "Prepare visualizations, notes and summaries that explicitly state uncertainty.",
+        "Present results to technical teams and decision-makers without overstating projections."
+      ],
+      "missions_es": [
+        "Reunir fuentes documentadas de datos climáticos y socioambientales.",
+        "Comprobar la calidad, coherencia temporal y procedencia de los conjuntos de datos.",
+        "Analizar tendencias, amenazas e indicadores climáticos adecuados a la cuestión estudiada.",
+        "Contribuir a evaluaciones de vulnerabilidad y riesgos climáticos.",
+        "Preparar visualizaciones, notas y síntesis que indiquen explícitamente las incertidumbres.",
+        "Presentar resultados a equipos técnicos y responsables de decisiones sin exagerar el alcance de las proyecciones."
+      ],
+      "work_context_en": "Meteorological institutes, public administrations, research, NGOs, consultancies, development organizations and businesses exposed to climate risks. Decisions and interventions must be traceable, coordinated with relevant occupations and compliant with quality, safety and local rules.",
+      "work_context_es": "Institutos meteorológicos, administraciones, investigación, ONG, consultoras, organismos de desarrollo y empresas expuestas a riesgos climáticos. Las decisiones e intervenciones deben ser trazables, coordinarse con los oficios pertinentes y respetar los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The role may be scientific, technical or focused on public policy; analyses should cite datasets, periods, scenarios and uncertainties. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "La función puede ser científica, técnica o centrada en políticas públicas; los análisis deben citar conjuntos de datos, periodos, escenarios e incertidumbres. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Climate-data analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Statistics and time series",
+          "type": "technical"
+        },
+        {
+          "id": "Data management and reproducibility",
+          "type": "technical"
+        },
+        {
+          "id": "Mapping and GIS",
+          "type": "technical"
+        },
+        {
+          "id": "Communicating uncertainty",
+          "type": "transferable"
+        },
+        {
+          "id": "Writing decision-oriented summaries",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Climate system and variability",
+        "Climate indicators and scenarios",
+        "Applied statistics",
+        "Vulnerability, exposure and risk",
+        "Adaptation and mitigation",
+        "Model limitations and uncertainty",
+        "Uncertainty in climate projections, emissions scenarios and methods for monitoring adaptation indicators"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis de datos climáticos",
+          "type": "technical"
+        },
+        {
+          "id": "Estadística y series temporales",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de datos y reproducibilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Cartografía y SIG",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación de incertidumbres",
+          "type": "transferable"
+        },
+        {
+          "id": "Redacción de síntesis para la toma de decisiones",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Sistema climático y variabilidad",
+        "Indicadores y escenarios climáticos",
+        "Estadística aplicada",
+        "Vulnerabilidad, exposición y riesgo",
+        "Adaptación y mitigación",
+        "Límites de los modelos e incertidumbre",
+        "Incertidumbres de las proyecciones climáticas, escenarios de emisiones y métodos de seguimiento de indicadores de adaptación"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.charge-etudes-impact",
+      "profile_version": "0.2",
+      "fr_title": "Chargé / Chargée d’études d’impact environnemental",
+      "en_title": "Environmental Impact Assessment Specialist",
+      "purpose_fr": "Évalue les effets potentiels d’un projet sur l’environnement et les populations concernées, puis contribue à définir des mesures de prévention, de réduction, de suivi et de gestion.",
+      "missions_fr": [
+        "Analyser la description du projet, son implantation et les exigences applicables.",
+        "Définir le périmètre d’étude et identifier les enjeux environnementaux et sociaux pertinents.",
+        "Organiser la collecte et la synthèse des données de référence disponibles.",
+        "Évaluer les effets potentiels en explicitant méthodes, hypothèses et limites.",
+        "Proposer des mesures d’évitement, de réduction, de restauration et de suivi.",
+        "Préparer les documents de restitution et contribuer aux échanges avec les parties prenantes."
+      ],
+      "skills": [
+        {
+          "id": "Cadrage d’études environnementales",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse des impacts et des risques",
+          "type": "technical"
+        },
+        {
+          "id": "Collecte et synthèse de données",
+          "type": "technical"
+        },
+        {
+          "id": "Cartographie et analyse spatiale",
+          "type": "technical"
+        },
+        {
+          "id": "Concertation et écoute des parties prenantes",
+          "type": "transferable"
+        },
+        {
+          "id": "Rédaction de rapports structurés",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes d’évaluation environnementale",
+        "Milieux physiques, biologiques et humains",
+        "Méthodes d’analyse des impacts",
+        "Hiérarchie éviter-réduire-restaurer et suivi",
+        "Procédures nationales et exigences des bailleurs à vérifier",
+        "Consultation des parties prenantes, hiérarchie des mesures d’atténuation et suivi des engagements environnementaux."
+      ],
+      "work_context_fr": "Bureaux d’études, administrations, entreprises de projets, organismes de financement, ONG et équipes pluridisciplinaires. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.unep.eia-guidance",
+          "use": "cadre_methodologique_devaluation_environnementale"
+        },
+        {
+          "source_id": "source.bls.environmental-engineers",
+          "use": "comparaison_des_taches_et_competences_environnementales"
+        }
+      ],
+      "mapping_note": "Les procédures, seuils, consultations, agréments et responsabilités varient selon le pays et le type de projet; ce profil ne remplace pas les textes réglementaires. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Assesses the potential effects of a project on the environment and affected communities, then helps define prevention, reduction, monitoring and management measures.",
+      "purpose_es": "Evalúa los posibles efectos de un proyecto sobre el medio ambiente y las poblaciones afectadas y contribuye a definir medidas de prevención, reducción, seguimiento y gestión.",
+      "missions_en": [
+        "Review the project description, location and applicable requirements.",
+        "Define the study scope and identify relevant environmental and social issues.",
+        "Organize the collection and synthesis of available baseline data.",
+        "Assess potential effects and explain methods, assumptions and limitations.",
+        "Recommend avoidance, reduction, restoration and monitoring measures.",
+        "Prepare reporting documents and contribute to discussions with stakeholders."
+      ],
+      "missions_es": [
+        "Analizar la descripción del proyecto, su ubicación y los requisitos aplicables.",
+        "Definir el alcance del estudio e identificar los aspectos ambientales y sociales pertinentes.",
+        "Organizar la recopilación y síntesis de los datos de referencia disponibles.",
+        "Evaluar los posibles efectos y explicar los métodos, hipótesis y limitaciones.",
+        "Proponer medidas de prevención, reducción, restauración y seguimiento.",
+        "Preparar documentos de presentación y contribuir a los intercambios con las partes interesadas."
+      ],
+      "work_context_en": "Consultancies, public administrations, project companies, funding organizations, NGOs and multidisciplinary teams. Decisions and interventions must be traceable, coordinated with relevant occupations and compliant with quality, safety and local rules.",
+      "work_context_es": "Consultoras, administraciones, empresas de proyectos, organismos financiadores, ONG y equipos multidisciplinares. Las decisiones e intervenciones deben ser trazables, coordinarse con los oficios pertinentes y respetar los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "Procedures, thresholds, consultation requirements, approvals and responsibilities vary by country and project type; this profile does not replace regulatory texts. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "Los procedimientos, umbrales, consultas, autorizaciones y responsabilidades varían según el país y el tipo de proyecto; este perfil no sustituye los textos reglamentarios. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Scoping environmental studies",
+          "type": "technical"
+        },
+        {
+          "id": "Impact and risk analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Data collection and synthesis",
+          "type": "technical"
+        },
+        {
+          "id": "Mapping and spatial analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Stakeholder consultation and listening",
+          "type": "transferable"
+        },
+        {
+          "id": "Structured report writing",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Environmental-assessment principles",
+        "Physical, biological and human environments",
+        "Impact-assessment methods",
+        "Avoid-reduce-restore hierarchy and monitoring",
+        "National procedures and funder requirements to be checked",
+        "Stakeholder consultation, mitigation hierarchy and monitoring of environmental commitments"
+      ],
+      "skills_es": [
+        {
+          "id": "Definición del alcance de estudios ambientales",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de impactos y riesgos",
+          "type": "technical"
+        },
+        {
+          "id": "Recopilación y síntesis de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Cartografía y análisis espacial",
+          "type": "technical"
+        },
+        {
+          "id": "Consulta y escucha de las partes interesadas",
+          "type": "transferable"
+        },
+        {
+          "id": "Redacción de informes estructurados",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de evaluación ambiental",
+        "Medios físicos, biológicos y humanos",
+        "Métodos de evaluación de impactos",
+        "Jerarquía de evitar-reducir-restaurar y seguimiento",
+        "Procedimientos nacionales y requisitos de financiadores que deben verificarse",
+        "Consulta de partes interesadas, jerarquía de medidas de mitigación y seguimiento de compromisos ambientales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ],
+  "harmonization_wave": "02"
+}

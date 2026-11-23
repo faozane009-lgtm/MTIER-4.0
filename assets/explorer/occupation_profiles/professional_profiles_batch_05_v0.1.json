@@ -1,0 +1,478 @@
+{
+  "profile_set_version": "0.2.0",
+  "batch_id": "batch_05",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "15 profils: harmonisation des 12 profils transversaux historiques et ajout des 3 premiers profils candidats du reliquat. Les 12 profils harmonisés restent dans cross_sector_profiles_v0.3.json; ce lot contient les 3 nouveaux profils candidats.",
+  "methodology": "Profils descriptifs avec six missions, six compétences et cinq domaines de connaissances minimum. Les sources internationales servent de repères, sans transposition de règles nationales. Aucun salaire, diplôme, licence ou débouché local n’est inventé. Révision experte requise avant publication.",
+  "record_count": 3,
+  "profiles": [
+    {
+      "occupation_id": "occupation.law.agent-administration-publique",
+      "profile_version": "0.2",
+      "fr_title": "Agent / Agente d’administration publique",
+      "en_title": "Public Administration Officer",
+      "purpose_fr": "Assure le traitement administratif de dossiers et l’application des procédures d’un service public afin de contribuer à la continuité et à la qualité du service rendu aux usagers.",
+      "missions_fr": [
+        "Accueillir et orienter les usagers en identifiant leur demande et les informations nécessaires à son traitement.",
+        "Recevoir, vérifier, enregistrer et classer les pièces administratives conformément aux procédures du service.",
+        "Préparer les courriers, attestations, comptes rendus ou autres documents relevant de son niveau de responsabilité.",
+        "Mettre à jour les dossiers et systèmes d’information en assurant l’exactitude, la traçabilité et la confidentialité des données.",
+        "Suivre les échéances et transmettre les dossiers aux agents ou autorités compétents lorsque la décision dépasse son habilitation.",
+        "Informer les usagers sur les démarches et délais connus, signaler les difficultés et contribuer à l’amélioration de l’accueil."
+      ],
+      "skills": [
+        {
+          "id": "Accueil, écoute et orientation des usagers",
+          "type": "transferable"
+        },
+        {
+          "id": "Instruction administrative et vérification de pièces",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction de documents administratifs",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion documentaire et archivage",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation d’outils bureautiques et systèmes de suivi",
+          "type": "technical"
+        },
+        {
+          "id": "Confidentialité, neutralité et respect des procédures",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Organisation et fonctionnement des administrations publiques",
+        "Procédures administratives et règles de gestion documentaire",
+        "Principes de service public, égalité de traitement et déontologie",
+        "Protection des données personnelles et confidentialité",
+        "Communication administrative et outils numériques de bureau"
+      ],
+      "work_context_fr": "Administrations centrales ou territoriales, établissements publics, collectivités et services de guichet; les pouvoirs de décision et actes administratifs réservés dépendent du statut et des textes nationaux.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère_de_cadrage_des_tâches_et_compétences; contexte_de_source_étranger_à_ne_pas_transposer_comme_règle_locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_et_compétences; contexte_de_source_étranger_à_ne_pas_transposer_comme_règle_locale"
+        }
+      ],
+      "mapping_note": "Le titre couvre des fonctions administratives variées. Le périmètre exact, le statut, les concours éventuels et les actes pouvant être signés doivent être vérifiés dans chaque pays.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Processes administrative cases and applies public-service procedures to support continuity and quality of service to users.",
+      "purpose_es": "Tramita expedientes administrativos y aplica los procedimientos de un servicio público para contribuir a la continuidad y calidad de la atención a los usuarios.",
+      "missions_en": [
+        "Welcome and direct service users by identifying their request and the information needed to process it.",
+        "Receive, check, register and file administrative documents in accordance with service procedures.",
+        "Prepare letters, certificates, reports and other documents within the level of responsibility.",
+        "Update files and information systems while ensuring data accuracy, traceability and confidentiality.",
+        "Track deadlines and forward cases to authorized staff or authorities when a decision exceeds the role’s authority.",
+        "Inform users about known procedures and timelines, report difficulties and contribute to improving reception services."
+      ],
+      "missions_es": [
+        "Recibir y orientar a los usuarios identificando su solicitud y la información necesaria para tramitarla.",
+        "Recibir, verificar, registrar y clasificar documentos administrativos conforme a los procedimientos del servicio.",
+        "Preparar cartas, certificados, informes y otros documentos dentro de su nivel de responsabilidad.",
+        "Actualizar expedientes y sistemas de información garantizando la exactitud, trazabilidad y confidencialidad de los datos.",
+        "Hacer seguimiento de los plazos y transmitir los expedientes a los agentes o autoridades competentes cuando la decisión exceda sus atribuciones.",
+        "Informar a los usuarios sobre los trámites y plazos conocidos, comunicar dificultades y contribuir a mejorar la atención."
+      ],
+      "work_context_en": "Central or local administrations, public institutions, local authorities and front-office services. Decision-making powers and reserved administrative acts depend on national status and legislation.",
+      "work_context_es": "Administraciones centrales o territoriales, instituciones públicas, entidades locales y servicios de atención al público. Las facultades de decisión y los actos administrativos reservados dependen del estatuto y de las normas nacionales.",
+      "mapping_note_en": "The title covers a wide range of administrative functions. Exact scope, employment status, possible examinations and documents that may be signed must be checked in each country.",
+      "mapping_note_es": "El título abarca funciones administrativas variadas. El ámbito exacto, el estatuto, los posibles concursos y los actos que pueden firmarse deben verificarse en cada país.",
+      "skills_en": [
+        {
+          "id": "Welcoming, listening to and directing service users",
+          "type": "transferable"
+        },
+        {
+          "id": "Administrative case processing and document verification",
+          "type": "technical"
+        },
+        {
+          "id": "Drafting administrative documents",
+          "type": "technical"
+        },
+        {
+          "id": "Document management and archiving",
+          "type": "technical"
+        },
+        {
+          "id": "Use of office tools and tracking systems",
+          "type": "technical"
+        },
+        {
+          "id": "Confidentiality, neutrality and compliance with procedures",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Organization and operation of public administrations",
+        "Administrative procedures and document-management rules",
+        "Public-service principles, equal treatment and professional ethics",
+        "Personal-data protection and confidentiality",
+        "Administrative communication and office digital tools"
+      ],
+      "skills_es": [
+        {
+          "id": "Acogida, escucha y orientación de usuarios",
+          "type": "transferable"
+        },
+        {
+          "id": "Tramitación administrativa y verificación de documentos",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción de documentos administrativos",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión documental y archivo",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de herramientas ofimáticas y sistemas de seguimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Confidencialidad, neutralidad y respeto de los procedimientos",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Organización y funcionamiento de las administraciones públicas",
+        "Procedimientos administrativos y normas de gestión documental",
+        "Principios del servicio público, igualdad de trato y ética profesional",
+        "Protección de datos personales y confidencialidad",
+        "Comunicación administrativa y herramientas digitales de oficina"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.media.redacteur-contenu",
+      "profile_version": "0.2",
+      "fr_title": "Rédacteur / Rédactrice de contenu",
+      "en_title": "Content Writer",
+      "purpose_fr": "Recherche, structure et rédige des contenus adaptés à un public, un objectif de communication et un canal de diffusion, en veillant à leur clarté et à leur fiabilité.",
+      "missions_fr": [
+        "Clarifier le brief, le public cible, l’objectif éditorial, le format et les contraintes de diffusion.",
+        "Rechercher des informations auprès de sources identifiables et vérifier les faits essentiels avant rédaction.",
+        "Construire un plan et rédiger des contenus cohérents dans le ton, le niveau de langage et la longueur attendus.",
+        "Adapter les textes aux supports numériques ou imprimés, notamment en travaillant les titres, la lisibilité et la structure.",
+        "Relire et corriger les contenus sur le fond, la langue, les liens, les références et le respect des droits applicables.",
+        "Intégrer les retours des parties prenantes, tenir les calendriers éditoriaux et suivre les mises à jour nécessaires."
+      ],
+      "skills": [
+        {
+          "id": "Recherche documentaire et vérification des informations",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction claire et adaptation du ton",
+          "type": "technical"
+        },
+        {
+          "id": "Structuration éditoriale et hiérarchisation des idées",
+          "type": "technical"
+        },
+        {
+          "id": "Révision, correction et contrôle qualité linguistique",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de calendrier et collaboration éditoriale",
+          "type": "transferable"
+        },
+        {
+          "id": "Respect du droit d’auteur, des sources et de la confidentialité",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Techniques de rédaction et genres éditoriaux",
+        "Grammaire, orthographe, style et adaptation aux publics",
+        "Recherche d’information, évaluation des sources et vérification des faits",
+        "Principes de référencement et de lisibilité des contenus numériques",
+        "Droit d’auteur, citation, déontologie et protection des données"
+      ],
+      "work_context_fr": "Agences, médias, entreprises, associations, administrations et activité indépendante; les contenus spécialisés peuvent nécessiter une validation par un expert du domaine.",
+      "evidence": [
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_et_compétences; contexte_de_source_étranger_à_ne_pas_transposer_comme_règle_locale"
+        },
+        {
+          "source_id": "source.bls.journalism",
+          "use": "repère_de_cadrage_des_tâches_et_compétences; contexte_de_source_étranger_à_ne_pas_transposer_comme_règle_locale"
+        }
+      ],
+      "mapping_note": "Le métier peut recouvrir rédaction web, contenu de marque, documentation ou communication éditoriale. Il ne doit pas être confondu automatiquement avec le journalisme d’enquête ou la fonction de rédacteur technique.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Researches, structures and writes content suited to an audience, communication objective and distribution channel, ensuring clarity and reliability.",
+      "purpose_es": "Investiga, estructura y redacta contenidos adaptados a un público, un objetivo de comunicación y un canal de difusión, velando por su claridad y fiabilidad.",
+      "missions_en": [
+        "Clarify the brief, target audience, editorial objective, format and distribution constraints.",
+        "Research information from identifiable sources and verify key facts before writing.",
+        "Build an outline and write content that matches the expected tone, language level and length.",
+        "Adapt texts to digital or print media, including headings, readability and structure.",
+        "Review and correct content for accuracy, language, links, references and applicable rights.",
+        "Incorporate stakeholder feedback, meet editorial deadlines and track required updates."
+      ],
+      "missions_es": [
+        "Aclarar el encargo, el público objetivo, el objetivo editorial, el formato y las limitaciones de difusión.",
+        "Investigar en fuentes identificables y verificar los hechos esenciales antes de redactar.",
+        "Elaborar una estructura y redactar contenidos coherentes con el tono, el nivel de lenguaje y la extensión previstos.",
+        "Adaptar los textos a soportes digitales o impresos, trabajando títulos, legibilidad y estructura.",
+        "Revisar y corregir los contenidos en cuanto a fondo, lengua, enlaces, referencias y respeto de los derechos aplicables.",
+        "Integrar los comentarios de las partes interesadas, respetar los calendarios editoriales y hacer seguimiento de las actualizaciones necesarias."
+      ],
+      "work_context_en": "Agencies, media organizations, companies, associations, public administrations and freelance work; specialist content may require review by a subject-matter expert.",
+      "work_context_es": "Agencias, medios, empresas, asociaciones, administraciones públicas y actividad independiente; los contenidos especializados pueden requerir la validación de un experto del ámbito.",
+      "mapping_note_en": "The role may cover web writing, brand content, documentation or editorial communication. It should not automatically be equated with investigative journalism or technical writing.",
+      "mapping_note_es": "La profesión puede abarcar redacción web, contenidos de marca, documentación o comunicación editorial. No debe confundirse automáticamente con el periodismo de investigación ni con la redacción técnica.",
+      "skills_en": [
+        {
+          "id": "Documentary research and information verification",
+          "type": "technical"
+        },
+        {
+          "id": "Clear writing and tone adaptation",
+          "type": "technical"
+        },
+        {
+          "id": "Editorial structure and prioritization of ideas",
+          "type": "technical"
+        },
+        {
+          "id": "Editing, proofreading and language quality control",
+          "type": "technical"
+        },
+        {
+          "id": "Editorial scheduling and collaboration",
+          "type": "transferable"
+        },
+        {
+          "id": "Respect for copyright, sources and confidentiality",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Writing techniques and editorial genres",
+        "Grammar, spelling, style and audience adaptation",
+        "Information research, source evaluation and fact-checking",
+        "Search-engine visibility and digital-content readability",
+        "Copyright, citation, professional ethics and data protection"
+      ],
+      "skills_es": [
+        {
+          "id": "Investigación documental y verificación de información",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción clara y adaptación del tono",
+          "type": "technical"
+        },
+        {
+          "id": "Estructuración editorial y jerarquización de ideas",
+          "type": "technical"
+        },
+        {
+          "id": "Revisión, corrección y control de calidad lingüística",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de calendarios y colaboración editorial",
+          "type": "transferable"
+        },
+        {
+          "id": "Respeto de los derechos de autor, las fuentes y la confidencialidad",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Técnicas de redacción y géneros editoriales",
+        "Gramática, ortografía, estilo y adaptación al público",
+        "Búsqueda de información, evaluación de fuentes y verificación de hechos",
+        "Principios de posicionamiento y legibilidad de contenidos digitales",
+        "Derechos de autor, citas, ética profesional y protección de datos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.art.designer-ux-ui",
+      "profile_version": "0.2",
+      "fr_title": "Designer UX/UI",
+      "en_title": "UX/UI Designer",
+      "purpose_fr": "Conçoit des expériences et interfaces numériques compréhensibles et accessibles en reliant les besoins des utilisateurs, les objectifs du produit et les contraintes techniques.",
+      "missions_fr": [
+        "Recueillir les besoins des utilisateurs et des parties prenantes au moyen d’entretiens, d’observations ou d’analyses existantes.",
+        "Structurer les parcours, l’architecture de l’information et les interactions principales d’un produit numérique.",
+        "Produire des esquisses, maquettes, prototypes et spécifications d’interface adaptés aux usages ciblés.",
+        "Définir des composants visuels cohérents en tenant compte de la lisibilité, de la hiérarchie et de l’identité du produit.",
+        "Tester les prototypes avec des utilisateurs ou parties prenantes, analyser les retours et prioriser les améliorations.",
+        "Collaborer avec les équipes produit et développement pour vérifier la faisabilité, l’accessibilité et la fidélité de l’implémentation."
+      ],
+      "skills": [
+        {
+          "id": "Recherche utilisateur et synthèse des besoins",
+          "type": "technical"
+        },
+        {
+          "id": "Cartographie de parcours et architecture de l’information",
+          "type": "technical"
+        },
+        {
+          "id": "Wireframing, prototypage et conception d’interactions",
+          "type": "technical"
+        },
+        {
+          "id": "Conception visuelle et systèmes de composants",
+          "type": "technical"
+        },
+        {
+          "id": "Tests d’utilisabilité et analyse des retours",
+          "type": "technical"
+        },
+        {
+          "id": "Collaboration produit-développement et communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes d’expérience utilisateur et facteurs humains",
+        "Design d’interaction, ergonomie et architecture de l’information",
+        "Hiérarchie visuelle, typographie, couleur et cohérence d’interface",
+        "Accessibilité numérique et conception inclusive",
+        "Méthodes de recherche utilisateur et évaluation d’utilisabilité"
+      ],
+      "work_context_fr": "Équipes produit, agences numériques, entreprises technologiques, administrations et activité indépendante; le travail se fait généralement en collaboration avec développement, produit, contenu et utilisateurs.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "repère_de_cadrage_des_tâches_et_compétences; contexte_de_source_étranger_à_ne_pas_transposer_comme_règle_locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_et_compétences; contexte_de_source_étranger_à_ne_pas_transposer_comme_règle_locale"
+        }
+      ],
+      "mapping_note": "UX et UI sont des domaines complémentaires mais distincts. Le périmètre réel dépend de l’organisation; les compétences de recherche, conception et accessibilité doivent être évaluées séparément.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Designs understandable and accessible digital experiences and interfaces by connecting user needs, product goals and technical constraints.",
+      "purpose_es": "Diseña experiencias e interfaces digitales comprensibles y accesibles relacionando las necesidades de los usuarios, los objetivos del producto y las limitaciones técnicas.",
+      "missions_en": [
+        "Gather user and stakeholder needs through interviews, observation or existing research.",
+        "Structure user journeys, information architecture and key product interactions.",
+        "Produce sketches, wireframes, prototypes and interface specifications for target uses.",
+        "Define consistent visual components while considering readability, hierarchy and product identity.",
+        "Test prototypes with users or stakeholders, analyze feedback and prioritize improvements.",
+        "Work with product and development teams to check feasibility, accessibility and implementation fidelity."
+      ],
+      "missions_es": [
+        "Recopilar las necesidades de usuarios y partes interesadas mediante entrevistas, observación o análisis existentes.",
+        "Estructurar los recorridos de usuario, la arquitectura de la información y las principales interacciones del producto.",
+        "Crear bocetos, maquetas, prototipos y especificaciones de interfaz adaptados a los usos previstos.",
+        "Definir componentes visuales coherentes teniendo en cuenta la legibilidad, la jerarquía y la identidad del producto.",
+        "Probar prototipos con usuarios o partes interesadas, analizar los comentarios y priorizar mejoras.",
+        "Colaborar con los equipos de producto y desarrollo para comprobar la viabilidad, la accesibilidad y la fidelidad de la implementación."
+      ],
+      "work_context_en": "Product teams, digital agencies, technology companies, public administrations and freelance work, usually in collaboration with development, product, content and users.",
+      "work_context_es": "Equipos de producto, agencias digitales, empresas tecnológicas, administraciones públicas y actividad independiente, normalmente en colaboración con desarrollo, producto, contenidos y usuarios.",
+      "mapping_note_en": "UX and UI are complementary but distinct areas. The actual scope depends on the organization; research, design and accessibility skills should be assessed separately.",
+      "mapping_note_es": "UX y UI son ámbitos complementarios pero distintos. El alcance real depende de la organización; las competencias de investigación, diseño y accesibilidad deben evaluarse por separado.",
+      "skills_en": [
+        {
+          "id": "User research and synthesis of needs",
+          "type": "technical"
+        },
+        {
+          "id": "Journey mapping and information architecture",
+          "type": "technical"
+        },
+        {
+          "id": "Wireframing, prototyping and interaction design",
+          "type": "technical"
+        },
+        {
+          "id": "Visual design and component systems",
+          "type": "technical"
+        },
+        {
+          "id": "Usability testing and feedback analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Product-development collaboration and communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "User-experience principles and human factors",
+        "Interaction design, ergonomics and information architecture",
+        "Visual hierarchy, typography, colour and interface consistency",
+        "Digital accessibility and inclusive design",
+        "User-research methods and usability evaluation"
+      ],
+      "skills_es": [
+        {
+          "id": "Investigación de usuarios y síntesis de necesidades",
+          "type": "technical"
+        },
+        {
+          "id": "Mapeo de recorridos y arquitectura de la información",
+          "type": "technical"
+        },
+        {
+          "id": "Creación de maquetas, prototipos y diseño de interacciones",
+          "type": "technical"
+        },
+        {
+          "id": "Diseño visual y sistemas de componentes",
+          "type": "technical"
+        },
+        {
+          "id": "Pruebas de usabilidad y análisis de comentarios",
+          "type": "technical"
+        },
+        {
+          "id": "Colaboración y comunicación entre producto y desarrollo",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de experiencia de usuario y factores humanos",
+        "Diseño de interacción, ergonomía y arquitectura de la información",
+        "Jerarquía visual, tipografía, color y coherencia de interfaz",
+        "Accesibilidad digital y diseño inclusivo",
+        "Métodos de investigación de usuarios y evaluación de usabilidad"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ]
+}

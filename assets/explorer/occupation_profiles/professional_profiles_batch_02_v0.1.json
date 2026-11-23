@@ -1,0 +1,1610 @@
+{
+  "profile_set_version": "0.2.0",
+  "batch_id": "batch_02",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "100 profils supplémentaires enrichis par lots contrôlés; ce lot 02 en couvre 10.",
+  "record_count": 10,
+  "methodology": "Profils éditoriaux de synthèse, rédigés en français à partir des intitulés et tâches candidates du catalogue. Les sources institutionnelles référencées servent de cadres de comparaison/contextualisation et ne sont pas présentées comme des preuves directes de chaque formulation. Les exigences réglementaires, diplômes et données nationales restent à vérifier par pays. Revue professionnelle requise avant publication. Harmonisation wave 1: knowledge domains brought to the common minimum of five, with occupation-specific wording; missions, skills, evidence, draft status and identifiers preserved.",
+  "profiles": [
+    {
+      "occupation_id": "occupation.social.assistant-social",
+      "profile_version": "0.2",
+      "fr_title": "Assistant social / Assistante sociale",
+      "en_title": "Social Worker",
+      "purpose_fr": "Accompagne des personnes, familles ou groupes confrontés à des difficultés sociales, en évaluant leurs besoins et en facilitant l’accès aux droits et aux services adaptés.",
+      "missions_fr": [
+        "Accueillir les personnes et clarifier leur demande dans un cadre respectueux et confidentiel.",
+        "Évaluer la situation sociale, les ressources, les besoins et les facteurs de vulnérabilité.",
+        "Co-construire un plan d’accompagnement réaliste avec la personne concernée.",
+        "Informer sur les droits et orienter vers les services sociaux, sanitaires, éducatifs ou juridiques compétents.",
+        "Coordonner les interventions avec les partenaires autorisés, dans le respect du secret professionnel.",
+        "Assurer le suivi des démarches et documenter les interventions selon les règles applicables."
+      ],
+      "skills": [
+        {
+          "id": "Évaluation de situations sociales",
+          "type": "technical"
+        },
+        {
+          "id": "Conduite d’entretien et écoute active",
+          "type": "technical"
+        },
+        {
+          "id": "Connaissance des dispositifs sociaux",
+          "type": "technical"
+        },
+        {
+          "id": "Orientation et coordination de services",
+          "type": "transferable"
+        },
+        {
+          "id": "Rédaction de notes professionnelles",
+          "type": "transferable"
+        },
+        {
+          "id": "Respect de la confidentialité et des limites du rôle",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Politiques et dispositifs d’action sociale",
+        "Développement humain et dynamiques familiales",
+        "Droits sociaux et protection des personnes",
+        "Éthique, confidentialité et prévention des risques",
+        "Éthique de l’intervention sociale, confidentialité, consentement et protection des personnes accompagnées"
+      ],
+      "work_context_fr": "Services sociaux publics ou associatifs, établissements de santé, structures éducatives, organisations communautaires ou dispositifs d’accompagnement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.social-workers",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Le profil est une synthèse générale. Les actes, titres protégés, obligations de signalement et conditions d’exercice varient selon les pays; une validation juridique et professionnelle locale est indispensable.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Supports people, families or groups facing social difficulties by assessing needs and facilitating access to appropriate rights and services.",
+      "purpose_es": "Acompaña a personas, familias o grupos que afrontan dificultades sociales, evaluando sus necesidades y facilitando el acceso a derechos y servicios adecuados.",
+      "missions_en": [
+        "Welcome people and clarify their request in a respectful and confidential setting.",
+        "Assess the social situation, resources, needs and vulnerability factors.",
+        "Co-develop a realistic support plan with the person concerned.",
+        "Provide information about rights and refer people to appropriate social, health, education or legal services.",
+        "Coordinate support with authorized partners while respecting professional confidentiality.",
+        "Follow up on procedures and document interventions in accordance with applicable rules."
+      ],
+      "missions_es": [
+        "Recibir a las personas y aclarar su solicitud en un marco respetuoso y confidencial.",
+        "Evaluar la situación social, los recursos, las necesidades y los factores de vulnerabilidad.",
+        "Construir un plan de acompañamiento realista junto con la persona interesada.",
+        "Informar sobre los derechos y orientar hacia los servicios sociales, sanitarios, educativos o jurídicos competentes.",
+        "Coordinar intervenciones con colaboradores autorizados respetando el secreto profesional.",
+        "Hacer seguimiento de los trámites y documentar las intervenciones conforme a las normas aplicables."
+      ],
+      "work_context_en": "Public or nonprofit social services, healthcare facilities, educational settings, community organizations and support programmes.",
+      "work_context_es": "Servicios sociales públicos o asociativos, centros sanitarios, estructuras educativas, organizaciones comunitarias y dispositivos de acompañamiento.",
+      "mapping_note_en": "This is a general summary profile. Reserved activities, protected titles, reporting duties and practice conditions vary by country; local legal and professional validation is essential.",
+      "mapping_note_es": "Este perfil es una síntesis general. Los actos reservados, títulos protegidos, obligaciones de comunicación y condiciones de ejercicio varían según el país; es indispensable una validación jurídica y profesional local.",
+      "skills_en": [
+        {
+          "id": "Assessing social situations",
+          "type": "technical"
+        },
+        {
+          "id": "Interviewing and active listening",
+          "type": "technical"
+        },
+        {
+          "id": "Knowledge of social support schemes",
+          "type": "technical"
+        },
+        {
+          "id": "Service referral and coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Writing professional notes",
+          "type": "transferable"
+        },
+        {
+          "id": "Respecting confidentiality and role boundaries",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Social policies and support schemes",
+        "Human development and family dynamics",
+        "Social rights and protection of people",
+        "Ethics, confidentiality and risk prevention",
+        "Ethics in social work, confidentiality, consent and protection of supported people"
+      ],
+      "skills_es": [
+        {
+          "id": "Evaluación de situaciones sociales",
+          "type": "technical"
+        },
+        {
+          "id": "Entrevista y escucha activa",
+          "type": "technical"
+        },
+        {
+          "id": "Conocimiento de dispositivos sociales",
+          "type": "technical"
+        },
+        {
+          "id": "Orientación y coordinación de servicios",
+          "type": "transferable"
+        },
+        {
+          "id": "Redacción de notas profesionales",
+          "type": "transferable"
+        },
+        {
+          "id": "Respeto de la confidencialidad y de los límites de la función",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Políticas y dispositivos de acción social",
+        "Desarrollo humano y dinámicas familiares",
+        "Derechos sociales y protección de las personas",
+        "Ética, confidencialidad y prevención de riesgos",
+        "Ética de la intervención social, confidencialidad, consentimiento y protección de las personas acompañadas"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.social.conseiller-insertion",
+      "profile_version": "0.2",
+      "fr_title": "Conseiller / Conseillère en insertion professionnelle",
+      "en_title": "Employment Support Adviser",
+      "purpose_fr": "Aide les personnes à clarifier leur projet professionnel, à développer leur employabilité et à accéder à des formations ou opportunités adaptées.",
+      "missions_fr": [
+        "Accueillir la personne et analyser sa demande, son parcours et ses contraintes.",
+        "Identifier les compétences, expériences, intérêts et besoins de développement.",
+        "Aider à définir un objectif professionnel réaliste et des étapes progressives.",
+        "Informer sur les dispositifs de formation, d’orientation et d’accès à l’emploi disponibles localement.",
+        "Accompagner la préparation de candidatures, entretiens et démarches professionnelles.",
+        "Suivre les progrès et mobiliser, avec accord, les partenaires utiles."
+      ],
+      "skills": [
+        {
+          "id": "Entretien d’accompagnement",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de compétences transférables",
+          "type": "technical"
+        },
+        {
+          "id": "Connaissance des parcours de formation et d’emploi",
+          "type": "technical"
+        },
+        {
+          "id": "Techniques de recherche d’emploi",
+          "type": "transferable"
+        },
+        {
+          "id": "Animation d’ateliers collectifs",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi individualisé et coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Marché du travail et acteurs de l’emploi",
+        "Méthodes d’orientation et d’accompagnement",
+        "Compétences et référentiels métiers",
+        "Principes d’inclusion et d’égalité d’accès",
+        "Marché du travail, dispositifs d’accompagnement, diagnostic de compétences et suivi des parcours"
+      ],
+      "work_context_fr": "Services publics de l’emploi, associations, établissements de formation, missions locales ou cabinets d’accompagnement.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.bls.occupational-profiles",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les dispositifs et appellations diffèrent fortement selon les pays. Le conseiller ne garantit pas un emploi et ne remplace pas les professionnels habilités en santé, droit ou accompagnement spécialisé.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Helps people clarify their career plans, develop employability and access suitable training or opportunities.",
+      "purpose_es": "Ayuda a las personas a aclarar su proyecto profesional, desarrollar su empleabilidad y acceder a formaciones u oportunidades adecuadas.",
+      "missions_en": [
+        "Welcome the person and analyze their request, background and constraints.",
+        "Identify skills, experience, interests and development needs.",
+        "Help define a realistic career objective and progressive steps.",
+        "Provide information about locally available training, guidance and employment schemes.",
+        "Support preparation of applications, interviews and professional procedures.",
+        "Monitor progress and, with consent, involve useful partner organizations."
+      ],
+      "missions_es": [
+        "Recibir a la persona y analizar su solicitud, trayectoria y limitaciones.",
+        "Identificar competencias, experiencias, intereses y necesidades de desarrollo.",
+        "Ayudar a definir un objetivo profesional realista y etapas progresivas.",
+        "Informar sobre los dispositivos locales de formación, orientación y acceso al empleo.",
+        "Acompañar la preparación de candidaturas, entrevistas y trámites profesionales.",
+        "Hacer seguimiento de los avances y movilizar, con consentimiento, a los colaboradores pertinentes."
+      ],
+      "work_context_en": "Public employment services, associations, training providers, local youth services and career-support organizations.",
+      "work_context_es": "Servicios públicos de empleo, asociaciones, centros de formación, servicios locales para jóvenes y organismos de acompañamiento profesional.",
+      "mapping_note_en": "Schemes and job titles differ significantly between countries. The adviser does not guarantee employment and does not replace authorized healthcare, legal or specialist-support professionals.",
+      "mapping_note_es": "Los dispositivos y las denominaciones varían considerablemente según los países. El asesor no garantiza un empleo ni sustituye a profesionales habilitados de salud, derecho o acompañamiento especializado.",
+      "skills_en": [
+        {
+          "id": "Support interviews",
+          "type": "technical"
+        },
+        {
+          "id": "Transferable-skills analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Knowledge of training and employment pathways",
+          "type": "technical"
+        },
+        {
+          "id": "Job-search techniques",
+          "type": "transferable"
+        },
+        {
+          "id": "Leading group workshops",
+          "type": "transferable"
+        },
+        {
+          "id": "Individual follow-up and coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Labour market and employment stakeholders",
+        "Career-guidance and support methods",
+        "Skills and occupational frameworks",
+        "Inclusion and equal-access principles",
+        "Labour market, support schemes, skills assessment and career-path monitoring"
+      ],
+      "skills_es": [
+        {
+          "id": "Entrevistas de acompañamiento",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de competencias transferibles",
+          "type": "technical"
+        },
+        {
+          "id": "Conocimiento de itinerarios de formación y empleo",
+          "type": "technical"
+        },
+        {
+          "id": "Técnicas de búsqueda de empleo",
+          "type": "transferable"
+        },
+        {
+          "id": "Dinamización de talleres colectivos",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento individual y coordinación",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Mercado laboral y actores del empleo",
+        "Métodos de orientación y acompañamiento",
+        "Competencias y referenciales profesionales",
+        "Principios de inclusión e igualdad de acceso",
+        "Mercado laboral, dispositivos de acompañamiento, diagnóstico de competencias y seguimiento de trayectorias"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.mgmt.charge-ressources-humaines",
+      "profile_version": "0.2",
+      "fr_title": "Chargé / Chargée des ressources humaines",
+      "en_title": "Human Resources Officer",
+      "purpose_fr": "Contribue à la gestion des ressources humaines d’une organisation, notamment au recrutement, à l’administration du personnel, à la formation et aux relations de travail.",
+      "missions_fr": [
+        "Recueillir les besoins de recrutement auprès des responsables opérationnels.",
+        "Préparer et diffuser les offres, organiser les candidatures et participer aux entretiens.",
+        "Contribuer à l’accueil et à l’intégration des nouveaux collaborateurs.",
+        "Tenir à jour les dossiers et données du personnel selon les règles de confidentialité.",
+        "Participer au suivi des formations, absences, éléments de paie ou avantages selon le périmètre du poste.",
+        "Informer les salariés sur les procédures internes et orienter les questions complexes vers les responsables compétents."
+      ],
+      "skills": [
+        {
+          "id": "Recrutement et présélection",
+          "type": "technical"
+        },
+        {
+          "id": "Administration du personnel",
+          "type": "technical"
+        },
+        {
+          "id": "Communication professionnelle",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion documentaire et confidentialité",
+          "type": "transferable"
+        },
+        {
+          "id": "Coordination de formation",
+          "type": "transferable"
+        },
+        {
+          "id": "Connaissance du droit du travail applicable",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de gestion des ressources humaines",
+        "Cycle de recrutement et intégration",
+        "Administration du personnel",
+        "Droit social et protection des données selon le pays",
+        "Droit du travail local à vérifier, administration du personnel, confidentialité et dialogue social"
+      ],
+      "work_context_fr": "Entreprises privées, administrations, associations, agences de recrutement ou services RH mutualisés.",
+      "evidence": [
+        {
+          "source_id": "source.bls.human-resources",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Le profil est générique. Les règles de paie, contrats, représentation du personnel et obligations de conformité doivent être adaptées au droit national.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Contributes to an organization’s human-resources management, including recruitment, personnel administration, training and employee relations.",
+      "purpose_es": "Contribuye a la gestión de recursos humanos de una organización, especialmente en selección, administración de personal, formación y relaciones laborales.",
+      "missions_en": [
+        "Gather recruitment needs from operational managers.",
+        "Prepare and publish vacancies, organize applications and take part in interviews.",
+        "Contribute to welcoming and onboarding new employees.",
+        "Maintain employee records and data in accordance with confidentiality rules.",
+        "Support the tracking of training, absences, payroll information or benefits within the role’s scope.",
+        "Inform employees about internal procedures and refer complex questions to the appropriate managers."
+      ],
+      "missions_es": [
+        "Recopilar las necesidades de contratación de los responsables operativos.",
+        "Preparar y publicar ofertas, organizar candidaturas y participar en entrevistas.",
+        "Contribuir a la acogida e integración de nuevos colaboradores.",
+        "Mantener actualizados los expedientes y datos del personal conforme a las normas de confidencialidad.",
+        "Participar en el seguimiento de formación, ausencias, elementos de nómina o beneficios según el alcance del puesto.",
+        "Informar a los empleados sobre los procedimientos internos y derivar las cuestiones complejas a los responsables competentes."
+      ],
+      "work_context_en": "Private companies, public administrations, associations, recruitment agencies and shared HR services.",
+      "work_context_es": "Empresas privadas, administraciones públicas, asociaciones, agencias de selección y servicios de recursos humanos compartidos.",
+      "mapping_note_en": "This is a general profile. Payroll, contracts, employee representation and compliance obligations must be adapted to national law.",
+      "mapping_note_es": "Este perfil es general. Las normas de nómina, contratos, representación del personal y obligaciones de cumplimiento deben adaptarse a la legislación nacional.",
+      "skills_en": [
+        {
+          "id": "Recruitment and screening",
+          "type": "technical"
+        },
+        {
+          "id": "Personnel administration",
+          "type": "technical"
+        },
+        {
+          "id": "Professional communication",
+          "type": "technical"
+        },
+        {
+          "id": "Document management and confidentiality",
+          "type": "transferable"
+        },
+        {
+          "id": "Training coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Knowledge of applicable employment law",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Human-resources management principles",
+        "Recruitment and onboarding cycle",
+        "Personnel administration",
+        "Employment law and data protection by country",
+        "Local employment law to be checked, personnel administration, confidentiality and social dialogue"
+      ],
+      "skills_es": [
+        {
+          "id": "Selección y preselección",
+          "type": "technical"
+        },
+        {
+          "id": "Administración de personal",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación profesional",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión documental y confidencialidad",
+          "type": "transferable"
+        },
+        {
+          "id": "Coordinación de formación",
+          "type": "transferable"
+        },
+        {
+          "id": "Conocimiento de la legislación laboral aplicable",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de gestión de recursos humanos",
+        "Ciclo de selección e integración",
+        "Administración de personal",
+        "Derecho laboral y protección de datos según el país",
+        "Derecho laboral local que debe verificarse, administración de personal, confidencialidad y diálogo social"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.law.juriste-entreprise",
+      "profile_version": "0.2",
+      "fr_title": "Juriste d’entreprise",
+      "en_title": "Corporate Legal Counsel",
+      "purpose_fr": "Aide une organisation à identifier et traiter les questions juridiques liées à ses activités, à ses contrats et à ses décisions, dans les limites de son habilitation professionnelle.",
+      "missions_fr": [
+        "Recueillir les faits et documents nécessaires à l’analyse d’une question juridique.",
+        "Effectuer des recherches dans les textes, décisions et sources juridiques applicables.",
+        "Rédiger ou examiner des contrats, notes, clauses et procédures internes.",
+        "Identifier les risques juridiques et expliquer les options possibles aux équipes concernées.",
+        "Contribuer au suivi des obligations réglementaires et des échéances contractuelles.",
+        "Coordonner, lorsque nécessaire, le recours à un avocat ou à un spécialiste habilité."
+      ],
+      "skills": [
+        {
+          "id": "Recherche et analyse juridique",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction juridique claire",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse contractuelle",
+          "type": "technical"
+        },
+        {
+          "id": "Identification et hiérarchisation des risques",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication avec des non-juristes",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion rigoureuse des dossiers",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Droit des contrats et des affaires",
+        "Droit du travail et réglementation sectorielle",
+        "Gouvernance et conformité",
+        "Règles de preuve, procédure et déontologie selon le pays",
+        "Méthodes de recherche juridique, hiérarchie des normes, gestion contractuelle et conformité locale"
+      ],
+      "work_context_fr": "Entreprises, banques, assurances, administrations, organisations internationales ou cabinets de conseil juridique, selon les règles locales.",
+      "evidence": [
+        {
+          "source_id": "source.bls.legal-workers",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les titres, activités réservées, règles de conseil et conditions d’inscription professionnelle varient selon les juridictions. Cette fiche ne confère aucune habilitation à fournir des services juridiques.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Helps an organization identify and address legal issues related to its activities, contracts and decisions within the limits of professional authorization.",
+      "purpose_es": "Ayuda a una organización a identificar y tratar cuestiones jurídicas relacionadas con sus actividades, contratos y decisiones dentro de los límites de su habilitación profesional.",
+      "missions_en": [
+        "Gather facts and documents needed to analyze a legal question.",
+        "Research applicable legislation, decisions and legal sources.",
+        "Draft or review contracts, legal notes, clauses and internal procedures.",
+        "Identify legal risks and explain possible options to relevant teams.",
+        "Contribute to monitoring regulatory obligations and contractual deadlines.",
+        "Coordinate, when necessary, with a lawyer or authorized specialist."
+      ],
+      "missions_es": [
+        "Recopilar los hechos y documentos necesarios para analizar una cuestión jurídica.",
+        "Investigar la legislación, las decisiones y las fuentes jurídicas aplicables.",
+        "Redactar o revisar contratos, notas jurídicas, cláusulas y procedimientos internos.",
+        "Identificar riesgos jurídicos y explicar las opciones posibles a los equipos correspondientes.",
+        "Contribuir al seguimiento de obligaciones regulatorias y plazos contractuales.",
+        "Coordinar, cuando sea necesario, la intervención de un abogado o especialista habilitado."
+      ],
+      "work_context_en": "Companies, banks, insurers, public administrations, international organizations and legal-advisory firms, subject to local rules.",
+      "work_context_es": "Empresas, bancos, aseguradoras, administraciones públicas, organizaciones internacionales y firmas de asesoramiento jurídico, según las normas locales.",
+      "mapping_note_en": "Protected titles, reserved activities, legal-advice rules and professional-registration requirements vary by jurisdiction. This profile does not authorize the provision of legal services.",
+      "mapping_note_es": "Los títulos protegidos, las actividades reservadas, las normas de asesoramiento y las condiciones de inscripción profesional varían según la jurisdicción. Este perfil no autoriza a prestar servicios jurídicos.",
+      "skills_en": [
+        {
+          "id": "Legal research and analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Clear legal drafting",
+          "type": "technical"
+        },
+        {
+          "id": "Contract analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Identification and prioritization of risks",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication with non-lawyers",
+          "type": "transferable"
+        },
+        {
+          "id": "Rigorous case management",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Contract and business law",
+        "Employment law and sector regulation",
+        "Governance and compliance",
+        "Rules of evidence, procedure and professional ethics by country",
+        "Legal research methods, hierarchy of laws, contract management and local compliance"
+      ],
+      "skills_es": [
+        {
+          "id": "Investigación y análisis jurídico",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción jurídica clara",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis contractual",
+          "type": "technical"
+        },
+        {
+          "id": "Identificación y priorización de riesgos",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación con personas no juristas",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión rigurosa de expedientes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Derecho contractual y mercantil",
+        "Derecho laboral y regulación sectorial",
+        "Gobernanza y cumplimiento",
+        "Normas de prueba, procedimiento y ética profesional según el país",
+        "Métodos de investigación jurídica, jerarquía normativa, gestión contractual y cumplimiento local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.media.journaliste",
+      "profile_version": "0.2",
+      "fr_title": "Journaliste",
+      "en_title": "Journalist",
+      "purpose_fr": "Recherche, vérifie, contextualise et présente des informations d’intérêt public sous différents formats et dans le respect des règles professionnelles.",
+      "missions_fr": [
+        "Proposer des sujets et identifier les questions d’intérêt public.",
+        "Rechercher des informations auprès de sources documentaires et humaines variées.",
+        "Vérifier les faits, recouper les témoignages et distinguer faits, opinions et incertitudes.",
+        "Conduire des entretiens et recueillir les réponses des personnes concernées.",
+        "Rédiger, éditer ou produire des contenus adaptés au support de diffusion.",
+        "Corriger les erreurs et respecter les règles de déontologie, de sécurité et de protection des sources."
+      ],
+      "skills": [
+        {
+          "id": "Recherche documentaire",
+          "type": "technical"
+        },
+        {
+          "id": "Vérification de l’information",
+          "type": "technical"
+        },
+        {
+          "id": "Conduite d’entretien",
+          "type": "technical"
+        },
+        {
+          "id": "Écriture et narration journalistiques",
+          "type": "transferable"
+        },
+        {
+          "id": "Maîtrise des formats numériques et audiovisuels",
+          "type": "transferable"
+        },
+        {
+          "id": "Éthique et gestion des sources",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Méthodes de collecte et de vérification",
+        "Institutions et enjeux de société",
+        "Droit des médias et liberté d’expression selon le pays",
+        "Déontologie, diffamation et protection des sources",
+        "Vérification des faits, déontologie journalistique, droit à l’image et protection des sources selon le droit local"
+      ],
+      "work_context_fr": "Médias imprimés, radios, télévisions, agences de presse, médias numériques ou services de communication éditoriale.",
+      "evidence": [
+        {
+          "source_id": "source.bls.journalism",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les règles de presse, accréditations, droit à l’image, protection des sources et responsabilités éditoriales dépendent du cadre national.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Researches, verifies, contextualizes and presents information of public interest in different formats while following professional standards.",
+      "purpose_es": "Investiga, verifica, contextualiza y presenta información de interés público en distintos formatos respetando las normas profesionales.",
+      "missions_en": [
+        "Propose story ideas and identify issues of public interest.",
+        "Research information from a range of documentary and human sources.",
+        "Verify facts, cross-check testimonies and distinguish facts, opinions and uncertainties.",
+        "Conduct interviews and gather responses from relevant people.",
+        "Write, edit or produce content suited to the publication format.",
+        "Correct errors and follow standards of ethics, safety and source protection."
+      ],
+      "missions_es": [
+        "Proponer temas e identificar cuestiones de interés público.",
+        "Buscar información en diversas fuentes documentales y humanas.",
+        "Verificar hechos, contrastar testimonios y distinguir hechos, opiniones e incertidumbres.",
+        "Realizar entrevistas y recoger las respuestas de las personas implicadas.",
+        "Redactar, editar o producir contenidos adaptados al medio de difusión.",
+        "Corregir errores y respetar las normas de ética, seguridad y protección de fuentes."
+      ],
+      "work_context_en": "Print media, radio, television, news agencies, digital media and editorial communication services.",
+      "work_context_es": "Prensa escrita, radio, televisión, agencias de noticias, medios digitales y servicios de comunicación editorial.",
+      "mapping_note_en": "Press rules, accreditation, image rights, source protection and editorial responsibilities depend on the national framework.",
+      "mapping_note_es": "Las normas de prensa, las acreditaciones, el derecho a la imagen, la protección de fuentes y las responsabilidades editoriales dependen del marco nacional.",
+      "skills_en": [
+        {
+          "id": "Documentary research",
+          "type": "technical"
+        },
+        {
+          "id": "Information verification",
+          "type": "technical"
+        },
+        {
+          "id": "Interviewing",
+          "type": "technical"
+        },
+        {
+          "id": "Journalistic writing and storytelling",
+          "type": "transferable"
+        },
+        {
+          "id": "Digital and audiovisual formats",
+          "type": "transferable"
+        },
+        {
+          "id": "Ethics and source management",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Information gathering and verification methods",
+        "Institutions and social issues",
+        "Media law and freedom of expression by country",
+        "Professional ethics, defamation and source protection",
+        "Fact-checking, journalistic ethics, image rights and source protection under local law"
+      ],
+      "skills_es": [
+        {
+          "id": "Investigación documental",
+          "type": "technical"
+        },
+        {
+          "id": "Verificación de información",
+          "type": "technical"
+        },
+        {
+          "id": "Realización de entrevistas",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción y narración periodísticas",
+          "type": "transferable"
+        },
+        {
+          "id": "Formatos digitales y audiovisuales",
+          "type": "transferable"
+        },
+        {
+          "id": "Ética y gestión de fuentes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Métodos de recopilación y verificación",
+        "Instituciones y cuestiones sociales",
+        "Derecho de los medios y libertad de expresión según el país",
+        "Ética profesional, difamación y protección de fuentes",
+        "Verificación de hechos, ética periodística, derecho a la imagen y protección de fuentes según la legislación local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.art.designer-graphique",
+      "profile_version": "0.2",
+      "fr_title": "Designer graphique",
+      "en_title": "Graphic Designer",
+      "purpose_fr": "Conçoit des éléments visuels destinés à communiquer un message de manière claire, cohérente et adaptée à un public et à un support.",
+      "missions_fr": [
+        "Clarifier le besoin de communication, le public cible et les contraintes du support.",
+        "Explorer des pistes visuelles et proposer une direction créative argumentée.",
+        "Créer des compositions, illustrations, mises en page ou identités visuelles.",
+        "Adapter les créations aux formats imprimés, numériques et mobiles.",
+        "Préparer les fichiers de production et vérifier leur conformité technique.",
+        "Présenter les choix graphiques, intégrer les retours et organiser les versions des livrables."
+      ],
+      "skills": [
+        {
+          "id": "Composition et hiérarchie visuelle",
+          "type": "technical"
+        },
+        {
+          "id": "Typographie et couleur",
+          "type": "technical"
+        },
+        {
+          "id": "Illustration et mise en page",
+          "type": "technical"
+        },
+        {
+          "id": "Outils de création graphique",
+          "type": "transferable"
+        },
+        {
+          "id": "Préparation de fichiers et contrôle qualité",
+          "type": "transferable"
+        },
+        {
+          "id": "Présentation et gestion des retours",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de design visuel",
+        "Formats et contraintes de production",
+        "Identité de marque et communication",
+        "Accessibilité visuelle et droits d’utilisation des contenus",
+        "Systèmes visuels, typographie, préparation des fichiers et droits d’utilisation des contenus"
+      ],
+      "work_context_fr": "Agences de communication, studios de design, médias, entreprises, associations ou activité indépendante selon les règles applicables.",
+      "evidence": [
+        {
+          "source_id": "source.bls.occupational-profiles",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les logiciels et spécialisations varient selon les missions. Les droits d’auteur, licences de polices, images et éléments graphiques doivent être respectés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Creates visual elements to communicate a message clearly and consistently for a specific audience and medium.",
+      "purpose_es": "Crea elementos visuales para comunicar un mensaje de forma clara y coherente, adaptado a un público y a un soporte.",
+      "missions_en": [
+        "Clarify the communication need, target audience and medium constraints.",
+        "Explore visual directions and present a reasoned creative concept.",
+        "Create compositions, illustrations, layouts or visual identities.",
+        "Adapt designs to print, digital and mobile formats.",
+        "Prepare production files and check their technical compliance.",
+        "Present design choices, incorporate feedback and manage deliverable versions."
+      ],
+      "missions_es": [
+        "Aclarar la necesidad de comunicación, el público objetivo y las limitaciones del soporte.",
+        "Explorar propuestas visuales y presentar una dirección creativa argumentada.",
+        "Crear composiciones, ilustraciones, maquetaciones o identidades visuales.",
+        "Adaptar los diseños a formatos impresos, digitales y móviles.",
+        "Preparar los archivos de producción y comprobar su conformidad técnica.",
+        "Presentar las decisiones gráficas, integrar comentarios y organizar las versiones de los entregables."
+      ],
+      "work_context_en": "Communication agencies, design studios, media organizations, companies, associations and freelance work under applicable rules.",
+      "work_context_es": "Agencias de comunicación, estudios de diseño, medios, empresas, asociaciones y actividad independiente conforme a las normas aplicables.",
+      "mapping_note_en": "Software and specializations vary by assignment. Copyright and licences for fonts, images and graphic assets must be respected.",
+      "mapping_note_es": "Los programas y las especializaciones varían según las misiones. Deben respetarse los derechos de autor y las licencias de tipografías, imágenes y elementos gráficos.",
+      "skills_en": [
+        {
+          "id": "Composition and visual hierarchy",
+          "type": "technical"
+        },
+        {
+          "id": "Typography and colour",
+          "type": "technical"
+        },
+        {
+          "id": "Illustration and layout",
+          "type": "technical"
+        },
+        {
+          "id": "Graphic-design tools",
+          "type": "transferable"
+        },
+        {
+          "id": "File preparation and quality control",
+          "type": "transferable"
+        },
+        {
+          "id": "Presentation and feedback management",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Visual-design principles",
+        "Production formats and constraints",
+        "Brand identity and communication",
+        "Visual accessibility and content-usage rights",
+        "Visual systems, typography, file preparation and content-usage rights"
+      ],
+      "skills_es": [
+        {
+          "id": "Composición y jerarquía visual",
+          "type": "technical"
+        },
+        {
+          "id": "Tipografía y color",
+          "type": "technical"
+        },
+        {
+          "id": "Ilustración y maquetación",
+          "type": "technical"
+        },
+        {
+          "id": "Herramientas de diseño gráfico",
+          "type": "transferable"
+        },
+        {
+          "id": "Preparación de archivos y control de calidad",
+          "type": "transferable"
+        },
+        {
+          "id": "Presentación y gestión de comentarios",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de diseño visual",
+        "Formatos y limitaciones de producción",
+        "Identidad de marca y comunicación",
+        "Accesibilidad visual y derechos de uso de contenidos",
+        "Sistemas visuales, tipografía, preparación de archivos y derechos de uso de contenidos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.hosp.receptionniste-hotel",
+      "profile_version": "0.2",
+      "fr_title": "Réceptionniste en hôtellerie",
+      "en_title": "Hotel Receptionist",
+      "purpose_fr": "Assure l’accueil et l’information des clients d’un établissement d’hébergement et contribue au bon déroulement des séjours.",
+      "missions_fr": [
+        "Accueillir les clients et répondre à leurs demandes en personne, par téléphone ou par voie numérique.",
+        "Enregistrer les arrivées et départs selon les procédures de l’établissement.",
+        "Gérer les réservations, modifications et informations de disponibilité dans les outils autorisés.",
+        "Transmettre les demandes aux équipes concernées et suivre leur traitement.",
+        "Fournir des informations exactes sur les services de l’établissement et les ressources locales vérifiées.",
+        "Traiter les paiements et documents administratifs selon les procédures et règles de sécurité."
+      ],
+      "skills": [
+        {
+          "id": "Accueil et relation client",
+          "type": "technical"
+        },
+        {
+          "id": "Communication orale et écrite",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion des réservations",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation d’outils de gestion hôtelière",
+          "type": "transferable"
+        },
+        {
+          "id": "Résolution de demandes et réclamations",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidentialité des données clients",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Fonctionnement d’un établissement hôtelier",
+        "Procédures d’accueil et de réservation",
+        "Principes de facturation et d’encaissement",
+        "Protection des données et sécurité des clients",
+        "Gestion des réservations, qualité de service, protection des données clients et procédures d’accueil"
+      ],
+      "work_context_fr": "Hôtels, auberges, résidences de tourisme, établissements d’hébergement et structures d’accueil.",
+      "evidence": [
+        {
+          "source_id": "source.bls.hotel-desk-clerks",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les horaires, langues requises, obligations d’identification des clients et règles de facturation dépendent de l’établissement et du pays.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Welcomes and informs guests at an accommodation facility and helps ensure that their stay runs smoothly.",
+      "purpose_es": "Recibe e informa a los clientes de un establecimiento de alojamiento y contribuye al buen desarrollo de sus estancias.",
+      "missions_en": [
+        "Welcome guests and respond to requests in person, by phone or digitally.",
+        "Register arrivals and departures according to establishment procedures.",
+        "Manage reservations, changes and availability information using authorized tools.",
+        "Forward requests to relevant teams and follow up on their handling.",
+        "Provide accurate information about establishment services and verified local resources.",
+        "Process payments and administrative documents according to procedures and safety rules."
+      ],
+      "missions_es": [
+        "Recibir a los clientes y responder a sus solicitudes en persona, por teléfono o por medios digitales.",
+        "Registrar las llegadas y salidas conforme a los procedimientos del establecimiento.",
+        "Gestionar reservas, modificaciones e información de disponibilidad mediante herramientas autorizadas.",
+        "Transmitir las solicitudes a los equipos correspondientes y hacer seguimiento de su tratamiento.",
+        "Proporcionar información precisa sobre los servicios del establecimiento y los recursos locales verificados.",
+        "Gestionar pagos y documentos administrativos conforme a los procedimientos y las normas de seguridad."
+      ],
+      "work_context_en": "Hotels, hostels, tourist residences, accommodation facilities and reception services.",
+      "work_context_es": "Hoteles, hostales, residencias turísticas, establecimientos de alojamiento y servicios de recepción.",
+      "mapping_note_en": "Working hours, required languages, guest-identification duties and billing rules depend on the establishment and the country.",
+      "mapping_note_es": "Los horarios, los idiomas requeridos, las obligaciones de identificación de clientes y las normas de facturación dependen del establecimiento y del país.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Guest reception and customer relations",
+          "type": "technical"
+        },
+        {
+          "id": "Oral and written communication",
+          "type": "technical"
+        },
+        {
+          "id": "Reservation management",
+          "type": "technical"
+        },
+        {
+          "id": "Use of hotel-management tools",
+          "type": "transferable"
+        },
+        {
+          "id": "Handling requests and complaints",
+          "type": "transferable"
+        },
+        {
+          "id": "Guest-data confidentiality",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Hotel operations",
+        "Reception and reservation procedures",
+        "Billing and payment principles",
+        "Guest data protection and security",
+        "Reservation management, service quality, guest-data protection and reception procedures"
+      ],
+      "skills_es": [
+        {
+          "id": "Acogida y relación con clientes",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación oral y escrita",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de reservas",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de herramientas de gestión hotelera",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión de solicitudes y reclamaciones",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidencialidad de datos de clientes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Funcionamiento de un establecimiento hotelero",
+        "Procedimientos de recepción y reservas",
+        "Principios de facturación y cobro",
+        "Protección de datos y seguridad de clientes",
+        "Gestión de reservas, calidad del servicio, protección de datos de clientes y procedimientos de recepción"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.hosp.cuisinier",
+      "profile_version": "0.2",
+      "fr_title": "Cuisinier / Cuisinière",
+      "en_title": "Cook",
+      "purpose_fr": "Prépare des plats en appliquant les recettes, les règles d’hygiène alimentaire et l’organisation de la cuisine.",
+      "missions_fr": [
+        "Lire les fiches techniques et organiser les préparations selon le service prévu.",
+        "Sélectionner et contrôler les ingrédients selon les critères de qualité et de fraîcheur.",
+        "Préparer les aliments et réaliser les cuissons conformément aux recettes et procédures.",
+        "Appliquer les règles d’hygiène, de prévention des contaminations et de conservation.",
+        "Coordonner les tâches avec l’équipe et respecter les délais du service.",
+        "Nettoyer et entretenir le poste de travail et signaler les problèmes d’équipement ou de stock."
+      ],
+      "skills": [
+        {
+          "id": "Techniques de préparation et cuisson",
+          "type": "technical"
+        },
+        {
+          "id": "Organisation du poste et gestion du temps",
+          "type": "technical"
+        },
+        {
+          "id": "Hygiène et sécurité alimentaire",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de recettes et fiches techniques",
+          "type": "transferable"
+        },
+        {
+          "id": "Travail en équipe",
+          "type": "transferable"
+        },
+        {
+          "id": "Contrôle des portions et réduction des pertes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Techniques culinaires de base",
+        "Hygiène alimentaire et chaîne du froid",
+        "Conservation et traçabilité des aliments",
+        "Allergènes et prévention des contaminations",
+        "Hygiène alimentaire, allergènes, conservation des aliments et organisation rationnelle d’une production culinaire"
+      ],
+      "work_context_fr": "Restaurants, hôtels, cantines, établissements de santé, traiteurs ou services de restauration collective.",
+      "evidence": [
+        {
+          "source_id": "source.bls.cooks",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les règles sanitaires, formations obligatoires et contrôles applicables doivent être vérifiés auprès des autorités compétentes de chaque pays.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Prepares dishes by following recipes, food-hygiene requirements and kitchen workflows.",
+      "purpose_es": "Prepara platos siguiendo recetas, normas de higiene alimentaria y la organización de la cocina.",
+      "missions_en": [
+        "Read technical recipe sheets and organize preparation according to the planned service.",
+        "Select and check ingredients for quality and freshness.",
+        "Prepare food and cook dishes in accordance with recipes and procedures.",
+        "Apply hygiene, contamination-prevention and food-storage rules.",
+        "Coordinate tasks with the team and meet service deadlines.",
+        "Clean and maintain the workstation and report equipment or stock issues."
+      ],
+      "missions_es": [
+        "Leer las fichas técnicas y organizar las preparaciones según el servicio previsto.",
+        "Seleccionar y comprobar los ingredientes según los criterios de calidad y frescura.",
+        "Preparar los alimentos y realizar las cocciones conforme a las recetas y los procedimientos.",
+        "Aplicar las normas de higiene, prevención de contaminaciones y conservación de alimentos.",
+        "Coordinar las tareas con el equipo y respetar los plazos del servicio.",
+        "Limpiar y mantener el puesto de trabajo y comunicar los problemas de equipos o existencias."
+      ],
+      "work_context_en": "Restaurants, hotels, canteens, healthcare facilities, catering businesses and collective food services.",
+      "work_context_es": "Restaurantes, hoteles, comedores, centros sanitarios, empresas de catering y servicios de restauración colectiva.",
+      "mapping_note_en": "Health regulations, mandatory training and applicable inspections must be checked with the competent authorities in each country.",
+      "mapping_note_es": "Las normas sanitarias, la formación obligatoria y los controles aplicables deben verificarse ante las autoridades competentes de cada país.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Food preparation and cooking techniques",
+          "type": "technical"
+        },
+        {
+          "id": "Workstation organization and time management",
+          "type": "technical"
+        },
+        {
+          "id": "Food hygiene and safety",
+          "type": "technical"
+        },
+        {
+          "id": "Reading recipes and technical sheets",
+          "type": "transferable"
+        },
+        {
+          "id": "Teamwork",
+          "type": "transferable"
+        },
+        {
+          "id": "Portion control and waste reduction",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Basic culinary techniques",
+        "Food hygiene and the cold chain",
+        "Food preservation and traceability",
+        "Allergens and contamination prevention",
+        "Food hygiene, allergens, preservation and efficient kitchen production"
+      ],
+      "skills_es": [
+        {
+          "id": "Técnicas de preparación y cocción",
+          "type": "technical"
+        },
+        {
+          "id": "Organización del puesto y gestión del tiempo",
+          "type": "technical"
+        },
+        {
+          "id": "Higiene y seguridad alimentaria",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de recetas y fichas técnicas",
+          "type": "transferable"
+        },
+        {
+          "id": "Trabajo en equipo",
+          "type": "transferable"
+        },
+        {
+          "id": "Control de porciones y reducción de desperdicios",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Técnicas culinarias básicas",
+        "Higiene alimentaria y cadena de frío",
+        "Conservación y trazabilidad de los alimentos",
+        "Alérgenos y prevención de contaminaciones",
+        "Higiene alimentaria, alérgenos, conservación y organización eficiente de la producción culinaria"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.craft.menuisier",
+      "profile_version": "0.2",
+      "fr_title": "Menuisier / Menuisière",
+      "en_title": "Carpenter",
+      "purpose_fr": "Fabrique, assemble, installe ou répare des ouvrages et éléments en bois ou matériaux associés à partir de plans, mesures et spécifications.",
+      "missions_fr": [
+        "Lire les plans, croquis et consignes de fabrication ou de pose.",
+        "Prendre les mesures et sélectionner les matériaux adaptés au projet.",
+        "Tracer, découper, façonner et assembler les éléments selon les tolérances prévues.",
+        "Installer les ouvrages et vérifier leur ajustement et leur stabilité.",
+        "Entretenir les outils et maintenir un espace de travail organisé.",
+        "Contrôler la qualité de réalisation et signaler les risques ou défauts constatés."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de plans et prise de mesures",
+          "type": "technical"
+        },
+        {
+          "id": "Traçage et assemblage",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation maîtrisée des outils et machines autorisés",
+          "type": "technical"
+        },
+        {
+          "id": "Choix des matériaux",
+          "type": "transferable"
+        },
+        {
+          "id": "Contrôle dimensionnel et finition",
+          "type": "transferable"
+        },
+        {
+          "id": "Organisation et prévention des risques professionnels",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Propriétés du bois et matériaux dérivés",
+        "Techniques d’assemblage et de finition",
+        "Notions de géométrie et dessin technique",
+        "Règles de sécurité en atelier et sur chantier",
+        "Propriétés des matériaux, lecture de plans, tolérances, finitions et prévention des risques d’atelier"
+      ],
+      "work_context_fr": "Ateliers de menuiserie, entreprises de construction, fabricants de mobilier, chantiers ou activité artisanale.",
+      "evidence": [
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.bls.occupational-profiles",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les tâches exactes varient entre menuiserie d’atelier, pose et charpente. La formation pratique supervisée et les règles locales de sécurité sont essentielles.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Makes, assembles, installs or repairs woodwork and related materials using plans, measurements and specifications.",
+      "purpose_es": "Fabrica, ensambla, instala o repara elementos de madera y materiales relacionados a partir de planos, medidas y especificaciones.",
+      "missions_en": [
+        "Read plans, sketches and manufacturing or installation instructions.",
+        "Take measurements and select materials suited to the project.",
+        "Mark out, cut, shape and assemble components within the required tolerances.",
+        "Install finished items and check their fit and stability.",
+        "Maintain tools and keep the work area organized.",
+        "Check workmanship quality and report identified risks or defects."
+      ],
+      "missions_es": [
+        "Leer planos, croquis e instrucciones de fabricación o instalación.",
+        "Tomar medidas y seleccionar los materiales adecuados para el proyecto.",
+        "Trazar, cortar, dar forma y ensamblar los elementos respetando las tolerancias previstas.",
+        "Instalar los elementos y comprobar su ajuste y estabilidad.",
+        "Mantener las herramientas y conservar organizado el espacio de trabajo.",
+        "Comprobar la calidad del trabajo y comunicar los riesgos o defectos detectados."
+      ],
+      "work_context_en": "Carpentry workshops, construction companies, furniture manufacturers, building sites and craft businesses.",
+      "work_context_es": "Talleres de carpintería, empresas de construcción, fabricantes de mobiliario, obras y actividades artesanales.",
+      "mapping_note_en": "Duties differ between workshop carpentry, installation and structural timber work. Supervised practical training and local safety rules are essential.",
+      "mapping_note_es": "Las tareas varían entre carpintería de taller, instalación y trabajos de estructuras de madera. La formación práctica supervisada y las normas locales de seguridad son esenciales.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Reading plans and taking measurements",
+          "type": "technical"
+        },
+        {
+          "id": "Marking out and assembly",
+          "type": "technical"
+        },
+        {
+          "id": "Safe use of authorized tools and machinery",
+          "type": "technical"
+        },
+        {
+          "id": "Material selection",
+          "type": "transferable"
+        },
+        {
+          "id": "Dimensional checks and finishing",
+          "type": "transferable"
+        },
+        {
+          "id": "Work organization and occupational risk prevention",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Properties of wood and engineered materials",
+        "Assembly and finishing techniques",
+        "Basic geometry and technical drawing",
+        "Workshop and construction-site safety rules",
+        "Material properties, plan reading, tolerances, finishes and workshop risk prevention"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de planos y toma de medidas",
+          "type": "technical"
+        },
+        {
+          "id": "Trazado y ensamblaje",
+          "type": "technical"
+        },
+        {
+          "id": "Uso seguro de herramientas y máquinas autorizadas",
+          "type": "technical"
+        },
+        {
+          "id": "Selección de materiales",
+          "type": "transferable"
+        },
+        {
+          "id": "Control dimensional y acabados",
+          "type": "transferable"
+        },
+        {
+          "id": "Organización del trabajo y prevención de riesgos laborales",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Propiedades de la madera y materiales derivados",
+        "Técnicas de ensamblaje y acabado",
+        "Geometría básica y dibujo técnico",
+        "Normas de seguridad en talleres y obras",
+        "Propiedades de los materiales, lectura de planos, tolerancias, acabados y prevención de riesgos en el taller"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.craft.plombier",
+      "profile_version": "0.2",
+      "fr_title": "Plombier / Plombière",
+      "en_title": "Plumber",
+      "purpose_fr": "Installe, entretient et répare des réseaux et équipements de distribution d’eau, d’évacuation et, selon sa qualification, certains équipements sanitaires.",
+      "missions_fr": [
+        "Lire les plans et repérer les réseaux et équipements concernés.",
+        "Préparer les matériaux, raccords et composants adaptés à l’intervention.",
+        "Installer ou remplacer des conduites et appareils dans le respect des spécifications.",
+        "Réaliser des contrôles d’étanchéité et vérifier le fonctionnement des installations.",
+        "Diagnostiquer les dysfonctionnements et proposer une réparation appropriée.",
+        "Expliquer les travaux réalisés et consigner les interventions selon les procédures."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de plans et schémas de réseaux",
+          "type": "technical"
+        },
+        {
+          "id": "Assemblage et raccordement de conduites",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic de pannes et fuites",
+          "type": "technical"
+        },
+        {
+          "id": "Connaissance des matériaux et équipements",
+          "type": "transferable"
+        },
+        {
+          "id": "Contrôle de fonctionnement",
+          "type": "transferable"
+        },
+        {
+          "id": "Prévention des risques et respect des normes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Réseaux d’alimentation et d’évacuation",
+        "Matériaux, raccords et équipements sanitaires",
+        "Notions de pression et d’écoulement",
+        "Normes techniques, hygiène et sécurité applicables",
+        "Réseaux d’eau et d’évacuation, matériaux et raccordements, prévention des fuites et règles techniques locales à vérifier"
+      ],
+      "work_context_fr": "Entreprises du bâtiment, services de maintenance, sociétés de plomberie, chantiers et activité indépendante selon autorisation locale.",
+      "evidence": [
+        {
+          "source_id": "source.onet.database31",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "reference_context_not_direct_country_requirement"
+        },
+        {
+          "source_id": "source.bls.occupational-profiles",
+          "use": "reference_context_not_direct_country_requirement"
+        }
+      ],
+      "mapping_note": "Les limites d’intervention, certifications, normes de raccordement et autorisations varient selon les pays et les types d’installation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Installs, maintains and repairs water-supply and drainage networks and equipment, and certain sanitary systems according to qualifications.",
+      "purpose_es": "Instala, mantiene y repara redes y equipos de distribución de agua y evacuación, así como determinados equipos sanitarios según su cualificación.",
+      "missions_en": [
+        "Read plans and locate the relevant networks and equipment.",
+        "Prepare materials, fittings and components suited to the work.",
+        "Install or replace pipes and appliances in accordance with specifications.",
+        "Carry out leak tests and check that installations operate correctly.",
+        "Diagnose malfunctions and recommend an appropriate repair.",
+        "Explain completed work and record interventions according to procedures."
+      ],
+      "missions_es": [
+        "Leer los planos y localizar las redes y los equipos correspondientes.",
+        "Preparar los materiales, accesorios y componentes adecuados para la intervención.",
+        "Instalar o sustituir tuberías y aparatos respetando las especificaciones.",
+        "Realizar pruebas de estanqueidad y comprobar el funcionamiento de las instalaciones.",
+        "Diagnosticar los fallos de funcionamiento y proponer una reparación adecuada.",
+        "Explicar los trabajos realizados y registrar las intervenciones conforme a los procedimientos."
+      ],
+      "work_context_en": "Building contractors, maintenance services, plumbing companies, construction sites and self-employment where locally authorized.",
+      "work_context_es": "Empresas de construcción, servicios de mantenimiento, empresas de fontanería, obras y actividad independiente cuando esté autorizada localmente.",
+      "mapping_note_en": "Intervention limits, certifications, connection standards and permits vary by country and installation type.",
+      "mapping_note_es": "Los límites de intervención, las certificaciones, las normas de conexión y las autorizaciones varían según el país y el tipo de instalación.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Reading network plans and diagrams",
+          "type": "technical"
+        },
+        {
+          "id": "Pipe assembly and connection",
+          "type": "technical"
+        },
+        {
+          "id": "Fault and leak diagnosis",
+          "type": "technical"
+        },
+        {
+          "id": "Knowledge of materials and sanitary equipment",
+          "type": "transferable"
+        },
+        {
+          "id": "Operational checks",
+          "type": "transferable"
+        },
+        {
+          "id": "Risk prevention and compliance with standards",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Water-supply and drainage networks",
+        "Materials, fittings and sanitary equipment",
+        "Basic concepts of pressure and flow",
+        "Applicable technical, hygiene and safety standards",
+        "Water and drainage networks, materials and connections, leak prevention and local technical rules to be checked"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de planos y esquemas de redes",
+          "type": "technical"
+        },
+        {
+          "id": "Montaje y conexión de tuberías",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico de averías y fugas",
+          "type": "technical"
+        },
+        {
+          "id": "Conocimiento de materiales y equipos sanitarios",
+          "type": "transferable"
+        },
+        {
+          "id": "Comprobación del funcionamiento",
+          "type": "transferable"
+        },
+        {
+          "id": "Prevención de riesgos y cumplimiento de normas",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Redes de abastecimiento y evacuación de agua",
+        "Materiales, accesorios y equipos sanitarios",
+        "Conceptos básicos de presión y caudal",
+        "Normas técnicas, de higiene y seguridad aplicables",
+        "Redes de agua y evacuación, materiales y conexiones, prevención de fugas y normas técnicas locales que deben verificarse"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ]
+}

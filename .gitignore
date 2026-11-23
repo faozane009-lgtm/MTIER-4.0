@@ -1,0 +1,68 @@
+# Dart / Flutter tooling
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# IDEs and editor state
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Android build outputs and local configuration
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+**/*.jks
+**/*.keystore
+
+# iOS / macOS generated files and dependencies
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/.last_build_id
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/macos/Pods/
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Build products
+*.log
+*.class
+*.hprof
+*.pyc
+__pycache__/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Flutter test and coverage outputs
+coverage/
+/test/.dart_tool/
+
+# Android generated and signing files
+/android/.cxx/
+/android/.gradle/
+/android/key.properties
+/android/app/*.jks
+/android/app/*.keystore
+
+# Local tooling / secrets
+.fvm/flutter_sdk
+.fvmrc.local
+*.env.local

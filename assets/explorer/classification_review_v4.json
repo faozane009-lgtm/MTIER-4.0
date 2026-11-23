@@ -1,0 +1,929 @@
+{
+  "version": "4.0",
+  "checked_date": "2026-11-22",
+  "record_count": 115,
+  "confirmed_crosswalks_retained": 2,
+  "records": [
+    {
+      "occupation_id": "occupation.health.infirmier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.health.medecin-generaliste",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.health.epidemiologiste",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.agriculteur",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.conseiller-agricole",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-irrigation",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.edu.enseignant-primaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.edu.formateur-professionnel",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.edu.ingenieur-pedagogique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.constr.ingenieur-genie-civil",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-mecanique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-electrique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-grc",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-soc",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.pentester-ethique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.reponse-incidents",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-iam",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-cloud",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-appsec",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-reseaux",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.coordinateur-reponse-incident",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.cyber.specialiste-iam",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-logiciel",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-mobile",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.data.analyste-donnees",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.data.ingenieur-donnees",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.transport.agent-logistique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.transport.responsable-approvisionnement",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.fin.comptable",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-financier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.mgmt.chef-projet",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.geologue",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.social.assistant-social",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.social.conseiller-insertion",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.mgmt.charge-ressources-humaines",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.law.juriste-entreprise",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.media.journaliste",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.art.designer-graphique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.hosp.receptionniste-hotel",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.hosp.cuisinier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.craft.menuisier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.craft.plombier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.energy.technicien-solaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.energy.ingenieur-energie",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.manuf.operateur-production",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.manuf.technicien-maintenance-industrielle",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.charge-biodiversite",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.technicien-eau-assainissement",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.ecologue",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.technicien-dechets",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.analyste-climat",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.charge-etudes-impact",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-elevage",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.biologiste",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-laboratoire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.eng.technicien-automatisme",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.constr.architecte",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.auto.mecanicien-automobile",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-vehicules-electriques",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.bus.commercial",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.bus.conseiller-clientele",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.statisticien",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.law.agent-administration-publique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.media.redacteur-contenu",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.art.designer-ux-ui",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.real.agent-immobilier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-patrimoine-immobilier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.security.agent-securite",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.security.sapeur-pompier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sport.educateur-sportif",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sport.preparateur-physique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.meteorologue",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-telecom",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.telecom.ingenieur-reseaux",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.marine.marin-matelot",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.marine.technicien-portuaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.art.bibliothecaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.art.mediateur-culturel",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.veterinaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.aquaculteur",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-agroalimentaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.env.technicien-assainissement",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.health.technicien-biomedical",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.health.kinesitherapeute",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.health.dieteticien",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.health.ambulancier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.social.educateur-specialise",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.social.coordinateur-humanitaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.edu.conseiller-orientation",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-chimiste",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sci.biostatisticien",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.architecte-logiciel",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-devops",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.administrateur-base-donnees",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-ia",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.testeur-logiciel",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.it.technicien-support",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.data.developpeur-bi",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.eng.automaticien",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-robotique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.constr.geometre-topographe",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.transport.gestionnaire-entrepot",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-diagnostic-auto",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-interne",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.fin.agent-microfinance",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.bus.charge-developpement-commercial",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.mgmt.responsable-ressources-humaines",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.law.charge-conformite",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.hosp.chef-cuisine",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.craft.couturier",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-facility",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-fibre-optique",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.security.preventionniste-sst",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.sport.entraineur-sportif",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    },
+    {
+      "occupation_id": "occupation.marine.agent-exploitation-portuaire",
+      "esco_status": "candidate_lookup_required",
+      "isco08_status": "candidate_lookup_required",
+      "onet_status": "candidate_search_reference",
+      "exact_code": null,
+      "decision": "no_exact_mapping_claimed_without_title/task equivalence review"
+    }
+  ],
+  "policy": "Only exact, evidenced mappings are confirmed. No synthetic ESCO/ISCO codes are assigned."
+}

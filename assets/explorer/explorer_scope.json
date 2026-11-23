@@ -1,0 +1,127 @@
+{
+  "policy_version": "1.0.0",
+  "decision_date": "2026-11-22",
+  "geographic_coverage": {
+    "mode": "global",
+    "country_scope": "all_countries_and_territories_where_reliable_sources_are_available",
+    "global_layer": "occupation identity, generic purpose, typical tasks, transferable and technical skills, knowledge domains, work contexts and specializations",
+    "localization_layer": "country-specific education routes, qualifications, protected titles, licences, legal requirements, salary ranges, demand and employment outlook",
+    "country_fact_rule": "Every country-specific fact must carry an ISO 3166-1 alpha-2 country code, a directly relevant source, source date or checked_at date, and a review/expiry policy.",
+    "missing_data_display": "not_verified_for_this_country",
+    "no_extrapolation": true,
+    "pilot_country": "BJ",
+    "pilot_country_is_not_global_proxy": true,
+    "salary_estimation_policy": {
+      "mode": "national_estimates_allowed_with_explicit_evidence_tiers",
+      "verified": "Use occupation-level national statistics or official pay scales with source, period, currency and gross/net definition.",
+      "modeled": "A provisional scenario estimate may be displayed as a non-factual planning aid. This is not treated as a national fact or an official wage observation; label it modeled, low confidence and USD-equivalent.",
+      "currency": "Do not imply USD-equivalent amounts are local-currency quotations; convert only with a dated, documented FX source.",
+      "no_fabrication": "Never label modeled values as verified or use a national average as if it were an occupation-specific observation."
+    },
+    "no_unsupported_factual_extrapolation": true
+  },
+  "audiences": {
+    "mode": "all",
+    "segments": [
+      {
+        "id": "student_secondary",
+        "label_fr": "Élèves du secondaire",
+        "needs": [
+          "discover_interests",
+          "understand_occupations",
+          "explore_accessible_learning_routes"
+        ],
+        "presentation": "accessible_language; explain prerequisites; no assumption of prior work experience"
+      },
+      {
+        "id": "student_higher_ed",
+        "label_fr": "Étudiants et apprenants de l’enseignement supérieur",
+        "needs": [
+          "compare_specializations",
+          "connect_studies_to_work",
+          "identify_skill_gaps"
+        ],
+        "presentation": "show study-to-work links and entry-level pathways"
+      },
+      {
+        "id": "career_changer",
+        "label_fr": "Personnes en reconversion",
+        "needs": [
+          "transferable_skills",
+          "bridge_training",
+          "transition_steps"
+        ],
+        "presentation": "highlight transferable skills, realistic transition gaps and alternative routes"
+      },
+      {
+        "id": "early_career",
+        "label_fr": "Débutants et personnes en recherche du premier emploi",
+        "needs": [
+          "entry_requirements",
+          "junior_tasks",
+          "portfolio_or_experience_options"
+        ],
+        "presentation": "distinguish entry-level from experienced roles"
+      },
+      {
+        "id": "working_professional",
+        "label_fr": "Professionnels en activité",
+        "needs": [
+          "specialization",
+          "upskilling",
+          "career_progression"
+        ],
+        "presentation": "show advanced skills, adjacent roles and progression options"
+      },
+      {
+        "id": "returning_worker",
+        "label_fr": "Personnes reprenant une activité",
+        "needs": [
+          "skills_refresh",
+          "recognition_of_prior_learning",
+          "reentry_routes"
+        ],
+        "presentation": "make prior experience visible and identify current skill refresh needs"
+      }
+    ]
+  },
+  "content_rules": {
+    "language_strategy": "French and English source labels are retained where available; localization to other languages is a later content workstream.",
+    "reading_levels": "Use plain-language summaries first, with expandable technical detail.",
+    "career_stage": "Never infer suitability solely from age, degree, country or previous job title.",
+    "recommendations": "Explain evidence, assumptions, uncertainty and skill gaps; do not present match scores as guarantees.",
+    "publication": "Explorer content may be integrated with evidence tiers visible; do not certify national salary, qualification, legal or labour-demand facts without country-specific authority/source. Modeled salary scenarios are not official statistics."
+  },
+  "reference_framework_roles": [
+    {
+      "system": "ISCO-08",
+      "role": "international statistical backbone for broad occupation grouping",
+      "scope": "international",
+      "mapping_status": "candidate_reference_not_imported_or_confirmed"
+    },
+    {
+      "system": "ESCO",
+      "role": "detailed occupation and skills vocabulary; interoperability",
+      "scope": "European labour market",
+      "mapping_status": "candidate_reference_not_imported_or_confirmed"
+    },
+    {
+      "system": "O*NET",
+      "role": "detailed tasks, skills, knowledge and work context enrichment",
+      "scope": "United States labour market",
+      "mapping_status": "candidate_reference_not_imported_or_confirmed"
+    },
+    {
+      "system": "NIST NICE",
+      "role": "cybersecurity work roles, tasks, knowledge and skills",
+      "scope": "US-origin framework with broader reference value; not universal job-title taxonomy",
+      "mapping_status": "candidate_reference_not_imported_or_confirmed"
+    },
+    {
+      "system": "ENISA ECSF",
+      "role": "cybersecurity role profiles and competence reference",
+      "scope": "European framework",
+      "mapping_status": "candidate_reference_not_imported_or_confirmed"
+    }
+  ]
+}

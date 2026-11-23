@@ -1,0 +1,38 @@
+name: mtier
+description: M-TIER 4.0 - Explorer, Profil, Match, Progress, Academy et IA
+publish_to: 'none'
+version: 0.9.0+9
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  supabase_flutter: ^2.8.0
+  shared_preferences: ^2.3.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/explorer/occupations/occupation_seed_fr_en.json
+    - assets/explorer/explorer_taxonomy.json
+    - assets/explorer/training_pathways_v3.2.json
+    - assets/explorer/employment_outlook_v4.json
+    - assets/explorer/salary_coverage_by_occupation_v4.json
+    - assets/explorer/classification_review_v4.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_01_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_02_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_03_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_04_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_05_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_06_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_07_v0.1.json
+    - assets/explorer/occupation_profiles/professional_profiles_batch_08_v0.1.json
+    - assets/explorer/occupation_profiles/cybersecurity_profiles_v0.1.json
+    - assets/explorer/occupation_profiles/cross_sector_profiles_v0.3.json
+    - assets/academy/learning-paths-fr.json

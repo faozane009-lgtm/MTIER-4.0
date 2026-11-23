@@ -1,0 +1,25 @@
+{
+  "profile_id": "demo-profile-001",
+  "display_name": "Apprenant démonstration",
+  "region": "non renseignée",
+  "profile_visibility": "private",
+  "preferences": {
+    "interest_domains": [
+      "informatique",
+      "sciences",
+      "création"
+    ],
+    "learning_format": [
+      "short_lessons",
+      "practical_exercises"
+    ],
+    "accessibility_needs": []
+  },
+  "consents": {
+    "personalization": true,
+    "portfolio_public_sharing": false,
+    "analytics_optional": false
+  },
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,27 @@
+{
+  "version": "4.0",
+  "checked_date": "2026-11-22",
+  "sources": [
+    {
+      "source_id": "outlook.wef.futurejobs2025",
+      "title": "World Economic Forum — The Future of Jobs Report 2025, Jobs Outlook",
+      "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/2-jobs-outlook",
+      "checked_date": "2026-11-22",
+      "scope": "Global employer expectations on job growth/decline 2025-2030; not a national forecast."
+    },
+    {
+      "source_id": "outlook.wef.skills2025",
+      "title": "World Economic Forum — The Future of Jobs Report 2025, Skills Outlook",
+      "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/3-skills-outlook",
+      "checked_date": "2026-11-22",
+      "scope": "Global employer expectations for skill changes through 2030; not occupation-specific wages."
+    },
+    {
+      "source_id": "outlook.ilo.weso2025",
+      "title": "International Labour Organization — World Employment and Social Outlook: Trends 2025",
+      "url": "https://www.ilo.org/publications/flagship-reports/world-employment-and-social-outlook-trends-2025",
+      "checked_date": "2026-11-22",
+      "scope": "Global labour-market context; national occupational outlook must be localized."
+    }
+  ]
+}

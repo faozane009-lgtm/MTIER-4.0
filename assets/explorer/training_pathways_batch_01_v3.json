@@ -1,0 +1,141 @@
+{
+  "version": "3.0",
+  "checked_date": "2026-11-22",
+  "record_count": 12,
+  "pathways": [
+    {
+      "occupation_id": "occupation.health.infirmier",
+      "pathway_fr": "Diplôme ou qualification d’infirmier reconnu dans le pays → formation clinique supervisée → validation/inscription auprès de l’autorité compétente → formation continue.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.registered-nurse"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "Le titre, le niveau de diplôme, le champ d’exercice et l’inscription sont réglementés différemment selon les pays. Le profil O*NET signale explicitement une obligation de licence/inscription dans son contexte américain."
+    },
+    {
+      "occupation_id": "occupation.health.medecin-generaliste",
+      "pathway_fr": "Études médicales reconnues → formation clinique et internat → spécialisation/formation postgraduée en médecine familiale ou générale selon le système national → autorisation d’exercice.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.family-medicine-physician"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "La durée, le nom de la spécialité et les exigences d’autorisation varient fortement selon les pays; ne pas afficher une durée universelle."
+    },
+    {
+      "occupation_id": "occupation.health.epidemiologiste",
+      "pathway_fr": "Formation initiale en santé publique, médecine, biologie, statistiques ou discipline proche → spécialisation en épidémiologie / biostatistique / santé publique → pratique encadrée sur données et surveillance.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.epidemiologist"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "Le niveau de master/doctorat dépend du poste (recherche, surveillance, administration, santé publique); la fiche O*NET décrit les tâches, pas une règle mondiale d’accès."
+    },
+    {
+      "occupation_id": "occupation.agri.agriculteur",
+      "pathway_fr": "Formation agricole ou apprentissage pratique (production végétale/animale, sols, eau, gestion d’exploitation) → expérience de terrain supervisée → gestion progressive d’une parcelle ou exploitation.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.farmer-manager"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "Le profil O*NET consulté couvre surtout les responsables d’exploitations et précise que son contenu est partiel; l’accès à l’activité agricole n’est pas un diplôme universel."
+    },
+    {
+      "occupation_id": "occupation.agri.conseiller-agricole",
+      "pathway_fr": "Formation en agronomie, sciences agricoles ou développement rural → apprentissage des méthodes de conseil et de vulgarisation → stages de terrain avec producteurs → formation continue sectorielle.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.agricultural-extension-educator"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "Le titre exact et les exigences varient; O*NET confirme le rôle de conseiller/éducateur en extension agricole mais son cadre est américain."
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-irrigation",
+      "pathway_fr": "Voie professionnelle possible : formation technique en irrigation, hydraulique, agriculture ou maintenance → pratique encadrée sur pompes, conduites, débit et entretien → perfectionnement terrain.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.colead.irrigation-technician",
+        "src.fao.irrigation-training",
+        "src.fao.irrigation-manual"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "COLEAD indique, pour le contexte de son catalogue ACP, qu’aucune qualification particulière n’est systématiquement exigée et que les compétences peuvent être acquises par la pratique et la formation interne. FAO fournit des contenus techniques de formation; ne pas transformer cela en diplôme obligatoire."
+    },
+    {
+      "occupation_id": "occupation.edu.enseignant-primaire",
+      "pathway_fr": "Formation initiale d’enseignant du primaire (diplôme ou certification pédagogique reconnu) → stages pratiques supervisés → validation/autorisation nationale si requise → développement professionnel continu.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.primary-teacher"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "La durée, le niveau de diplôme, les concours et l’autorisation d’enseigner sont nationaux; O*NET décrit le rôle dans le système américain."
+    },
+    {
+      "occupation_id": "occupation.edu.formateur-professionnel",
+      "pathway_fr": "Qualification ou expérience professionnelle dans le métier enseigné → formation pédagogique pour adultes/enseignement technique → pratique de formation supervisée → actualisation des compétences métier.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.vet-teacher"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "Dans de nombreux systèmes, une expérience métier est centrale; les titres pédagogiques et conditions d’embauche dépendent du pays et du type d’établissement."
+    },
+    {
+      "occupation_id": "occupation.edu.ingenieur-pedagogique",
+      "pathway_fr": "Formation en sciences de l’éducation, ingénierie pédagogique, technologies éducatives ou discipline connexe → pratique de conception de cours et d’évaluation → portfolio de dispositifs pédagogiques et expérience de coordination.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.instructional-coordinator"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "O*NET rattache Instructional Designer aux Instructional Coordinators; son Job Zone 5 reflète le contexte US et ne doit pas être présenté comme une obligation mondiale de diplôme de troisième cycle."
+    },
+    {
+      "occupation_id": "occupation.constr.ingenieur-genie-civil",
+      "pathway_fr": "Diplôme reconnu en génie civil ou discipline équivalente → stages/projets encadrés → expérience supervisée → enregistrement professionnel/licence si le pays ou les actes réservés l’exigent.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.civil-engineer"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "L’accréditation des cursus et le droit de signer des projets sont juridictionnels. O*NET est une source descriptive américaine, pas un registre mondial."
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-mecanique",
+      "pathway_fr": "Diplôme reconnu en génie mécanique → projets et stages industriels → expérience technique encadrée → inscription/licence professionnelle si exigée localement.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.mechanical-engineer"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "La voie générale est indicative; les titres protégés, examens et droits de signature diffèrent selon les juridictions."
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-electrique",
+      "pathway_fr": "Diplôme reconnu en génie électrique/électrotechnique → stages et projets de conception/essais → expérience supervisée → autorisation professionnelle si les travaux concernés sont réglementés.",
+      "status": "documented_as_general_route_with_country_variation",
+      "source_ids": [
+        "src.onet.electrical-engineer"
+      ],
+      "country_scope": "global_pattern_not_national_qualification",
+      "country_validation_required": true,
+      "notes_fr": "Les règles de sécurité électrique, titres et responsabilités légales sont propres aux pays; O*NET documente l’occupation américaine."
+    }
+  ]
+}

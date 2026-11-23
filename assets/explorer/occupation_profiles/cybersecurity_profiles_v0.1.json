@@ -1,0 +1,1892 @@
+{
+  "profile_set_version": "0.3.0",
+  "status": "draft_for_domain_review",
+  "domain": "cybersecurity",
+  "record_count": 10,
+  "methodology": {
+    "language": "fr",
+    "profile_basis": "Synthèse éditoriale originale structurée à partir de référentiels publics cités.",
+    "evidence_policy": "Les cadres généraux étayent la structuration des tâches/compétences ; seules les correspondances explicitement publiées sont marquées direct_role_profile.",
+    "country_specific_facts": "Aucun salaire, diplôme obligatoire, licence, taux d’emploi ou durée de formation n’est inféré.",
+    "publication_gate": "Aucune fiche ne peut être publiée avant revue métier et contrôle des sources."
+  },
+  "profiles": [
+    {
+      "id": "occupation.cyber.analyste-grc",
+      "profile_version": "0.2",
+      "fr_title": "Analyste gouvernance, risques et conformité (GRC)",
+      "en_title": "Governance, Risk and Compliance Analyst",
+      "purpose_fr": "Aide une organisation à piloter les risques liés aux systèmes numériques, à formaliser les règles de sécurité et à vérifier que les contrôles prévus sont suivis.",
+      "missions_fr": [
+        "Recenser les actifs, processus et risques numériques avec les équipes concernées.",
+        "Contribuer à l’analyse des risques et à la priorisation des mesures de réduction.",
+        "Documenter les politiques, procédures, contrôles et plans de suivi.",
+        "Préparer des éléments de preuve pour les revues et audits internes.",
+        "Suivre les écarts et relancer les responsables d’actions correctives.",
+        "Produire des indicateurs de suivi des risques et présenter périodiquement leur évolution aux responsables concernés."
+      ],
+      "skills": [
+        [
+          "analyse-de-risques",
+          "technical"
+        ],
+        [
+          "documentation-et-rédaction",
+          "transferable"
+        ],
+        [
+          "suivi-des-contrôles",
+          "technical"
+        ],
+        [
+          "communication-avec-les-parties-prenantes",
+          "transferable"
+        ],
+        [
+          "connaissance-des-référentiels-de-sécurité",
+          "knowledge"
+        ],
+        [
+          "pilotage-des-indicateurs-de-risque",
+          "transferable"
+        ]
+      ],
+      "knowledge": [
+        "principes de gestion des risques",
+        "gouvernance de la sécurité de l’information",
+        "contrôles organisationnels et techniques",
+        "notions de conformité et de protection des données",
+        "indicateurs de risque, seuils d’alerte et suivi des plans de traitement"
+      ],
+      "work_context_fr": "Travail transversal avec les équipes informatiques, juridiques, métiers, audit et direction.",
+      "evidence": [
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.esco.risk-management",
+          "related_skill"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Correspondance fonctionnelle partielle avec le périmètre ECSF Cyber Legal, Policy & Compliance Officer et Cybersecurity Risk Manager. Ne pas assimiler automatiquement l’analyste GRC à un directeur conformité/sécurité ni à un responsable de risque cyber : le niveau d’autorité, la responsabilité de décision et le périmètre juridique doivent être comparés aux tâches réelles. Aucun code ESCO/ISCO-08/O*NET n’est attribué à cette fiche à ce stade.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.analyste-grc",
+      "classification_crosswalk_v3": {
+        "esco_status": "candidate_partial",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "ESCO Cybersecurity risk manager est exact avec ECSF Risk Manager, mais Analyste GRC n’est pas identique au niveau de responsabilité du concept.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Helps an organization manage risks related to digital systems, formalize security rules and verify that planned controls are followed.",
+      "purpose_es": "Ayuda a una organización a gestionar los riesgos relacionados con los sistemas digitales, formalizar las normas de seguridad y comprobar que se aplican los controles previstos.",
+      "missions_en": [
+        "Identify digital assets, processes and risks with the relevant teams.",
+        "Contribute to risk analysis and prioritization of mitigation measures.",
+        "Document policies, procedures, controls and monitoring plans.",
+        "Prepare evidence for internal reviews and audits.",
+        "Track gaps and follow up with owners of corrective actions.",
+        "Produce risk-monitoring indicators and periodically present changes to relevant managers."
+      ],
+      "missions_es": [
+        "Identificar los activos, procesos y riesgos digitales junto con los equipos correspondientes.",
+        "Contribuir al análisis de riesgos y a la priorización de medidas de reducción.",
+        "Documentar políticas, procedimientos, controles y planes de seguimiento.",
+        "Preparar evidencias para revisiones y auditorías internas.",
+        "Hacer seguimiento de las deficiencias y contactar con los responsables de las acciones correctivas.",
+        "Elaborar indicadores de seguimiento de riesgos y presentar periódicamente su evolución a los responsables pertinentes."
+      ],
+      "work_context_en": "Cross-functional work with IT, legal, business, audit and management teams.",
+      "work_context_es": "Trabajo transversal con los equipos de informática, jurídico, negocio, auditoría y dirección.",
+      "mapping_note_en": "Partial functional correspondence with the ECSF Cyber Legal, Policy & Compliance Officer and Cybersecurity Risk Manager profiles. Do not automatically equate a GRC analyst with a compliance/security director or cyber-risk owner: decision authority, accountability and legal scope must be compared with the actual duties. No ESCO/ISCO-08/O*NET code is assigned to this profile at this stage.",
+      "mapping_note_es": "Correspondencia funcional parcial con los perfiles ECSF Cyber Legal, Policy & Compliance Officer y Cybersecurity Risk Manager. No debe equipararse automáticamente un analista GRC con un director de cumplimiento/seguridad ni con un responsable de riesgo cibernético: la autoridad de decisión, la responsabilidad y el alcance jurídico deben compararse con las tareas reales. Por ahora no se asigna ningún código ESCO/ISCO-08/O*NET a este perfil.",
+      "skills_en": [
+        [
+          "Risk analysis",
+          "technical"
+        ],
+        [
+          "Documentation and professional writing",
+          "transferable"
+        ],
+        [
+          "Control monitoring",
+          "technical"
+        ],
+        [
+          "Stakeholder communication",
+          "transferable"
+        ],
+        [
+          "Knowledge of security frameworks",
+          "knowledge"
+        ],
+        [
+          "Risk indicator management",
+          "transferable"
+        ]
+      ],
+      "knowledge_en": [
+        "Risk-management principles",
+        "Information-security governance",
+        "Organizational and technical controls",
+        "Compliance and data-protection concepts",
+        "Risk indicators, alert thresholds and treatment-plan monitoring"
+      ],
+      "skills_es": [
+        [
+          "Análisis de riesgos",
+          "technical"
+        ],
+        [
+          "Documentación y redacción profesional",
+          "transferable"
+        ],
+        [
+          "Seguimiento de controles",
+          "technical"
+        ],
+        [
+          "Comunicación con las partes interesadas",
+          "transferable"
+        ],
+        [
+          "Conocimiento de marcos de seguridad",
+          "knowledge"
+        ],
+        [
+          "Gestión de indicadores de riesgo",
+          "transferable"
+        ]
+      ],
+      "knowledge_es": [
+        "Principios de gestión de riesgos",
+        "Gobernanza de la seguridad de la información",
+        "Controles organizativos y técnicos",
+        "Conceptos de cumplimiento y protección de datos",
+        "Indicadores de riesgo, umbrales de alerta y seguimiento de planes de tratamiento"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.analyste-soc",
+      "profile_version": "0.2",
+      "fr_title": "Analyste SOC",
+      "en_title": "Security Operations Center Analyst",
+      "purpose_fr": "Surveille les événements de sécurité, examine les alertes et transmet les incidents qualifiés aux équipes habilitées selon les procédures de l’organisation.",
+      "missions_fr": [
+        "Surveiller les alertes produites par les outils de sécurité autorisés.",
+        "Trier les alertes en tenant compte du contexte et des procédures internes.",
+        "Documenter les observations et transmettre les cas nécessitant une investigation.",
+        "Contribuer à l’amélioration des règles de détection et des procédures.",
+        "Communiquer clairement l’état d’un événement aux équipes concernées.",
+        "Préparer une transmission structurée entre équipes ou niveaux de support afin de préserver le contexte des alertes en cours."
+      ],
+      "skills": [
+        [
+          "analyse-de-journaux",
+          "technical"
+        ],
+        [
+          "qualification-d-alertes",
+          "technical"
+        ],
+        [
+          "analyse-de-contexte",
+          "technical"
+        ],
+        [
+          "documentation-des-incidents",
+          "transferable"
+        ],
+        [
+          "travail-en-équipe",
+          "transferable"
+        ],
+        [
+          "priorisation-selon-impact-et-urgence",
+          "technical"
+        ]
+      ],
+      "knowledge": [
+        "fonctionnement général des réseaux et systèmes",
+        "principes de journalisation et de surveillance",
+        "catégories d’incidents de sécurité",
+        "procédures d’escalade et de communication",
+        "formats d’événements, qualité des journaux et limites des outils de détection"
+      ],
+      "work_context_fr": "Peut travailler en équipe et en horaires décalés selon l’organisation ; l’astreinte n’est pas universelle.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.onet.infosec-analyst",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Fonction de surveillance, triage et transmission d’alertes. Elle peut contribuer au dispositif de réponse aux incidents, mais n’est pas automatiquement équivalente au rôle ECSF Cyber Incident Responder, qui couvre le traitement et la continuité après incident. Aucun code métier externe n’est attribué sans comparaison des tâches réelles.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk",
+        "src.onet.infosec-analyst"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.analyste-soc",
+      "classification_crosswalk_v3": {
+        "esco_status": "candidate_partial",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "ESCO Cyber incident responder est exact avec ECSF; les tâches SOC ne sont pas toujours équivalentes à la réponse complète aux incidents.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Monitors security events, reviews alerts and forwards qualified incidents to authorized teams in accordance with organizational procedures.",
+      "purpose_es": "Supervisa los eventos de seguridad, examina las alertas y transmite los incidentes clasificados a los equipos autorizados conforme a los procedimientos de la organización.",
+      "missions_en": [
+        "Monitor alerts generated by authorized security tools.",
+        "Triage alerts using relevant context and internal procedures.",
+        "Document observations and forward cases requiring further investigation.",
+        "Contribute to improving detection rules and procedures.",
+        "Clearly communicate event status to the relevant teams.",
+        "Prepare structured handovers between teams or support levels so that ongoing alert context is preserved."
+      ],
+      "missions_es": [
+        "Supervisar las alertas generadas por las herramientas de seguridad autorizadas.",
+        "Clasificar inicialmente las alertas teniendo en cuenta el contexto y los procedimientos internos.",
+        "Documentar las observaciones y transmitir los casos que requieran una investigación adicional.",
+        "Contribuir a mejorar las reglas de detección y los procedimientos.",
+        "Comunicar claramente el estado de un evento a los equipos correspondientes.",
+        "Preparar traspasos estructurados entre equipos o niveles de soporte para conservar el contexto de las alertas en curso."
+      ],
+      "work_context_en": "May work in a team and on rotating shifts depending on the organization; on-call duties are not universal.",
+      "work_context_es": "Puede trabajar en equipo y en turnos rotativos según la organización; las guardias no son universales.",
+      "mapping_note_en": "This role focuses on monitoring, triage and alert handover. It may contribute to incident response, but it is not automatically equivalent to the ECSF Cyber Incident Responder role, which covers incident handling and post-incident continuity. No external occupation code is assigned without comparing the actual duties.",
+      "mapping_note_es": "Esta función se centra en la supervisión, la clasificación inicial y la transmisión de alertas. Puede contribuir a la respuesta a incidentes, pero no equivale automáticamente al perfil ECSF Cyber Incident Responder, que abarca la gestión del incidente y la continuidad posterior. No se asigna ningún código profesional externo sin comparar las tareas reales.",
+      "skills_en": [
+        [
+          "Log analysis",
+          "technical"
+        ],
+        [
+          "Alert triage",
+          "technical"
+        ],
+        [
+          "Context analysis",
+          "technical"
+        ],
+        [
+          "Incident documentation",
+          "transferable"
+        ],
+        [
+          "Teamwork",
+          "transferable"
+        ],
+        [
+          "Prioritization by impact and urgency",
+          "technical"
+        ]
+      ],
+      "knowledge_en": [
+        "General operation of networks and systems",
+        "Logging and monitoring principles",
+        "Categories of security incidents",
+        "Escalation and communication procedures",
+        "Event formats, log quality and limitations of detection tools"
+      ],
+      "skills_es": [
+        [
+          "Análisis de registros",
+          "technical"
+        ],
+        [
+          "Clasificación de alertas",
+          "technical"
+        ],
+        [
+          "Análisis del contexto",
+          "technical"
+        ],
+        [
+          "Documentación de incidentes",
+          "transferable"
+        ],
+        [
+          "Trabajo en equipo",
+          "transferable"
+        ],
+        [
+          "Priorización según impacto y urgencia",
+          "technical"
+        ]
+      ],
+      "knowledge_es": [
+        "Funcionamiento general de redes y sistemas",
+        "Principios de registro y supervisión",
+        "Categorías de incidentes de seguridad",
+        "Procedimientos de escalado y comunicación",
+        "Formatos de eventos, calidad de registros y limitaciones de las herramientas de detección"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.pentester-ethique",
+      "profile_version": "0.2",
+      "fr_title": "Testeur / Testeuse d’intrusion éthique",
+      "en_title": "Ethical Penetration Tester",
+      "purpose_fr": "Évalue, dans un périmètre écrit et explicitement autorisé, la résistance de systèmes ou applications à des scénarios de test définis, puis restitue les constats et les mesures correctives.",
+      "missions_fr": [
+        "Clarifier les objectifs, limites, actifs concernés et autorisations avant toute évaluation.",
+        "Préparer un plan de test proportionné et validé par le responsable du système.",
+        "Réaliser les vérifications prévues uniquement dans le périmètre autorisé.",
+        "Consigner les constats de manière reproductible sans exposer inutilement les données.",
+        "Rédiger un rapport compréhensible avec niveaux de priorité et recommandations défensives.",
+        "Vérifier, si cela est prévu, la correction des constats dans un environnement autorisé."
+      ],
+      "skills": [
+        [
+          "méthodologie-de-test-de-sécurité",
+          "technical"
+        ],
+        [
+          "analyse-des-risques-techniques",
+          "technical"
+        ],
+        [
+          "sécurité-applicative-et-réseau",
+          "knowledge"
+        ],
+        [
+          "rédaction-de-rapports",
+          "transferable"
+        ],
+        [
+          "respect-du-périmètre-et-de-la-confidentialité",
+          "transferable"
+        ],
+        [
+          "communication-des-risques-techniques",
+          "transferable"
+        ]
+      ],
+      "knowledge": [
+        "principes de sécurité des systèmes et applications",
+        "cadres d’autorisation et règles d’engagement",
+        "gestion responsable des preuves et des données",
+        "méthodes de validation et de restitution défensive",
+        "principes de minimisation des impacts et de sécurité des environnements de test"
+      ],
+      "work_context_fr": "Intervient avec une autorisation explicite, des règles d’engagement écrites et des environnements de test maîtrisés. Aucun test sur un système tiers sans permission.",
+      "evidence": [
+        [
+          "source.esco.skill-ict-testing",
+          "related_skill"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "source.enisa.ecsf.role-profiles-2022",
+          "baseline_role_profile_comparison"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.onet.pentester",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Correspondance fonctionnelle directe avec le profil ECSF Penetration Tester. ENISA indique une correspondance exacte entre ce profil ECSF et l’occupation ESCO Ethical hacker (code 2529.4). La proposition de mapping M-TIER reste candidate jusqu’à vérification du concept ESCO versionné, de l’URI et de la correspondance des tâches. Toute activité d’évaluation reste strictement limitée à une autorisation écrite et à des règles d’engagement.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk",
+        "src.onet.pentester"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.pentester-ethique",
+      "classification_crosswalk_v3": {
+        "esco_status": "confirmed_exact",
+        "esco_code": "2529.4",
+        "esco_concept": "Ethical hacker",
+        "relationship": "exact_match_confirmed_by_ENISA",
+        "mapping_note": "ESCO Ethical hacker (2529.4) est déclaré exact par ENISA avec ECSF Penetration Tester.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Assesses the resilience of systems or applications against defined test scenarios within a written and explicitly authorized scope, then reports findings and corrective measures.",
+      "purpose_es": "Evalúa la resistencia de sistemas o aplicaciones frente a escenarios de prueba definidos dentro de un alcance escrito y expresamente autorizado, y presenta los hallazgos y las medidas correctivas.",
+      "missions_en": [
+        "Clarify objectives, limits, affected assets and authorizations before any assessment.",
+        "Prepare a proportionate test plan approved by the system owner.",
+        "Carry out only the checks defined within the authorized scope.",
+        "Record reproducible findings without unnecessarily exposing data.",
+        "Write an understandable report with priorities and defensive recommendations.",
+        "Where agreed, verify that findings have been corrected in an authorized environment."
+      ],
+      "missions_es": [
+        "Aclarar los objetivos, límites, activos afectados y autorizaciones antes de cualquier evaluación.",
+        "Preparar un plan de pruebas proporcionado y aprobado por el responsable del sistema.",
+        "Realizar únicamente las comprobaciones previstas dentro del alcance autorizado.",
+        "Registrar hallazgos reproducibles sin exponer datos innecesariamente.",
+        "Redactar un informe comprensible con prioridades y recomendaciones defensivas.",
+        "Cuando esté previsto, verificar que los hallazgos se hayan corregido en un entorno autorizado."
+      ],
+      "work_context_en": "Works with explicit authorization, written rules of engagement and controlled test environments. No testing of third-party systems without permission.",
+      "work_context_es": "Trabaja con autorización expresa, reglas de intervención por escrito y entornos de prueba controlados. No se realizan pruebas en sistemas de terceros sin permiso.",
+      "mapping_note_en": "Direct functional correspondence with the ECSF Penetration Tester profile. ENISA indicates an exact correspondence between this ECSF profile and the ESCO occupation Ethical hacker (code 2529.4). The M-TIER mapping remains a candidate until the versioned ESCO concept, URI and task correspondence are verified. All assessment activity remains strictly limited to written authorization and rules of engagement.",
+      "mapping_note_es": "Correspondencia funcional directa con el perfil ECSF Penetration Tester. ENISA indica una correspondencia exacta entre este perfil ECSF y la ocupación ESCO Ethical hacker (código 2529.4). La correspondencia de M-TIER sigue siendo una candidata hasta verificar el concepto ESCO versionado, su URI y la correspondencia de tareas. Toda evaluación debe limitarse estrictamente a una autorización escrita y a reglas de intervención.",
+      "skills_en": [
+        [
+          "Security testing methodology",
+          "technical"
+        ],
+        [
+          "Technical risk analysis",
+          "technical"
+        ],
+        [
+          "Application and network security",
+          "knowledge"
+        ],
+        [
+          "Report writing",
+          "transferable"
+        ],
+        [
+          "Respect for scope and confidentiality",
+          "transferable"
+        ],
+        [
+          "Communication of technical risks",
+          "transferable"
+        ]
+      ],
+      "knowledge_en": [
+        "System and application security principles",
+        "Authorization frameworks and rules of engagement",
+        "Responsible evidence and data handling",
+        "Defensive validation and reporting methods",
+        "Impact minimization and test-environment security principles"
+      ],
+      "skills_es": [
+        [
+          "Metodología de pruebas de seguridad",
+          "technical"
+        ],
+        [
+          "Análisis de riesgos técnicos",
+          "technical"
+        ],
+        [
+          "Seguridad de aplicaciones y redes",
+          "knowledge"
+        ],
+        [
+          "Redacción de informes",
+          "transferable"
+        ],
+        [
+          "Respeto del alcance y la confidencialidad",
+          "transferable"
+        ],
+        [
+          "Comunicación de riesgos técnicos",
+          "transferable"
+        ]
+      ],
+      "knowledge_es": [
+        "Principios de seguridad de sistemas y aplicaciones",
+        "Marcos de autorización y reglas de intervención",
+        "Gestión responsable de evidencias y datos",
+        "Métodos de validación y presentación defensiva",
+        "Principios de minimización de impactos y seguridad de los entornos de prueba"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.reponse-incidents",
+      "profile_version": "0.2",
+      "fr_title": "Spécialiste de la réponse aux incidents",
+      "en_title": "Cyber Incident Responder",
+      "purpose_fr": "Contribue à détecter, analyser, contenir et traiter les incidents de cybersécurité afin de réduire leurs conséquences et de soutenir le retour à un fonctionnement normal.",
+      "missions_fr": [
+        "Recevoir et qualifier les signalements selon le plan de réponse.",
+        "Contribuer à établir une chronologie et à évaluer les impacts.",
+        "Coordonner les actions de traitement avec les équipes autorisées.",
+        "Préserver et documenter les éléments utiles selon les procédures applicables.",
+        "Participer au rétablissement, au retour d’expérience et à la prévention des récidives.",
+        "Contribuer à la revue après incident et suivre les actions correctives décidées avec les équipes responsables."
+      ],
+      "skills": [
+        [
+          "qualification-et-analyse-dincident",
+          "technical"
+        ],
+        [
+          "documentation-et-chronologie",
+          "technical"
+        ],
+        [
+          "coordination-interéquipes",
+          "transferable"
+        ],
+        [
+          "gestion-des-priorités",
+          "transferable"
+        ],
+        [
+          "communication-en-situation-critique",
+          "transferable"
+        ],
+        [
+          "analyse-d-impact-et-priorisation",
+          "technical"
+        ]
+      ],
+      "knowledge": [
+        "cycle de gestion des incidents",
+        "fonctionnement des systèmes et réseaux",
+        "continuité et reprise d’activité",
+        "principes de préservation des éléments de preuve",
+        "communication aux parties prenantes et exigences de notification selon la juridiction applicable"
+      ],
+      "work_context_fr": "Travaille avec les équipes techniques, responsables métiers, direction et parfois les fonctions juridiques ou de communication.",
+      "evidence": [
+        [
+          "source.enisa.crosswalk",
+          "direct_role_profile"
+        ],
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "source.enisa.ecsf.role-profiles-2022",
+          "baseline_role_profile_comparison"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Correspondance fonctionnelle directe avec le profil ECSF Cyber Incident Responder. ENISA indique une correspondance exacte avec l’occupation ESCO Cyber incident responder (code 2529.7). Le mapping de la fiche M-TIER reste candidat jusqu’à validation de l’URI ESCO versionnée et revue métier des responsabilités précises.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.reponse-incidents",
+      "classification_crosswalk_v3": {
+        "esco_status": "confirmed_exact",
+        "esco_code": "2529.7",
+        "esco_concept": "Cyber incident responder",
+        "relationship": "exact_match_confirmed_by_ENISA",
+        "mapping_note": "ESCO Cyber incident responder (2529.7) est déclaré exact par ENISA avec ECSF Cyber Incident Responder.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Contributes to detecting, analyzing, containing and handling cybersecurity incidents to reduce their consequences and support a return to normal operations.",
+      "purpose_es": "Contribuye a detectar, analizar, contener y gestionar incidentes de ciberseguridad para reducir sus consecuencias y apoyar la recuperación del funcionamiento normal.",
+      "missions_en": [
+        "Receive and classify reports in accordance with the response plan.",
+        "Help establish a timeline and assess impacts.",
+        "Coordinate handling actions with authorized teams.",
+        "Preserve and document relevant information in accordance with applicable procedures.",
+        "Support recovery, lessons learned and prevention of recurrence.",
+        "Contribute to post-incident reviews and track corrective actions agreed with responsible teams."
+      ],
+      "missions_es": [
+        "Recibir y clasificar los avisos conforme al plan de respuesta.",
+        "Contribuir a establecer una cronología y evaluar los impactos.",
+        "Coordinar las acciones de tratamiento con los equipos autorizados.",
+        "Preservar y documentar la información pertinente conforme a los procedimientos aplicables.",
+        "Participar en la recuperación, las lecciones aprendidas y la prevención de recurrencias.",
+        "Contribuir a la revisión posterior al incidente y hacer seguimiento de las acciones correctivas acordadas con los equipos responsables."
+      ],
+      "work_context_en": "Works with technical teams, business owners, management and sometimes legal or communications functions.",
+      "work_context_es": "Trabaja con equipos técnicos, responsables de negocio, dirección y, en ocasiones, con las funciones jurídicas o de comunicación.",
+      "mapping_note_en": "Direct functional correspondence with the ECSF Cyber Incident Responder profile. ENISA indicates an exact correspondence with the ESCO occupation Cyber incident responder (code 2529.7). The M-TIER mapping remains a candidate until the versioned ESCO URI and the precise responsibilities have been validated by a subject-matter review.",
+      "mapping_note_es": "Correspondencia funcional directa con el perfil ECSF Cyber Incident Responder. ENISA indica una correspondencia exacta con la ocupación ESCO Cyber incident responder (código 2529.7). La correspondencia de M-TIER sigue siendo candidata hasta validar la URI ESCO versionada y las responsabilidades precisas mediante una revisión especializada.",
+      "skills_en": [
+        [
+          "Incident classification and analysis",
+          "technical"
+        ],
+        [
+          "Documentation and timeline building",
+          "technical"
+        ],
+        [
+          "Cross-team coordination",
+          "transferable"
+        ],
+        [
+          "Priority management",
+          "transferable"
+        ],
+        [
+          "Communication during critical situations",
+          "transferable"
+        ],
+        [
+          "Impact analysis and prioritization",
+          "technical"
+        ]
+      ],
+      "knowledge_en": [
+        "Incident-management lifecycle",
+        "Operation of systems and networks",
+        "Business continuity and recovery",
+        "Principles of evidence preservation",
+        "Stakeholder communication and notification requirements under applicable law"
+      ],
+      "skills_es": [
+        [
+          "Clasificación y análisis de incidentes",
+          "technical"
+        ],
+        [
+          "Documentación y elaboración de cronologías",
+          "technical"
+        ],
+        [
+          "Coordinación entre equipos",
+          "transferable"
+        ],
+        [
+          "Gestión de prioridades",
+          "transferable"
+        ],
+        [
+          "Comunicación en situaciones críticas",
+          "transferable"
+        ],
+        [
+          "Análisis de impacto y priorización",
+          "technical"
+        ]
+      ],
+      "knowledge_es": [
+        "Ciclo de gestión de incidentes",
+        "Funcionamiento de sistemas y redes",
+        "Continuidad y recuperación de la actividad",
+        "Principios de preservación de evidencias",
+        "Comunicación con las partes interesadas y requisitos de notificación según la jurisdicción aplicable"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.ingenieur-iam",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure gestion des identités et des accès (IAM)",
+      "en_title": "Identity and Access Management Engineer",
+      "purpose_fr": "Conçoit et maintient les mécanismes qui permettent de gérer les identités numériques, l’authentification et les droits d’accès aux ressources d’une organisation.",
+      "missions_fr": [
+        "Recueillir les besoins d’accès et les exigences de sécurité.",
+        "Concevoir des règles d’attribution, de modification et de retrait des accès.",
+        "Mettre en œuvre des contrôles d’accès adaptés aux rôles et aux risques.",
+        "Automatiser et documenter les processus lorsque cela est pertinent.",
+        "Examiner périodiquement les droits et traiter les anomalies signalées.",
+        "Contribuer à l’intégration des processus IAM avec les applications et systèmes de l’organisation."
+      ],
+      "skills": [
+        [
+          "gestion-du-cycle-de-vie-des-identités",
+          "technical"
+        ],
+        [
+          "conception-des-droits-daccès",
+          "technical"
+        ],
+        [
+          "authentification-et-autorisation",
+          "knowledge"
+        ],
+        [
+          "automatisation-de-processus",
+          "technical"
+        ],
+        [
+          "analyse-et-documentation",
+          "transferable"
+        ],
+        [
+          "gouvernance-du-cycle-de-vie-des-identités",
+          "technical"
+        ]
+      ],
+      "knowledge": [
+        "principes du moindre privilège",
+        "gestion des comptes et identités",
+        "authentification multifacteur et fédération d’identité",
+        "séparation des tâches et revues d’accès",
+        "protocoles de fédération, synchronisation et cycle de vie des comptes"
+      ],
+      "work_context_fr": "Travaille avec les équipes systèmes, applications, ressources humaines, conformité et sécurité.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Profil d’ingénierie orienté conception, intégration, automatisation et gouvernance technique des solutions IAM. Il relève de fonctions spécialisées de mise en œuvre de contrôles; le crosswalk ENISA ne publie pas d’équivalence ESCO exacte pour cet intitulé. Distinguer ce profil du spécialiste IAM opérationnel par les livrables, le niveau de conception et la responsabilité d’intégration. Aucun code externe attribué.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.ingenieur-iam",
+      "classification_crosswalk_v3": {
+        "esco_status": "not_mapped",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "Aucun concept IAM dédié confirmé dans le crosswalk ENISA–ESCO consulté.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs and maintains the mechanisms used to manage digital identities, authentication and access rights to an organization’s resources.",
+      "purpose_es": "Diseña y mantiene los mecanismos utilizados para gestionar las identidades digitales, la autenticación y los permisos de acceso a los recursos de una organización.",
+      "missions_en": [
+        "Gather access requirements and security needs.",
+        "Design rules for granting, changing and removing access.",
+        "Implement access controls suited to roles and risks.",
+        "Automate and document processes where appropriate.",
+        "Review permissions periodically and address reported anomalies.",
+        "Contribute to integrating IAM processes with organizational applications and systems."
+      ],
+      "missions_es": [
+        "Recopilar las necesidades de acceso y los requisitos de seguridad.",
+        "Diseñar reglas para conceder, modificar y retirar accesos.",
+        "Implementar controles de acceso adecuados a los roles y los riesgos.",
+        "Automatizar y documentar los procesos cuando resulte pertinente.",
+        "Revisar periódicamente los permisos y tratar las anomalías comunicadas.",
+        "Contribuir a integrar los procesos IAM con las aplicaciones y sistemas de la organización."
+      ],
+      "work_context_en": "Works with systems, application, human-resources, compliance and security teams.",
+      "work_context_es": "Trabaja con los equipos de sistemas, aplicaciones, recursos humanos, cumplimiento y seguridad.",
+      "mapping_note_en": "An engineering profile focused on the design, integration, automation and technical governance of IAM solutions. The ENISA crosswalk does not publish an exact ESCO equivalence for this title. Distinguish this profile from an operational IAM specialist by deliverables, design level and integration responsibility. No external code is assigned.",
+      "mapping_note_es": "Perfil de ingeniería centrado en el diseño, la integración, la automatización y la gobernanza técnica de soluciones IAM. La correspondencia de ENISA no publica una equivalencia ESCO exacta para este título. Debe distinguirse del especialista IAM operativo por los entregables, el nivel de diseño y la responsabilidad de integración. No se asigna ningún código externo.",
+      "skills_en": [
+        [
+          "Identity lifecycle management",
+          "technical"
+        ],
+        [
+          "Access-rights design",
+          "technical"
+        ],
+        [
+          "Authentication and authorization",
+          "knowledge"
+        ],
+        [
+          "Process automation",
+          "technical"
+        ],
+        [
+          "Analysis and documentation",
+          "transferable"
+        ],
+        [
+          "Identity lifecycle governance",
+          "technical"
+        ]
+      ],
+      "knowledge_en": [
+        "Principle of least privilege",
+        "Account and identity management",
+        "Multi-factor authentication and identity federation",
+        "Segregation of duties and access reviews",
+        "Federation protocols, synchronization and account lifecycle"
+      ],
+      "skills_es": [
+        [
+          "Gestión del ciclo de vida de las identidades",
+          "technical"
+        ],
+        [
+          "Diseño de permisos de acceso",
+          "technical"
+        ],
+        [
+          "Autenticación y autorización",
+          "knowledge"
+        ],
+        [
+          "Automatización de procesos",
+          "technical"
+        ],
+        [
+          "Análisis y documentación",
+          "transferable"
+        ],
+        [
+          "Gobernanza del ciclo de vida de las identidades",
+          "technical"
+        ]
+      ],
+      "knowledge_es": [
+        "Principio de mínimo privilegio",
+        "Gestión de cuentas e identidades",
+        "Autenticación multifactor y federación de identidades",
+        "Separación de funciones y revisiones de acceso",
+        "Protocolos de federación, sincronización y ciclo de vida de las cuentas"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.ingenieur-securite-cloud",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure sécurité cloud",
+      "en_title": "Cloud Security Engineer",
+      "purpose_fr": "Conçoit, déploie et vérifie des mesures de sécurité adaptées aux environnements cloud et aux responsabilités partagées entre fournisseur et client.",
+      "missions_fr": [
+        "Examiner les exigences de sécurité et l’architecture des services cloud.",
+        "Définir des configurations et contrôles adaptés aux données et usages.",
+        "Contribuer à la gestion des identités, des accès et des secrets.",
+        "Surveiller les écarts de configuration et organiser leur correction.",
+        "Documenter les choix d’architecture, les risques et les contrôles.",
+        "Évaluer la prise en compte des sauvegardes, de la reprise et de la résilience dans les architectures cloud."
+      ],
+      "skills": [
+        [
+          "architecture-cloud",
+          "technical"
+        ],
+        [
+          "gestion-des-identités-et-accès",
+          "technical"
+        ],
+        [
+          "sécurisation-des-configurations",
+          "technical"
+        ],
+        [
+          "gestion-des-risques",
+          "transferable"
+        ],
+        [
+          "documentation-technique",
+          "transferable"
+        ],
+        [
+          "évaluation-de-posture-de-sécurité-cloud",
+          "technical"
+        ]
+      ],
+      "knowledge": [
+        "modèles de service et de déploiement cloud",
+        "modèle de responsabilité partagée",
+        "sécurité des données et des réseaux cloud",
+        "journalisation, surveillance et résilience",
+        "sauvegarde, reprise après incident et gestion de configuration des environnements cloud"
+      ],
+      "work_context_fr": "Collabore avec les équipes cloud, infrastructure, développement, données et gouvernance. Les outils varient selon le fournisseur et l’organisation.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Spécialisation technique centrée sur la conception et l’application de contrôles de sécurité dans les environnements cloud. Le crosswalk ENISA relie certains métiers d’architecture cloud à des tâches partagées avec ECSF Cybersecurity Architect, mais cela ne constitue pas une équivalence du métier d’ingénieur sécurité cloud. Aucun code externe attribué.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.ingenieur-securite-cloud",
+      "classification_crosswalk_v3": {
+        "esco_status": "candidate_partial",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "ESCO Cloud architect 2512.6 partage des tâches avec ECSF Cybersecurity Architect; cela ne confirme pas l’équivalence.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs, deploys and verifies security measures suited to cloud environments and the shared responsibilities of providers and customers.",
+      "purpose_es": "Diseña, despliega y verifica medidas de seguridad adaptadas a entornos cloud y a las responsabilidades compartidas entre proveedor y cliente.",
+      "missions_en": [
+        "Review security requirements and cloud-service architecture.",
+        "Define configurations and controls suited to data and usage.",
+        "Contribute to identity, access and secrets management.",
+        "Monitor configuration deviations and organize their correction.",
+        "Document architecture decisions, risks and controls.",
+        "Assess whether backup, recovery and resilience are addressed in cloud architectures."
+      ],
+      "missions_es": [
+        "Examinar los requisitos de seguridad y la arquitectura de los servicios cloud.",
+        "Definir configuraciones y controles adecuados a los datos y los usos.",
+        "Contribuir a la gestión de identidades, accesos y secretos.",
+        "Supervisar las desviaciones de configuración y organizar su corrección.",
+        "Documentar las decisiones de arquitectura, los riesgos y los controles.",
+        "Evaluar si las arquitecturas cloud contemplan copias de seguridad, recuperación y resiliencia."
+      ],
+      "work_context_en": "Collaborates with cloud, infrastructure, development, data and governance teams. Tools vary by provider and organization.",
+      "work_context_es": "Colabora con los equipos de cloud, infraestructura, desarrollo, datos y gobernanza. Las herramientas varían según el proveedor y la organización.",
+      "mapping_note_en": "A technical specialization focused on designing and applying security controls in cloud environments. The ENISA crosswalk links some cloud-architecture occupations to tasks shared with the ECSF Cybersecurity Architect profile, but this does not establish equivalence with a Cloud Security Engineer occupation. No external code is assigned.",
+      "mapping_note_es": "Especialización técnica centrada en diseñar y aplicar controles de seguridad en entornos cloud. La correspondencia de ENISA relaciona algunas ocupaciones de arquitectura cloud con tareas compartidas con el perfil ECSF Cybersecurity Architect, pero esto no establece una equivalencia con la profesión de ingeniero de seguridad cloud. No se asigna ningún código externo.",
+      "skills_en": [
+        [
+          "Cloud architecture",
+          "technical"
+        ],
+        [
+          "Identity and access management",
+          "technical"
+        ],
+        [
+          "Secure configuration management",
+          "technical"
+        ],
+        [
+          "Risk management",
+          "transferable"
+        ],
+        [
+          "Technical documentation",
+          "transferable"
+        ],
+        [
+          "Cloud security posture assessment",
+          "technical"
+        ]
+      ],
+      "knowledge_en": [
+        "Cloud service and deployment models",
+        "Shared responsibility model",
+        "Cloud data and network security",
+        "Logging, monitoring and resilience",
+        "Backup, incident recovery and cloud configuration management"
+      ],
+      "skills_es": [
+        [
+          "Arquitectura cloud",
+          "technical"
+        ],
+        [
+          "Gestión de identidades y accesos",
+          "technical"
+        ],
+        [
+          "Protección de configuraciones",
+          "technical"
+        ],
+        [
+          "Gestión de riesgos",
+          "transferable"
+        ],
+        [
+          "Documentación técnica",
+          "transferable"
+        ],
+        [
+          "Evaluación de la postura de seguridad cloud",
+          "technical"
+        ]
+      ],
+      "knowledge_es": [
+        "Modelos de servicio y despliegue cloud",
+        "Modelo de responsabilidad compartida",
+        "Seguridad de datos y redes cloud",
+        "Registro, supervisión y resiliencia",
+        "Copias de seguridad, recuperación tras incidentes y gestión de la configuración cloud"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.ingenieur-appsec",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure sécurité applicative",
+      "en_title": "Application Security Engineer",
+      "purpose_fr": "Aide les équipes de développement à intégrer la sécurité dans la conception, la réalisation, la vérification et la maintenance des applications.",
+      "missions_fr": [
+        "Conseiller les équipes sur les exigences de sécurité dès la conception.",
+        "Examiner les risques liés aux composants, dépendances et configurations.",
+        "Contribuer à intégrer des contrôles de sécurité au cycle de développement.",
+        "Aider à prioriser et suivre la correction des défauts identifiés.",
+        "Produire des recommandations et partager les pratiques de développement sûr.",
+        "Accompagner les équipes dans la vérification des corrections et la prévention de la réapparition des défauts."
+      ],
+      "skills": [
+        [
+          "développement-sécurisé",
+          "technical"
+        ],
+        [
+          "analyse-de-risques-applicatifs",
+          "technical"
+        ],
+        [
+          "revue-de-conception",
+          "technical"
+        ],
+        [
+          "gestion-des-dépendances",
+          "technical"
+        ],
+        [
+          "collaboration-avec-développeurs",
+          "transferable"
+        ],
+        [
+          "accompagnement-des-équipes-en-développement-sécurisé",
+          "transferable"
+        ]
+      ],
+      "knowledge": [
+        "cycle de vie du développement logiciel",
+        "architecture applicative et interfaces",
+        "principes de validation des entrées et de gestion des sessions",
+        "gestion des vulnérabilités et des mises à jour",
+        "modélisation des menaces, revue de code et contrôles de sécurité intégrés au développement"
+      ],
+      "work_context_fr": "Travaille au quotidien avec les développeurs, architectes, équipes qualité et opérations.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Spécialisation de sécurité applicative intégrée au cycle de développement. Le crosswalk ENISA signale des tâches partagées entre l’occupation ESCO Software architect et le profil ECSF Cybersecurity Architect; ce lien ne transforme pas l’ingénieur AppSec en architecte logiciel ni en architecte cybersécurité. Aucun code externe attribué.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.ingenieur-appsec",
+      "classification_crosswalk_v3": {
+        "esco_status": "candidate_partial",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "ESCO Software architect 2512.3 partage des tâches avec ECSF Cybersecurity Architect; cela ne confirme pas l’équivalence AppSec.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Helps development teams integrate security into application design, implementation, verification and maintenance.",
+      "purpose_es": "Ayuda a los equipos de desarrollo a integrar la seguridad en el diseño, la implementación, la verificación y el mantenimiento de aplicaciones.",
+      "missions_en": [
+        "Advise teams on security requirements from the design stage.",
+        "Review risks related to components, dependencies and configurations.",
+        "Help integrate security controls into the development lifecycle.",
+        "Help prioritize and track remediation of identified defects.",
+        "Prepare recommendations and share secure-development practices.",
+        "Support teams in verifying fixes and preventing defects from recurring."
+      ],
+      "missions_es": [
+        "Asesorar a los equipos sobre los requisitos de seguridad desde la fase de diseño.",
+        "Examinar los riesgos relacionados con componentes, dependencias y configuraciones.",
+        "Contribuir a integrar controles de seguridad en el ciclo de desarrollo.",
+        "Ayudar a priorizar y seguir la corrección de los defectos identificados.",
+        "Elaborar recomendaciones y compartir prácticas de desarrollo seguro.",
+        "Acompañar a los equipos en la verificación de las correcciones y la prevención de recurrencias."
+      ],
+      "work_context_en": "Works day to day with developers, architects, quality teams and operations teams.",
+      "work_context_es": "Trabaja diariamente con desarrolladores, arquitectos, equipos de calidad y operaciones.",
+      "mapping_note_en": "A specialization in application security integrated into the development lifecycle. The ENISA crosswalk identifies shared tasks between the ESCO Software Architect occupation and the ECSF Cybersecurity Architect profile; this does not make an AppSec Engineer equivalent to a software architect or cybersecurity architect. No external code is assigned.",
+      "mapping_note_es": "Especialización en seguridad de aplicaciones integrada en el ciclo de desarrollo. La correspondencia de ENISA identifica tareas compartidas entre la ocupación ESCO Software Architect y el perfil ECSF Cybersecurity Architect; esto no convierte al ingeniero AppSec en arquitecto de software ni en arquitecto de ciberseguridad. No se asigna ningún código externo.",
+      "skills_en": [
+        [
+          "Secure software development",
+          "technical"
+        ],
+        [
+          "Application risk analysis",
+          "technical"
+        ],
+        [
+          "Design review",
+          "technical"
+        ],
+        [
+          "Dependency management",
+          "technical"
+        ],
+        [
+          "Collaboration with developers",
+          "transferable"
+        ],
+        [
+          "Coaching teams in secure development",
+          "transferable"
+        ]
+      ],
+      "knowledge_en": [
+        "Software development lifecycle",
+        "Application architecture and interfaces",
+        "Input validation and session-management principles",
+        "Vulnerability and update management",
+        "Threat modelling, code review and security controls integrated into development"
+      ],
+      "skills_es": [
+        [
+          "Desarrollo de software seguro",
+          "technical"
+        ],
+        [
+          "Análisis de riesgos de aplicaciones",
+          "technical"
+        ],
+        [
+          "Revisión de diseño",
+          "technical"
+        ],
+        [
+          "Gestión de dependencias",
+          "technical"
+        ],
+        [
+          "Colaboración con desarrolladores",
+          "transferable"
+        ],
+        [
+          "Acompañamiento a equipos en desarrollo seguro",
+          "transferable"
+        ]
+      ],
+      "knowledge_es": [
+        "Ciclo de vida del desarrollo de software",
+        "Arquitectura de aplicaciones e interfaces",
+        "Principios de validación de entradas y gestión de sesiones",
+        "Gestión de vulnerabilidades y actualizaciones",
+        "Modelado de amenazas, revisión de código y controles de seguridad integrados en el desarrollo"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.ingenieur-securite-reseaux",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure sécurité des réseaux",
+      "en_title": "Network Security Engineer",
+      "purpose_fr": "Conçoit et maintient des contrôles destinés à protéger les communications et infrastructures réseau d’une organisation.",
+      "missions_fr": [
+        "Documenter l’architecture réseau et les exigences de protection.",
+        "Contribuer à la segmentation et à la maîtrise des flux autorisés.",
+        "Administrer les contrôles réseau selon les procédures approuvées.",
+        "Surveiller les configurations et traiter les écarts documentés.",
+        "Participer aux revues de sécurité et aux plans d’amélioration.",
+        "Contribuer à la préparation et à la revue des changements réseau afin de limiter les interruptions de service."
+      ],
+      "skills": [
+        [
+          "architecture-réseau",
+          "technical"
+        ],
+        [
+          "segmentation-réseau",
+          "technical"
+        ],
+        [
+          "gestion-des-configurations",
+          "technical"
+        ],
+        [
+          "analyse-de-journaux-réseau",
+          "technical"
+        ],
+        [
+          "documentation-et-coordination",
+          "transferable"
+        ],
+        [
+          "gestion-des-changements-réseau",
+          "technical"
+        ]
+      ],
+      "knowledge": [
+        "protocoles et architectures réseau",
+        "principes de filtrage et de segmentation",
+        "gestion des changements",
+        "disponibilité et résilience des infrastructures",
+        "haute disponibilité, résilience et procédures de changement des infrastructures réseau"
+      ],
+      "work_context_fr": "Intervient dans des environnements d’entreprise, opérateurs ou fournisseurs de services, en coordination avec les équipes réseau et sécurité.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Spécialisation technique de conception et d’exploitation de contrôles de sécurité réseau. Le crosswalk ENISA indique des tâches partagées entre ICT network architect et ECSF Cybersecurity Architect, mais cela ne valide pas une équivalence directe avec ce profil M-TIER. Aucun code externe attribué.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.ingenieur-securite-reseaux",
+      "classification_crosswalk_v3": {
+        "esco_status": "candidate_partial",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "ESCO ICT network architect 2523.2 partage des tâches avec ECSF Cybersecurity Architect; cela ne confirme pas l’équivalence.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs and maintains controls intended to protect an organization’s network communications and infrastructure.",
+      "purpose_es": "Diseña y mantiene controles destinados a proteger las comunicaciones y la infraestructura de red de una organización.",
+      "missions_en": [
+        "Document network architecture and protection requirements.",
+        "Contribute to segmentation and control of authorized traffic flows.",
+        "Administer network controls under approved procedures.",
+        "Monitor configurations and address documented deviations.",
+        "Take part in security reviews and improvement plans.",
+        "Help prepare and review network changes to limit service interruptions."
+      ],
+      "missions_es": [
+        "Documentar la arquitectura de red y los requisitos de protección.",
+        "Contribuir a la segmentación y al control de los flujos autorizados.",
+        "Administrar los controles de red conforme a procedimientos aprobados.",
+        "Supervisar las configuraciones y tratar las desviaciones documentadas.",
+        "Participar en revisiones de seguridad y planes de mejora.",
+        "Contribuir a preparar y revisar cambios de red para limitar interrupciones del servicio."
+      ],
+      "work_context_en": "Works in enterprise, operator or service-provider environments, in coordination with network and security teams.",
+      "work_context_es": "Trabaja en entornos empresariales, de operadores o proveedores de servicios, en coordinación con los equipos de redes y seguridad.",
+      "mapping_note_en": "A technical specialization in the design and operation of network-security controls. The ENISA crosswalk identifies shared tasks between ICT Network Architect and the ECSF Cybersecurity Architect profile, but this does not validate direct equivalence with this M-TIER profile. No external code is assigned.",
+      "mapping_note_es": "Especialización técnica en el diseño y la operación de controles de seguridad de red. La correspondencia de ENISA identifica tareas compartidas entre ICT Network Architect y el perfil ECSF Cybersecurity Architect, pero esto no valida una equivalencia directa con este perfil M-TIER. No se asigna ningún código externo.",
+      "skills_en": [
+        [
+          "Network architecture",
+          "technical"
+        ],
+        [
+          "Network segmentation",
+          "technical"
+        ],
+        [
+          "Configuration management",
+          "technical"
+        ],
+        [
+          "Network-log analysis",
+          "technical"
+        ],
+        [
+          "Documentation and coordination",
+          "transferable"
+        ],
+        [
+          "Network change management",
+          "technical"
+        ]
+      ],
+      "knowledge_en": [
+        "Network protocols and architectures",
+        "Filtering and segmentation principles",
+        "Change management",
+        "Infrastructure availability and resilience",
+        "High availability, resilience and network-infrastructure change procedures"
+      ],
+      "skills_es": [
+        [
+          "Arquitectura de red",
+          "technical"
+        ],
+        [
+          "Segmentación de redes",
+          "technical"
+        ],
+        [
+          "Gestión de configuraciones",
+          "technical"
+        ],
+        [
+          "Análisis de registros de red",
+          "technical"
+        ],
+        [
+          "Documentación y coordinación",
+          "transferable"
+        ],
+        [
+          "Gestión de cambios de red",
+          "technical"
+        ]
+      ],
+      "knowledge_es": [
+        "Protocolos y arquitecturas de red",
+        "Principios de filtrado y segmentación",
+        "Gestión de cambios",
+        "Disponibilidad y resiliencia de infraestructuras",
+        "Alta disponibilidad, resiliencia y procedimientos de cambio de infraestructuras de red"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.coordinateur-reponse-incident",
+      "profile_version": "0.2",
+      "fr_title": "Coordinateur / Coordinatrice de réponse aux incidents",
+      "en_title": "Incident Response Coordinator",
+      "purpose_fr": "Organise la coordination opérationnelle et la communication entre les équipes impliquées dans la gestion d’un incident de sécurité.",
+      "missions_fr": [
+        "Activer les circuits de coordination prévus par le plan d’incident.",
+        "Clarifier les responsabilités, priorités et points de situation.",
+        "Assurer la circulation contrôlée des informations utiles.",
+        "Suivre les décisions, actions, dépendances et échéances.",
+        "Organiser le retour d’expérience et le suivi des améliorations.",
+        "Veiller à ce que les décisions, validations et informations diffusées soient datées, attribuées et traçables."
+      ],
+      "skills": [
+        [
+          "coordination-de-crise",
+          "transferable"
+        ],
+        [
+          "gestion-des-priorités",
+          "transferable"
+        ],
+        [
+          "communication-structurée",
+          "transferable"
+        ],
+        [
+          "suivi-des-actions",
+          "technical"
+        ],
+        [
+          "compréhension-des-incidents-cyber",
+          "knowledge"
+        ],
+        [
+          "animation-de-points-de-situation",
+          "transferable"
+        ]
+      ],
+      "knowledge": [
+        "plans de réponse et de continuité",
+        "rôles et responsabilités organisationnelles",
+        "communication de crise",
+        "gestion documentaire et traçabilité",
+        "gestion des parties prenantes, journal de décision et traçabilité des communications"
+      ],
+      "work_context_fr": "Rôle de coordination pouvant être assuré par un responsable d’incident ou une personne désignée ; il n’existe pas nécessairement comme poste autonome.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "related_role_context"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "À traiter provisoirement comme fonction de coordination ou responsabilité assignée dans un dispositif de réponse, et non comme occupation autonome comptabilisée séparément. Le périmètre doit être comparé à des postes réels (incident manager, crisis coordinator, response lead) dans plusieurs marchés avant maintien comme fiche distincte.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.coordinateur-reponse-incident",
+      "classification_crosswalk_v3": {
+        "esco_status": "not_mapped",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "Aucun métier autonome de coordinateur de réponse aux incidents n’est explicitement confirmé dans le crosswalk.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Organizes operational coordination and communication between teams involved in managing a security incident.",
+      "purpose_es": "Organiza la coordinación operativa y la comunicación entre los equipos implicados en la gestión de un incidente de seguridad.",
+      "missions_en": [
+        "Activate coordination channels defined in the incident plan.",
+        "Clarify responsibilities, priorities and status updates.",
+        "Ensure controlled circulation of relevant information.",
+        "Track decisions, actions, dependencies and deadlines.",
+        "Organize lessons learned and follow up improvement actions.",
+        "Ensure that decisions, approvals and communications are dated, attributed and traceable."
+      ],
+      "missions_es": [
+        "Activar los canales de coordinación previstos en el plan de incidentes.",
+        "Aclarar responsabilidades, prioridades y puntos de situación.",
+        "Garantizar la circulación controlada de la información pertinente.",
+        "Hacer seguimiento de decisiones, acciones, dependencias y plazos.",
+        "Organizar las lecciones aprendidas y hacer seguimiento de las mejoras.",
+        "Velar por que las decisiones, validaciones y comunicaciones estén fechadas, atribuidas y sean trazables."
+      ],
+      "work_context_en": "A coordination function that may be performed by an incident manager or an assigned person; it does not necessarily exist as a standalone job.",
+      "work_context_es": "Función de coordinación que puede asumir un responsable de incidentes o una persona designada; no necesariamente existe como puesto independiente.",
+      "mapping_note_en": "Treat provisionally as a coordination function or assigned responsibility within an incident-response arrangement, not as a separately counted occupation. Compare the scope with real incident-manager, crisis-coordinator and response-lead roles across several markets before retaining it as a distinct profile.",
+      "mapping_note_es": "Tratar provisionalmente como una función de coordinación o responsabilidad asignada dentro de un dispositivo de respuesta a incidentes, no como una ocupación contabilizada por separado. Comparar su alcance con puestos reales de incident manager, crisis coordinator y response lead en varios mercados antes de mantenerlo como perfil independiente.",
+      "skills_en": [
+        [
+          "Crisis coordination",
+          "transferable"
+        ],
+        [
+          "Priority management",
+          "transferable"
+        ],
+        [
+          "Structured communication",
+          "transferable"
+        ],
+        [
+          "Action tracking",
+          "technical"
+        ],
+        [
+          "Understanding cybersecurity incidents",
+          "knowledge"
+        ],
+        [
+          "Facilitating status meetings",
+          "transferable"
+        ]
+      ],
+      "knowledge_en": [
+        "Incident-response and continuity plans",
+        "Organizational roles and responsibilities",
+        "Crisis communication",
+        "Document management and traceability",
+        "Stakeholder management, decision logs and communication traceability"
+      ],
+      "skills_es": [
+        [
+          "Coordinación de crisis",
+          "transferable"
+        ],
+        [
+          "Gestión de prioridades",
+          "transferable"
+        ],
+        [
+          "Comunicación estructurada",
+          "transferable"
+        ],
+        [
+          "Seguimiento de acciones",
+          "technical"
+        ],
+        [
+          "Comprensión de incidentes de ciberseguridad",
+          "knowledge"
+        ],
+        [
+          "Facilitación de reuniones de seguimiento",
+          "transferable"
+        ]
+      ],
+      "knowledge_es": [
+        "Planes de respuesta a incidentes y continuidad",
+        "Roles y responsabilidades organizativas",
+        "Comunicación de crisis",
+        "Gestión documental y trazabilidad",
+        "Gestión de partes interesadas, registro de decisiones y trazabilidad de comunicaciones"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "occupation.cyber.specialiste-iam",
+      "profile_version": "0.2",
+      "fr_title": "Spécialiste gestion des identités et des accès (IAM)",
+      "en_title": "Identity and Access Management Specialist",
+      "purpose_fr": "Administre et contrôle les processus d’identité et d’accès afin que les utilisateurs disposent uniquement des droits nécessaires à leurs missions.",
+      "missions_fr": [
+        "Traiter les demandes d’accès selon les validations prévues.",
+        "Appliquer les règles de création, modification et suppression des comptes.",
+        "Réaliser ou préparer les revues périodiques de droits.",
+        "Documenter les exceptions et faire remonter les écarts.",
+        "Accompagner les utilisateurs et équipes dans les procédures IAM.",
+        "Identifier les comptes inactifs ou les accès devenus sans objet et transmettre les demandes de traitement selon les validations prévues."
+      ],
+      "skills": [
+        [
+          "administration-des-identités",
+          "technical"
+        ],
+        [
+          "gestion-des-droits",
+          "technical"
+        ],
+        [
+          "contrôle-et-revue-des-accès",
+          "technical"
+        ],
+        [
+          "support-utilisateur",
+          "transferable"
+        ],
+        [
+          "rigueur-documentaire",
+          "transferable"
+        ],
+        [
+          "détection-des-accès-obsolètes-et-traitement-des-exceptions",
+          "technical"
+        ]
+      ],
+      "knowledge": [
+        "principes de gestion des comptes",
+        "contrôle d’accès basé sur les rôles",
+        "cycle de vie des utilisateurs",
+        "traçabilité et séparation des responsabilités",
+        "gestion des comptes à privilèges, accès temporaires et exceptions approuvées"
+      ],
+      "work_context_fr": "Fonction souvent intégrée à l’administration systèmes, au support ou à une équipe IAM spécialisée.",
+      "evidence": [
+        [
+          "source.nist.nice",
+          "task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.ecsf",
+          "contextual_framework"
+        ],
+        [
+          "source.nist.nice.components-v2.2.0",
+          "versioned_task_knowledge_skill_framework"
+        ],
+        [
+          "source.enisa.crosswalk",
+          "official_role_to_ESCO_relationships_for_comparative_review"
+        ],
+        [
+          "src.enisa.ecsf.roleprofiles.v2022",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ],
+        [
+          "src.enisa.ecsf.esco.crosswalk",
+          "direct_role_profile_or_official_crosswalk_v3"
+        ]
+      ],
+      "mapping_note": "Profil opérationnel orienté administration des identités, traitement des demandes, cycle de vie des comptes et revues d’accès. Il doit être distingué de l’ingénieur IAM par ses tâches quotidiennes et livrables. Le crosswalk ENISA ne publie pas d’équivalence ESCO exacte pour cet intitulé; aucun code externe attribué.",
+      "status": "draft_needs_expert_review",
+      "direct_sources_v3": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "src.enisa.ecsf.esco.crosswalk"
+      ],
+      "training_pathway_ref": "training_pathways_batch_02_v3.json#occupation.cyber.specialiste-iam",
+      "classification_crosswalk_v3": {
+        "esco_status": "not_mapped",
+        "esco_code": null,
+        "esco_concept": null,
+        "relationship": "not_exact_or_not_confirmed",
+        "mapping_note": "Aucun concept IAM spécialisé confirmé dans le crosswalk ENISA–ESCO consulté.",
+        "source_ids": [
+          "src.enisa.ecsf.esco.crosswalk"
+        ]
+      },
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Administers and controls identity and access processes so that users receive only the permissions needed for their duties.",
+      "purpose_es": "Administra y controla los procesos de identidad y acceso para que los usuarios dispongan únicamente de los permisos necesarios para sus funciones.",
+      "missions_en": [
+        "Process access requests according to the required approvals.",
+        "Apply account-creation, modification and removal rules.",
+        "Carry out or prepare periodic access-rights reviews.",
+        "Document exceptions and report deviations.",
+        "Support users and teams with IAM procedures.",
+        "Identify inactive accounts or obsolete access and submit treatment requests through the required approval process."
+      ],
+      "missions_es": [
+        "Tramitar solicitudes de acceso conforme a las validaciones previstas.",
+        "Aplicar las reglas de creación, modificación y eliminación de cuentas.",
+        "Realizar o preparar revisiones periódicas de permisos.",
+        "Documentar excepciones y comunicar desviaciones.",
+        "Acompañar a usuarios y equipos en los procedimientos IAM.",
+        "Identificar cuentas inactivas o accesos obsoletos y transmitir solicitudes de tratamiento mediante el proceso de validación previsto."
+      ],
+      "work_context_en": "A function often integrated into systems administration, user support or a specialist IAM team.",
+      "work_context_es": "Función integrada con frecuencia en la administración de sistemas, el soporte a usuarios o un equipo IAM especializado.",
+      "mapping_note_en": "An operational profile focused on identity administration, request handling, account lifecycle and access reviews. It should be distinguished from an IAM engineer by day-to-day tasks and deliverables. The ENISA crosswalk does not publish an exact ESCO equivalence for this title; no external code is assigned.",
+      "mapping_note_es": "Perfil operativo centrado en la administración de identidades, tramitación de solicitudes, ciclo de vida de cuentas y revisiones de acceso. Debe distinguirse del ingeniero IAM por las tareas y entregables cotidianos. La correspondencia de ENISA no publica una equivalencia ESCO exacta para este título; no se asigna ningún código externo.",
+      "skills_en": [
+        [
+          "Identity administration",
+          "technical"
+        ],
+        [
+          "Access-rights management",
+          "technical"
+        ],
+        [
+          "Access control and review",
+          "technical"
+        ],
+        [
+          "User support",
+          "transferable"
+        ],
+        [
+          "Documentary accuracy",
+          "transferable"
+        ],
+        [
+          "Detection of obsolete access and exception handling",
+          "technical"
+        ]
+      ],
+      "knowledge_en": [
+        "Account-management principles",
+        "Role-based access control",
+        "User lifecycle",
+        "Traceability and segregation of duties",
+        "Privileged accounts, temporary access and approved exceptions"
+      ],
+      "skills_es": [
+        [
+          "Administración de identidades",
+          "technical"
+        ],
+        [
+          "Gestión de permisos",
+          "technical"
+        ],
+        [
+          "Control y revisión de accesos",
+          "technical"
+        ],
+        [
+          "Soporte a usuarios",
+          "transferable"
+        ],
+        [
+          "Rigor documental",
+          "transferable"
+        ],
+        [
+          "Detección de accesos obsoletos y gestión de excepciones",
+          "technical"
+        ]
+      ],
+      "knowledge_es": [
+        "Principios de gestión de cuentas",
+        "Control de acceso basado en roles",
+        "Ciclo de vida de usuarios",
+        "Trazabilidad y separación de responsabilidades",
+        "Cuentas privilegiadas, accesos temporales y excepciones aprobadas"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ],
+  "audit_checkpoint": "cybersecurity_audit_v2_2026-11-22"
+}

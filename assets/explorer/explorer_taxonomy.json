@@ -1,0 +1,2782 @@
+{
+  "catalog_version": "0.2.0",
+  "product": "M-TIER 4.0",
+  "locale": "fr",
+  "status": "expanded_taxonomy_and_seed_draft_not_published",
+  "counts": {
+    "domains": 28,
+    "families": 216,
+    "occupations": 115
+  },
+  "domains": [
+    {
+      "id": "domain.agri",
+      "code": "AGRI",
+      "name_fr": "Agriculture, élevage et agroalimentaire",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.agri.01",
+          "name_fr": "Production végétale",
+          "status": "taxonomy_draft",
+          "name_en": "Crop production",
+          "name_es": "Producción vegetal",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.02",
+          "name_fr": "Élevage et santé animale",
+          "status": "taxonomy_draft",
+          "name_en": "Livestock and animal health",
+          "name_es": "Ganadería y salud animal",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.03",
+          "name_fr": "Pêche et aquaculture",
+          "status": "taxonomy_draft",
+          "name_en": "Fishing and aquaculture",
+          "name_es": "Pesca y acuicultura",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.04",
+          "name_fr": "Transformation agroalimentaire",
+          "status": "taxonomy_draft",
+          "name_en": "Agri-food processing",
+          "name_es": "Transformación agroalimentaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.05",
+          "name_fr": "Agronomie et conseil agricole",
+          "status": "taxonomy_draft",
+          "name_en": "Agronomy and agricultural advisory",
+          "name_es": "Agronomía y asesoramiento agrícola",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.06",
+          "name_fr": "Machinisme agricole",
+          "status": "taxonomy_draft",
+          "name_en": "Agricultural machinery",
+          "name_es": "Maquinaria agrícola",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.07",
+          "name_fr": "Irrigation et gestion des sols",
+          "status": "taxonomy_draft",
+          "name_en": "Irrigation and soil management",
+          "name_es": "Riego y gestión de suelos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.agri.08",
+          "name_fr": "Qualité et sécurité alimentaire",
+          "status": "taxonomy_draft",
+          "name_en": "Food quality and safety",
+          "name_es": "Calidad e inocuidad alimentaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Agriculture, livestock and food processing",
+      "name_es": "Agricultura, ganadería y agroalimentación",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.env",
+      "code": "ENV",
+      "name_fr": "Environnement, climat et ressources naturelles",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.env.01",
+          "name_fr": "Protection de la biodiversité",
+          "status": "taxonomy_draft",
+          "name_en": "Biodiversity conservation",
+          "name_es": "Conservación de la biodiversidad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.02",
+          "name_fr": "Gestion des déchets et recyclage",
+          "status": "taxonomy_draft",
+          "name_en": "Waste management and recycling",
+          "name_es": "Gestión de residuos y reciclaje",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.03",
+          "name_fr": "Eau et assainissement",
+          "status": "taxonomy_draft",
+          "name_en": "Water and sanitation",
+          "name_es": "Agua y saneamiento",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.04",
+          "name_fr": "Climat et adaptation",
+          "status": "taxonomy_draft",
+          "name_en": "Climate and adaptation",
+          "name_es": "Clima y adaptación",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.05",
+          "name_fr": "Foresterie",
+          "status": "taxonomy_draft",
+          "name_en": "Forestry",
+          "name_es": "Silvicultura",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.06",
+          "name_fr": "Écologie et études d’impact",
+          "status": "taxonomy_draft",
+          "name_en": "Ecology and impact assessment",
+          "name_es": "Ecología y evaluación de impactos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.07",
+          "name_fr": "Énergies renouvelables et environnement",
+          "status": "taxonomy_draft",
+          "name_en": "Renewable energy and environment",
+          "name_es": "Energías renovables y medio ambiente",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.env.08",
+          "name_fr": "Gestion des ressources naturelles",
+          "status": "taxonomy_draft",
+          "name_en": "Natural-resource management",
+          "name_es": "Gestión de recursos naturales",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Environment, climate and natural resources",
+      "name_es": "Medio ambiente, clima y recursos naturales",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.health",
+      "code": "HEALTH",
+      "name_fr": "Santé, soins et bien-être",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.health.01",
+          "name_fr": "Médecine",
+          "status": "taxonomy_draft",
+          "name_en": "Medicine",
+          "name_es": "Medicina",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.02",
+          "name_fr": "Soins infirmiers et obstétricaux",
+          "status": "taxonomy_draft",
+          "name_en": "Nursing and midwifery",
+          "name_es": "Enfermería y obstetricia",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.03",
+          "name_fr": "Pharmacie",
+          "status": "taxonomy_draft",
+          "name_en": "Pharmacy",
+          "name_es": "Farmacia",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.04",
+          "name_fr": "Laboratoires et biologie médicale",
+          "status": "taxonomy_draft",
+          "name_en": "Laboratories and medical biology",
+          "name_es": "Laboratorios y biología médica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.05",
+          "name_fr": "Imagerie et radiologie",
+          "status": "taxonomy_draft",
+          "name_en": "Medical imaging and radiology",
+          "name_es": "Diagnóstico por imagen y radiología",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.06",
+          "name_fr": "Rééducation et réadaptation",
+          "status": "taxonomy_draft",
+          "name_en": "Rehabilitation and recovery",
+          "name_es": "Rehabilitación y recuperación funcional",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.07",
+          "name_fr": "Santé publique",
+          "status": "taxonomy_draft",
+          "name_en": "Public health",
+          "name_es": "Salud pública",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.08",
+          "name_fr": "Nutrition et diététique",
+          "status": "taxonomy_draft",
+          "name_en": "Nutrition and dietetics",
+          "name_es": "Nutrición y dietética",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.09",
+          "name_fr": "Santé mentale",
+          "status": "taxonomy_draft",
+          "name_en": "Mental health",
+          "name_es": "Salud mental",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.health.10",
+          "name_fr": "Urgences et secours",
+          "status": "taxonomy_draft",
+          "name_en": "Emergency care and rescue",
+          "name_es": "Urgencias y socorro",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Health, care and well-being",
+      "name_es": "Salud, atención y bienestar",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.social",
+      "code": "SOCIAL",
+      "name_fr": "Action sociale et accompagnement humain",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.social.01",
+          "name_fr": "Travail social",
+          "status": "taxonomy_draft",
+          "name_en": "Social work",
+          "name_es": "Trabajo social",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.02",
+          "name_fr": "Protection de l’enfance",
+          "status": "taxonomy_draft",
+          "name_en": "Child protection",
+          "name_es": "Protección de la infancia",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.03",
+          "name_fr": "Accompagnement du handicap",
+          "status": "taxonomy_draft",
+          "name_en": "Disability support",
+          "name_es": "Acompañamiento a personas con discapacidad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.04",
+          "name_fr": "Insertion et emploi",
+          "status": "taxonomy_draft",
+          "name_en": "Social and employment integration",
+          "name_es": "Inserción social y laboral",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.05",
+          "name_fr": "Aide à domicile",
+          "status": "taxonomy_draft",
+          "name_en": "Home care",
+          "name_es": "Atención domiciliaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.06",
+          "name_fr": "Médiation sociale",
+          "status": "taxonomy_draft",
+          "name_en": "Social mediation",
+          "name_es": "Mediación social",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.07",
+          "name_fr": "Humanitaire et développement",
+          "status": "taxonomy_draft",
+          "name_en": "Humanitarian aid and development",
+          "name_es": "Acción humanitaria y desarrollo",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.social.08",
+          "name_fr": "Accompagnement des personnes âgées",
+          "status": "taxonomy_draft",
+          "name_en": "Support for older people",
+          "name_es": "Acompañamiento a personas mayores",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Social services and human support",
+      "name_es": "Acción social y acompañamiento humano",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.edu",
+      "code": "EDU",
+      "name_fr": "Éducation, formation et pédagogie",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.edu.01",
+          "name_fr": "Enseignement préscolaire et primaire",
+          "status": "taxonomy_draft",
+          "name_en": "Pre-primary and primary education",
+          "name_es": "Educación infantil y primaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.02",
+          "name_fr": "Enseignement secondaire",
+          "status": "taxonomy_draft",
+          "name_en": "Secondary education",
+          "name_es": "Educación secundaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.03",
+          "name_fr": "Enseignement supérieur",
+          "status": "taxonomy_draft",
+          "name_en": "Higher education",
+          "name_es": "Educación superior",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.04",
+          "name_fr": "Formation professionnelle",
+          "status": "taxonomy_draft",
+          "name_en": "Vocational training",
+          "name_es": "Formación profesional",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.05",
+          "name_fr": "Éducation spécialisée",
+          "status": "taxonomy_draft",
+          "name_en": "Special education",
+          "name_es": "Educación especial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.06",
+          "name_fr": "Conception pédagogique",
+          "status": "taxonomy_draft",
+          "name_en": "Instructional design",
+          "name_es": "Diseño pedagógico",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.07",
+          "name_fr": "Orientation et conseil",
+          "status": "taxonomy_draft",
+          "name_en": "Career guidance and counselling",
+          "name_es": "Orientación y asesoramiento",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.edu.08",
+          "name_fr": "Éducation numérique",
+          "status": "taxonomy_draft",
+          "name_en": "Digital education",
+          "name_es": "Educación digital",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Education, training and pedagogy",
+      "name_es": "Educación, formación y pedagogía",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.sci",
+      "code": "SCI",
+      "name_fr": "Sciences, recherche et laboratoire",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.sci.01",
+          "name_fr": "Sciences biologiques",
+          "status": "taxonomy_draft",
+          "name_en": "Biological sciences",
+          "name_es": "Ciencias biológicas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.02",
+          "name_fr": "Chimie et matériaux",
+          "status": "taxonomy_draft",
+          "name_en": "Chemistry and materials",
+          "name_es": "Química y materiales",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.03",
+          "name_fr": "Physique et astronomie",
+          "status": "taxonomy_draft",
+          "name_en": "Physics and astronomy",
+          "name_es": "Física y astronomía",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.04",
+          "name_fr": "Mathématiques et statistiques",
+          "status": "taxonomy_draft",
+          "name_en": "Mathematics and statistics",
+          "name_es": "Matemáticas y estadística",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.05",
+          "name_fr": "Sciences de la terre",
+          "status": "taxonomy_draft",
+          "name_en": "Earth sciences",
+          "name_es": "Ciencias de la Tierra",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.06",
+          "name_fr": "Recherche interdisciplinaire",
+          "status": "taxonomy_draft",
+          "name_en": "Interdisciplinary research",
+          "name_es": "Investigación interdisciplinaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.07",
+          "name_fr": "Techniciens de laboratoire",
+          "status": "taxonomy_draft",
+          "name_en": "Laboratory technicians",
+          "name_es": "Técnicos de laboratorio",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sci.08",
+          "name_fr": "Recherche clinique",
+          "status": "taxonomy_draft",
+          "name_en": "Clinical research",
+          "name_es": "Investigación clínica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Science, research and laboratory work",
+      "name_es": "Ciencias, investigación y laboratorio",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.it",
+      "code": "IT",
+      "name_fr": "Informatique, logiciels et technologies numériques",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.it.01",
+          "name_fr": "Développement logiciel",
+          "status": "taxonomy_draft",
+          "name_en": "Software development",
+          "name_es": "Desarrollo de software",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.02",
+          "name_fr": "Développement mobile et web",
+          "status": "taxonomy_draft",
+          "name_en": "Mobile and web development",
+          "name_es": "Desarrollo móvil y web",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.03",
+          "name_fr": "Architecture logicielle",
+          "status": "taxonomy_draft",
+          "name_en": "Software architecture",
+          "name_es": "Arquitectura de software",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.04",
+          "name_fr": "Administration systèmes",
+          "status": "taxonomy_draft",
+          "name_en": "Systems administration",
+          "name_es": "Administración de sistemas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.05",
+          "name_fr": "Cloud et plateformes",
+          "status": "taxonomy_draft",
+          "name_en": "Cloud and platforms",
+          "name_es": "Cloud y plataformas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.06",
+          "name_fr": "Données et bases de données",
+          "status": "taxonomy_draft",
+          "name_en": "Data and databases",
+          "name_es": "Datos y bases de datos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.07",
+          "name_fr": "Intelligence artificielle",
+          "status": "taxonomy_draft",
+          "name_en": "Artificial intelligence",
+          "name_es": "Inteligencia artificial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.08",
+          "name_fr": "Assurance qualité logicielle",
+          "status": "taxonomy_draft",
+          "name_en": "Software quality assurance",
+          "name_es": "Aseguramiento de la calidad del software",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.09",
+          "name_fr": "Support informatique",
+          "status": "taxonomy_draft",
+          "name_en": "IT support",
+          "name_es": "Soporte informático",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.it.10",
+          "name_fr": "Systèmes embarqués",
+          "status": "taxonomy_draft",
+          "name_en": "Embedded systems",
+          "name_es": "Sistemas embebidos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "IT, software and digital technologies",
+      "name_es": "Informática, software y tecnologías digitales",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.cyber",
+      "code": "CYBER",
+      "name_fr": "Cybersécurité et confiance numérique",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.cyber.01",
+          "name_fr": "Gouvernance, risques et conformité (GRC)",
+          "status": "taxonomy_draft",
+          "name_en": "Governance, risk and compliance (GRC)",
+          "name_es": "Gobernanza, riesgos y cumplimiento (GRC)",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.02",
+          "name_fr": "Opérations de sécurité (SOC)",
+          "status": "taxonomy_draft",
+          "name_en": "Security operations (SOC)",
+          "name_es": "Operaciones de seguridad (SOC)",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.03",
+          "name_fr": "Sécurité des réseaux",
+          "status": "taxonomy_draft",
+          "name_en": "Network security",
+          "name_es": "Seguridad de redes",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.04",
+          "name_fr": "Sécurité des systèmes et endpoints",
+          "status": "taxonomy_draft",
+          "name_en": "Systems and endpoint security",
+          "name_es": "Seguridad de sistemas y endpoints",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.05",
+          "name_fr": "Sécurité cloud",
+          "status": "taxonomy_draft",
+          "name_en": "Cloud security",
+          "name_es": "Seguridad cloud",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.06",
+          "name_fr": "Sécurité des applications (AppSec)",
+          "status": "taxonomy_draft",
+          "name_en": "Application security (AppSec)",
+          "name_es": "Seguridad de aplicaciones (AppSec)",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.07",
+          "name_fr": "Tests d’intrusion éthiques et autorisés",
+          "status": "taxonomy_draft",
+          "name_en": "Authorized ethical penetration testing",
+          "name_es": "Pruebas de penetración éticas y autorizadas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.08",
+          "name_fr": "Équipe rouge et simulation défensive",
+          "status": "taxonomy_draft",
+          "name_en": "Red teaming and defensive simulation",
+          "name_es": "Equipo rojo y simulación defensiva",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.09",
+          "name_fr": "Réponse aux incidents",
+          "status": "taxonomy_draft",
+          "name_en": "Incident response",
+          "name_es": "Respuesta a incidentes",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.10",
+          "name_fr": "Investigation numérique et forensique",
+          "status": "taxonomy_draft",
+          "name_en": "Digital investigation and forensics",
+          "name_es": "Investigación digital y análisis forense",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.11",
+          "name_fr": "Gestion des identités et des accès (IAM)",
+          "status": "taxonomy_draft",
+          "name_en": "Identity and access management (IAM)",
+          "name_es": "Gestión de identidades y accesos (IAM)",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.12",
+          "name_fr": "Architecture et ingénierie de sécurité",
+          "status": "taxonomy_draft",
+          "name_en": "Security architecture and engineering",
+          "name_es": "Arquitectura e ingeniería de seguridad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.13",
+          "name_fr": "Sensibilisation et formation sécurité",
+          "status": "taxonomy_draft",
+          "name_en": "Security awareness and training",
+          "name_es": "Sensibilización y formación en seguridad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.cyber.14",
+          "name_fr": "Sécurité des données et confidentialité",
+          "status": "taxonomy_draft",
+          "name_en": "Data security and privacy",
+          "name_es": "Seguridad de datos y privacidad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Cybersecurity and digital trust",
+      "name_es": "Ciberseguridad y confianza digital",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.data",
+      "code": "DATA",
+      "name_fr": "Données, statistiques et intelligence décisionnelle",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.data.01",
+          "name_fr": "Analyse de données",
+          "status": "taxonomy_draft",
+          "name_en": "Data analysis",
+          "name_es": "Análisis de datos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.data.02",
+          "name_fr": "Ingénierie des données",
+          "status": "taxonomy_draft",
+          "name_en": "Data engineering",
+          "name_es": "Ingeniería de datos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.data.03",
+          "name_fr": "Science des données",
+          "status": "taxonomy_draft",
+          "name_en": "Data science",
+          "name_es": "Ciencia de datos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.data.04",
+          "name_fr": "Business intelligence",
+          "status": "taxonomy_draft",
+          "name_en": "Business intelligence",
+          "name_es": "Inteligencia de negocio",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.data.05",
+          "name_fr": "Gouvernance et qualité des données",
+          "status": "taxonomy_draft",
+          "name_en": "Data governance and quality",
+          "name_es": "Gobernanza y calidad de datos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.data.06",
+          "name_fr": "Statistiques appliquées",
+          "status": "taxonomy_draft",
+          "name_en": "Applied statistics",
+          "name_es": "Estadística aplicada",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.data.07",
+          "name_fr": "Visualisation et communication des données",
+          "status": "taxonomy_draft",
+          "name_en": "Data visualization and communication",
+          "name_es": "Visualización y comunicación de datos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Data, statistics and business intelligence",
+      "name_es": "Datos, estadística e inteligencia empresarial",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.eng",
+      "code": "ENG",
+      "name_fr": "Ingénierie et conception industrielle",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.eng.01",
+          "name_fr": "Génie mécanique",
+          "status": "taxonomy_draft",
+          "name_en": "Mechanical engineering",
+          "name_es": "Ingeniería mecánica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.02",
+          "name_fr": "Génie électrique",
+          "status": "taxonomy_draft",
+          "name_en": "Electrical engineering",
+          "name_es": "Ingeniería eléctrica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.03",
+          "name_fr": "Génie électronique",
+          "status": "taxonomy_draft",
+          "name_en": "Electronic engineering",
+          "name_es": "Ingeniería electrónica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.04",
+          "name_fr": "Automatisation et contrôle",
+          "status": "taxonomy_draft",
+          "name_en": "Automation and control",
+          "name_es": "Automatización y control",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.05",
+          "name_fr": "Robotique",
+          "status": "taxonomy_draft",
+          "name_en": "Robotics",
+          "name_es": "Robótica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.06",
+          "name_fr": "Génie des procédés",
+          "status": "taxonomy_draft",
+          "name_en": "Process engineering",
+          "name_es": "Ingeniería de procesos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.07",
+          "name_fr": "Conception industrielle",
+          "status": "taxonomy_draft",
+          "name_en": "Industrial design",
+          "name_es": "Diseño industrial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.eng.08",
+          "name_fr": "Maintenance et fiabilité",
+          "status": "taxonomy_draft",
+          "name_en": "Maintenance and reliability",
+          "name_es": "Mantenimiento y fiabilidad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Engineering and industrial design",
+      "name_es": "Ingeniería y diseño industrial",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.constr",
+      "code": "CONSTR",
+      "name_fr": "Construction, bâtiment et architecture",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.constr.01",
+          "name_fr": "Architecture",
+          "status": "taxonomy_draft",
+          "name_en": "Architecture",
+          "name_es": "Arquitectura",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.02",
+          "name_fr": "Génie civil",
+          "status": "taxonomy_draft",
+          "name_en": "Civil engineering",
+          "name_es": "Ingeniería civil",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.03",
+          "name_fr": "Conduite de travaux",
+          "status": "taxonomy_draft",
+          "name_en": "Construction management",
+          "name_es": "Dirección de obras",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.04",
+          "name_fr": "Topographie et géomatique",
+          "status": "taxonomy_draft",
+          "name_en": "Surveying and geomatics",
+          "name_es": "Topografía y geomática",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.05",
+          "name_fr": "Électricité du bâtiment",
+          "status": "taxonomy_draft",
+          "name_en": "Building electrical systems",
+          "name_es": "Electricidad de edificios",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.06",
+          "name_fr": "Plomberie et installations",
+          "status": "taxonomy_draft",
+          "name_en": "Plumbing and building services",
+          "name_es": "Fontanería e instalaciones",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.07",
+          "name_fr": "Menuiserie et charpente",
+          "status": "taxonomy_draft",
+          "name_en": "Carpentry and structural timber",
+          "name_es": "Carpintería y estructuras de madera",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.08",
+          "name_fr": "Finition et second œuvre",
+          "status": "taxonomy_draft",
+          "name_en": "Finishing and interior works",
+          "name_es": "Acabados y obras interiores",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.constr.09",
+          "name_fr": "Urbanisme et aménagement",
+          "status": "taxonomy_draft",
+          "name_en": "Urban planning and development",
+          "name_es": "Urbanismo y ordenación territorial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Construction, building and architecture",
+      "name_es": "Construcción, edificación y arquitectura",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.energy",
+      "code": "ENERGY",
+      "name_fr": "Énergie et services publics",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.energy.01",
+          "name_fr": "Production électrique",
+          "status": "taxonomy_draft",
+          "name_en": "Electricity generation",
+          "name_es": "Generación eléctrica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.02",
+          "name_fr": "Réseaux et distribution",
+          "status": "taxonomy_draft",
+          "name_en": "Energy networks and distribution",
+          "name_es": "Redes y distribución de energía",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.03",
+          "name_fr": "Énergie solaire",
+          "status": "taxonomy_draft",
+          "name_en": "Solar energy",
+          "name_es": "Energía solar",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.04",
+          "name_fr": "Énergie éolienne",
+          "status": "taxonomy_draft",
+          "name_en": "Wind energy",
+          "name_es": "Energía eólica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.05",
+          "name_fr": "Efficacité énergétique",
+          "status": "taxonomy_draft",
+          "name_en": "Energy efficiency",
+          "name_es": "Eficiencia energética",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.06",
+          "name_fr": "Pétrole et gaz",
+          "status": "taxonomy_draft",
+          "name_en": "Oil and gas",
+          "name_es": "Petróleo y gas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.07",
+          "name_fr": "Nucléaire et radioprotection",
+          "status": "taxonomy_draft",
+          "name_en": "Nuclear energy and radiation protection",
+          "name_es": "Energía nuclear y protección radiológica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.energy.08",
+          "name_fr": "Exploitation des services publics",
+          "status": "taxonomy_draft",
+          "name_en": "Utility operations",
+          "name_es": "Explotación de servicios públicos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Energy and public utilities",
+      "name_es": "Energía y servicios públicos",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.manuf",
+      "code": "MANUF",
+      "name_fr": "Industrie, fabrication et maintenance",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.manuf.01",
+          "name_fr": "Production industrielle",
+          "status": "taxonomy_draft",
+          "name_en": "Industrial production",
+          "name_es": "Producción industrial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.manuf.02",
+          "name_fr": "Usinage et fabrication",
+          "status": "taxonomy_draft",
+          "name_en": "Machining and manufacturing",
+          "name_es": "Mecanizado y fabricación",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.manuf.03",
+          "name_fr": "Soudage et chaudronnerie",
+          "status": "taxonomy_draft",
+          "name_en": "Welding and metal fabrication",
+          "name_es": "Soldadura y calderería",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.manuf.04",
+          "name_fr": "Maintenance industrielle",
+          "status": "taxonomy_draft",
+          "name_en": "Industrial maintenance",
+          "name_es": "Mantenimiento industrial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.manuf.05",
+          "name_fr": "Qualité industrielle",
+          "status": "taxonomy_draft",
+          "name_en": "Industrial quality",
+          "name_es": "Calidad industrial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.manuf.06",
+          "name_fr": "Méthodes et industrialisation",
+          "status": "taxonomy_draft",
+          "name_en": "Methods and industrialization",
+          "name_es": "Métodos e industrialización",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.manuf.07",
+          "name_fr": "Conditionnement et emballage",
+          "status": "taxonomy_draft",
+          "name_en": "Packaging",
+          "name_es": "Acondicionamiento y embalaje",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Industry, manufacturing and maintenance",
+      "name_es": "Industria, fabricación y mantenimiento",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.transport",
+      "code": "TRANSPORT",
+      "name_fr": "Transport, mobilité et logistique",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.transport.01",
+          "name_fr": "Transport routier",
+          "status": "taxonomy_draft",
+          "name_en": "Road transport",
+          "name_es": "Transporte por carretera",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.02",
+          "name_fr": "Transport ferroviaire",
+          "status": "taxonomy_draft",
+          "name_en": "Rail transport",
+          "name_es": "Transporte ferroviario",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.03",
+          "name_fr": "Transport aérien",
+          "status": "taxonomy_draft",
+          "name_en": "Air transport",
+          "name_es": "Transporte aéreo",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.04",
+          "name_fr": "Transport maritime et fluvial",
+          "status": "taxonomy_draft",
+          "name_en": "Maritime and inland-waterway transport",
+          "name_es": "Transporte marítimo y fluvial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.05",
+          "name_fr": "Logistique et entreposage",
+          "status": "taxonomy_draft",
+          "name_en": "Logistics and warehousing",
+          "name_es": "Logística y almacenamiento",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.06",
+          "name_fr": "Gestion de flotte",
+          "status": "taxonomy_draft",
+          "name_en": "Fleet management",
+          "name_es": "Gestión de flotas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.07",
+          "name_fr": "Chaîne d’approvisionnement",
+          "status": "taxonomy_draft",
+          "name_en": "Supply chain",
+          "name_es": "Cadena de suministro",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.transport.08",
+          "name_fr": "Mobilité et transport urbain",
+          "status": "taxonomy_draft",
+          "name_en": "Urban mobility and transport",
+          "name_es": "Movilidad y transporte urbano",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Transport, mobility and logistics",
+      "name_es": "Transporte, movilidad y logística",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.auto",
+      "code": "AUTO",
+      "name_fr": "Automobile et mobilité technique",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.auto.01",
+          "name_fr": "Mécanique automobile",
+          "status": "taxonomy_draft",
+          "name_en": "Automotive mechanics",
+          "name_es": "Mecánica automotriz",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.auto.02",
+          "name_fr": "Diagnostic électronique automobile",
+          "status": "taxonomy_draft",
+          "name_en": "Automotive electronic diagnostics",
+          "name_es": "Diagnóstico electrónico automotriz",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.auto.03",
+          "name_fr": "Carrosserie et peinture",
+          "status": "taxonomy_draft",
+          "name_en": "Bodywork and painting",
+          "name_es": "Carrocería y pintura",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.auto.04",
+          "name_fr": "Véhicules électriques",
+          "status": "taxonomy_draft",
+          "name_en": "Electric vehicles",
+          "name_es": "Vehículos eléctricos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.auto.05",
+          "name_fr": "Maintenance des engins",
+          "status": "taxonomy_draft",
+          "name_en": "Machinery maintenance",
+          "name_es": "Mantenimiento de maquinaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.auto.06",
+          "name_fr": "Pièces et services automobiles",
+          "status": "taxonomy_draft",
+          "name_en": "Automotive parts and services",
+          "name_es": "Repuestos y servicios automotrices",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Automotive and technical mobility",
+      "name_es": "Automoción y movilidad técnica",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.fin",
+      "code": "FIN",
+      "name_fr": "Finance, banque, assurance et comptabilité",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.fin.01",
+          "name_fr": "Comptabilité",
+          "status": "taxonomy_draft",
+          "name_en": "Accounting",
+          "name_es": "Contabilidad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.02",
+          "name_fr": "Audit",
+          "status": "taxonomy_draft",
+          "name_en": "Audit",
+          "name_es": "Auditoría",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.03",
+          "name_fr": "Banque et services financiers",
+          "status": "taxonomy_draft",
+          "name_en": "Banking and financial services",
+          "name_es": "Banca y servicios financieros",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.04",
+          "name_fr": "Assurance",
+          "status": "taxonomy_draft",
+          "name_en": "Insurance",
+          "name_es": "Seguros",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.05",
+          "name_fr": "Analyse financière",
+          "status": "taxonomy_draft",
+          "name_en": "Financial analysis",
+          "name_es": "Análisis financiero",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.06",
+          "name_fr": "Trésorerie",
+          "status": "taxonomy_draft",
+          "name_en": "Treasury",
+          "name_es": "Tesorería",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.07",
+          "name_fr": "Microfinance et inclusion financière",
+          "status": "taxonomy_draft",
+          "name_en": "Microfinance and financial inclusion",
+          "name_es": "Microfinanzas e inclusión financiera",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.fin.08",
+          "name_fr": "Conformité financière",
+          "status": "taxonomy_draft",
+          "name_en": "Financial compliance",
+          "name_es": "Cumplimiento financiero",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Finance, banking, insurance and accounting",
+      "name_es": "Finanzas, banca, seguros y contabilidad",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.bus",
+      "code": "BUS",
+      "name_fr": "Commerce, vente et relation client",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.bus.01",
+          "name_fr": "Vente et développement commercial",
+          "status": "taxonomy_draft",
+          "name_en": "Sales and business development",
+          "name_es": "Ventas y desarrollo comercial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.bus.02",
+          "name_fr": "Commerce de détail",
+          "status": "taxonomy_draft",
+          "name_en": "Retail",
+          "name_es": "Comercio minorista",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.bus.03",
+          "name_fr": "Commerce international",
+          "status": "taxonomy_draft",
+          "name_en": "International trade",
+          "name_es": "Comercio internacional",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.bus.04",
+          "name_fr": "Achats et approvisionnement",
+          "status": "taxonomy_draft",
+          "name_en": "Purchasing and procurement",
+          "name_es": "Compras y aprovisionamiento",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.bus.05",
+          "name_fr": "Service client",
+          "status": "taxonomy_draft",
+          "name_en": "Customer service",
+          "name_es": "Atención al cliente",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.bus.06",
+          "name_fr": "Marketing commercial",
+          "status": "taxonomy_draft",
+          "name_en": "Trade marketing",
+          "name_es": "Marketing comercial",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.bus.07",
+          "name_fr": "Négociation et grands comptes",
+          "status": "taxonomy_draft",
+          "name_en": "Negotiation and key accounts",
+          "name_es": "Negociación y grandes cuentas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Business, sales and customer relations",
+      "name_es": "Comercio, ventas y atención al cliente",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.mgmt",
+      "code": "MGMT",
+      "name_fr": "Management, administration et ressources humaines",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.mgmt.01",
+          "name_fr": "Direction et stratégie",
+          "status": "taxonomy_draft",
+          "name_en": "Leadership and strategy",
+          "name_es": "Dirección y estrategia",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.mgmt.02",
+          "name_fr": "Gestion de projet",
+          "status": "taxonomy_draft",
+          "name_en": "Project management",
+          "name_es": "Gestión de proyectos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.mgmt.03",
+          "name_fr": "Ressources humaines",
+          "status": "taxonomy_draft",
+          "name_en": "Human resources",
+          "name_es": "Recursos humanos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.mgmt.04",
+          "name_fr": "Administration et secrétariat",
+          "status": "taxonomy_draft",
+          "name_en": "Administration and secretarial work",
+          "name_es": "Administración y secretaría",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.mgmt.05",
+          "name_fr": "Opérations et qualité",
+          "status": "taxonomy_draft",
+          "name_en": "Operations and quality",
+          "name_es": "Operaciones y calidad",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.mgmt.06",
+          "name_fr": "Conseil en organisation",
+          "status": "taxonomy_draft",
+          "name_en": "Organizational consulting",
+          "name_es": "Consultoría organizativa",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.mgmt.07",
+          "name_fr": "Entrepreneuriat",
+          "status": "taxonomy_draft",
+          "name_en": "Entrepreneurship",
+          "name_es": "Emprendimiento",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Management, administration and human resources",
+      "name_es": "Gestión, administración y recursos humanos",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.law",
+      "code": "LAW",
+      "name_fr": "Droit, justice et affaires publiques",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.law.01",
+          "name_fr": "Droit des affaires",
+          "status": "taxonomy_draft",
+          "name_en": "Business law",
+          "name_es": "Derecho mercantil",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.law.02",
+          "name_fr": "Droit public",
+          "status": "taxonomy_draft",
+          "name_en": "Public law",
+          "name_es": "Derecho público",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.law.03",
+          "name_fr": "Justice et professions judiciaires",
+          "status": "taxonomy_draft",
+          "name_en": "Justice and legal professions",
+          "name_es": "Justicia y profesiones jurídicas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.law.04",
+          "name_fr": "Conformité et éthique",
+          "status": "taxonomy_draft",
+          "name_en": "Compliance and ethics",
+          "name_es": "Cumplimiento y ética",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.law.05",
+          "name_fr": "Affaires réglementaires",
+          "status": "taxonomy_draft",
+          "name_en": "Regulatory affairs",
+          "name_es": "Asuntos regulatorios",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.law.06",
+          "name_fr": "Administration publique",
+          "status": "taxonomy_draft",
+          "name_en": "Public administration",
+          "name_es": "Administración pública",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.law.07",
+          "name_fr": "Diplomatie et relations internationales",
+          "status": "taxonomy_draft",
+          "name_en": "Diplomacy and international relations",
+          "name_es": "Diplomacia y relaciones internacionales",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Law, justice and public affairs",
+      "name_es": "Derecho, justicia y asuntos públicos",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.media",
+      "code": "MEDIA",
+      "name_fr": "Communication, médias et édition",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.media.01",
+          "name_fr": "Journalisme",
+          "status": "taxonomy_draft",
+          "name_en": "Journalism",
+          "name_es": "Periodismo",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.media.02",
+          "name_fr": "Relations publiques",
+          "status": "taxonomy_draft",
+          "name_en": "Public relations",
+          "name_es": "Relaciones públicas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.media.03",
+          "name_fr": "Communication institutionnelle",
+          "status": "taxonomy_draft",
+          "name_en": "Institutional communication",
+          "name_es": "Comunicación institucional",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.media.04",
+          "name_fr": "Rédaction et édition",
+          "status": "taxonomy_draft",
+          "name_en": "Writing and publishing",
+          "name_es": "Redacción y edición",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.media.05",
+          "name_fr": "Traduction et interprétation",
+          "status": "taxonomy_draft",
+          "name_en": "Translation and interpreting",
+          "name_es": "Traducción e interpretación",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.media.06",
+          "name_fr": "Production audiovisuelle",
+          "status": "taxonomy_draft",
+          "name_en": "Audiovisual production",
+          "name_es": "Producción audiovisual",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.media.07",
+          "name_fr": "Radio et podcast",
+          "status": "taxonomy_draft",
+          "name_en": "Radio and podcasting",
+          "name_es": "Radio y pódcast",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Communication, media and publishing",
+      "name_es": "Comunicación, medios y edición",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.art",
+      "code": "ART",
+      "name_fr": "Arts, design, culture et divertissement",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.art.01",
+          "name_fr": "Arts visuels",
+          "status": "taxonomy_draft",
+          "name_en": "Visual arts",
+          "name_es": "Artes visuales",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.02",
+          "name_fr": "Design graphique",
+          "status": "taxonomy_draft",
+          "name_en": "Graphic design",
+          "name_es": "Diseño gráfico",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.03",
+          "name_fr": "Design produit et UX/UI",
+          "status": "taxonomy_draft",
+          "name_en": "Product design and UX/UI",
+          "name_es": "Diseño de producto y UX/UI",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.04",
+          "name_fr": "Photographie",
+          "status": "taxonomy_draft",
+          "name_en": "Photography",
+          "name_es": "Fotografía",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.05",
+          "name_fr": "Cinéma et vidéo",
+          "status": "taxonomy_draft",
+          "name_en": "Film and video",
+          "name_es": "Cine y vídeo",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.06",
+          "name_fr": "Musique et spectacle",
+          "status": "taxonomy_draft",
+          "name_en": "Music and performing arts",
+          "name_es": "Música y artes escénicas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.07",
+          "name_fr": "Animation et jeux vidéo",
+          "status": "taxonomy_draft",
+          "name_en": "Animation and video games",
+          "name_es": "Animación y videojuegos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.art.08",
+          "name_fr": "Patrimoine et musées",
+          "status": "taxonomy_draft",
+          "name_en": "Heritage and museums",
+          "name_es": "Patrimonio y museos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Arts, design, culture and entertainment",
+      "name_es": "Artes, diseño, cultura y entretenimiento",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.hosp",
+      "code": "HOSP",
+      "name_fr": "Tourisme, hôtellerie et restauration",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.hosp.01",
+          "name_fr": "Hôtellerie",
+          "status": "taxonomy_draft",
+          "name_en": "Hospitality",
+          "name_es": "Hotelería",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.hosp.02",
+          "name_fr": "Restauration et cuisine",
+          "status": "taxonomy_draft",
+          "name_en": "Food service and cooking",
+          "name_es": "Restauración y cocina",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.hosp.03",
+          "name_fr": "Tourisme et guidage",
+          "status": "taxonomy_draft",
+          "name_en": "Tourism and guiding",
+          "name_es": "Turismo y guiado",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.hosp.04",
+          "name_fr": "Événementiel",
+          "status": "taxonomy_draft",
+          "name_en": "Event management",
+          "name_es": "Organización de eventos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.hosp.05",
+          "name_fr": "Accueil et réception",
+          "status": "taxonomy_draft",
+          "name_en": "Guest services and reception",
+          "name_es": "Atención y recepción",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.hosp.06",
+          "name_fr": "Gestion de destinations",
+          "status": "taxonomy_draft",
+          "name_en": "Destination management",
+          "name_es": "Gestión de destinos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.hosp.07",
+          "name_fr": "Loisirs et activités",
+          "status": "taxonomy_draft",
+          "name_en": "Leisure and activities",
+          "name_es": "Ocio y actividades",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Tourism, hospitality and catering",
+      "name_es": "Turismo, hostelería y restauración",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.craft",
+      "code": "CRAFT",
+      "name_fr": "Artisanat et métiers techniques",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.craft.01",
+          "name_fr": "Couture et confection",
+          "status": "taxonomy_draft",
+          "name_en": "Sewing and garment making",
+          "name_es": "Costura y confección",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.02",
+          "name_fr": "Coiffure et esthétique",
+          "status": "taxonomy_draft",
+          "name_en": "Hairdressing and beauty",
+          "name_es": "Peluquería y estética",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.03",
+          "name_fr": "Bijouterie et métiers d’art",
+          "status": "taxonomy_draft",
+          "name_en": "Jewellery and crafts",
+          "name_es": "Joyería y oficios artísticos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.04",
+          "name_fr": "Céramique et poterie",
+          "status": "taxonomy_draft",
+          "name_en": "Ceramics and pottery",
+          "name_es": "Cerámica y alfarería",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.05",
+          "name_fr": "Menuiserie artisanale",
+          "status": "taxonomy_draft",
+          "name_en": "Traditional carpentry",
+          "name_es": "Carpintería artesanal",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.06",
+          "name_fr": "Réparation et dépannage",
+          "status": "taxonomy_draft",
+          "name_en": "Repair and troubleshooting",
+          "name_es": "Reparación y asistencia técnica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.07",
+          "name_fr": "Métiers du cuir",
+          "status": "taxonomy_draft",
+          "name_en": "Leatherworking",
+          "name_es": "Marroquinería y trabajo del cuero",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.craft.08",
+          "name_fr": "Artisanat alimentaire",
+          "status": "taxonomy_draft",
+          "name_en": "Food crafts",
+          "name_es": "Artesanía alimentaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Craft and technical trades",
+      "name_es": "Artesanía y oficios técnicos",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.real",
+      "code": "REAL",
+      "name_fr": "Immobilier et gestion des bâtiments",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.real.01",
+          "name_fr": "Transaction immobilière",
+          "status": "taxonomy_draft",
+          "name_en": "Real-estate transactions",
+          "name_es": "Transacciones inmobiliarias",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.real.02",
+          "name_fr": "Gestion locative",
+          "status": "taxonomy_draft",
+          "name_en": "Property rental management",
+          "name_es": "Gestión de alquileres",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.real.03",
+          "name_fr": "Administration de biens",
+          "status": "taxonomy_draft",
+          "name_en": "Property administration",
+          "name_es": "Administración de bienes inmobiliarios",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.real.04",
+          "name_fr": "Expertise immobilière",
+          "status": "taxonomy_draft",
+          "name_en": "Property valuation and expertise",
+          "name_es": "Tasación y peritaje inmobiliario",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.real.05",
+          "name_fr": "Facility management",
+          "status": "taxonomy_draft",
+          "name_en": "Facilities management",
+          "name_es": "Gestión de instalaciones",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.real.06",
+          "name_fr": "Promotion immobilière",
+          "status": "taxonomy_draft",
+          "name_en": "Property development",
+          "name_es": "Promoción inmobiliaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Real estate and building management",
+      "name_es": "Inmobiliaria y gestión de edificios",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.telecom",
+      "code": "TELECOM",
+      "name_fr": "Télécommunications et réseaux d’infrastructure",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.telecom.01",
+          "name_fr": "Réseaux mobiles",
+          "status": "taxonomy_draft",
+          "name_en": "Mobile networks",
+          "name_es": "Redes móviles",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.telecom.02",
+          "name_fr": "Fibre et réseaux fixes",
+          "status": "taxonomy_draft",
+          "name_en": "Fibre and fixed networks",
+          "name_es": "Fibra y redes fijas",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.telecom.03",
+          "name_fr": "Radio et transmission",
+          "status": "taxonomy_draft",
+          "name_en": "Radio and transmission",
+          "name_es": "Radio y transmisión",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.telecom.04",
+          "name_fr": "Cœurs de réseau",
+          "status": "taxonomy_draft",
+          "name_en": "Core networks",
+          "name_es": "Redes troncales",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.telecom.05",
+          "name_fr": "Installation et maintenance télécom",
+          "status": "taxonomy_draft",
+          "name_en": "Telecommunications installation and maintenance",
+          "name_es": "Instalación y mantenimiento de telecomunicaciones",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.telecom.06",
+          "name_fr": "Planification radio",
+          "status": "taxonomy_draft",
+          "name_en": "Radio planning",
+          "name_es": "Planificación radioeléctrica",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Telecommunications and infrastructure networks",
+      "name_es": "Telecomunicaciones y redes de infraestructura",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.security",
+      "code": "SECURITY",
+      "name_fr": "Sécurité, prévention et secours",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.security.01",
+          "name_fr": "Prévention des risques",
+          "status": "taxonomy_draft",
+          "name_en": "Risk prevention",
+          "name_es": "Prevención de riesgos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.security.02",
+          "name_fr": "Sécurité incendie",
+          "status": "taxonomy_draft",
+          "name_en": "Fire safety",
+          "name_es": "Seguridad contra incendios",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.security.03",
+          "name_fr": "Santé et sécurité au travail",
+          "status": "taxonomy_draft",
+          "name_en": "Occupational health and safety",
+          "name_es": "Salud y seguridad en el trabajo",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.security.04",
+          "name_fr": "Protection civile",
+          "status": "taxonomy_draft",
+          "name_en": "Civil protection",
+          "name_es": "Protección civil",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.security.05",
+          "name_fr": "Secours et sauvetage",
+          "status": "taxonomy_draft",
+          "name_en": "Emergency response and rescue",
+          "name_es": "Emergencias y salvamento",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.security.06",
+          "name_fr": "Sécurité privée dans un cadre légal",
+          "status": "taxonomy_draft",
+          "name_en": "Private security within the legal framework",
+          "name_es": "Seguridad privada dentro del marco legal",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Security, prevention and emergency services",
+      "name_es": "Seguridad, prevención y emergencias",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.sport",
+      "code": "SPORT",
+      "name_fr": "Sport, activité physique et loisirs",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.sport.01",
+          "name_fr": "Entraînement sportif",
+          "status": "taxonomy_draft",
+          "name_en": "Sports coaching",
+          "name_es": "Entrenamiento deportivo",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sport.02",
+          "name_fr": "Éducation physique",
+          "status": "taxonomy_draft",
+          "name_en": "Physical education",
+          "name_es": "Educación física",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sport.03",
+          "name_fr": "Préparation physique",
+          "status": "taxonomy_draft",
+          "name_en": "Strength and conditioning",
+          "name_es": "Preparación física",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sport.04",
+          "name_fr": "Gestion sportive",
+          "status": "taxonomy_draft",
+          "name_en": "Sports management",
+          "name_es": "Gestión deportiva",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sport.05",
+          "name_fr": "Arbitrage et officiels",
+          "status": "taxonomy_draft",
+          "name_en": "Refereeing and officials",
+          "name_es": "Arbitraje y oficiales deportivos",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.sport.06",
+          "name_fr": "Animation et loisirs",
+          "status": "taxonomy_draft",
+          "name_en": "Recreation and leisure",
+          "name_es": "Animación y ocio",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Sports, physical activity and leisure",
+      "name_es": "Deporte, actividad física y ocio",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "id": "domain.marine",
+      "code": "MARINE",
+      "name_fr": "Économie maritime et portuaire",
+      "status": "taxonomy_draft",
+      "families": [
+        {
+          "id": "family.marine.01",
+          "name_fr": "Opérations portuaires",
+          "status": "taxonomy_draft",
+          "name_en": "Port operations",
+          "name_es": "Operaciones portuarias",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.marine.02",
+          "name_fr": "Navigation et métiers de pont",
+          "status": "taxonomy_draft",
+          "name_en": "Navigation and deck occupations",
+          "name_es": "Navegación y oficios de cubierta",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.marine.03",
+          "name_fr": "Mécanique navale",
+          "status": "taxonomy_draft",
+          "name_en": "Marine engineering and mechanics",
+          "name_es": "Mecánica naval",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.marine.04",
+          "name_fr": "Pêche professionnelle",
+          "status": "taxonomy_draft",
+          "name_en": "Commercial fishing",
+          "name_es": "Pesca profesional",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.marine.05",
+          "name_fr": "Logistique portuaire",
+          "status": "taxonomy_draft",
+          "name_en": "Port logistics",
+          "name_es": "Logística portuaria",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        },
+        {
+          "id": "family.marine.06",
+          "name_fr": "Construction et réparation navales",
+          "status": "taxonomy_draft",
+          "name_en": "Shipbuilding and ship repair",
+          "name_es": "Construcción y reparación naval",
+          "translation_status": {
+            "en": "machine_draft_needs_human_review",
+            "es": "machine_draft_needs_human_review"
+          }
+        }
+      ],
+      "name_en": "Maritime and port economy",
+      "name_es": "Economía marítima y portuaria",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ],
+  "occupation_schema_file": "occupation.schema.json"
+}

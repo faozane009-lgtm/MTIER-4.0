@@ -1,0 +1,1601 @@
+{
+  "profile_set_version": "0.2.0",
+  "batch_id": "batch_04",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "Compléter les 115 fiches candidates du catalogue par lots contrôlés de dix; ce lot 04 ajoute dix profils supplémentaires.",
+  "methodology": "Profils éditoriaux originaux en français, construits à partir des intitulés du catalogue et de sources institutionnelles ou de cadres professionnels. Les sources étayent des familles de tâches, compétences ou contextes et ne sont pas présentées comme des normes universelles. Les informations BLS et O*NET sont américaines; Skills England est anglais. Aucun salaire, diplôme obligatoire, permis, certification ou perspective locale n’est inféré. Les exigences nationales et les actes réglementés doivent être vérifiés avant publication. Les opérations présentant des risques particuliers sont décrites à un niveau professionnel général, sans procédure dangereuse.",
+  "record_count": 10,
+  "profiles": [
+    {
+      "occupation_id": "occupation.agri.technicien-elevage",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne d’élevage",
+      "en_title": "Livestock Technician",
+      "purpose_fr": "Contribue à la conduite quotidienne d’un élevage, au suivi des animaux, à leur bien-être et à la tenue des données de production.",
+      "missions_fr": [
+        "Préparer et distribuer les aliments et l’eau selon les consignes techniques établies.",
+        "Observer le comportement, l’état général et les conditions d’hébergement des animaux.",
+        "Appliquer les mesures d’hygiène, de biosécurité et de prévention prévues par l’exploitation.",
+        "Participer au suivi des cycles de reproduction et signaler les situations nécessitant un avis vétérinaire.",
+        "Entretenir les installations et utiliser les équipements d’élevage dans les limites de sa formation.",
+        "Enregistrer les mouvements, interventions et données de production dans les registres prévus."
+      ],
+      "skills": [
+        {
+          "id": "Observation du comportement animal",
+          "type": "technical"
+        },
+        {
+          "id": "Suivi de l’alimentation et de l’abreuvement",
+          "type": "technical"
+        },
+        {
+          "id": "Tenue des registres d’élevage",
+          "type": "technical"
+        },
+        {
+          "id": "Application des mesures de biosécurité",
+          "type": "methodological"
+        },
+        {
+          "id": "Entretien courant des installations",
+          "type": "technical"
+        },
+        {
+          "id": "Communication avec l’équipe et les professionnels vétérinaires",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Besoins nutritionnels des espèces élevées",
+        "Notions de bien-être animal et de comportement",
+        "Hygiène, biosécurité et prévention des risques",
+        "Cycles de production et de reproduction",
+        "Traçabilité et registres d’élevage",
+        "Biosécurité des élevages, traçabilité sanitaire et principes de bien-être animal adaptés aux espèces."
+      ],
+      "work_context_fr": "Exploitations agricoles, élevages spécialisés, coopératives et services d’appui à la production animale; les actes vétérinaires restent réservés aux personnes habilitées. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.skillsengland.livestock-unit-technician",
+          "use": "taches_competences_bien_etre_biosecurite_et_registres"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "Le standard Skills England décrit le contexte anglais. Les soins, traitements, vaccinations et actes autorisés doivent être définis selon la réglementation locale et la supervision vétérinaire. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Supports the day-to-day management of livestock, animal monitoring and welfare, and the maintenance of production records.",
+      "purpose_es": "Contribuye a la gestión diaria de una explotación ganadera, al seguimiento y bienestar de los animales y al mantenimiento de los datos de producción.",
+      "missions_en": [
+        "Prepare and distribute feed and water according to established technical instructions.",
+        "Observe animal behaviour, general condition and housing conditions.",
+        "Apply the farm’s hygiene, biosecurity and prevention measures.",
+        "Assist with monitoring breeding cycles and report situations requiring veterinary advice.",
+        "Maintain facilities and use livestock equipment within the limits of training.",
+        "Record animal movements, interventions and production data in the required registers."
+      ],
+      "missions_es": [
+        "Preparar y distribuir alimentos y agua siguiendo las instrucciones técnicas establecidas.",
+        "Observar el comportamiento, el estado general y las condiciones de alojamiento de los animales.",
+        "Aplicar las medidas de higiene, bioseguridad y prevención previstas por la explotación.",
+        "Participar en el seguimiento de los ciclos reproductivos y comunicar las situaciones que requieran asesoramiento veterinario.",
+        "Mantener las instalaciones y utilizar los equipos ganaderos dentro de los límites de su formación.",
+        "Registrar los movimientos de animales, las intervenciones y los datos de producción en los registros previstos."
+      ],
+      "work_context_en": "Farms, specialized livestock operations, cooperatives and animal-production support services. Veterinary procedures remain reserved for authorized professionals. Work requires traceable records, coordination with relevant occupations and compliance with quality, safety and local requirements.",
+      "work_context_es": "Explotaciones agrícolas, ganaderías especializadas, cooperativas y servicios de apoyo a la producción animal. Los actos veterinarios están reservados a profesionales habilitados. El trabajo exige registros trazables, coordinación con los oficios pertinentes y cumplimiento de los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The Skills England standard describes the English context. Care, treatment, vaccination and other authorized procedures must follow local regulations and veterinary supervision. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "El estándar de Skills England describe el contexto inglés. Los cuidados, tratamientos, vacunaciones y demás actos autorizados deben ajustarse a la normativa local y a la supervisión veterinaria. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Observation of animal behaviour",
+          "type": "technical"
+        },
+        {
+          "id": "Monitoring feeding and watering",
+          "type": "technical"
+        },
+        {
+          "id": "Livestock record-keeping",
+          "type": "technical"
+        },
+        {
+          "id": "Applying biosecurity measures",
+          "type": "methodological"
+        },
+        {
+          "id": "Routine facility maintenance",
+          "type": "technical"
+        },
+        {
+          "id": "Communication with the team and veterinary professionals",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Nutritional needs of livestock species",
+        "Animal welfare and behaviour principles",
+        "Hygiene, biosecurity and risk prevention",
+        "Production and reproduction cycles",
+        "Traceability and livestock records",
+        "Livestock biosecurity, health traceability and species-specific animal-welfare principles"
+      ],
+      "skills_es": [
+        {
+          "id": "Observación del comportamiento animal",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento de la alimentación y el suministro de agua",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento de registros ganaderos",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de medidas de bioseguridad",
+          "type": "methodological"
+        },
+        {
+          "id": "Mantenimiento básico de las instalaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación con el equipo y los profesionales veterinarios",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Necesidades nutricionales de las especies ganaderas",
+        "Principios de bienestar y comportamiento animal",
+        "Higiene, bioseguridad y prevención de riesgos",
+        "Ciclos de producción y reproducción",
+        "Trazabilidad y registros ganaderos",
+        "Bioseguridad ganadera, trazabilidad sanitaria y principios de bienestar animal adaptados a cada especie"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.biologiste",
+      "profile_version": "0.2",
+      "fr_title": "Biologiste",
+      "en_title": "Biologist",
+      "purpose_fr": "Étudie les organismes vivants et leurs interactions afin de produire des connaissances, des analyses ou des applications dans la recherche, la santé, l’agriculture ou l’environnement.",
+      "missions_fr": [
+        "Formuler une question d’étude et contribuer à définir une méthode d’observation ou d’expérimentation.",
+        "Collecter ou superviser la collecte d’échantillons et de données biologiques selon un protocole.",
+        "Réaliser ou interpréter des observations, mesures et analyses adaptées au domaine.",
+        "Veiller à la qualité, à la traçabilité et à la conservation des données et échantillons.",
+        "Analyser les résultats et examiner leurs limites, incertitudes et éventuels biais.",
+        "Présenter les résultats dans des rapports, communications ou supports destinés aux équipes concernées."
+      ],
+      "skills": [
+        {
+          "id": "Conception de protocoles d’étude",
+          "type": "technical"
+        },
+        {
+          "id": "Observation et analyse biologique",
+          "type": "technical"
+        },
+        {
+          "id": "Collecte et gestion d’échantillons",
+          "type": "technical"
+        },
+        {
+          "id": "Interprétation de données",
+          "type": "technical"
+        },
+        {
+          "id": "Rigueur et traçabilité scientifique",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction et communication scientifique",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Biologie cellulaire et organismes vivants",
+        "Écologie, microbiologie ou physiologie selon spécialité",
+        "Méthodes d’échantillonnage et d’observation",
+        "Statistiques et analyse de données",
+        "Éthique, biosécurité et intégrité scientifique",
+        "Conception d’études, reproductibilité, gestion des biais d’échantillonnage et interprétation des limites expérimentales."
+      ],
+      "work_context_fr": "Laboratoires, universités, centres de recherche, organismes de santé, entreprises agroalimentaires et structures de conservation; les tâches varient fortement selon la spécialité. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.biological-technicians",
+          "use": "contexte_de_recherche_biologique_et_travail_de_laboratoire"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La catégorie biologiste regroupe des spécialités distinctes. La page BLS citée concerne surtout les techniciens biologiques et sert de contexte de laboratoire, pas de définition exhaustive du métier de biologiste. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Studies living organisms and their interactions to produce knowledge, analyses or applications in research, health, agriculture or the environment.",
+      "purpose_es": "Estudia los organismos vivos y sus interacciones para producir conocimientos, análisis o aplicaciones en investigación, salud, agricultura o medio ambiente.",
+      "missions_en": [
+        "Formulate a research question and help define an observation or experimental method.",
+        "Collect or supervise the collection of biological samples and data under a protocol.",
+        "Carry out or interpret observations, measurements and analyses suited to the field.",
+        "Ensure quality, traceability and preservation of data and samples.",
+        "Analyze results and examine their limitations, uncertainties and potential biases.",
+        "Present results in reports, communications or materials for relevant teams."
+      ],
+      "missions_es": [
+        "Formular una pregunta de estudio y contribuir a definir un método de observación o experimentación.",
+        "Recopilar o supervisar la recopilación de muestras y datos biológicos conforme a un protocolo.",
+        "Realizar o interpretar observaciones, mediciones y análisis adecuados al ámbito.",
+        "Velar por la calidad, trazabilidad y conservación de datos y muestras.",
+        "Analizar resultados y examinar sus limitaciones, incertidumbres y posibles sesgos.",
+        "Presentar resultados en informes, comunicaciones o materiales destinados a los equipos correspondientes."
+      ],
+      "work_context_en": "Laboratories, universities, research centres, health organizations, food businesses and conservation organizations; tasks vary considerably by specialization. Work requires traceability of decisions and interventions, coordination with relevant occupations and compliance with quality, safety and local requirements.",
+      "work_context_es": "Laboratorios, universidades, centros de investigación, organismos sanitarios, empresas agroalimentarias y estructuras de conservación; las tareas varían mucho según la especialidad. El trabajo exige trazabilidad de decisiones e intervenciones, coordinación con los oficios pertinentes y cumplimiento de procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The biologist category covers distinct specializations. The cited BLS page mainly concerns biological technicians and provides laboratory context, not an exhaustive definition of the biologist profession. Titles and scopes vary by sector and country; any classification mapping must be confirmed against actual duties.",
+      "mapping_note_es": "La categoría de biólogo agrupa especialidades distintas. La página BLS citada se refiere principalmente a técnicos biológicos y aporta contexto de laboratorio, no una definición exhaustiva de la profesión de biólogo. Los títulos y ámbitos pueden variar según los sectores y países; toda correspondencia de clasificación debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Designing study protocols",
+          "type": "technical"
+        },
+        {
+          "id": "Biological observation and analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Collecting and managing samples",
+          "type": "technical"
+        },
+        {
+          "id": "Data interpretation",
+          "type": "technical"
+        },
+        {
+          "id": "Scientific rigour and traceability",
+          "type": "technical"
+        },
+        {
+          "id": "Scientific writing and communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Cell biology and living organisms",
+        "Ecology, microbiology or physiology according to specialization",
+        "Sampling and observation methods",
+        "Statistics and data analysis",
+        "Ethics, biosafety and scientific integrity",
+        "Study design, reproducibility, sampling-bias management and interpretation of experimental limitations"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de protocolos de estudio",
+          "type": "technical"
+        },
+        {
+          "id": "Observación y análisis biológico",
+          "type": "technical"
+        },
+        {
+          "id": "Recopilación y gestión de muestras",
+          "type": "technical"
+        },
+        {
+          "id": "Interpretación de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Rigor y trazabilidad científica",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción y comunicación científica",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Biología celular y organismos vivos",
+        "Ecología, microbiología o fisiología según la especialidad",
+        "Métodos de muestreo y observación",
+        "Estadística y análisis de datos",
+        "Ética, bioseguridad e integridad científica",
+        "Diseño de estudios, reproducibilidad, gestión de sesgos de muestreo e interpretación de limitaciones experimentales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-laboratoire",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne de laboratoire",
+      "en_title": "Laboratory Technician",
+      "purpose_fr": "Prépare, réalise et documente des opérations techniques de laboratoire conformément aux protocoles, aux exigences de qualité et aux règles de sécurité applicables.",
+      "missions_fr": [
+        "Préparer le poste, les consommables, les réactifs et les équipements nécessaires aux analyses autorisées.",
+        "Réceptionner, identifier et préparer les échantillons en respectant les règles de traçabilité.",
+        "Effectuer les essais, mesures ou analyses prévus par les procédures validées.",
+        "Contrôler le fonctionnement courant des instruments et signaler toute anomalie.",
+        "Enregistrer les résultats, observations et écarts dans les supports prévus.",
+        "Appliquer les procédures d’hygiène, de biosécurité, de gestion des déchets et de rangement."
+      ],
+      "skills": [
+        {
+          "id": "Préparation et manipulation d’échantillons",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation d’équipements de laboratoire",
+          "type": "technical"
+        },
+        {
+          "id": "Application de protocoles analytiques",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle qualité et traçabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Respect des règles de biosécurité",
+          "type": "methodological"
+        },
+        {
+          "id": "Documentation et transmission des résultats",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de mesure et d’analyse propres au laboratoire",
+        "Préparation et conservation des échantillons",
+        "Métrologie et contrôles qualité",
+        "Prévention des contaminations et exposition",
+        "Gestion des déchets et procédures d’urgence",
+        "Assurance qualité analytique, contrôles internes, gestion des non-conformités et traçabilité des échantillons."
+      ],
+      "work_context_fr": "Laboratoires de recherche, d’enseignement, de contrôle qualité, d’analyses environnementales, agroalimentaires ou biomédicales; le périmètre dépend du type de laboratoire et de la supervision. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.biological-technicians",
+          "use": "preparation_echantillons_instruments_experiences_et_documentation"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La référence BLS porte sur les techniciens biologiques aux États-Unis. Les exigences d’agrément, de qualité et les actes autorisés dépendent du pays et du type de laboratoire. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Prepares, performs and documents laboratory operations in accordance with protocols, quality requirements and applicable safety rules.",
+      "purpose_es": "Prepara, realiza y documenta operaciones de laboratorio conforme a protocolos, requisitos de calidad y normas de seguridad aplicables.",
+      "missions_en": [
+        "Prepare the workstation, consumables, reagents and equipment required for authorized analyses.",
+        "Receive, identify and prepare samples while following traceability rules.",
+        "Perform tests, measurements or analyses specified by validated procedures.",
+        "Check routine equipment operation and report any anomaly.",
+        "Record results, observations and deviations in the required records.",
+        "Apply hygiene, biosafety, waste-management and housekeeping procedures."
+      ],
+      "missions_es": [
+        "Preparar el puesto, consumibles, reactivos y equipos necesarios para los análisis autorizados.",
+        "Recibir, identificar y preparar muestras respetando las normas de trazabilidad.",
+        "Realizar ensayos, mediciones o análisis previstos por procedimientos validados.",
+        "Comprobar el funcionamiento habitual de los instrumentos y comunicar anomalías.",
+        "Registrar resultados, observaciones y desviaciones en los soportes previstos.",
+        "Aplicar procedimientos de higiene, bioseguridad, gestión de residuos y orden del laboratorio."
+      ],
+      "work_context_en": "Research, teaching, quality-control, environmental, food and biomedical laboratories; scope depends on laboratory type and supervision. Work requires traceability of decisions and interventions, coordination with relevant occupations and compliance with quality, safety and local requirements.",
+      "work_context_es": "Laboratorios de investigación, enseñanza, control de calidad, análisis ambiental, agroalimentarios o biomédicos; el ámbito depende del tipo de laboratorio y de la supervisión. El trabajo exige trazabilidad de decisiones e intervenciones, coordinación con los oficios pertinentes y cumplimiento de procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The BLS reference concerns biological technicians in the United States. Accreditation, quality requirements and authorized acts depend on the country and laboratory type. Titles and scopes vary by sector and country; any classification mapping must be confirmed against actual duties.",
+      "mapping_note_es": "La referencia BLS se refiere a técnicos biológicos en Estados Unidos. Los requisitos de acreditación, calidad y actos autorizados dependen del país y del tipo de laboratorio. Los títulos y ámbitos pueden variar según los sectores y países; toda correspondencia de clasificación debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Preparing and handling samples",
+          "type": "technical"
+        },
+        {
+          "id": "Using laboratory equipment",
+          "type": "technical"
+        },
+        {
+          "id": "Applying analytical protocols",
+          "type": "technical"
+        },
+        {
+          "id": "Quality control and traceability",
+          "type": "technical"
+        },
+        {
+          "id": "Following biosafety rules",
+          "type": "methodological"
+        },
+        {
+          "id": "Documenting and communicating results",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Measurement and analysis principles relevant to the laboratory",
+        "Sample preparation and preservation",
+        "Metrology and quality checks",
+        "Contamination and exposure prevention",
+        "Waste management and emergency procedures",
+        "Analytical quality assurance, internal controls, non-conformity management and sample traceability"
+      ],
+      "skills_es": [
+        {
+          "id": "Preparación y manipulación de muestras",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de equipos de laboratorio",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de protocolos analíticos",
+          "type": "technical"
+        },
+        {
+          "id": "Control de calidad y trazabilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Respeto de normas de bioseguridad",
+          "type": "methodological"
+        },
+        {
+          "id": "Documentación y transmisión de resultados",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de medición y análisis propios del laboratorio",
+        "Preparación y conservación de muestras",
+        "Metrología y controles de calidad",
+        "Prevención de contaminaciones y exposiciones",
+        "Gestión de residuos y procedimientos de emergencia",
+        "Aseguramiento de calidad analítica, controles internos, gestión de no conformidades y trazabilidad de muestras"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.technicien-automatisme",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne en automatisme",
+      "en_title": "Automation Technician",
+      "purpose_fr": "Installe, teste, surveille et entretient des systèmes automatisés ou électromécaniques afin d’assurer leur fonctionnement conformément aux spécifications et procédures.",
+      "missions_fr": [
+        "Lire les schémas électriques, plans et documents techniques utiles à l’intervention.",
+        "Participer à l’installation et au raccordement de composants d’automatisme dans le périmètre autorisé.",
+        "Configurer ou ajuster des paramètres de commande selon les consignes et validations requises.",
+        "Réaliser des essais fonctionnels et relever les écarts par rapport aux spécifications.",
+        "Effectuer la maintenance préventive et contribuer au diagnostic des dysfonctionnements.",
+        "Consigner les interventions, modifications et résultats d’essais dans la documentation technique."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de schémas électriques et d’automatisme",
+          "type": "technical"
+        },
+        {
+          "id": "Instrumentation et mesures",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle-commande et capteurs",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic électromécanique",
+          "type": "technical"
+        },
+        {
+          "id": "Maintenance préventive",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction de comptes rendus techniques",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Électricité industrielle et électronique de base",
+        "Capteurs, actionneurs et instrumentation",
+        "Automates programmables et interfaces opérateur",
+        "Principes de commande et sécurité machine",
+        "Maintenance et documentation technique",
+        "Gestion des versions de programmes, documentation des changements et validation fonctionnelle selon procédures approuvées."
+      ],
+      "work_context_fr": "Industries de production, traitement de l’eau, énergie, agroalimentaire, intégrateurs de systèmes et services de maintenance; les interventions électriques doivent respecter les habilitations et procédures locales. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.onet.electromechanical-technicians",
+          "use": "taches_automatisation_test_maintenance_et_documentation"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "O*NET décrit une famille américaine de techniciens électromécaniques et mécatroniques. Les responsabilités de programmation, conception et intervention électrique varient selon le niveau de qualification et le pays. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Installs, tests, monitors and maintains automated or electromechanical systems so that they operate according to specifications and procedures.",
+      "purpose_es": "Instala, prueba, supervisa y mantiene sistemas automatizados o electromecánicos para garantizar su funcionamiento conforme a las especificaciones y los procedimientos.",
+      "missions_en": [
+        "Read electrical diagrams, plans and technical documents relevant to the work.",
+        "Assist with installing and connecting automation components within the authorized scope.",
+        "Configure or adjust control parameters according to instructions and required approvals.",
+        "Carry out functional tests and record deviations from specifications.",
+        "Perform preventive maintenance and contribute to diagnosing malfunctions.",
+        "Record interventions, changes and test results in the technical documentation."
+      ],
+      "missions_es": [
+        "Leer esquemas eléctricos, planos y documentos técnicos pertinentes para la intervención.",
+        "Participar en la instalación y conexión de componentes de automatización dentro del ámbito autorizado.",
+        "Configurar o ajustar parámetros de control según las instrucciones y validaciones requeridas.",
+        "Realizar pruebas funcionales y registrar las desviaciones respecto a las especificaciones.",
+        "Realizar mantenimiento preventivo y contribuir al diagnóstico de fallos.",
+        "Registrar las intervenciones, modificaciones y resultados de pruebas en la documentación técnica."
+      ],
+      "work_context_en": "Production industries, water treatment, energy, food processing, system integrators and maintenance services. Electrical work must comply with local qualifications and procedures. Work requires traceable records, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Industrias de producción, tratamiento de agua, energía, agroalimentación, integradores de sistemas y servicios de mantenimiento. Las intervenciones eléctricas deben respetar las habilitaciones y los procedimientos locales. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "O*NET describes a US family of electromechanical and mechatronics technicians. Programming, design and electrical-work responsibilities vary by qualification level and country. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "O*NET describe una familia estadounidense de técnicos electromecánicos y mecatrónicos. Las responsabilidades de programación, diseño e intervención eléctrica varían según el nivel de cualificación y el país. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Reading electrical and automation diagrams",
+          "type": "technical"
+        },
+        {
+          "id": "Instrumentation and measurement",
+          "type": "technical"
+        },
+        {
+          "id": "Control systems and sensors",
+          "type": "technical"
+        },
+        {
+          "id": "Electromechanical troubleshooting",
+          "type": "technical"
+        },
+        {
+          "id": "Preventive maintenance",
+          "type": "technical"
+        },
+        {
+          "id": "Writing technical reports",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Industrial electricity and basic electronics",
+        "Sensors, actuators and instrumentation",
+        "Programmable logic controllers and operator interfaces",
+        "Control principles and machine safety",
+        "Maintenance and technical documentation",
+        "Program version management, change documentation and functional validation under approved procedures"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de esquemas eléctricos y de automatización",
+          "type": "technical"
+        },
+        {
+          "id": "Instrumentación y medición",
+          "type": "technical"
+        },
+        {
+          "id": "Control, mando y sensores",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico electromecánico",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento preventivo",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción de informes técnicos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Electricidad industrial y electrónica básica",
+        "Sensores, actuadores e instrumentación",
+        "Controladores lógicos programables e interfaces de operador",
+        "Principios de control y seguridad de máquinas",
+        "Mantenimiento y documentación técnica",
+        "Gestión de versiones de programas, documentación de cambios y validación funcional según procedimientos aprobados"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.constr.architecte",
+      "profile_version": "0.2",
+      "fr_title": "Architecte",
+      "en_title": "Architect",
+      "purpose_fr": "Conçoit et coordonne des projets architecturaux en conciliant les besoins des usagers, les contraintes du site, les exigences techniques, le budget et les règles d’urbanisme applicables.",
+      "missions_fr": [
+        "Échanger avec le client et les parties prenantes pour préciser les besoins et le programme du projet.",
+        "Analyser le site, les contraintes d’usage, l’environnement et les documents disponibles.",
+        "Élaborer des propositions spatiales et des documents graphiques de conception.",
+        "Coordonner les contributions des ingénieurs et autres spécialistes du projet.",
+        "Intégrer les exigences d’accessibilité, de sécurité, de durabilité et de réglementation dans les études.",
+        "Contribuer au suivi du projet et vérifier la cohérence des documents avec les décisions validées."
+      ],
+      "skills": [
+        {
+          "id": "Conception architecturale",
+          "type": "technical"
+        },
+        {
+          "id": "Dessin et modélisation numérique",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse des besoins et du site",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination pluridisciplinaire",
+          "type": "transferable"
+        },
+        {
+          "id": "Connaissance des matériaux et systèmes constructifs",
+          "type": "technical"
+        },
+        {
+          "id": "Présentation et argumentation de projet",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de conception et composition spatiale",
+        "Matériaux et technologies de construction",
+        "Représentation graphique et maquette numérique",
+        "Confort, accessibilité et conception durable",
+        "Urbanisme, normes et réglementation locale",
+        "Coordination interdisciplinaire, programmation architecturale et vérification des exigences d’accessibilité et d’usage."
+      ],
+      "work_context_fr": "Agences d’architecture, bureaux d’études, entreprises de construction, administrations et maîtrise d’ouvrage; la signature des plans et les missions réglementées dépendent du droit national. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.architects",
+          "use": "conception_reponse_aux_besoins_coordination_et_contexte_professionnel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La source BLS décrit l’exercice aux États-Unis. Le titre protégé, l’inscription à un ordre, les actes réservés et les responsabilités de signature doivent être vérifiés pays par pays. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Designs and coordinates architectural projects by balancing user needs, site constraints, technical requirements, budget and applicable planning rules.",
+      "purpose_es": "Diseña y coordina proyectos arquitectónicos conciliando las necesidades de los usuarios, las limitaciones del emplazamiento, los requisitos técnicos, el presupuesto y las normas urbanísticas aplicables.",
+      "missions_en": [
+        "Consult the client and stakeholders to clarify needs and the project brief.",
+        "Analyze the site, usage constraints, environment and available documentation.",
+        "Develop spatial proposals and graphic design documents.",
+        "Coordinate contributions from engineers and other project specialists.",
+        "Integrate accessibility, safety, sustainability and regulatory requirements into the studies.",
+        "Contribute to project monitoring and check that documents reflect approved decisions."
+      ],
+      "missions_es": [
+        "Consultar al cliente y a las partes interesadas para aclarar las necesidades y el programa del proyecto.",
+        "Analizar el emplazamiento, las limitaciones de uso, el entorno y la documentación disponible.",
+        "Elaborar propuestas espaciales y documentos gráficos de diseño.",
+        "Coordinar las aportaciones de ingenieros y otros especialistas del proyecto.",
+        "Integrar los requisitos de accesibilidad, seguridad, sostenibilidad y normativa en los estudios.",
+        "Contribuir al seguimiento del proyecto y comprobar que los documentos reflejen las decisiones aprobadas."
+      ],
+      "work_context_en": "Architecture practices, design consultancies, construction companies, public administrations and client-side project teams. Signing plans and regulated services depend on national law. Work requires traceable decisions, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Estudios de arquitectura, consultoras, empresas de construcción, administraciones públicas y equipos de dirección de proyectos. La firma de planos y las actividades reguladas dependen de la legislación nacional. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The BLS source describes practice in the United States. Protected title, professional registration, reserved activities and signing responsibilities must be checked country by country. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "La fuente BLS describe el ejercicio profesional en Estados Unidos. El título protegido, la inscripción profesional, los actos reservados y las responsabilidades de firma deben verificarse país por país. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Architectural design",
+          "type": "technical"
+        },
+        {
+          "id": "Technical drawing and digital modelling",
+          "type": "technical"
+        },
+        {
+          "id": "Needs and site analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Multidisciplinary coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Knowledge of materials and building systems",
+          "type": "technical"
+        },
+        {
+          "id": "Project presentation and argumentation",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Design principles and spatial composition",
+        "Construction materials and technologies",
+        "Graphic representation and digital modelling",
+        "Comfort, accessibility and sustainable design",
+        "Urban planning, standards and local regulation",
+        "Interdisciplinary coordination, architectural programming and verification of accessibility and usage requirements"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño arquitectónico",
+          "type": "technical"
+        },
+        {
+          "id": "Dibujo técnico y modelado digital",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de necesidades y del emplazamiento",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación multidisciplinar",
+          "type": "transferable"
+        },
+        {
+          "id": "Conocimiento de materiales y sistemas constructivos",
+          "type": "technical"
+        },
+        {
+          "id": "Presentación y argumentación de proyectos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de diseño y composición espacial",
+        "Materiales y tecnologías de construcción",
+        "Representación gráfica y modelado digital",
+        "Confort, accesibilidad y diseño sostenible",
+        "Urbanismo, normas y regulación local",
+        "Coordinación interdisciplinar, programación arquitectónica y verificación de requisitos de accesibilidad y uso"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.auto.mecanicien-automobile",
+      "profile_version": "0.2",
+      "fr_title": "Mécanicien / Mécanicienne automobile",
+      "en_title": "Automotive Mechanic",
+      "purpose_fr": "Inspecte, entretient et répare les systèmes mécaniques, électriques et électroniques de véhicules automobiles en suivant les procédures du constructeur et les règles de sécurité.",
+      "missions_fr": [
+        "Accueillir la demande et recueillir les informations utiles sur le véhicule et les symptômes signalés.",
+        "Réaliser des contrôles visuels et des tests de diagnostic adaptés.",
+        "Identifier les causes probables d’une anomalie et proposer les opérations à effectuer.",
+        "Effectuer les opérations d’entretien et remplacer les composants dans le périmètre de compétence.",
+        "Vérifier le fonctionnement après intervention et signaler les défauts non résolus.",
+        "Expliquer les travaux réalisés et documenter les pièces, contrôles et recommandations."
+      ],
+      "skills": [
+        {
+          "id": "Diagnostic mécanique et électronique",
+          "type": "technical"
+        },
+        {
+          "id": "Entretien des systèmes automobiles",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation d’outils de mesure et diagnostic",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de documentation technique",
+          "type": "technical"
+        },
+        {
+          "id": "Application des règles de sécurité et environnementales",
+          "type": "methodological"
+        },
+        {
+          "id": "Explication des interventions au client",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Moteurs, transmissions et systèmes de freinage",
+        "Électricité et électronique embarquées",
+        "Méthodes de diagnostic et contrôle",
+        "Lubrifiants, fluides et gestion des déchets",
+        "Sécurité atelier et consignes constructeur",
+        "Documentation technique constructeur, traçabilité des réparations et critères de restitution du véhicule."
+      ],
+      "work_context_fr": "Garages, concessions, ateliers de flotte, entreprises de transport et services de maintenance; les opérations spécialisées nécessitent une formation et des équipements adaptés. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.automotive-service-technicians",
+          "use": "inspection_diagnostic_entretien_reparation_et_documentation"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La source BLS décrit le contexte américain. Les règles concernant les fluides, la sécurité, les contrôles techniques et les certifications doivent être vérifiées localement. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Inspects, maintains and repairs mechanical, electrical and electronic vehicle systems in accordance with manufacturer procedures and safety rules.",
+      "purpose_es": "Inspecciona, mantiene y repara los sistemas mecánicos, eléctricos y electrónicos de vehículos conforme a los procedimientos del fabricante y las normas de seguridad.",
+      "missions_en": [
+        "Listen to the request and gather relevant information about the vehicle and reported symptoms.",
+        "Carry out suitable visual checks and diagnostic tests.",
+        "Identify likely causes of a fault and recommend the required work.",
+        "Perform maintenance and replace components within the scope of competence.",
+        "Check operation after the work and report unresolved defects.",
+        "Explain the work performed and record parts, checks and recommendations."
+      ],
+      "missions_es": [
+        "Recibir la solicitud y recopilar información pertinente sobre el vehículo y los síntomas comunicados.",
+        "Realizar controles visuales y pruebas de diagnóstico adecuadas.",
+        "Identificar las posibles causas de una anomalía y proponer las operaciones necesarias.",
+        "Realizar operaciones de mantenimiento y sustituir componentes dentro del ámbito de competencia.",
+        "Comprobar el funcionamiento después de la intervención y comunicar los defectos no resueltos.",
+        "Explicar los trabajos realizados y documentar las piezas, comprobaciones y recomendaciones."
+      ],
+      "work_context_en": "Garages, dealerships, fleet workshops, transport companies and maintenance services. Specialized work requires appropriate training and equipment. Work requires traceable records, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Garajes, concesionarios, talleres de flotas, empresas de transporte y servicios de mantenimiento. Las operaciones especializadas requieren formación y equipos adecuados. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The BLS source describes the US context. Rules for fluids, safety, roadworthiness inspections and certifications must be checked locally. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "La fuente BLS describe el contexto estadounidense. Las normas relativas a fluidos, seguridad, inspecciones técnicas y certificaciones deben verificarse localmente. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Mechanical and electronic diagnostics",
+          "type": "technical"
+        },
+        {
+          "id": "Maintenance of vehicle systems",
+          "type": "technical"
+        },
+        {
+          "id": "Use of measurement and diagnostic tools",
+          "type": "technical"
+        },
+        {
+          "id": "Reading technical documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Applying safety and environmental rules",
+          "type": "methodological"
+        },
+        {
+          "id": "Explaining work to customers",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Engines, transmissions and braking systems",
+        "Vehicle electrical and electronic systems",
+        "Diagnostic and inspection methods",
+        "Lubricants, fluids and waste management",
+        "Workshop safety and manufacturer instructions",
+        "Manufacturer technical documentation, repair traceability and vehicle handover criteria"
+      ],
+      "skills_es": [
+        {
+          "id": "Diagnóstico mecánico y electrónico",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento de sistemas de automoción",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de herramientas de medición y diagnóstico",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de documentación técnica",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de normas de seguridad y medio ambiente",
+          "type": "methodological"
+        },
+        {
+          "id": "Explicación de las intervenciones al cliente",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Motores, transmisiones y sistemas de frenado",
+        "Electricidad y electrónica del vehículo",
+        "Métodos de diagnóstico y control",
+        "Lubricantes, fluidos y gestión de residuos",
+        "Seguridad en el taller e instrucciones del fabricante",
+        "Documentación técnica del fabricante, trazabilidad de reparaciones y criterios de entrega del vehículo"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-vehicules-electriques",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne véhicules électriques",
+      "en_title": "Electric Vehicle Technician",
+      "purpose_fr": "Contribue à l’inspection, à l’entretien et au diagnostic des systèmes propres aux véhicules électriques et hybrides, dans le respect strict des procédures de sécurité haute tension.",
+      "missions_fr": [
+        "Identifier le type de motorisation et consulter les procédures techniques adaptées au véhicule.",
+        "Réaliser les contrôles de premier niveau autorisés sur les systèmes électriques et électroniques.",
+        "Utiliser les outils de diagnostic prévus et interpréter les informations sans dépasser son périmètre de compétence.",
+        "Participer aux opérations d’entretien des systèmes de traction, de freinage régénératif et de refroidissement.",
+        "Appliquer les procédures de consignation et de prévention des risques électriques sous habilitation appropriée.",
+        "Consigner les résultats, anomalies et opérations réalisées puis orienter les interventions spécialisées."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de données de diagnostic véhicule",
+          "type": "technical"
+        },
+        {
+          "id": "Connaissance des architectures électriques et hybrides",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle des systèmes de traction et auxiliaires",
+          "type": "technical"
+        },
+        {
+          "id": "Application stricte des procédures haute tension",
+          "type": "technical"
+        },
+        {
+          "id": "Traçabilité des interventions",
+          "type": "transferable"
+        },
+        {
+          "id": "Identification des limites de compétence et escalade",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes des véhicules électriques et hybrides",
+        "Batteries, moteurs électriques et électronique de puissance",
+        "Gestion thermique et freinage régénératif",
+        "Risques électriques et procédures de consignation",
+        "Réglementation locale et gestion de batteries en fin de vie",
+        "Principes de sécurité haute tension, consignation selon habilitation locale et limites d’intervention autorisées."
+      ],
+      "work_context_fr": "Ateliers spécialisés, concessions, flottes de véhicules électriques et services de maintenance; les interventions sur circuits haute tension sont réservées aux personnes formées et habilitées selon les règles applicables. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.automotive-service-technicians",
+          "use": "contexte_des_techniciens_specialises_en_vehicules_electriques_et_securite"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "Le BLS signale que certains mécaniciens se spécialisent sur les véhicules électriques, notamment batteries, freinage régénératif et moteurs. Ce profil ne constitue pas une instruction d’intervention haute tension; habilitations et procédures locales sont indispensables. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Contributes to inspection, maintenance and diagnosis of electric and hybrid vehicle systems while strictly following high-voltage safety procedures.",
+      "purpose_es": "Contribuye a la inspección, el mantenimiento y el diagnóstico de sistemas de vehículos eléctricos e híbridos respetando estrictamente los procedimientos de seguridad de alta tensión.",
+      "missions_en": [
+        "Identify the powertrain type and consult the vehicle’s relevant technical procedures.",
+        "Carry out authorized first-level checks on electrical and electronic systems.",
+        "Use approved diagnostic tools and interpret information without exceeding the scope of competence.",
+        "Assist with maintenance of traction, regenerative-braking and cooling systems.",
+        "Apply isolation and electrical-risk prevention procedures under the required authorization.",
+        "Record results, anomalies and work performed, then refer specialized work as needed."
+      ],
+      "missions_es": [
+        "Identificar el tipo de motorización y consultar los procedimientos técnicos adecuados al vehículo.",
+        "Realizar controles de primer nivel autorizados en los sistemas eléctricos y electrónicos.",
+        "Utilizar las herramientas de diagnóstico previstas e interpretar la información sin exceder el ámbito de competencia.",
+        "Participar en el mantenimiento de los sistemas de tracción, frenado regenerativo y refrigeración.",
+        "Aplicar los procedimientos de consignación y prevención de riesgos eléctricos con la habilitación adecuada.",
+        "Registrar los resultados, las anomalías y las operaciones realizadas, y derivar las intervenciones especializadas cuando sea necesario."
+      ],
+      "work_context_en": "Specialist workshops, dealerships, electric-vehicle fleets and maintenance services. High-voltage circuit work is reserved for trained and authorized personnel under applicable rules. Work requires traceable records, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Talleres especializados, concesionarios, flotas de vehículos eléctricos y servicios de mantenimiento. Las intervenciones en circuitos de alta tensión están reservadas a personas formadas y habilitadas conforme a las normas aplicables. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The BLS notes that some mechanics specialize in electric vehicles, including batteries, regenerative braking and motors. This profile is not an instruction for high-voltage work; local authorization and procedures are essential. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "BLS señala que algunos mecánicos se especializan en vehículos eléctricos, incluidas baterías, frenado regenerativo y motores. Este perfil no constituye una instrucción para intervenir en alta tensión; las habilitaciones y los procedimientos locales son indispensables. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Reading vehicle diagnostic data",
+          "type": "technical"
+        },
+        {
+          "id": "Knowledge of electric and hybrid architectures",
+          "type": "technical"
+        },
+        {
+          "id": "Checking traction and auxiliary systems",
+          "type": "technical"
+        },
+        {
+          "id": "Strict application of high-voltage procedures",
+          "type": "technical"
+        },
+        {
+          "id": "Recording maintenance work",
+          "type": "transferable"
+        },
+        {
+          "id": "Recognizing competence limits and escalating work",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Principles of electric and hybrid vehicles",
+        "Batteries, electric motors and power electronics",
+        "Thermal management and regenerative braking",
+        "Electrical hazards and isolation procedures",
+        "Local regulation and end-of-life battery management",
+        "High-voltage safety principles, isolation under local authorization and limits of permitted work"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de datos de diagnóstico del vehículo",
+          "type": "technical"
+        },
+        {
+          "id": "Conocimiento de arquitecturas eléctricas e híbridas",
+          "type": "technical"
+        },
+        {
+          "id": "Control de sistemas de tracción y auxiliares",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación estricta de procedimientos de alta tensión",
+          "type": "technical"
+        },
+        {
+          "id": "Registro de intervenciones",
+          "type": "transferable"
+        },
+        {
+          "id": "Identificación de límites de competencia y derivación",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de vehículos eléctricos e híbridos",
+        "Baterías, motores eléctricos y electrónica de potencia",
+        "Gestión térmica y frenado regenerativo",
+        "Riesgos eléctricos y procedimientos de consignación",
+        "Normativa local y gestión de baterías al final de su vida útil",
+        "Principios de seguridad de alta tensión, consignación según habilitación local y límites de intervención autorizados"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.bus.commercial",
+      "profile_version": "0.2",
+      "fr_title": "Commercial / Commerciale",
+      "en_title": "Sales Representative",
+      "purpose_fr": "Développe une relation commerciale avec des clients ou organisations, identifie leurs besoins et présente des offres adaptées dans le respect des conditions de vente.",
+      "missions_fr": [
+        "Identifier des prospects et organiser les prises de contact selon le plan commercial.",
+        "Comprendre les besoins du client et vérifier l’adéquation entre le besoin et l’offre.",
+        "Présenter les caractéristiques, conditions et limites des produits ou services.",
+        "Préparer les propositions commerciales et contribuer à la négociation dans le cadre autorisé.",
+        "Assurer le suivi des commandes, des engagements et des demandes après-vente.",
+        "Renseigner les outils de suivi et transmettre les informations utiles à l’équipe."
+      ],
+      "skills": [
+        {
+          "id": "Prospection et qualification de prospects",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse des besoins clients",
+          "type": "transferable"
+        },
+        {
+          "id": "Présentation d’offres et argumentation",
+          "type": "transferable"
+        },
+        {
+          "id": "Négociation commerciale éthique",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi de portefeuille et CRM",
+          "type": "technical"
+        },
+        {
+          "id": "Organisation et gestion des priorités",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Connaissance des produits et services vendus",
+        "Techniques de vente et relation client",
+        "Notions de prix, marge et conditions commerciales",
+        "Protection des données clients et règles de concurrence",
+        "Outils de gestion de la relation client",
+        "Prévision commerciale, gestion du portefeuille, analyse du cycle de vente et suivi des engagements clients."
+      ],
+      "work_context_fr": "Entreprises de distribution, fabricants, prestataires de services, commerces interentreprises et organisations; les connaissances techniques attendues dépendent du produit vendu. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.wholesale-sales-representatives",
+          "use": "prospection_besoins_clients_presentation_negociation_et_suivi"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La source BLS couvre surtout les ventes en gros et aux entreprises aux États-Unis. Le profil commercial général peut inclure d’autres contextes; les règles de vente et de protection des consommateurs sont nationales. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Develops commercial relationships with customers or organizations, identifies their needs and presents suitable offers in accordance with sales terms.",
+      "purpose_es": "Desarrolla relaciones comerciales con clientes u organizaciones, identifica sus necesidades y presenta ofertas adecuadas respetando las condiciones de venta.",
+      "missions_en": [
+        "Identify prospects and arrange contacts in line with the sales plan.",
+        "Understand customer needs and check that the offer is suitable.",
+        "Present product or service features, terms and limitations.",
+        "Prepare sales proposals and contribute to negotiations within the authorized scope.",
+        "Follow up on orders, commitments and after-sales requests.",
+        "Update tracking tools and share relevant information with the team."
+      ],
+      "missions_es": [
+        "Identificar posibles clientes y organizar contactos conforme al plan comercial.",
+        "Comprender las necesidades del cliente y comprobar la adecuación de la oferta.",
+        "Presentar las características, condiciones y limitaciones de los productos o servicios.",
+        "Preparar propuestas comerciales y contribuir a las negociaciones dentro del ámbito autorizado.",
+        "Hacer seguimiento de pedidos, compromisos y solicitudes posventa.",
+        "Actualizar las herramientas de seguimiento y transmitir información pertinente al equipo."
+      ],
+      "work_context_en": "Distribution companies, manufacturers, service providers, business-to-business sales and retail organizations. Technical knowledge depends on the product being sold. Work requires traceable decisions, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Empresas de distribución, fabricantes, proveedores de servicios, comercio entre empresas y organizaciones minoristas. Los conocimientos técnicos dependen del producto vendido. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The BLS source mainly covers wholesale and business-to-business sales in the United States. General sales roles may cover other contexts; sales and consumer-protection rules are national. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "La fuente BLS abarca principalmente las ventas mayoristas y entre empresas en Estados Unidos. El perfil comercial general puede incluir otros contextos; las normas de venta y protección al consumidor son nacionales. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Prospecting and lead qualification",
+          "type": "technical"
+        },
+        {
+          "id": "Customer-needs analysis",
+          "type": "transferable"
+        },
+        {
+          "id": "Presenting offers and making sales arguments",
+          "type": "transferable"
+        },
+        {
+          "id": "Ethical sales negotiation",
+          "type": "transferable"
+        },
+        {
+          "id": "Portfolio management and CRM",
+          "type": "technical"
+        },
+        {
+          "id": "Organization and priority management",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Knowledge of products and services sold",
+        "Sales techniques and customer relations",
+        "Pricing, margin and commercial terms",
+        "Customer-data protection and competition rules",
+        "Customer-relationship management tools",
+        "Sales forecasting, portfolio management, sales-cycle analysis and customer-commitment tracking"
+      ],
+      "skills_es": [
+        {
+          "id": "Prospección y cualificación de clientes potenciales",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de necesidades de clientes",
+          "type": "transferable"
+        },
+        {
+          "id": "Presentación de ofertas y argumentación comercial",
+          "type": "transferable"
+        },
+        {
+          "id": "Negociación comercial ética",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión de cartera y CRM",
+          "type": "technical"
+        },
+        {
+          "id": "Organización y gestión de prioridades",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Conocimiento de los productos y servicios vendidos",
+        "Técnicas de venta y relación con clientes",
+        "Precios, márgenes y condiciones comerciales",
+        "Protección de datos de clientes y normas de competencia",
+        "Herramientas de gestión de relaciones con clientes",
+        "Previsión comercial, gestión de cartera, análisis del ciclo de ventas y seguimiento de compromisos con clientes"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.bus.conseiller-clientele",
+      "profile_version": "0.2",
+      "fr_title": "Conseiller / Conseillère clientèle",
+      "en_title": "Customer Service Advisor",
+      "purpose_fr": "Informe et accompagne les clients dans l’utilisation de produits ou services, traite leurs demandes et contribue à résoudre les difficultés dans le respect des procédures de l’organisation.",
+      "missions_fr": [
+        "Accueillir les clients et écouter leur demande par les canaux disponibles.",
+        "Vérifier les informations utiles et consulter les outils de suivi autorisés.",
+        "Fournir des explications exactes sur les produits, services et procédures.",
+        "Traiter les demandes courantes et les réclamations dans les limites de son mandat.",
+        "Orienter les situations complexes vers le service ou le niveau de responsabilité approprié.",
+        "Enregistrer les échanges et assurer le suivi jusqu’à la clôture ou au transfert de la demande."
+      ],
+      "skills": [
+        {
+          "id": "Écoute active et reformulation",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication orale et écrite claire",
+          "type": "transferable"
+        },
+        {
+          "id": "Utilisation d’outils de suivi client",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de demandes et réclamations",
+          "type": "technical"
+        },
+        {
+          "id": "Protection des données et confidentialité",
+          "type": "technical"
+        },
+        {
+          "id": "Résolution de problèmes et orientation",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Connaissance des offres et procédures de l’organisation",
+        "Techniques de communication et de gestion des réclamations",
+        "Outils de relation client et gestion des dossiers",
+        "Confidentialité et protection des données",
+        "Règles sectorielles propres aux services proposés",
+        "Protection des données clients, traitement des réclamations et règles de transparence propres au secteur."
+      ],
+      "work_context_fr": "Agences, banques, télécommunications, commerces, services publics, centres de contact et services clients numériques; les règles sectorielles s’ajoutent aux procédures générales. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.customer-service-representatives",
+          "use": "demandes_clients_reclamations_commandes_et_enregistrements"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La source BLS décrit les représentants du service client aux États-Unis. Les responsabilités réglementées, notamment en finance, assurance ou santé, doivent être définies selon le pays et le secteur. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Informs and supports customers in using products or services, handles requests and helps resolve issues in accordance with organizational procedures.",
+      "purpose_es": "Informa y acompaña a los clientes en el uso de productos o servicios, gestiona sus solicitudes y contribuye a resolver dificultades conforme a los procedimientos de la organización.",
+      "missions_en": [
+        "Welcome customers and listen to their requests through available channels.",
+        "Verify relevant information and consult authorized tracking tools.",
+        "Provide accurate explanations about products, services and procedures.",
+        "Handle routine requests and complaints within the assigned mandate.",
+        "Refer complex situations to the appropriate service or level of responsibility.",
+        "Record interactions and follow up until the request is closed or transferred."
+      ],
+      "missions_es": [
+        "Recibir a los clientes y escuchar sus solicitudes a través de los canales disponibles.",
+        "Verificar la información pertinente y consultar las herramientas de seguimiento autorizadas.",
+        "Ofrecer explicaciones precisas sobre productos, servicios y procedimientos.",
+        "Tramitar solicitudes habituales y reclamaciones dentro de su mandato.",
+        "Derivar las situaciones complejas al servicio o nivel de responsabilidad adecuado.",
+        "Registrar los intercambios y hacer seguimiento hasta el cierre o la transferencia de la solicitud."
+      ],
+      "work_context_en": "Branches, banks, telecommunications, retail, public services, contact centres and digital customer-service teams. Sector-specific rules apply in addition to general procedures. Work requires traceable decisions, coordination and compliance with quality, safety and local rules.",
+      "work_context_es": "Sucursales, bancos, telecomunicaciones, comercios, servicios públicos, centros de contacto y servicios digitales de atención al cliente. Las normas sectoriales se añaden a los procedimientos generales. El trabajo exige trazabilidad, coordinación y cumplimiento de las normas de calidad, seguridad y regulación local.",
+      "mapping_note_en": "The BLS source describes customer-service representatives in the United States. Regulated responsibilities, especially in finance, insurance or healthcare, must be defined according to the country and sector. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "La fuente BLS describe a representantes de atención al cliente en Estados Unidos. Las responsabilidades reguladas, especialmente en finanzas, seguros o salud, deben definirse según el país y el sector. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Active listening and paraphrasing",
+          "type": "transferable"
+        },
+        {
+          "id": "Clear oral and written communication",
+          "type": "transferable"
+        },
+        {
+          "id": "Use of customer-tracking tools",
+          "type": "technical"
+        },
+        {
+          "id": "Request and complaint handling",
+          "type": "technical"
+        },
+        {
+          "id": "Data protection and confidentiality",
+          "type": "technical"
+        },
+        {
+          "id": "Problem-solving and referral",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Knowledge of organizational offers and procedures",
+        "Communication and complaint-handling techniques",
+        "Customer-relationship tools and case management",
+        "Confidentiality and data protection",
+        "Sector-specific rules for the services offered",
+        "Customer-data protection, complaint handling and sector-specific transparency rules"
+      ],
+      "skills_es": [
+        {
+          "id": "Escucha activa y reformulación",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación oral y escrita clara",
+          "type": "transferable"
+        },
+        {
+          "id": "Uso de herramientas de seguimiento de clientes",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de solicitudes y reclamaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Protección de datos y confidencialidad",
+          "type": "technical"
+        },
+        {
+          "id": "Resolución de problemas y derivación",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Conocimiento de las ofertas y procedimientos de la organización",
+        "Técnicas de comunicación y gestión de reclamaciones",
+        "Herramientas de relación con clientes y gestión de expedientes",
+        "Confidencialidad y protección de datos",
+        "Normas sectoriales propias de los servicios ofrecidos",
+        "Protección de datos de clientes, gestión de reclamaciones y normas de transparencia propias del sector"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.statisticien",
+      "profile_version": "0.2",
+      "fr_title": "Statisticien / Statisticienne",
+      "en_title": "Statistician",
+      "purpose_fr": "Conçoit des méthodes de collecte, organise et analyse des données quantitatives afin d’éclairer la recherche, la gestion ou la décision publique et privée.",
+      "missions_fr": [
+        "Clarifier la question d’étude et définir les indicateurs nécessaires.",
+        "Concevoir un plan de collecte, un questionnaire, un échantillonnage ou un protocole adapté.",
+        "Contrôler la qualité, la cohérence et la documentation des données recueillies.",
+        "Choisir et appliquer des méthodes statistiques adaptées à la question et aux données.",
+        "Interpréter les résultats en tenant compte des incertitudes, biais et limites méthodologiques.",
+        "Présenter les résultats dans des tableaux, graphiques et rapports accessibles aux décideurs."
+      ],
+      "skills": [
+        {
+          "id": "Conception d’enquêtes et échantillonnage",
+          "type": "technical"
+        },
+        {
+          "id": "Statistiques descriptives et inférentielles",
+          "type": "technical"
+        },
+        {
+          "id": "Nettoyage et validation des données",
+          "type": "technical"
+        },
+        {
+          "id": "Modélisation et analyse statistique",
+          "type": "technical"
+        },
+        {
+          "id": "Interprétation des incertitudes et limites",
+          "type": "technical"
+        },
+        {
+          "id": "Communication de résultats quantitatifs",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Probabilités et inférence statistique",
+        "Méthodes d’enquête et plans d’expérience",
+        "Qualité, confidentialité et gouvernance des données",
+        "Logiciels statistiques et programmation selon le poste",
+        "Visualisation et communication des résultats",
+        "Qualité des données, biais de sélection, incertitude statistique et communication des limites des analyses."
+      ],
+      "work_context_fr": "Instituts statistiques, administrations, universités, organismes de santé, banques, entreprises, bureaux d’études et organisations internationales. Le travail s’effectue avec traçabilité des décisions et des interventions, coordination avec les métiers concernés et respect des procédures qualité, de sécurité et des règles applicables localement.",
+      "evidence": [
+        {
+          "source_id": "source.bls.statisticians",
+          "use": "conception_enquetes_echantillonnage_modelisation_analyse_et_communication"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "cadre_de_classification_contextuel"
+        }
+      ],
+      "mapping_note": "La source BLS décrit le contexte professionnel américain et regroupe mathématiciens et statisticiens. Les niveaux de diplôme cités par ce pays ne sont pas transposés aux autres systèmes éducatifs. Les intitulés et périmètres peuvent varier selon les secteurs et les pays; toute correspondance de classification doit être confirmée à partir des tâches réellement exercées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Designs data-collection methods and analyzes quantitative information to support research, management and public or private decision-making.",
+      "purpose_es": "Diseña métodos de recopilación y analiza información cuantitativa para apoyar la investigación, la gestión y la toma de decisiones públicas o privadas.",
+      "missions_en": [
+        "Clarify the study question and define the indicators required.",
+        "Design a suitable data-collection plan, questionnaire, sample or protocol.",
+        "Check the quality, consistency and documentation of collected data.",
+        "Select and apply statistical methods suited to the question and data.",
+        "Interpret results while accounting for uncertainty, bias and methodological limits.",
+        "Present results in tables, charts and reports accessible to decision-makers."
+      ],
+      "missions_es": [
+        "Aclarar la pregunta de estudio y definir los indicadores necesarios.",
+        "Diseñar un plan de recopilación, cuestionario, muestra o protocolo adecuado.",
+        "Comprobar la calidad, coherencia y documentación de los datos recopilados.",
+        "Seleccionar y aplicar métodos estadísticos adecuados a la pregunta y a los datos.",
+        "Interpretar los resultados teniendo en cuenta la incertidumbre, los sesgos y los límites metodológicos.",
+        "Presentar los resultados en tablas, gráficos e informes accesibles para quienes toman decisiones."
+      ],
+      "work_context_en": "Statistical institutes, administrations, universities, health organizations, banks, companies, research firms and international organizations. Decisions and interventions must be traceable, coordinated with relevant occupations and compliant with quality, safety and local rules.",
+      "work_context_es": "Institutos estadísticos, administraciones, universidades, organismos sanitarios, bancos, empresas, consultoras y organizaciones internacionales. Las decisiones e intervenciones deben ser trazables, coordinarse con los oficios pertinentes y respetar los procedimientos de calidad, seguridad y normas locales.",
+      "mapping_note_en": "The BLS source describes the US professional context and groups mathematicians and statisticians. Degree levels cited for that country are not transferred to other education systems. Titles and scopes vary by sector and country; classification mapping must be confirmed against the duties actually performed.",
+      "mapping_note_es": "La fuente BLS describe el contexto profesional estadounidense y agrupa a matemáticos y estadísticos. Los niveles de titulación citados para ese país no se trasladan a otros sistemas educativos. Los títulos y ámbitos varían según el sector y el país; la correspondencia de clasificaciones debe confirmarse según las tareas realmente realizadas.",
+      "skills_en": [
+        {
+          "id": "Survey design and sampling",
+          "type": "technical"
+        },
+        {
+          "id": "Descriptive and inferential statistics",
+          "type": "technical"
+        },
+        {
+          "id": "Data cleaning and validation",
+          "type": "technical"
+        },
+        {
+          "id": "Statistical modelling and analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Interpretation of uncertainty and limitations",
+          "type": "technical"
+        },
+        {
+          "id": "Communication of quantitative results",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Probability and statistical inference",
+        "Survey methods and experimental designs",
+        "Data quality, confidentiality and governance",
+        "Statistical software and programming relevant to the role",
+        "Visualization and communication of results",
+        "Data quality, selection bias, statistical uncertainty and communication of analytical limitations"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de encuestas y muestreo",
+          "type": "technical"
+        },
+        {
+          "id": "Estadística descriptiva e inferencial",
+          "type": "technical"
+        },
+        {
+          "id": "Limpieza y validación de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Modelización y análisis estadístico",
+          "type": "technical"
+        },
+        {
+          "id": "Interpretación de incertidumbres y limitaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación de resultados cuantitativos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Probabilidad e inferencia estadística",
+        "Métodos de encuesta y diseños experimentales",
+        "Calidad, confidencialidad y gobernanza de datos",
+        "Software estadístico y programación según el puesto",
+        "Visualización y comunicación de resultados",
+        "Calidad de datos, sesgo de selección, incertidumbre estadística y comunicación de los límites de los análisis"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ],
+  "harmonization_wave": "02"
+}

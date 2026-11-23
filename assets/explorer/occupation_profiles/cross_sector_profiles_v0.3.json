@@ -1,0 +1,2006 @@
+{
+  "profile_set_version": "0.3.0",
+  "status": "draft_enrichment_not_published",
+  "domains": [
+    "health",
+    "agriculture",
+    "education",
+    "engineering"
+  ],
+  "record_count": 12,
+  "methodology": "Profils descriptifs harmonisés à six missions, six compétences et cinq domaines de connaissances minimum. Les sources servent de repères de cadrage; aucune règle nationale, licence ou équivalence n’est présumée. Révision experte requise avant publication.",
+  "profiles": [
+    {
+      "occupation_id": "occupation.health.infirmier",
+      "profile_version": "0.2",
+      "fr_title": "Infirmier / Infirmière",
+      "en_title": "Nurse",
+      "purpose_fr": "Évalue les besoins de soins, contribue au plan de prise en charge, réalise les interventions relevant de son habilitation et assure la continuité des soins avec l’équipe.",
+      "missions_fr": [
+        "Recueillir les données utiles sur l’état de santé, les besoins, les capacités et les préférences de la personne dans le cadre de son champ de compétence.",
+        "Contribuer à l’élaboration et à l’actualisation du plan de soins avec la personne et l’équipe pluridisciplinaire.",
+        "Réaliser les soins infirmiers autorisés en appliquant les protocoles, les règles d’hygiène et les procédures de sécurité.",
+        "Surveiller les signes cliniques, repérer les changements pertinents et alerter le professionnel compétent en temps utile.",
+        "Expliquer les soins, soutenir l’autonomie et adapter la communication à l’âge, à la situation et aux besoins de la personne.",
+        "Assurer la traçabilité des interventions, transmettre les informations nécessaires et contribuer à l’amélioration continue de la qualité."
+      ],
+      "skills": [
+        {
+          "id": "Évaluation structurée des besoins de soins",
+          "type": "technical"
+        },
+        {
+          "id": "Planification et réalisation des soins dans le champ de compétence",
+          "type": "technical"
+        },
+        {
+          "id": "Surveillance clinique et transmission des alertes",
+          "type": "technical"
+        },
+        {
+          "id": "Prévention des infections et sécurité des soins",
+          "type": "knowledge"
+        },
+        {
+          "id": "Communication thérapeutique et éducation à la santé",
+          "type": "transferable"
+        },
+        {
+          "id": "Traçabilité, confidentialité et travail en équipe",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes et démarches de soins infirmiers",
+        "Anatomie, physiologie et signes cliniques de base",
+        "Hygiène, prévention des infections et sécurité des patients",
+        "Éthique, droits des patients, consentement et confidentialité",
+        "Continuité des soins et coordination pluridisciplinaire"
+      ],
+      "work_context_fr": "Hôpitaux, centres de santé, structures communautaires, soins à domicile et services spécialisés; les actes et responsabilités dépendent du cadre légal, de la qualification et de la supervision applicables.",
+      "evidence": [
+        {
+          "source_id": "source.who.health-classification",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.registered-nurse",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les actes autorisés, titres protégés, formations et conditions d’exercice doivent être vérifiés pays par pays; ce profil ne constitue pas une autorisation de pratiquer. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.registered-nurse"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.health.infirmier",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Assesses care needs, contributes to care plans, delivers interventions within the authorized scope of practice and supports continuity of care with the team.",
+      "purpose_es": "Evalúa las necesidades de cuidados, contribuye a los planes de atención, realiza intervenciones dentro de su ámbito autorizado y garantiza la continuidad asistencial con el equipo.",
+      "missions_en": [
+        "Collect relevant information about a person’s health, needs, abilities and preferences within the scope of practice.",
+        "Contribute to developing and updating the care plan with the person and the multidisciplinary team.",
+        "Provide authorized nursing care while following protocols, hygiene rules and safety procedures.",
+        "Monitor clinical signs, identify relevant changes and alert the appropriate professional in a timely manner.",
+        "Explain care, support autonomy and adapt communication to the person’s age, situation and needs.",
+        "Record interventions, share necessary information and contribute to continuous quality improvement."
+      ],
+      "missions_es": [
+        "Recoger información pertinente sobre la salud, las necesidades, las capacidades y las preferencias de la persona dentro de su ámbito profesional.",
+        "Contribuir a elaborar y actualizar el plan de cuidados con la persona y el equipo multidisciplinar.",
+        "Prestar los cuidados de enfermería autorizados aplicando los protocolos, las normas de higiene y los procedimientos de seguridad.",
+        "Vigilar los signos clínicos, detectar cambios pertinentes y avisar oportunamente al profesional competente.",
+        "Explicar los cuidados, apoyar la autonomía y adaptar la comunicación a la edad, la situación y las necesidades de la persona.",
+        "Registrar las intervenciones, transmitir la información necesaria y contribuir a la mejora continua de la calidad."
+      ],
+      "work_context_en": "Hospitals, health centres, community services, home care and specialist services. Procedures and responsibilities depend on the applicable legal framework, qualifications and supervision.",
+      "work_context_es": "Hospitales, centros de salud, servicios comunitarios, atención domiciliaria y servicios especializados. Los actos y las responsabilidades dependen del marco legal, la cualificación y la supervisión aplicables.",
+      "mapping_note_en": "Authorized procedures, protected titles, training and practice requirements must be checked country by country; this profile does not authorize professional practice. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Los actos autorizados, los títulos protegidos, la formación y las condiciones de ejercicio deben verificarse país por país; este perfil no autoriza a ejercer la profesión. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence or certification is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias o certificaciones.",
+      "skills_en": [
+        {
+          "id": "Structured assessment of care needs",
+          "type": "technical"
+        },
+        {
+          "id": "Planning and delivering care within the scope of practice",
+          "type": "technical"
+        },
+        {
+          "id": "Clinical monitoring and escalation of concerns",
+          "type": "technical"
+        },
+        {
+          "id": "Infection prevention and patient safety",
+          "type": "knowledge"
+        },
+        {
+          "id": "Therapeutic communication and health education",
+          "type": "transferable"
+        },
+        {
+          "id": "Record-keeping, confidentiality and teamwork",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Nursing principles and care processes",
+        "Anatomy, physiology and basic clinical signs",
+        "Hygiene, infection prevention and patient safety",
+        "Ethics, patient rights, consent and confidentiality",
+        "Continuity of care and multidisciplinary coordination"
+      ],
+      "skills_es": [
+        {
+          "id": "Evaluación estructurada de las necesidades de cuidados",
+          "type": "technical"
+        },
+        {
+          "id": "Planificación y prestación de cuidados dentro del ámbito profesional",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento clínico y comunicación de alertas",
+          "type": "technical"
+        },
+        {
+          "id": "Prevención de infecciones y seguridad del paciente",
+          "type": "knowledge"
+        },
+        {
+          "id": "Comunicación terapéutica y educación sanitaria",
+          "type": "transferable"
+        },
+        {
+          "id": "Registro, confidencialidad y trabajo en equipo",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios y procesos de enfermería",
+        "Anatomía, fisiología y signos clínicos básicos",
+        "Higiene, prevención de infecciones y seguridad del paciente",
+        "Ética, derechos del paciente, consentimiento y confidencialidad",
+        "Continuidad asistencial y coordinación multidisciplinar"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.health.medecin-generaliste",
+      "profile_version": "0.2",
+      "fr_title": "Médecin généraliste",
+      "en_title": "General Practitioner",
+      "purpose_fr": "Assure des soins médicaux de premier recours, évalue les problèmes de santé courants, coordonne les orientations et accompagne le suivi global des patients.",
+      "missions_fr": [
+        "Accueillir les patients et recueillir leurs symptômes, antécédents, facteurs de risque et attentes dans le respect du secret professionnel.",
+        "Réaliser un examen clinique adapté et formuler des hypothèses diagnostiques selon les données disponibles.",
+        "Proposer une prise en charge, des examens complémentaires ou une orientation en tenant compte des recommandations et des ressources disponibles.",
+        "Assurer le suivi des maladies aiguës et chroniques, réévaluer les résultats et adapter la prise en charge lorsque nécessaire.",
+        "Mener des actions de prévention, de dépistage et d’éducation à la santé adaptées à la personne et à la communauté.",
+        "Coordonner les soins avec les autres professionnels, documenter les décisions et contribuer à la qualité et à la sécurité des services."
+      ],
+      "skills": [
+        {
+          "id": "Entretien clinique et recueil de l’histoire médicale",
+          "type": "technical"
+        },
+        {
+          "id": "Examen clinique et raisonnement diagnostique",
+          "type": "technical"
+        },
+        {
+          "id": "Décision clinique et orientation des patients",
+          "type": "technical"
+        },
+        {
+          "id": "Suivi des maladies et prévention",
+          "type": "technical"
+        },
+        {
+          "id": "Communication avec les patients et décision partagée",
+          "type": "transferable"
+        },
+        {
+          "id": "Tenue du dossier, confidentialité et coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Médecine générale et démarche clinique",
+        "Anatomie, physiologie, pathologies et pharmacologie de base",
+        "Prévention, dépistage et santé communautaire",
+        "Sécurité des patients, éthique et secret médical",
+        "Organisation des systèmes de santé et parcours de soins"
+      ],
+      "work_context_fr": "Cabinets, centres de santé, établissements hospitaliers et dispositifs de santé communautaire; diagnostic, prescription et actes réservés sont soumis aux règles nationales d’exercice.",
+      "evidence": [
+        {
+          "source_id": "source.who.health-classification",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.family-medicine-physician",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "La formation médicale, l’internat éventuel, l’inscription professionnelle et le périmètre d’exercice sont strictement dépendants du pays. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.family-medicine-physician"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.health.medecin-generaliste",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Provides first-contact medical care, assesses common health problems, coordinates referrals and supports patients’ overall follow-up.",
+      "purpose_es": "Presta atención médica de primer contacto, evalúa problemas de salud frecuentes, coordina derivaciones y acompaña el seguimiento integral de los pacientes.",
+      "missions_en": [
+        "Welcome patients and collect symptoms, medical history, risk factors and expectations while respecting professional confidentiality.",
+        "Perform an appropriate clinical examination and formulate diagnostic hypotheses based on available information.",
+        "Recommend care, further tests or referral in light of guidance and available resources.",
+        "Follow acute and chronic conditions, review outcomes and adjust care when necessary.",
+        "Provide prevention, screening and health-education activities suited to individuals and communities.",
+        "Coordinate care with other professionals, document decisions and contribute to service quality and safety."
+      ],
+      "missions_es": [
+        "Recibir a los pacientes y recoger síntomas, antecedentes, factores de riesgo y expectativas respetando el secreto profesional.",
+        "Realizar una exploración clínica adecuada y formular hipótesis diagnósticas según la información disponible.",
+        "Proponer una atención, pruebas complementarias o una derivación teniendo en cuenta las recomendaciones y los recursos disponibles.",
+        "Realizar el seguimiento de enfermedades agudas y crónicas, reevaluar los resultados y adaptar la atención cuando sea necesario.",
+        "Realizar actividades de prevención, detección y educación sanitaria adaptadas a las personas y las comunidades.",
+        "Coordinar la atención con otros profesionales, documentar las decisiones y contribuir a la calidad y seguridad de los servicios."
+      ],
+      "work_context_en": "Medical practices, health centres, hospitals and community-health services. Diagnosis, prescribing and reserved procedures are subject to national professional-practice rules.",
+      "work_context_es": "Consultorios, centros de salud, hospitales y dispositivos de salud comunitaria. El diagnóstico, la prescripción y los actos reservados están sujetos a las normas nacionales de ejercicio profesional.",
+      "mapping_note_en": "Medical education, any required internship, professional registration and scope of practice are strictly country-specific. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "La formación médica, las prácticas obligatorias, la inscripción profesional y el ámbito de ejercicio dependen estrictamente de cada país. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence or certification is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias o certificaciones.",
+      "skills_en": [
+        {
+          "id": "Clinical interviewing and medical-history taking",
+          "type": "technical"
+        },
+        {
+          "id": "Clinical examination and diagnostic reasoning",
+          "type": "technical"
+        },
+        {
+          "id": "Clinical decision-making and patient referral",
+          "type": "technical"
+        },
+        {
+          "id": "Disease follow-up and prevention",
+          "type": "technical"
+        },
+        {
+          "id": "Patient communication and shared decision-making",
+          "type": "transferable"
+        },
+        {
+          "id": "Record-keeping, confidentiality and coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "General practice and clinical methods",
+        "Anatomy, physiology, pathology and basic pharmacology",
+        "Prevention, screening and community health",
+        "Patient safety, ethics and medical confidentiality",
+        "Health-system organization and care pathways"
+      ],
+      "skills_es": [
+        {
+          "id": "Entrevista clínica y recopilación de antecedentes médicos",
+          "type": "technical"
+        },
+        {
+          "id": "Exploración clínica y razonamiento diagnóstico",
+          "type": "technical"
+        },
+        {
+          "id": "Toma de decisiones clínicas y derivación de pacientes",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento de enfermedades y prevención",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación con pacientes y toma de decisiones compartida",
+          "type": "transferable"
+        },
+        {
+          "id": "Registro clínico, confidencialidad y coordinación",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Medicina general y métodos clínicos",
+        "Anatomía, fisiología, patología y farmacología básica",
+        "Prevención, detección y salud comunitaria",
+        "Seguridad del paciente, ética y secreto médico",
+        "Organización de los sistemas de salud y circuitos asistenciales"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.health.epidemiologiste",
+      "profile_version": "0.2",
+      "fr_title": "Épidémiologiste",
+      "en_title": "Epidemiologist",
+      "purpose_fr": "Étudie la fréquence, la répartition et les déterminants des problèmes de santé afin d’appuyer la surveillance, la prévention et les décisions de santé publique.",
+      "missions_fr": [
+        "Définir les questions d’étude et les indicateurs nécessaires à la surveillance ou à l’analyse d’un problème de santé dans une population.",
+        "Concevoir des protocoles d’enquête ou d’étude en choisissant des méthodes adaptées aux objectifs et aux contraintes.",
+        "Organiser la collecte, la documentation, le contrôle qualité et la gestion sécurisée des données sanitaires.",
+        "Analyser les données avec des méthodes statistiques appropriées et interpréter les résultats en tenant compte des limites.",
+        "Contribuer à la détection, à l’investigation et au suivi des événements sanitaires avec les équipes habilitées.",
+        "Présenter les résultats aux décideurs et partenaires sous une forme compréhensible pour éclairer les actions de santé publique."
+      ],
+      "skills": [
+        {
+          "id": "Conception d’études épidémiologiques",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion et contrôle qualité des données sanitaires",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse statistique et interprétation des résultats",
+          "type": "technical"
+        },
+        {
+          "id": "Surveillance et investigation en santé publique",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction de rapports et visualisation des résultats",
+          "type": "transferable"
+        },
+        {
+          "id": "Protection des données et collaboration interdisciplinaire",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Épidémiologie descriptive et analytique",
+        "Biostatistique et méthodes de recherche",
+        "Surveillance sanitaire et systèmes d’information de santé",
+        "Prévention, santé publique et déterminants de la santé",
+        "Éthique de la recherche et protection des données personnelles"
+      ],
+      "work_context_fr": "Instituts de santé publique, ministères, organismes de recherche, universités et organisations internationales; les responsabilités opérationnelles dépendent du mandat et des protocoles nationaux.",
+      "evidence": [
+        {
+          "source_id": "source.who.public-health-workforce",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.epidemiologist",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les fonctions de surveillance et d’intervention sont exercées en coordination avec les autorités sanitaires; les qualifications requises dépendent du poste et du pays. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.epidemiologist"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.health.epidemiologiste",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Studies the frequency, distribution and determinants of health problems to support surveillance, prevention and public-health decisions.",
+      "purpose_es": "Estudia la frecuencia, distribución y factores determinantes de los problemas de salud para apoyar la vigilancia, la prevención y las decisiones de salud pública.",
+      "missions_en": [
+        "Define study questions and indicators needed to monitor or analyze a health issue in a population.",
+        "Design survey or study protocols using methods suited to the objectives and constraints.",
+        "Organize the collection, documentation, quality control and secure management of health data.",
+        "Analyze data using appropriate statistical methods and interpret results in light of their limitations.",
+        "Contribute to the detection, investigation and monitoring of health events with authorized teams.",
+        "Present results to decision-makers and partners in an understandable form to inform public-health action."
+      ],
+      "missions_es": [
+        "Definir las preguntas de estudio y los indicadores necesarios para vigilar o analizar un problema de salud en una población.",
+        "Diseñar protocolos de encuesta o estudio utilizando métodos adaptados a los objetivos y limitaciones.",
+        "Organizar la recopilación, documentación, control de calidad y gestión segura de datos sanitarios.",
+        "Analizar datos con métodos estadísticos adecuados e interpretar los resultados teniendo en cuenta sus limitaciones.",
+        "Contribuir a la detección, investigación y seguimiento de eventos sanitarios junto con equipos habilitados.",
+        "Presentar los resultados a responsables y colaboradores de forma comprensible para orientar acciones de salud pública."
+      ],
+      "work_context_en": "Public-health institutes, ministries, research organizations, universities and international organizations; operational responsibilities depend on the mandate and national protocols.",
+      "work_context_es": "Institutos de salud pública, ministerios, organismos de investigación, universidades y organizaciones internacionales; las responsabilidades operativas dependen del mandato y de los protocolos nacionales.",
+      "mapping_note_en": "Surveillance and response functions are carried out in coordination with health authorities; required qualifications depend on the position and country. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Las funciones de vigilancia y respuesta se realizan en coordinación con las autoridades sanitarias; las cualificaciones requeridas dependen del puesto y del país. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Designing epidemiological studies",
+          "type": "technical"
+        },
+        {
+          "id": "Health-data management and quality control",
+          "type": "technical"
+        },
+        {
+          "id": "Statistical analysis and interpretation",
+          "type": "technical"
+        },
+        {
+          "id": "Public-health surveillance and investigation",
+          "type": "technical"
+        },
+        {
+          "id": "Report writing and result visualization",
+          "type": "transferable"
+        },
+        {
+          "id": "Data protection and interdisciplinary collaboration",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Descriptive and analytical epidemiology",
+        "Biostatistics and research methods",
+        "Health surveillance and information systems",
+        "Prevention, public health and health determinants",
+        "Research ethics and personal-data protection"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de estudios epidemiológicos",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión y control de calidad de datos sanitarios",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis estadístico e interpretación de resultados",
+          "type": "technical"
+        },
+        {
+          "id": "Vigilancia e investigación en salud pública",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción de informes y visualización de resultados",
+          "type": "transferable"
+        },
+        {
+          "id": "Protección de datos y colaboración interdisciplinar",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Epidemiología descriptiva y analítica",
+        "Bioestadística y métodos de investigación",
+        "Vigilancia sanitaria y sistemas de información de salud",
+        "Prevención, salud pública y determinantes de la salud",
+        "Ética de investigación y protección de datos personales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.agriculteur",
+      "profile_version": "0.2",
+      "fr_title": "Agriculteur / Agricultrice",
+      "en_title": "Farmer",
+      "purpose_fr": "Organise et conduit une exploitation agricole afin de produire des cultures ou denrées végétales en gérant les ressources, les risques et la qualité.",
+      "missions_fr": [
+        "Planifier les cycles de production en fonction des cultures, des saisons, des ressources et des objectifs de l’exploitation.",
+        "Préparer les sols, sélectionner les semences ou plants et réaliser les opérations culturales adaptées.",
+        "Gérer l’irrigation, la fertilisation et l’entretien des parcelles en limitant les pertes et les impacts environnementaux.",
+        "Observer les cultures, identifier les signes de stress ou d’attaque et solliciter un conseil spécialisé lorsque nécessaire.",
+        "Organiser les récoltes, le tri, le stockage et la première commercialisation des produits dans de bonnes conditions.",
+        "Tenir les registres de production, suivre les coûts et appliquer les règles de sécurité au travail et de gestion des intrants."
+      ],
+      "skills": [
+        {
+          "id": "Planification des cultures et calendrier agricole",
+          "type": "technical"
+        },
+        {
+          "id": "Préparation des sols et conduite des cultures",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion raisonnée de l’eau et des intrants",
+          "type": "technical"
+        },
+        {
+          "id": "Observation des cultures et détection des problèmes",
+          "type": "technical"
+        },
+        {
+          "id": "Récolte, stockage et suivi de la qualité",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de l’exploitation et tenue des registres",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Agronomie et cycles biologiques des cultures",
+        "Sols, fertilité et pratiques de conservation",
+        "Gestion de l’eau, irrigation et adaptation climatique",
+        "Protection intégrée des cultures et utilisation prudente des intrants",
+        "Économie agricole, stockage et commercialisation"
+      ],
+      "work_context_fr": "Exploitations familiales ou commerciales, coopératives et périmètres irrigués; les pratiques dépendent des cultures, du climat, de l’accès aux équipements et des règles locales.",
+      "evidence": [
+        {
+          "source_id": "source.oecd.west-africa-agrifood",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.farmer-manager",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les cultures, pratiques et contraintes varient fortement selon la zone agroécologique; les recommandations techniques doivent être contextualisées localement. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.farmer-manager"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.agri.agriculteur",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Organizes and manages a farm to produce crops or plant-based products while managing resources, risks and quality.",
+      "purpose_es": "Organiza y gestiona una explotación agrícola para producir cultivos o productos vegetales, administrando los recursos, los riesgos y la calidad.",
+      "missions_en": [
+        "Plan production cycles according to crops, seasons, resources and farm objectives.",
+        "Prepare the soil, select seeds or seedlings and carry out suitable crop operations.",
+        "Manage irrigation, fertilization and field maintenance while limiting losses and environmental impacts.",
+        "Monitor crops, identify signs of stress or infestation and seek specialist advice when needed.",
+        "Organize harvesting, sorting, storage and initial marketing under appropriate conditions.",
+        "Maintain production records, monitor costs and follow workplace safety and input-management rules."
+      ],
+      "missions_es": [
+        "Planificar los ciclos de producción según los cultivos, las estaciones, los recursos y los objetivos de la explotación.",
+        "Preparar los suelos, seleccionar semillas o plantones y realizar las labores de cultivo adecuadas.",
+        "Gestionar el riego, la fertilización y el mantenimiento de las parcelas, limitando las pérdidas y los impactos ambientales.",
+        "Observar los cultivos, identificar señales de estrés o plagas y solicitar asesoramiento especializado cuando sea necesario.",
+        "Organizar la cosecha, la clasificación, el almacenamiento y la primera comercialización de los productos en condiciones adecuadas.",
+        "Llevar los registros de producción, controlar los costes y aplicar las normas de seguridad laboral y gestión de insumos."
+      ],
+      "work_context_en": "Family or commercial farms, cooperatives and irrigated schemes; practices depend on crops, climate, access to equipment and local rules.",
+      "work_context_es": "Explotaciones familiares o comerciales, cooperativas y zonas de regadío; las prácticas dependen de los cultivos, el clima, el acceso a equipos y las normas locales.",
+      "mapping_note_en": "Crops, practices and constraints vary considerably across agro-ecological zones; technical recommendations must be adapted to local conditions. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Los cultivos, las prácticas y las limitaciones varían considerablemente según la zona agroecológica; las recomendaciones técnicas deben adaptarse al contexto local. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence or certification is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias o certificaciones.",
+      "skills_en": [
+        {
+          "id": "Crop planning and agricultural scheduling",
+          "type": "technical"
+        },
+        {
+          "id": "Soil preparation and crop management",
+          "type": "technical"
+        },
+        {
+          "id": "Responsible water and agricultural-input management",
+          "type": "technical"
+        },
+        {
+          "id": "Crop observation and problem detection",
+          "type": "technical"
+        },
+        {
+          "id": "Harvesting, storage and quality monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Farm management and record-keeping",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Agronomy and crop biological cycles",
+        "Soils, fertility and conservation practices",
+        "Water management, irrigation and climate adaptation",
+        "Integrated crop protection and careful use of inputs",
+        "Agricultural economics, storage and marketing"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación de cultivos y calendario agrícola",
+          "type": "technical"
+        },
+        {
+          "id": "Preparación del suelo y manejo de cultivos",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión responsable del agua y de los insumos agrícolas",
+          "type": "technical"
+        },
+        {
+          "id": "Observación de cultivos y detección de problemas",
+          "type": "technical"
+        },
+        {
+          "id": "Cosecha, almacenamiento y control de calidad",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de la explotación y mantenimiento de registros",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Agronomía y ciclos biológicos de los cultivos",
+        "Suelos, fertilidad y prácticas de conservación",
+        "Gestión del agua, riego y adaptación climática",
+        "Protección integrada de cultivos y uso prudente de insumos",
+        "Economía agrícola, almacenamiento y comercialización"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.conseiller-agricole",
+      "profile_version": "0.2",
+      "fr_title": "Conseiller / Conseillère agricole",
+      "en_title": "Agricultural Extension Adviser",
+      "purpose_fr": "Accompagne les producteurs dans l’analyse de leurs besoins et l’amélioration de leurs pratiques agricoles grâce au conseil, à la formation et à la mise en relation.",
+      "missions_fr": [
+        "Analyser avec les exploitants leurs objectifs, leurs contraintes de production et les caractéristiques de leur exploitation.",
+        "Réaliser des visites de terrain et observer les pratiques, les cultures, les sols et les conditions de production.",
+        "Proposer des conseils techniques adaptés au contexte local, aux ressources disponibles et aux objectifs de durabilité.",
+        "Animer des démonstrations, formations et échanges entre producteurs pour faciliter l’adoption de pratiques pertinentes.",
+        "Orienter les exploitants vers les services, intrants, financements ou dispositifs d’appui compétents sans garantir leur accès.",
+        "Suivre les résultats des actions de conseil, documenter les observations et transmettre les informations utiles aux partenaires."
+      ],
+      "skills": [
+        {
+          "id": "Diagnostic participatif d’exploitation",
+          "type": "technical"
+        },
+        {
+          "id": "Conseil technique adapté aux systèmes de production",
+          "type": "technical"
+        },
+        {
+          "id": "Animation de groupes et démonstrations agricoles",
+          "type": "transferable"
+        },
+        {
+          "id": "Observation de terrain et collecte de données",
+          "type": "technical"
+        },
+        {
+          "id": "Orientation vers les services et dispositifs d’appui",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi-évaluation et rédaction de comptes rendus",
+          "type": "technical"
+        }
+      ],
+      "knowledge": [
+        "Systèmes de production agricoles et agroécologie",
+        "Agronomie appliquée et gestion des ressources",
+        "Méthodes de conseil, vulgarisation et apprentissage des adultes",
+        "Économie rurale, coopératives et chaînes de valeur",
+        "Suivi-évaluation et communication pour le développement"
+      ],
+      "work_context_fr": "Services de vulgarisation, ONG, coopératives, projets de développement, entreprises agricoles et organismes publics; le conseil doit tenir compte des réalités locales et de l’indépendance professionnelle.",
+      "evidence": [
+        {
+          "source_id": "source.fao.field-technician",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.oecd.west-africa-agrifood",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.agricultural-extension-educator",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les exigences de diplôme et d’expérience d’une offre FAO particulière ne doivent pas être généralisées à tous les postes de conseil agricole. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.agricultural-extension-educator"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.agri.conseiller-agricole",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Supports producers in analyzing their needs and improving agricultural practices through advice, training and connections to relevant services.",
+      "purpose_es": "Acompaña a los productores en el análisis de sus necesidades y la mejora de sus prácticas agrícolas mediante asesoramiento, formación y contacto con servicios pertinentes.",
+      "missions_en": [
+        "Discuss production goals, constraints and farm characteristics with operators.",
+        "Visit sites and observe practices, crops, soils and production conditions.",
+        "Recommend technical practices suited to local conditions, available resources and sustainability goals.",
+        "Lead demonstrations, training and peer exchanges to support adoption of relevant practices.",
+        "Refer producers to relevant services, inputs, finance or support schemes without guaranteeing access.",
+        "Monitor outcomes, document observations and share useful information with partners."
+      ],
+      "missions_es": [
+        "Analizar con los productores sus objetivos, limitaciones y características de la explotación.",
+        "Visitar las explotaciones y observar prácticas, cultivos, suelos y condiciones de producción.",
+        "Proponer prácticas técnicas adaptadas al contexto local, los recursos disponibles y los objetivos de sostenibilidad.",
+        "Organizar demostraciones, formaciones e intercambios entre productores para facilitar la adopción de prácticas pertinentes.",
+        "Orientar a los productores hacia servicios, insumos, financiación o programas de apoyo sin garantizar su acceso.",
+        "Hacer seguimiento de los resultados, documentar observaciones y transmitir información útil a los colaboradores."
+      ],
+      "work_context_en": "Extension services, NGOs, cooperatives, development projects, agricultural businesses and public organizations; advice must reflect local conditions and professional independence.",
+      "work_context_es": "Servicios de extensión, ONG, cooperativas, proyectos de desarrollo, empresas agrícolas y organismos públicos; el asesoramiento debe tener en cuenta las condiciones locales y la independencia profesional.",
+      "mapping_note_en": "Requirements in a specific FAO vacancy must not be generalized to every agricultural-advisory role. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Los requisitos de una oferta concreta de la FAO no deben generalizarse a todos los puestos de asesoramiento agrícola. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Participatory farm assessment",
+          "type": "technical"
+        },
+        {
+          "id": "Technical advice adapted to production systems",
+          "type": "technical"
+        },
+        {
+          "id": "Group facilitation and agricultural demonstrations",
+          "type": "transferable"
+        },
+        {
+          "id": "Field observation and data collection",
+          "type": "technical"
+        },
+        {
+          "id": "Referral to services and support schemes",
+          "type": "transferable"
+        },
+        {
+          "id": "Monitoring, evaluation and report writing",
+          "type": "technical"
+        }
+      ],
+      "knowledge_en": [
+        "Agricultural production systems and agroecology",
+        "Applied agronomy and resource management",
+        "Advisory methods, extension and adult learning",
+        "Rural economics, cooperatives and value chains",
+        "Monitoring, evaluation and communication for development"
+      ],
+      "skills_es": [
+        {
+          "id": "Diagnóstico participativo de explotaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Asesoramiento técnico adaptado a sistemas de producción",
+          "type": "technical"
+        },
+        {
+          "id": "Dinamización de grupos y demostraciones agrícolas",
+          "type": "transferable"
+        },
+        {
+          "id": "Observación de campo y recopilación de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Orientación hacia servicios y programas de apoyo",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento, evaluación y redacción de informes",
+          "type": "technical"
+        }
+      ],
+      "knowledge_es": [
+        "Sistemas de producción agrícola y agroecología",
+        "Agronomía aplicada y gestión de recursos",
+        "Métodos de asesoramiento, extensión y aprendizaje de adultos",
+        "Economía rural, cooperativas y cadenas de valor",
+        "Seguimiento, evaluación y comunicación para el desarrollo"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-irrigation",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne en irrigation",
+      "en_title": "Irrigation Technician",
+      "purpose_fr": "Contribue à l’installation, au réglage, au suivi et à l’entretien des systèmes d’irrigation afin d’assurer une distribution de l’eau adaptée et économe.",
+      "missions_fr": [
+        "Participer au relevé des besoins en eau et aux vérifications de terrain nécessaires à l’organisation de l’irrigation.",
+        "Installer ou contribuer à installer les équipements et réseaux d’irrigation conformément aux plans et consignes techniques.",
+        "Régler et surveiller les systèmes de distribution d’eau en fonction des cultures, des sols et des calendriers établis.",
+        "Contrôler les débits, pressions et signes de fuite ou d’obstruction, puis signaler les anomalies nécessitant une intervention spécialisée.",
+        "Effectuer l’entretien courant des équipements et appliquer les consignes de sécurité liées à l’eau, à l’électricité et aux machines.",
+        "Enregistrer les interventions et consommations d’eau et proposer des améliorations pour limiter les pertes."
+      ],
+      "skills": [
+        {
+          "id": "Lecture de plans et schémas de réseaux d’irrigation",
+          "type": "technical"
+        },
+        {
+          "id": "Installation et réglage d’équipements d’irrigation",
+          "type": "technical"
+        },
+        {
+          "id": "Mesure des débits et contrôle des installations",
+          "type": "technical"
+        },
+        {
+          "id": "Maintenance préventive et détection des anomalies",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion économe de l’eau et suivi des consommations",
+          "type": "knowledge"
+        },
+        {
+          "id": "Compte rendu technique et coordination de chantier",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Hydraulique appliquée et réseaux d’irrigation",
+        "Besoins hydriques des cultures et relations sol-eau-plante",
+        "Pompage, filtration, distribution et équipements",
+        "Maintenance, prévention des risques et sécurité électrique",
+        "Gestion durable de la ressource en eau"
+      ],
+      "work_context_fr": "Exploitations agricoles, périmètres irrigués, entreprises d’installation, coopératives et services hydrauliques; les interventions électriques ou spécialisées doivent être réalisées par des personnes habilitées.",
+      "evidence": [
+        {
+          "source_id": "source.oecd.west-africa-agrifood",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.colead.irrigation-technician",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Le dimensionnement et la mise en service peuvent nécessiter une supervision d’ingénierie selon la complexité et les règles locales. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.colead.irrigation-technician"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.agri.technicien-irrigation",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Supports the installation, adjustment, monitoring and maintenance of irrigation systems to provide suitable and efficient water distribution.",
+      "purpose_es": "Contribuye a instalar, ajustar, supervisar y mantener sistemas de riego para lograr una distribución de agua adecuada y eficiente.",
+      "missions_en": [
+        "Help assess water needs and carry out field checks needed to organize irrigation.",
+        "Install or assist with installing irrigation equipment and networks in accordance with plans and technical instructions.",
+        "Adjust and monitor water-distribution systems according to crops, soils and established schedules.",
+        "Check flow, pressure and signs of leakage or blockage, and report anomalies requiring specialist intervention.",
+        "Carry out routine equipment maintenance and follow water, electrical and machinery safety instructions.",
+        "Record work and water use and recommend improvements to reduce losses."
+      ],
+      "missions_es": [
+        "Participar en la evaluación de las necesidades de agua y en las comprobaciones de campo necesarias para organizar el riego.",
+        "Instalar o participar en la instalación de equipos y redes de riego conforme a los planos e instrucciones técnicas.",
+        "Regular y supervisar los sistemas de distribución de agua según los cultivos, los suelos y los calendarios establecidos.",
+        "Comprobar caudales, presiones y señales de fugas u obstrucciones, y comunicar anomalías que requieran una intervención especializada.",
+        "Realizar el mantenimiento habitual de los equipos y aplicar las instrucciones de seguridad relativas al agua, la electricidad y la maquinaria.",
+        "Registrar las intervenciones y el consumo de agua y proponer mejoras para reducir pérdidas."
+      ],
+      "work_context_en": "Farms, irrigated schemes, installation companies, cooperatives and water services; electrical or specialist work must be performed by authorized personnel.",
+      "work_context_es": "Explotaciones agrícolas, perímetros de riego, empresas instaladoras, cooperativas y servicios hidráulicos; las intervenciones eléctricas o especializadas deben realizarlas personas habilitadas.",
+      "mapping_note_en": "Sizing and commissioning may require engineering supervision depending on complexity and local rules. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "El dimensionamiento y la puesta en servicio pueden requerir supervisión de ingeniería según la complejidad y las normas locales. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Reading irrigation-network plans and diagrams",
+          "type": "technical"
+        },
+        {
+          "id": "Installing and adjusting irrigation equipment",
+          "type": "technical"
+        },
+        {
+          "id": "Flow measurement and system checks",
+          "type": "technical"
+        },
+        {
+          "id": "Preventive maintenance and anomaly detection",
+          "type": "technical"
+        },
+        {
+          "id": "Efficient water management and consumption monitoring",
+          "type": "knowledge"
+        },
+        {
+          "id": "Technical reporting and worksite coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Applied hydraulics and irrigation networks",
+        "Crop water requirements and soil-water-plant relations",
+        "Pumping, filtration, distribution and equipment",
+        "Maintenance, risk prevention and electrical safety",
+        "Sustainable water-resource management"
+      ],
+      "skills_es": [
+        {
+          "id": "Lectura de planos y esquemas de redes de riego",
+          "type": "technical"
+        },
+        {
+          "id": "Instalación y ajuste de equipos de riego",
+          "type": "technical"
+        },
+        {
+          "id": "Medición de caudales y control de instalaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento preventivo y detección de anomalías",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión eficiente del agua y seguimiento del consumo",
+          "type": "knowledge"
+        },
+        {
+          "id": "Informes técnicos y coordinación de obra",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Hidráulica aplicada y redes de riego",
+        "Necesidades hídricas de los cultivos y relaciones suelo-agua-planta",
+        "Bombeo, filtración, distribución y equipos",
+        "Mantenimiento, prevención de riesgos y seguridad eléctrica",
+        "Gestión sostenible de los recursos hídricos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.enseignant-primaire",
+      "profile_version": "0.2",
+      "fr_title": "Enseignant / Enseignante du primaire",
+      "en_title": "Primary School Teacher",
+      "purpose_fr": "Accompagne les enfants dans l’acquisition des apprentissages fondamentaux et le développement de compétences sociales, cognitives et citoyennes.",
+      "missions_fr": [
+        "Préparer des séquences d’apprentissage alignées sur les programmes applicables et adaptées à l’âge des élèves.",
+        "Enseigner les compétences fondamentales en mobilisant des méthodes variées et des supports accessibles.",
+        "Observer les apprentissages, évaluer les acquis et adapter les activités aux besoins identifiés.",
+        "Créer un environnement de classe sûr, inclusif et favorable à la participation et au respect mutuel.",
+        "Communiquer avec les familles et collaborer avec les collègues et services d’accompagnement pour soutenir les élèves.",
+        "Renseigner les documents pédagogiques et contribuer aux activités de l’établissement et au développement professionnel."
+      ],
+      "skills": [
+        {
+          "id": "Planification pédagogique et préparation de cours",
+          "type": "technical"
+        },
+        {
+          "id": "Enseignement des apprentissages fondamentaux",
+          "type": "technical"
+        },
+        {
+          "id": "Évaluation formative et suivi des progrès",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion positive de classe et inclusion",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication avec les familles et l’équipe éducative",
+          "type": "transferable"
+        },
+        {
+          "id": "Adaptation des supports et différenciation pédagogique",
+          "type": "technical"
+        }
+      ],
+      "knowledge": [
+        "Développement de l’enfant et psychologie de l’apprentissage",
+        "Didactique de la lecture, de l’écriture et des mathématiques",
+        "Programmes scolaires et progression des apprentissages",
+        "Évaluation, inclusion et besoins éducatifs divers",
+        "Protection de l’enfance, éthique et sécurité scolaire"
+      ],
+      "work_context_fr": "Écoles primaires publiques ou privées, établissements communautaires et dispositifs éducatifs; programmes, diplômes et conditions d’accès au métier varient selon les pays.",
+      "evidence": [
+        {
+          "source_id": "source.unesco-teaching-standards",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.primary-teacher",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les diplômes, concours, langues d’enseignement et autorisations d’enseigner sont déterminés par les autorités éducatives nationales. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.primary-teacher"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.edu.enseignant-primaire",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Supports children in acquiring foundational learning and developing social, cognitive and civic skills.",
+      "purpose_es": "Acompaña a los niños en la adquisición de aprendizajes fundamentales y el desarrollo de competencias sociales, cognitivas y cívicas.",
+      "missions_en": [
+        "Prepare learning sequences aligned with applicable curricula and suited to pupils’ ages.",
+        "Teach foundational skills using varied methods and accessible resources.",
+        "Observe learning, assess progress and adapt activities to identified needs.",
+        "Create a safe, inclusive classroom environment that supports participation and mutual respect.",
+        "Communicate with families and work with colleagues and support services to help pupils.",
+        "Maintain teaching records and contribute to school activities and professional development."
+      ],
+      "missions_es": [
+        "Preparar secuencias de aprendizaje alineadas con los programas aplicables y adaptadas a la edad del alumnado.",
+        "Enseñar competencias fundamentales mediante métodos variados y recursos accesibles.",
+        "Observar los aprendizajes, evaluar los avances y adaptar las actividades a las necesidades identificadas.",
+        "Crear un entorno de aula seguro e inclusivo que favorezca la participación y el respeto mutuo.",
+        "Comunicarse con las familias y colaborar con colegas y servicios de apoyo para acompañar al alumnado.",
+        "Mantener los documentos pedagógicos y contribuir a las actividades del centro y al desarrollo profesional."
+      ],
+      "work_context_en": "Public or private primary schools, community schools and educational programmes; curricula, qualifications and access requirements vary by country.",
+      "work_context_es": "Escuelas primarias públicas o privadas, centros comunitarios y programas educativos; los planes de estudio, diplomas y requisitos de acceso a la profesión varían según el país.",
+      "mapping_note_en": "Teaching qualifications, examinations, languages of instruction and authorization to teach are determined by national education authorities. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Los diplomas, concursos, idiomas de enseñanza y autorizaciones para enseñar los determinan las autoridades educativas nacionales. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Lesson planning and preparation",
+          "type": "technical"
+        },
+        {
+          "id": "Teaching foundational learning",
+          "type": "technical"
+        },
+        {
+          "id": "Formative assessment and progress monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Positive classroom management and inclusion",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication with families and the education team",
+          "type": "transferable"
+        },
+        {
+          "id": "Adapting resources and differentiating instruction",
+          "type": "technical"
+        }
+      ],
+      "knowledge_en": [
+        "Child development and learning psychology",
+        "Teaching methods for reading, writing and mathematics",
+        "School curricula and learning progression",
+        "Assessment, inclusion and diverse educational needs",
+        "Child safeguarding, ethics and school safety"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación pedagógica y preparación de clases",
+          "type": "technical"
+        },
+        {
+          "id": "Enseñanza de aprendizajes fundamentales",
+          "type": "technical"
+        },
+        {
+          "id": "Evaluación formativa y seguimiento de avances",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión positiva del aula e inclusión",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación con las familias y el equipo educativo",
+          "type": "transferable"
+        },
+        {
+          "id": "Adaptación de recursos y diferenciación pedagógica",
+          "type": "technical"
+        }
+      ],
+      "knowledge_es": [
+        "Desarrollo infantil y psicología del aprendizaje",
+        "Didáctica de lectura, escritura y matemáticas",
+        "Programas escolares y progresión de aprendizajes",
+        "Evaluación, inclusión y necesidades educativas diversas",
+        "Protección de la infancia, ética y seguridad escolar"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence or certification is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias o certificaciones.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.formateur-professionnel",
+      "profile_version": "0.2",
+      "fr_title": "Formateur / Formatrice professionnel(le)",
+      "en_title": "Vocational Education and Training Trainer",
+      "purpose_fr": "Conçoit et anime des actions de formation qui développent des connaissances et compétences utiles à l’exercice d’une activité professionnelle.",
+      "missions_fr": [
+        "Analyser les besoins de formation et les compétences attendues par les apprenants, employeurs ou commanditaires.",
+        "Définir des objectifs pédagogiques observables et construire une progression adaptée au niveau des participants.",
+        "Préparer des contenus, supports, démonstrations et activités pratiques liés aux situations professionnelles.",
+        "Animer les séances en favorisant la participation, l’apprentissage actif et l’adaptation aux différents profils.",
+        "Évaluer les acquis à l’aide de critères explicites et fournir un retour permettant de progresser.",
+        "Actualiser les ressources, documenter les résultats et coordonner les actions avec les équipes pédagogiques et professionnelles."
+      ],
+      "skills": [
+        {
+          "id": "Analyse des besoins et ingénierie de formation",
+          "type": "technical"
+        },
+        {
+          "id": "Conception de séquences et supports pédagogiques",
+          "type": "technical"
+        },
+        {
+          "id": "Animation de groupes et facilitation",
+          "type": "transferable"
+        },
+        {
+          "id": "Démonstration et encadrement d’activités pratiques",
+          "type": "technical"
+        },
+        {
+          "id": "Évaluation des compétences et feedback",
+          "type": "technical"
+        },
+        {
+          "id": "Veille métier et amélioration des formations",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Pédagogie des adultes et principes d’apprentissage",
+        "Ingénierie pédagogique et conception de parcours",
+        "Évaluation formative et certificative selon le cadre applicable",
+        "Méthodes et outils propres au domaine enseigné",
+        "Accessibilité, inclusion et sécurité en formation"
+      ],
+      "work_context_fr": "Centres de formation, entreprises, organismes publics, associations et dispositifs d’apprentissage; les habilitations pour délivrer des certifications dépendent du pays et de l’organisme.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.future-skills",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.vet-teacher",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les habilitations techniques ou pédagogiques peuvent être exigées selon la spécialité, le pays et le type de certification préparée. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.vet-teacher"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.edu.formateur-professionnel",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs and leads training activities that develop knowledge and skills relevant to professional practice.",
+      "purpose_es": "Diseña y dirige acciones de formación que desarrollan conocimientos y competencias útiles para el ejercicio profesional.",
+      "missions_en": [
+        "Analyze training needs and the skills expected by learners, employers or commissioning organizations.",
+        "Define observable learning objectives and build a progression suited to participants’ levels.",
+        "Prepare content, resources, demonstrations and practical activities related to workplace situations.",
+        "Lead sessions while encouraging participation, active learning and adaptation to different profiles.",
+        "Assess learning with explicit criteria and provide feedback that supports progress.",
+        "Update resources, document outcomes and coordinate with educational and professional teams."
+      ],
+      "missions_es": [
+        "Analizar las necesidades de formación y las competencias esperadas por los participantes, empleadores o entidades solicitantes.",
+        "Definir objetivos pedagógicos observables y construir una progresión adaptada al nivel de los participantes.",
+        "Preparar contenidos, materiales, demostraciones y actividades prácticas vinculadas a situaciones profesionales.",
+        "Dirigir sesiones fomentando la participación, el aprendizaje activo y la adaptación a distintos perfiles.",
+        "Evaluar los aprendizajes con criterios explícitos y ofrecer comentarios que permitan progresar.",
+        "Actualizar recursos, documentar resultados y coordinarse con equipos pedagógicos y profesionales."
+      ],
+      "work_context_en": "Training centres, companies, public organizations, associations and apprenticeship programmes; authorization to issue certifications depends on the country and provider.",
+      "work_context_es": "Centros de formación, empresas, organismos públicos, asociaciones y programas de aprendizaje; las habilitaciones para expedir certificaciones dependen del país y del organismo.",
+      "mapping_note_en": "Technical or pedagogical authorizations may be required depending on the specialization, country and type of certification prepared. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Pueden exigirse habilitaciones técnicas o pedagógicas según la especialidad, el país y el tipo de certificación preparada. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Training-needs analysis and training engineering",
+          "type": "technical"
+        },
+        {
+          "id": "Designing learning sequences and resources",
+          "type": "technical"
+        },
+        {
+          "id": "Group facilitation and learning support",
+          "type": "transferable"
+        },
+        {
+          "id": "Demonstrating and supervising practical activities",
+          "type": "technical"
+        },
+        {
+          "id": "Skills assessment and feedback",
+          "type": "technical"
+        },
+        {
+          "id": "Occupational monitoring and training improvement",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Adult education and learning principles",
+        "Instructional design and learning-path development",
+        "Formative and summative assessment under the applicable framework",
+        "Methods and tools specific to the subject taught",
+        "Accessibility, inclusion and training safety"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis de necesidades e ingeniería de formación",
+          "type": "technical"
+        },
+        {
+          "id": "Diseño de secuencias y materiales pedagógicos",
+          "type": "technical"
+        },
+        {
+          "id": "Dinamización de grupos y facilitación",
+          "type": "transferable"
+        },
+        {
+          "id": "Demostración y supervisión de actividades prácticas",
+          "type": "technical"
+        },
+        {
+          "id": "Evaluación de competencias y retroalimentación",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento profesional y mejora de la formación",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Pedagogía de adultos y principios de aprendizaje",
+        "Diseño pedagógico y elaboración de itinerarios",
+        "Evaluación formativa y certificativa según el marco aplicable",
+        "Métodos y herramientas propios del ámbito impartido",
+        "Accesibilidad, inclusión y seguridad en la formación"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence or certification is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias o certificaciones.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.ingenieur-pedagogique",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure pédagogique",
+      "en_title": "Instructional Designer",
+      "purpose_fr": "Conçoit, structure et améliore des dispositifs de formation en articulant objectifs pédagogiques, contenus, activités, outils et évaluation.",
+      "missions_fr": [
+        "Analyser les besoins des publics, les objectifs de formation et les contraintes des équipes pédagogiques.",
+        "Concevoir l’architecture de parcours d’apprentissage en définissant modules, séquences, activités et évaluations.",
+        "Accompagner les experts métier dans la transformation de leurs contenus en ressources pédagogiques structurées.",
+        "Choisir des formats et outils adaptés aux objectifs, à l’accessibilité, aux équipements et aux conditions de connexion.",
+        "Coordonner la production, tester les ressources et recueillir les retours des apprenants et formateurs.",
+        "Analyser les données d’usage et les résultats pédagogiques afin de proposer des améliorations documentées."
+      ],
+      "skills": [
+        {
+          "id": "Analyse de besoins pédagogiques",
+          "type": "technical"
+        },
+        {
+          "id": "Architecture de parcours et scénarisation",
+          "type": "technical"
+        },
+        {
+          "id": "Conception de ressources multimodales",
+          "type": "technical"
+        },
+        {
+          "id": "Accompagnement des experts et formateurs",
+          "type": "transferable"
+        },
+        {
+          "id": "Évaluation de dispositifs et analyse de données",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de projet et coordination de production",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Sciences de l’éducation et théories de l’apprentissage",
+        "Ingénierie de formation et conception pédagogique",
+        "Évaluation des apprentissages et mesure des résultats",
+        "Accessibilité numérique et conception inclusive",
+        "Outils numériques de formation et gestion de projet"
+      ],
+      "work_context_fr": "Universités, écoles, organismes de formation, entreprises, administrations et équipes EdTech; les solutions doivent être adaptées aux publics, aux infrastructures et aux exigences d’accessibilité.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.future-skills",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.instructional-coordinator",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "L’intitulé est utilisé de façon variable selon les organisations; les compétences attendues dépendent du niveau de conception et des outils utilisés. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.instructional-coordinator"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.edu.ingenieur-pedagogique",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs, structures and improves learning programmes by aligning learning objectives, content, activities, tools and assessment.",
+      "purpose_es": "Diseña, estructura y mejora programas de formación articulando objetivos pedagógicos, contenidos, actividades, herramientas y evaluación.",
+      "missions_en": [
+        "Analyze learner needs, training objectives and constraints affecting teaching teams.",
+        "Design learning-path architecture by defining modules, sequences, activities and assessments.",
+        "Support subject-matter experts in turning their content into structured learning resources.",
+        "Select formats and tools suited to objectives, accessibility, equipment and connectivity conditions.",
+        "Coordinate production, test resources and collect feedback from learners and trainers.",
+        "Analyze usage data and learning outcomes to recommend documented improvements."
+      ],
+      "missions_es": [
+        "Analizar las necesidades de los públicos, los objetivos de formación y las limitaciones de los equipos pedagógicos.",
+        "Diseñar la arquitectura de itinerarios de aprendizaje definiendo módulos, secuencias, actividades y evaluaciones.",
+        "Acompañar a expertos en la transformación de sus contenidos en recursos pedagógicos estructurados.",
+        "Elegir formatos y herramientas adaptados a los objetivos, la accesibilidad, los equipos y las condiciones de conexión.",
+        "Coordinar la producción, probar los recursos y recoger comentarios de estudiantes y formadores.",
+        "Analizar datos de uso y resultados de aprendizaje para proponer mejoras documentadas."
+      ],
+      "work_context_en": "Universities, schools, training organizations, companies, public administrations and EdTech teams; solutions must suit audiences, infrastructure and accessibility requirements.",
+      "work_context_es": "Universidades, centros educativos, organismos de formación, empresas, administraciones públicas y equipos EdTech; las soluciones deben adaptarse a los públicos, las infraestructuras y los requisitos de accesibilidad.",
+      "mapping_note_en": "The title is used differently across organizations; expected skills depend on design responsibility and tools used. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "El título se utiliza de manera diferente según las organizaciones; las competencias esperadas dependen de la responsabilidad de diseño y de las herramientas utilizadas. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Learning-needs analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Learning-path architecture and instructional design",
+          "type": "technical"
+        },
+        {
+          "id": "Designing multimodal resources",
+          "type": "technical"
+        },
+        {
+          "id": "Supporting subject-matter experts and trainers",
+          "type": "transferable"
+        },
+        {
+          "id": "Programme evaluation and data analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Project management and production coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Educational sciences and learning theories",
+        "Training engineering and instructional design",
+        "Learning assessment and outcome measurement",
+        "Digital accessibility and inclusive design",
+        "Digital learning tools and project management"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis de necesidades pedagógicas",
+          "type": "technical"
+        },
+        {
+          "id": "Arquitectura de itinerarios y diseño pedagógico",
+          "type": "technical"
+        },
+        {
+          "id": "Diseño de recursos multimodales",
+          "type": "technical"
+        },
+        {
+          "id": "Acompañamiento a expertos y formadores",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluación de programas y análisis de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de proyectos y coordinación de producción",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Ciencias de la educación y teorías del aprendizaje",
+        "Ingeniería de formación y diseño pedagógico",
+        "Evaluación de aprendizajes y medición de resultados",
+        "Accesibilidad digital y diseño inclusivo",
+        "Herramientas digitales de formación y gestión de proyectos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.constr.ingenieur-genie-civil",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure génie civil",
+      "en_title": "Civil Engineer",
+      "purpose_fr": "Conçoit, analyse et supervise des ouvrages ou infrastructures en veillant à leur fonctionnalité, leur stabilité, leur conformité et leur durabilité.",
+      "missions_fr": [
+        "Analyser les besoins d’un projet et contribuer aux études de faisabilité, de conception et de dimensionnement.",
+        "Produire ou vérifier des notes de calcul, plans et documents techniques selon les normes applicables.",
+        "Coordonner les études avec les architectes, bureaux spécialisés, entreprises et autres parties prenantes.",
+        "Suivre l’exécution des travaux, contrôler la conformité aux plans et signaler les écarts ou risques identifiés.",
+        "Veiller à la prise en compte de la qualité, de la sécurité, de l’environnement et de la durabilité des ouvrages.",
+        "Préparer les rapports, documents de réception et éléments de suivi technique et budgétaire du projet."
+      ],
+      "skills": [
+        {
+          "id": "Analyse technique et dimensionnement des ouvrages",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture et production de plans et documents de calcul",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination des intervenants de projet",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi de chantier et contrôle qualité",
+          "type": "technical"
+        },
+        {
+          "id": "Évaluation des risques et exigences de sécurité",
+          "type": "knowledge"
+        },
+        {
+          "id": "Gestion documentaire et communication technique",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Mécanique des structures et matériaux de construction",
+        "Géotechnique, topographie et infrastructures",
+        "Normes, codes de construction et réglementation locale",
+        "Méthodes de construction, qualité et sécurité des chantiers",
+        "Gestion de projet, coûts et durabilité des ouvrages"
+      ],
+      "work_context_fr": "Bureaux d’études, entreprises de construction, administrations, collectivités et organismes d’infrastructure; la signature des études et responsabilités réglementées dépend des habilitations locales.",
+      "evidence": [
+        {
+          "source_id": "source.iea.gapc",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.abet.engineering-outcomes",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.civil-engineer",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les actes réservés, signatures, responsabilités de conception et conditions d’inscription professionnelle varient selon le pays. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.civil-engineer"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.constr.ingenieur-genie-civil",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs, analyzes and supervises structures or infrastructure, ensuring functionality, stability, compliance and durability.",
+      "purpose_es": "Diseña, analiza y supervisa obras o infraestructuras velando por su funcionalidad, estabilidad, conformidad y durabilidad.",
+      "missions_en": [
+        "Analyze project needs and contribute to feasibility, design and sizing studies.",
+        "Prepare or review calculations, drawings and technical documents in accordance with applicable standards.",
+        "Coordinate studies with architects, specialist consultancies, contractors and other stakeholders.",
+        "Monitor construction work, check compliance with plans and report identified deviations or risks.",
+        "Ensure that quality, safety, environmental and sustainability requirements are considered.",
+        "Prepare reports, handover documents and technical and budget monitoring information."
+      ],
+      "missions_es": [
+        "Analizar las necesidades del proyecto y contribuir a estudios de viabilidad, diseño y dimensionamiento.",
+        "Elaborar o verificar cálculos, planos y documentos técnicos conforme a las normas aplicables.",
+        "Coordinar los estudios con arquitectos, consultoras especializadas, empresas y otras partes interesadas.",
+        "Supervisar la ejecución de las obras, controlar su conformidad con los planos y comunicar desviaciones o riesgos detectados.",
+        "Velar por que se tengan en cuenta los requisitos de calidad, seguridad, medio ambiente y sostenibilidad.",
+        "Preparar informes, documentos de recepción e información de seguimiento técnico y presupuestario del proyecto."
+      ],
+      "work_context_en": "Design consultancies, construction companies, public administrations, local authorities and infrastructure organizations. Signing studies and regulated responsibilities depend on local authorizations.",
+      "work_context_es": "Consultoras, empresas de construcción, administraciones públicas, autoridades locales y organismos de infraestructura. La firma de estudios y las responsabilidades reguladas dependen de las habilitaciones locales.",
+      "mapping_note_en": "Reserved activities, signatures, design responsibilities and professional-registration requirements vary by country. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Los actos reservados, las firmas, las responsabilidades de diseño y las condiciones de inscripción profesional varían según el país. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Technical analysis and structural sizing",
+          "type": "technical"
+        },
+        {
+          "id": "Reading and producing plans and calculation documents",
+          "type": "technical"
+        },
+        {
+          "id": "Project-stakeholder coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Site monitoring and quality control",
+          "type": "technical"
+        },
+        {
+          "id": "Risk assessment and safety requirements",
+          "type": "knowledge"
+        },
+        {
+          "id": "Document management and technical communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Structural mechanics and construction materials",
+        "Geotechnics, surveying and infrastructure",
+        "Standards, building codes and local regulation",
+        "Construction methods, site quality and safety",
+        "Project management, costs and infrastructure sustainability"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis técnico y dimensionamiento de estructuras",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura y elaboración de planos y documentos de cálculo",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de participantes del proyecto",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento de obras y control de calidad",
+          "type": "technical"
+        },
+        {
+          "id": "Evaluación de riesgos y requisitos de seguridad",
+          "type": "knowledge"
+        },
+        {
+          "id": "Gestión documental y comunicación técnica",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Mecánica de estructuras y materiales de construcción",
+        "Geotecnia, topografía e infraestructuras",
+        "Normas, códigos de construcción y regulación local",
+        "Métodos de construcción, calidad y seguridad en obras",
+        "Gestión de proyectos, costes y sostenibilidad de infraestructuras"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-mecanique",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure mécanique",
+      "en_title": "Mechanical Engineer",
+      "purpose_fr": "Conçoit, développe, teste et améliore des équipements et systèmes mécaniques pour répondre à des besoins industriels ou techniques.",
+      "missions_fr": [
+        "Analyser les besoins fonctionnels et les contraintes techniques d’un système, équipement ou composant mécanique.",
+        "Concevoir ou améliorer des solutions mécaniques en utilisant des méthodes de calcul et des outils de conception adaptés.",
+        "Sélectionner les matériaux, composants et procédés en tenant compte de la performance, du coût et de la maintenabilité.",
+        "Préparer ou examiner les plans, spécifications et dossiers techniques destinés à la fabrication ou à l’intégration.",
+        "Participer aux essais, analyser les résultats et proposer des corrections pour améliorer la fiabilité et la sécurité.",
+        "Coordonner les équipes de production et maintenance et documenter les choix et modifications techniques."
+      ],
+      "skills": [
+        {
+          "id": "Conception mécanique et modélisation assistée par ordinateur",
+          "type": "technical"
+        },
+        {
+          "id": "Calcul et analyse des systèmes mécaniques",
+          "type": "technical"
+        },
+        {
+          "id": "Choix des matériaux et procédés de fabrication",
+          "type": "technical"
+        },
+        {
+          "id": "Planification et interprétation d’essais techniques",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de défaillance et amélioration de fiabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Documentation et coordination interdisciplinaire",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Mécanique appliquée, résistance des matériaux et dynamique",
+        "Thermique, fluides et systèmes énergétiques de base",
+        "Matériaux, procédés de fabrication et tolérancement",
+        "Conception assistée par ordinateur et méthodes de validation",
+        "Sécurité des machines, qualité et maintenance"
+      ],
+      "work_context_fr": "Bureaux d’études, industries manufacturières, énergie, transport, maintenance et sociétés d’ingénierie; les responsabilités de conception et de validation varient selon le secteur et la réglementation.",
+      "evidence": [
+        {
+          "source_id": "source.iea.gapc",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.abet.engineering-outcomes",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.mechanical-engineer",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les logiciels, normes sectorielles et niveaux de responsabilité dépendent du secteur et de la réglementation locale. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.mechanical-engineer"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.eng.ingenieur-mecanique",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs, develops, tests and improves mechanical equipment and systems for industrial or technical needs.",
+      "purpose_es": "Diseña, desarrolla, prueba y mejora equipos y sistemas mecánicos para necesidades industriales o técnicas.",
+      "missions_en": [
+        "Analyze functional needs and technical constraints of a mechanical system, device or component.",
+        "Design or improve mechanical solutions using suitable calculation methods and design tools.",
+        "Select materials, components and processes with regard to performance, cost and maintainability.",
+        "Prepare or review drawings, specifications and technical files for manufacturing or integration.",
+        "Take part in tests, analyze results and recommend changes to improve reliability and safety.",
+        "Coordinate production and maintenance teams and document technical decisions and changes."
+      ],
+      "missions_es": [
+        "Analizar las necesidades funcionales y las limitaciones técnicas de un sistema, equipo o componente mecánico.",
+        "Diseñar o mejorar soluciones mecánicas utilizando métodos de cálculo y herramientas de diseño adecuadas.",
+        "Seleccionar materiales, componentes y procesos teniendo en cuenta el rendimiento, el coste y la mantenibilidad.",
+        "Preparar o revisar planos, especificaciones y expedientes técnicos destinados a la fabricación o integración.",
+        "Participar en ensayos, analizar los resultados y proponer correcciones para mejorar la fiabilidad y la seguridad.",
+        "Coordinar los equipos de producción y mantenimiento y documentar las decisiones y modificaciones técnicas."
+      ],
+      "work_context_en": "Design offices, manufacturing industries, energy, transport, maintenance and engineering companies; design and validation responsibilities vary by sector and regulation.",
+      "work_context_es": "Oficinas técnicas, industrias manufactureras, energía, transporte, mantenimiento y empresas de ingeniería; las responsabilidades de diseño y validación varían según el sector y la normativa.",
+      "mapping_note_en": "Software, sector standards and responsibility levels depend on the industry and local regulation. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Los programas, las normas sectoriales y los niveles de responsabilidad dependen del sector y de la normativa local. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Mechanical design and computer-aided modelling",
+          "type": "technical"
+        },
+        {
+          "id": "Mechanical-system calculation and analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Material and manufacturing-process selection",
+          "type": "technical"
+        },
+        {
+          "id": "Planning and interpreting technical tests",
+          "type": "technical"
+        },
+        {
+          "id": "Failure analysis and reliability improvement",
+          "type": "technical"
+        },
+        {
+          "id": "Documentation and interdisciplinary coordination",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Applied mechanics, strength of materials and dynamics",
+        "Thermal science, fluids and basic energy systems",
+        "Materials, manufacturing processes and tolerancing",
+        "Computer-aided design and validation methods",
+        "Machine safety, quality and maintenance"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño mecánico y modelado asistido por ordenador",
+          "type": "technical"
+        },
+        {
+          "id": "Cálculo y análisis de sistemas mecánicos",
+          "type": "technical"
+        },
+        {
+          "id": "Selección de materiales y procesos de fabricación",
+          "type": "technical"
+        },
+        {
+          "id": "Planificación e interpretación de ensayos técnicos",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de fallos y mejora de la fiabilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Documentación y coordinación interdisciplinar",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Mecánica aplicada, resistencia de materiales y dinámica",
+        "Termodinámica, fluidos y sistemas energéticos básicos",
+        "Materiales, procesos de fabricación y tolerancias",
+        "Diseño asistido por ordenador y métodos de validación",
+        "Seguridad de máquinas, calidad y mantenimiento"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-electrique",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure électricien(ne)",
+      "en_title": "Electrical Engineer",
+      "purpose_fr": "Conçoit, vérifie et accompagne la réalisation de systèmes et installations électriques en recherchant sécurité, fiabilité et performance.",
+      "missions_fr": [
+        "Analyser les besoins électriques d’un bâtiment, équipement ou système industriel et identifier les contraintes de fonctionnement.",
+        "Contribuer à la conception des installations, schémas, protections et systèmes de distribution selon les normes applicables.",
+        "Dimensionner ou vérifier les composants et équipements en tenant compte de la sécurité, de la fiabilité et de l’efficacité énergétique.",
+        "Coordonner l’installation et la mise en service avec les équipes techniques et les autres disciplines.",
+        "Examiner les résultats d’essais, diagnostiquer les écarts et proposer des actions correctives adaptées.",
+        "Préparer la documentation technique et contribuer à la maintenance, à l’amélioration et au suivi des installations."
+      ],
+      "skills": [
+        {
+          "id": "Conception et lecture de schémas électriques",
+          "type": "technical"
+        },
+        {
+          "id": "Dimensionnement des installations et équipements",
+          "type": "technical"
+        },
+        {
+          "id": "Sélection des protections et dispositifs de sécurité",
+          "type": "technical"
+        },
+        {
+          "id": "Essais, diagnostic et mise en service",
+          "type": "technical"
+        },
+        {
+          "id": "Efficacité énergétique et fiabilité des installations",
+          "type": "knowledge"
+        },
+        {
+          "id": "Coordination de travaux et documentation technique",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Électrotechnique et circuits électriques",
+        "Distribution, machines et équipements électriques",
+        "Protection électrique, normes et sécurité des installations",
+        "Automatisation et interfaces avec les systèmes de contrôle",
+        "Efficacité énergétique, maintenance et qualité"
+      ],
+      "work_context_fr": "Bureaux d’études, industrie, énergie, bâtiment, infrastructures et maintenance; les opérations sous tension et travaux réglementés sont réservés aux personnes habilitées.",
+      "evidence": [
+        {
+          "source_id": "source.iea.gapc",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "source.abet.engineering-outcomes",
+          "use": "repère_de_cadrage_des_tâches_compétences_et_limites_du_contexte"
+        },
+        {
+          "source_id": "src.onet.electrical-engineer",
+          "use": "source_directement_liee_au_metier_v3"
+        }
+      ],
+      "mapping_note": "Les règles de conception, d’installation, de contrôle et de signature doivent être vérifiées dans la juridiction concernée. Les sources internationales servent de repères descriptifs et ne valent pas équivalence de diplôme, de titre ou de réglementation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence ou certification n'est présumée.",
+      "direct_sources_v3": [
+        "src.onet.electrical-engineer"
+      ],
+      "training_pathway_ref": "training_pathways_batch_01_v3.json#occupation.eng.ingenieur-electrique",
+      "classification_crosswalk_status": "pending_exact_validation",
+      "professional_review_status": "source_based_desk_review_2026-11-22; expert_review_pending",
+      "purpose_en": "Designs, verifies and supports the implementation of electrical systems and installations with a focus on safety, reliability and performance.",
+      "purpose_es": "Diseña, verifica y acompaña la realización de sistemas e instalaciones eléctricas buscando seguridad, fiabilidad y rendimiento.",
+      "missions_en": [
+        "Analyze electrical needs for a building, equipment or industrial system and identify operating constraints.",
+        "Contribute to designing installations, diagrams, protection and distribution systems under applicable standards.",
+        "Size or verify components and equipment with regard to safety, reliability and energy efficiency.",
+        "Coordinate installation and commissioning with technical teams and other disciplines.",
+        "Review test results, diagnose deviations and recommend suitable corrective actions.",
+        "Prepare technical documentation and contribute to maintenance, improvement and monitoring of installations."
+      ],
+      "missions_es": [
+        "Analizar las necesidades eléctricas de un edificio, equipo o sistema industrial e identificar las limitaciones de funcionamiento.",
+        "Contribuir al diseño de instalaciones, esquemas, protecciones y sistemas de distribución conforme a las normas aplicables.",
+        "Dimensionar o verificar componentes y equipos teniendo en cuenta la seguridad, la fiabilidad y la eficiencia energética.",
+        "Coordinar la instalación y puesta en servicio con los equipos técnicos y otras disciplinas.",
+        "Examinar resultados de ensayos, diagnosticar desviaciones y proponer medidas correctivas adecuadas.",
+        "Preparar documentación técnica y contribuir al mantenimiento, mejora y seguimiento de las instalaciones."
+      ],
+      "work_context_en": "Design offices, industry, energy, buildings, infrastructure and maintenance; energized work and regulated operations are reserved for authorized personnel.",
+      "work_context_es": "Oficinas técnicas, industria, energía, edificación, infraestructuras y mantenimiento; los trabajos en tensión y las operaciones reguladas están reservados a personas habilitadas.",
+      "mapping_note_en": "Design, installation, inspection and signing rules must be checked in the relevant jurisdiction. International sources provide descriptive references and do not establish equivalence of qualifications, titles or regulations.",
+      "mapping_note_es": "Las normas de diseño, instalación, inspección y firma deben verificarse en la jurisdicción correspondiente. Las fuentes internacionales son referencias descriptivas y no equivalen a títulos, cualificaciones ni normativas.",
+      "skills_en": [
+        {
+          "id": "Designing and reading electrical diagrams",
+          "type": "technical"
+        },
+        {
+          "id": "Sizing installations and equipment",
+          "type": "technical"
+        },
+        {
+          "id": "Selecting protection and safety devices",
+          "type": "technical"
+        },
+        {
+          "id": "Testing, diagnosis and commissioning",
+          "type": "technical"
+        },
+        {
+          "id": "Energy efficiency and installation reliability",
+          "type": "knowledge"
+        },
+        {
+          "id": "Work coordination and technical documentation",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Electrical engineering and circuits",
+        "Distribution, machines and electrical equipment",
+        "Electrical protection, standards and installation safety",
+        "Automation and interfaces with control systems",
+        "Energy efficiency, maintenance and quality"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño y lectura de esquemas eléctricos",
+          "type": "technical"
+        },
+        {
+          "id": "Dimensionamiento de instalaciones y equipos",
+          "type": "technical"
+        },
+        {
+          "id": "Selección de protecciones y dispositivos de seguridad",
+          "type": "technical"
+        },
+        {
+          "id": "Ensayos, diagnóstico y puesta en servicio",
+          "type": "technical"
+        },
+        {
+          "id": "Eficiencia energética y fiabilidad de instalaciones",
+          "type": "knowledge"
+        },
+        {
+          "id": "Coordinación de trabajos y documentación técnica",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Electrotecnia y circuitos eléctricos",
+        "Distribución, máquinas y equipos eléctricos",
+        "Protección eléctrica, normas y seguridad de instalaciones",
+        "Automatización e interfaces con sistemas de control",
+        "Eficiencia energética, mantenimiento y calidad"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ]
+}

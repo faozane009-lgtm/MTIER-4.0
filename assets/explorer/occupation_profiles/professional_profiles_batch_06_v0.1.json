@@ -1,0 +1,2350 @@
+{
+  "profile_set_version": "0.2.0",
+  "batch_id": "batch_06",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "Lot de 15 nouveaux profils candidats, sélectionnés dans l’ordre du reliquat du catalogue de 115 métiers.",
+  "methodology": "Profils descriptifs avec six missions, six compétences typées et cinq domaines de connaissances minimum. Les classifications internationales servent de repères et ne remplacent pas les règles nationales. Aucun salaire, diplôme, licence ou débouché local n’est inventé. Révision experte requise avant publication.",
+  "record_count": 15,
+  "profiles": [
+    {
+      "occupation_id": "occupation.real.agent-immobilier",
+      "profile_version": "0.2",
+      "fr_title": "Agent / Agente immobilier(ère)",
+      "en_title": "Real Estate Agent",
+      "purpose_fr": "Accompagne des clients dans la recherche, la mise en location ou la transaction de biens immobiliers, en facilitant une information fiable et un suivi transparent.",
+      "missions_fr": [
+        "Recueillir le besoin du client, ses critères, son calendrier et les contraintes pertinentes du projet.",
+        "Rechercher et présélectionner des biens correspondant au mandat et vérifier les informations disponibles.",
+        "Organiser les visites, présenter les caractéristiques du bien et consigner les questions ou réserves des clients.",
+        "Constituer et mettre à jour les dossiers de transaction ou de location selon les procédures applicables.",
+        "Faciliter les échanges entre clients, propriétaires, acquéreurs et professionnels intervenant au dossier.",
+        "Assurer le suivi après visite et rendre compte de l'avancement, des pièces manquantes et des prochaines étapes."
+      ],
+      "skills": [
+        {
+          "id": "Analyse du besoin et conseil client",
+          "type": "transferable"
+        },
+        {
+          "id": "Prospection et qualification de biens",
+          "type": "technical"
+        },
+        {
+          "id": "Présentation de biens et conduite de visites",
+          "type": "technical"
+        },
+        {
+          "id": "Constitution et suivi de dossiers immobiliers",
+          "type": "technical"
+        },
+        {
+          "id": "Négociation et communication professionnelle",
+          "type": "transferable"
+        },
+        {
+          "id": "Vérification des informations et déontologie",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Marché immobilier et typologie des biens",
+        "Principes de vente, location et gestion de mandats",
+        "Documents et étapes usuels d'une transaction immobilière",
+        "Relation client, négociation et techniques commerciales",
+        "Règles locales de propriété, location, publicité et protection des consommateurs"
+      ],
+      "work_context_fr": "Agences immobilières, promoteurs, réseaux de transaction ou activité indépendante; les actes autorisés et obligations professionnelles varient selon le pays.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Ne pas présenter les tâches comme un droit de rédiger des actes authentiques, garantir un titre de propriété ou exercer sans autorisation locale.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Supports clients in searching for, renting or purchasing property by providing reliable information and transparent follow-up.",
+      "purpose_es": "Acompaña a los clientes en la búsqueda, el alquiler o la compraventa de inmuebles facilitando información fiable y un seguimiento transparente.",
+      "missions_en": [
+        "Gather the client’s needs, criteria, timeline and relevant project constraints.",
+        "Search for and shortlist properties that match the mandate and verify available information.",
+        "Arrange viewings, present property features and record client questions or concerns.",
+        "Prepare and update sales or rental files in accordance with applicable procedures.",
+        "Facilitate communication between clients, owners, buyers and professionals involved in the case.",
+        "Follow up after viewings and report progress, missing documents and next steps."
+      ],
+      "missions_es": [
+        "Recopilar las necesidades, los criterios, el calendario y las limitaciones pertinentes del proyecto del cliente.",
+        "Buscar y preseleccionar inmuebles que respondan al encargo y verificar la información disponible.",
+        "Organizar visitas, presentar las características del inmueble y registrar las preguntas o reservas de los clientes.",
+        "Preparar y actualizar los expedientes de compraventa o alquiler conforme a los procedimientos aplicables.",
+        "Facilitar los intercambios entre clientes, propietarios, compradores y profesionales que intervienen en el expediente.",
+        "Hacer seguimiento después de las visitas e informar sobre los avances, los documentos pendientes y las siguientes etapas."
+      ],
+      "work_context_en": "Real-estate agencies, developers, brokerage networks and self-employment; authorized activities and professional obligations vary by country.",
+      "work_context_es": "Agencias inmobiliarias, promotores, redes de intermediación y actividad independiente; los actos autorizados y las obligaciones profesionales varían según el país.",
+      "mapping_note_en": "Do not present the duties as authorization to prepare authentic legal deeds, guarantee title to property or operate without local authorization.",
+      "mapping_note_es": "Las tareas no deben presentarse como autorización para redactar escrituras públicas, garantizar títulos de propiedad ni ejercer sin autorización local.",
+      "skills_en": [
+        {
+          "id": "Needs analysis and customer advice",
+          "type": "transferable"
+        },
+        {
+          "id": "Prospecting and property qualification",
+          "type": "technical"
+        },
+        {
+          "id": "Property presentation and conducting viewings",
+          "type": "technical"
+        },
+        {
+          "id": "Preparing and tracking property files",
+          "type": "technical"
+        },
+        {
+          "id": "Negotiation and professional communication",
+          "type": "transferable"
+        },
+        {
+          "id": "Information verification and professional ethics",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Real-estate markets and property types",
+        "Sales, rental and mandate-management principles",
+        "Common documents and stages in a property transaction",
+        "Customer relations, negotiation and sales techniques",
+        "Local property, rental, advertising and consumer-protection rules"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis de necesidades y asesoramiento al cliente",
+          "type": "transferable"
+        },
+        {
+          "id": "Prospección y selección de inmuebles",
+          "type": "technical"
+        },
+        {
+          "id": "Presentación de inmuebles y organización de visitas",
+          "type": "technical"
+        },
+        {
+          "id": "Preparación y seguimiento de expedientes inmobiliarios",
+          "type": "technical"
+        },
+        {
+          "id": "Negociación y comunicación profesional",
+          "type": "transferable"
+        },
+        {
+          "id": "Verificación de información y ética profesional",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Mercados inmobiliarios y tipología de inmuebles",
+        "Principios de compraventa, alquiler y gestión de encargos",
+        "Documentos y etapas habituales de una transacción inmobiliaria",
+        "Relación con clientes, negociación y técnicas comerciales",
+        "Normas locales sobre propiedad, alquiler, publicidad y protección del consumidor"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-patrimoine-immobilier",
+      "profile_version": "0.2",
+      "fr_title": "Gestionnaire de patrimoine immobilier",
+      "en_title": "Real Estate Asset Manager",
+      "purpose_fr": "Organise le suivi administratif, technique et économique d'un portefeuille immobilier afin de préserver la qualité des actifs et la continuité des services aux occupants.",
+      "missions_fr": [
+        "Tenir à jour l'inventaire des biens, contrats, échéances, documents et interlocuteurs associés.",
+        "Suivre les budgets, dépenses, revenus locatifs et indicateurs de performance du portefeuille.",
+        "Coordonner les demandes des occupants et les interventions des prestataires de maintenance.",
+        "Planifier les inspections périodiques et signaler les besoins de travaux ou de mise en conformité.",
+        "Préparer des rapports de gestion et des scénarios d'entretien, de rénovation ou de valorisation.",
+        "Contribuer au renouvellement des contrats et au suivi des risques, assurances et obligations applicables."
+      ],
+      "skills": [
+        {
+          "id": "Gestion de portefeuille et suivi d'actifs",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi budgétaire et analyse d'indicateurs",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination de prestataires et maintenance",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion contractuelle et documentaire",
+          "type": "technical"
+        },
+        {
+          "id": "Reporting et planification pluriannuelle",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication avec propriétaires et occupants",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Cycle de vie et caractéristiques des actifs immobiliers",
+        "Gestion locative et administration de biens",
+        "Budgets, charges, revenus et indicateurs immobiliers",
+        "Maintenance du bâtiment et gestion des prestataires",
+        "Principes de droit immobilier, assurance et conformité locale"
+      ],
+      "work_context_fr": "Sociétés de gestion, foncières, bailleurs, entreprises, collectivités ou grands propriétaires; le périmètre dépend du mandat confié.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Distinguer gestion patrimoniale, gestion locative, syndic et expertise immobilière; les missions réglementées doivent être vérifiées localement.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Organizes the administrative, technical and financial monitoring of a property portfolio to preserve asset quality and continuity of services for occupants.",
+      "purpose_es": "Organiza el seguimiento administrativo, técnico y económico de una cartera inmobiliaria para preservar la calidad de los activos y la continuidad de los servicios a los ocupantes.",
+      "missions_en": [
+        "Maintain inventories of properties, contracts, deadlines, documents and related contacts.",
+        "Monitor budgets, expenses, rental income and portfolio performance indicators.",
+        "Coordinate occupant requests and maintenance-provider interventions.",
+        "Plan periodic inspections and report work or compliance needs.",
+        "Prepare management reports and maintenance, renovation or asset-enhancement scenarios.",
+        "Contribute to contract renewals and monitor risks, insurance and applicable obligations."
+      ],
+      "missions_es": [
+        "Mantener actualizados los inventarios de inmuebles, contratos, plazos, documentos e interlocutores asociados.",
+        "Supervisar presupuestos, gastos, ingresos por alquiler e indicadores de rendimiento de la cartera.",
+        "Coordinar las solicitudes de los ocupantes y las intervenciones de los proveedores de mantenimiento.",
+        "Planificar inspecciones periódicas y comunicar las necesidades de obras o adecuación normativa.",
+        "Preparar informes de gestión y escenarios de mantenimiento, renovación o valorización.",
+        "Contribuir a la renovación de contratos y supervisar riesgos, seguros y obligaciones aplicables."
+      ],
+      "work_context_en": "Property-management companies, real-estate investment firms, landlords, businesses, local authorities and large property owners; scope depends on the mandate.",
+      "work_context_es": "Sociedades de gestión, empresas patrimoniales, arrendadores, empresas, entidades locales y grandes propietarios; el alcance depende del mandato recibido.",
+      "mapping_note_en": "Distinguish asset management, rental management, condominium management and property valuation; regulated duties must be checked locally.",
+      "mapping_note_es": "Debe distinguirse la gestión patrimonial, la gestión de alquileres, la administración de comunidades y la valoración inmobiliaria; las funciones reguladas deben verificarse localmente.",
+      "skills_en": [
+        {
+          "id": "Portfolio and asset management",
+          "type": "transferable"
+        },
+        {
+          "id": "Budget monitoring and indicator analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Provider coordination and maintenance",
+          "type": "technical"
+        },
+        {
+          "id": "Contract and document management",
+          "type": "technical"
+        },
+        {
+          "id": "Reporting and multi-year planning",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication with owners and occupants",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Property-asset lifecycle and characteristics",
+        "Rental management and property administration",
+        "Budgets, charges, income and property indicators",
+        "Building maintenance and service-provider management",
+        "Property-law, insurance and local-compliance principles"
+      ],
+      "skills_es": [
+        {
+          "id": "Gestión de cartera y seguimiento de activos",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento presupuestario y análisis de indicadores",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de proveedores y mantenimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión contractual y documental",
+          "type": "technical"
+        },
+        {
+          "id": "Informes y planificación plurianual",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación con propietarios y ocupantes",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Ciclo de vida y características de los activos inmobiliarios",
+        "Gestión de alquileres y administración de inmuebles",
+        "Presupuestos, gastos, ingresos e indicadores inmobiliarios",
+        "Mantenimiento de edificios y gestión de proveedores",
+        "Principios de derecho inmobiliario, seguros y cumplimiento local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.security.agent-securite",
+      "profile_version": "0.2",
+      "fr_title": "Agent / Agente de sécurité",
+      "en_title": "Security Officer",
+      "purpose_fr": "Contribue à la prévention des incidents et à la protection des personnes et des biens par une présence professionnelle, l'observation et l'application de consignes autorisées.",
+      "missions_fr": [
+        "Prendre connaissance des consignes du site, des zones autorisées et des procédures de signalement.",
+        "Effectuer des rondes et observations dans le périmètre défini, en consignant les faits utiles.",
+        "Accueillir et orienter les visiteurs selon les règles d'accès et les exigences de confidentialité.",
+        "Repérer les anomalies visibles et transmettre rapidement les informations aux responsables compétents.",
+        "Appliquer les procédures de sécurité du site et contribuer à l'information préventive des occupants.",
+        "Rédiger des comptes rendus factuels et participer aux retours d'expérience après incident."
+      ],
+      "skills": [
+        {
+          "id": "Observation et vigilance professionnelle",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication calme et accueil du public",
+          "type": "technical"
+        },
+        {
+          "id": "Application de consignes et contrôle d'accès autorisé",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction de rapports factuels",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion relationnelle de situations difficiles",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidentialité, proportionnalité et respect des droits",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Prévention des risques et sécurité des sites",
+        "Procédures d'accès et règles propres au site",
+        "Communication professionnelle et gestion des conflits",
+        "Traçabilité, rédaction de main courante et confidentialité",
+        "Cadre légal local de la sécurité privée et limites d'intervention"
+      ],
+      "work_context_fr": "Entreprises de sécurité, sites industriels, commerces, établissements, événements ou services internes; l'activité peut être soumise à agrément et formation selon le pays.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Aucune tactique coercitive ou prérogative de police n'est présumée; toute intervention doit rester dans le cadre légal, les consignes et la sécurité des personnes.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Contributes to incident prevention and the protection of people and property through professional presence, observation and compliance with authorized instructions.",
+      "purpose_es": "Contribuye a prevenir incidentes y proteger a las personas y los bienes mediante una presencia profesional, la observación y la aplicación de instrucciones autorizadas.",
+      "missions_en": [
+        "Review site instructions, authorized areas and reporting procedures.",
+        "Carry out patrols and observations within the defined scope and record relevant facts.",
+        "Welcome and direct visitors in accordance with access rules and confidentiality requirements.",
+        "Identify visible anomalies and promptly report information to the appropriate managers.",
+        "Follow site-safety procedures and contribute to preventive information for occupants.",
+        "Write factual reports and take part in post-incident reviews."
+      ],
+      "missions_es": [
+        "Conocer las instrucciones del lugar, las zonas autorizadas y los procedimientos de comunicación.",
+        "Realizar rondas y observaciones dentro del ámbito definido y registrar los hechos pertinentes.",
+        "Recibir y orientar a los visitantes conforme a las normas de acceso y confidencialidad.",
+        "Detectar anomalías visibles y transmitir rápidamente la información a los responsables competentes.",
+        "Aplicar los procedimientos de seguridad del lugar y contribuir a informar preventivamente a sus ocupantes.",
+        "Redactar informes objetivos y participar en revisiones posteriores a incidentes."
+      ],
+      "work_context_en": "Security companies, industrial sites, retail premises, institutions, events and in-house security services; licensing and training requirements vary by country.",
+      "work_context_es": "Empresas de seguridad, instalaciones industriales, comercios, instituciones, eventos y servicios internos; la actividad puede requerir autorización y formación según el país.",
+      "mapping_note_en": "No coercive tactics or police powers are presumed; any intervention must remain within the law, instructions and the safety of people.",
+      "mapping_note_es": "No se presuponen tácticas coercitivas ni atribuciones policiales; toda intervención debe mantenerse dentro de la ley, las instrucciones y la seguridad de las personas.",
+      "skills_en": [
+        {
+          "id": "Professional observation and vigilance",
+          "type": "transferable"
+        },
+        {
+          "id": "Calm communication and public reception",
+          "type": "technical"
+        },
+        {
+          "id": "Following instructions and authorized access control",
+          "type": "technical"
+        },
+        {
+          "id": "Writing factual reports",
+          "type": "technical"
+        },
+        {
+          "id": "Interpersonal management of difficult situations",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidentiality, proportionality and respect for rights",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Risk prevention and site security",
+        "Access procedures and site-specific rules",
+        "Professional communication and conflict management",
+        "Traceability, incident logs and confidentiality",
+        "Local legal framework for private security and limits of intervention"
+      ],
+      "skills_es": [
+        {
+          "id": "Observación y vigilancia profesional",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación tranquila y atención al público",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de instrucciones y control de acceso autorizado",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción de informes objetivos",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión interpersonal de situaciones difíciles",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidencialidad, proporcionalidad y respeto de los derechos",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Prevención de riesgos y seguridad de instalaciones",
+        "Procedimientos de acceso y normas propias del lugar",
+        "Comunicación profesional y gestión de conflictos",
+        "Trazabilidad, registro de incidencias y confidencialidad",
+        "Marco jurídico local de la seguridad privada y límites de intervención"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.security.sapeur-pompier",
+      "profile_version": "0.2",
+      "fr_title": "Sapeur-pompier / Sapeuse-pompière",
+      "en_title": "Firefighter",
+      "purpose_fr": "Participe à la prévention des risques et aux missions de secours et de protection des populations au sein d'un service organisé, selon sa formation et son niveau d'habilitation.",
+      "missions_fr": [
+        "Contribuer aux actions de prévention et de sensibilisation aux risques auprès des publics.",
+        "Entretenir les équipements collectifs et vérifier leur disponibilité selon les procédures du service.",
+        "Participer aux exercices encadrés et maintenir les compétences exigées par le service.",
+        "Prendre part aux missions de secours sous la coordination de la chaîne de commandement.",
+        "Transmettre des observations fiables et renseigner les documents opérationnels prévus.",
+        "Participer au retour d'expérience, à la formation continue et au soutien de la cohésion d'équipe."
+      ],
+      "skills": [
+        {
+          "id": "Travail en équipe et communication sous encadrement",
+          "type": "transferable"
+        },
+        {
+          "id": "Évaluation initiale de situation selon formation",
+          "type": "technical"
+        },
+        {
+          "id": "Application rigoureuse de procédures de sécurité",
+          "type": "technical"
+        },
+        {
+          "id": "Condition physique et préparation professionnelle adaptées",
+          "type": "technical"
+        },
+        {
+          "id": "Entretien et suivi des équipements",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion du stress, discipline et compte rendu",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Prévention incendie et culture du risque",
+        "Principes généraux de secours et de protection des personnes",
+        "Organisation des services d'incendie et de secours",
+        "Santé, sécurité au travail et équipements de protection",
+        "Cadre opérationnel, habilitations et procédures nationales"
+      ],
+      "work_context_fr": "Services publics ou privés de secours, unités spécialisées ou corps volontaires selon l'organisation nationale.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Profil descriptif uniquement: gestes techniques, conduite d'engins et interventions à risque nécessitent formation certifiée, supervision et protocoles locaux.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Contributes to risk prevention and emergency response and public protection within an organized service, according to training and authorization level.",
+      "purpose_es": "Participa en la prevención de riesgos, las operaciones de socorro y la protección de la población dentro de un servicio organizado, según su formación y nivel de habilitación.",
+      "missions_en": [
+        "Contribute to risk-prevention and public-awareness activities.",
+        "Maintain shared equipment and check its availability according to service procedures.",
+        "Take part in supervised exercises and maintain required skills.",
+        "Take part in emergency-response duties under the command structure.",
+        "Communicate reliable observations and complete required operational records.",
+        "Contribute to lessons learned, continuing training and team cohesion."
+      ],
+      "missions_es": [
+        "Contribuir a las actividades de prevención de riesgos y sensibilización de la población.",
+        "Mantener los equipos colectivos y comprobar su disponibilidad conforme a los procedimientos del servicio.",
+        "Participar en ejercicios supervisados y mantener las competencias exigidas por el servicio.",
+        "Participar en misiones de socorro bajo la coordinación de la cadena de mando.",
+        "Transmitir observaciones fiables y completar los documentos operativos previstos.",
+        "Contribuir a las lecciones aprendidas, la formación continua y la cohesión del equipo."
+      ],
+      "work_context_en": "Public or private emergency services, specialist units and volunteer fire services, depending on the national organization.",
+      "work_context_es": "Servicios públicos o privados de emergencia, unidades especializadas o cuerpos de voluntarios, según la organización nacional.",
+      "mapping_note_en": "Descriptive profile only: technical procedures, vehicle operation and high-risk interventions require certified training, supervision and local protocols.",
+      "mapping_note_es": "Perfil meramente descriptivo: las técnicas operativas, la conducción de vehículos y las intervenciones de riesgo requieren formación certificada, supervisión y protocolos locales.",
+      "skills_en": [
+        {
+          "id": "Teamwork and communication under supervision",
+          "type": "transferable"
+        },
+        {
+          "id": "Initial situation assessment within training",
+          "type": "technical"
+        },
+        {
+          "id": "Strict application of safety procedures",
+          "type": "technical"
+        },
+        {
+          "id": "Appropriate physical fitness and professional preparation",
+          "type": "technical"
+        },
+        {
+          "id": "Equipment maintenance and monitoring",
+          "type": "transferable"
+        },
+        {
+          "id": "Stress management, discipline and reporting",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Fire prevention and risk awareness",
+        "General principles of rescue and public protection",
+        "Organization of fire and rescue services",
+        "Occupational health and safety and protective equipment",
+        "Operational framework, authorizations and national procedures"
+      ],
+      "skills_es": [
+        {
+          "id": "Trabajo en equipo y comunicación bajo supervisión",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluación inicial de la situación según la formación",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación rigurosa de procedimientos de seguridad",
+          "type": "technical"
+        },
+        {
+          "id": "Condición física y preparación profesional adecuadas",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento y seguimiento de equipos",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión del estrés, disciplina e informes",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Prevención de incendios y cultura del riesgo",
+        "Principios generales de socorro y protección de personas",
+        "Organización de los servicios de bomberos y rescate",
+        "Salud y seguridad laboral y equipos de protección",
+        "Marco operativo, habilitaciones y procedimientos nacionales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sport.educateur-sportif",
+      "profile_version": "0.2",
+      "fr_title": "Éducateur sportif / Éducatrice sportive",
+      "en_title": "Sports Instructor",
+      "purpose_fr": "Encadre des activités physiques et sportives adaptées aux objectifs, capacités et conditions des participants, dans un cadre favorisant la sécurité, l'apprentissage et le plaisir de pratiquer.",
+      "missions_fr": [
+        "Identifier les attentes, l'expérience et les besoins des participants dans les limites de son rôle.",
+        "Préparer des séances avec objectifs, progression, matériel et adaptations pertinentes.",
+        "Expliquer et démontrer les activités avec des consignes compréhensibles et inclusives.",
+        "Observer la participation et ajuster les exercices selon les retours et le contexte.",
+        "Veiller au respect des règles de sécurité, d'hygiène et d'utilisation des installations.",
+        "Évaluer les acquis, communiquer avec les participants et contribuer au suivi du programme."
+      ],
+      "skills": [
+        {
+          "id": "Conception et animation de séances sportives",
+          "type": "transferable"
+        },
+        {
+          "id": "Pédagogie et communication de groupe",
+          "type": "technical"
+        },
+        {
+          "id": "Observation et adaptation des activités",
+          "type": "technical"
+        },
+        {
+          "id": "Organisation et gestion du matériel",
+          "type": "technical"
+        },
+        {
+          "id": "Prévention des risques et vigilance",
+          "type": "transferable"
+        },
+        {
+          "id": "Évaluation des apprentissages et motivation",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Sciences et principes généraux de l'activité physique",
+        "Pédagogie sportive et apprentissage moteur",
+        "Règles et techniques de la discipline encadrée",
+        "Anatomie et physiologie appliquées au niveau requis",
+        "Prévention, premiers secours et réglementation locale"
+      ],
+      "work_context_fr": "Associations, clubs, établissements scolaires, collectivités, centres de loisirs ou structures sportives; les conditions d'encadrement varient selon le sport et le pays.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Ne pas confondre animation sportive, enseignement scolaire et prise en charge médicale; diplômes, cartes ou autorisations peuvent être obligatoires.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Supervises physical and sporting activities suited to participants’ goals, abilities and circumstances in a setting that supports safety, learning and enjoyment.",
+      "purpose_es": "Supervisa actividades físicas y deportivas adaptadas a los objetivos, capacidades y circunstancias de los participantes, en un entorno que favorece la seguridad, el aprendizaje y el disfrute.",
+      "missions_en": [
+        "Identify participants’ expectations, experience and needs within the role’s scope.",
+        "Prepare sessions with suitable objectives, progression, equipment and adaptations.",
+        "Explain and demonstrate activities using clear and inclusive instructions.",
+        "Observe participation and adjust exercises according to feedback and context.",
+        "Ensure compliance with safety, hygiene and facility-use rules.",
+        "Assess learning, communicate with participants and contribute to programme monitoring."
+      ],
+      "missions_es": [
+        "Identificar las expectativas, la experiencia y las necesidades de los participantes dentro del ámbito de la función.",
+        "Preparar sesiones con objetivos, progresión, material y adaptaciones pertinentes.",
+        "Explicar y demostrar las actividades con instrucciones comprensibles e inclusivas.",
+        "Observar la participación y adaptar los ejercicios según los comentarios y el contexto.",
+        "Velar por el cumplimiento de las normas de seguridad, higiene y uso de las instalaciones.",
+        "Evaluar los aprendizajes, comunicarse con los participantes y contribuir al seguimiento del programa."
+      ],
+      "work_context_en": "Associations, sports clubs, schools, local authorities, leisure centres and sports facilities; supervision requirements vary by sport and country.",
+      "work_context_es": "Asociaciones, clubes deportivos, centros educativos, entidades locales, centros de ocio e instalaciones deportivas; las condiciones de supervisión varían según el deporte y el país.",
+      "mapping_note_en": "Do not automatically equate sports instruction, school teaching and medical care; qualifications, cards or authorizations may be mandatory.",
+      "mapping_note_es": "No deben confundirse automáticamente la animación deportiva, la enseñanza escolar y la atención médica; pueden ser obligatorios diplomas, tarjetas o autorizaciones.",
+      "skills_en": [
+        {
+          "id": "Designing and leading sports sessions",
+          "type": "transferable"
+        },
+        {
+          "id": "Teaching and group communication",
+          "type": "technical"
+        },
+        {
+          "id": "Observation and adaptation of activities",
+          "type": "technical"
+        },
+        {
+          "id": "Organization and equipment management",
+          "type": "technical"
+        },
+        {
+          "id": "Risk prevention and vigilance",
+          "type": "transferable"
+        },
+        {
+          "id": "Assessment of learning and motivation",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "General principles of physical activity science",
+        "Sports pedagogy and motor learning",
+        "Rules and techniques of the supervised discipline",
+        "Anatomy and physiology at the required level",
+        "Prevention, first aid and local regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño y dirección de sesiones deportivas",
+          "type": "transferable"
+        },
+        {
+          "id": "Pedagogía y comunicación grupal",
+          "type": "technical"
+        },
+        {
+          "id": "Observación y adaptación de actividades",
+          "type": "technical"
+        },
+        {
+          "id": "Organización y gestión de material",
+          "type": "technical"
+        },
+        {
+          "id": "Prevención de riesgos y vigilancia",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluación de aprendizajes y motivación",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Ciencias y principios generales de la actividad física",
+        "Pedagogía deportiva y aprendizaje motor",
+        "Reglas y técnicas de la disciplina supervisada",
+        "Anatomía y fisiología aplicadas al nivel requerido",
+        "Prevención, primeros auxilios y normativa local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sport.preparateur-physique",
+      "profile_version": "0.2",
+      "fr_title": "Préparateur physique / Préparatrice physique",
+      "en_title": "Strength and Conditioning Coach",
+      "purpose_fr": "Planifie et suit la préparation physique de sportifs ou de groupes en cohérence avec leur discipline, leur niveau, leur calendrier et les recommandations de l'équipe d'encadrement.",
+      "missions_fr": [
+        "Recueillir les objectifs sportifs, le calendrier et les informations utiles avec les personnes habilitées.",
+        "Contribuer à l'évaluation des capacités physiques au moyen d'outils adaptés et autorisés.",
+        "Construire une planification progressive en coordination avec l'entraîneur et l'équipe de suivi.",
+        "Encadrer les séances prévues et ajuster la charge selon les observations et retours recueillis.",
+        "Suivre les indicateurs de progression, de récupération et de disponibilité sportive.",
+        "Documenter les séances et communiquer les alertes pertinentes aux professionnels compétents."
+      ],
+      "skills": [
+        {
+          "id": "Planification de la préparation physique",
+          "type": "transferable"
+        },
+        {
+          "id": "Conduite et adaptation de séances",
+          "type": "technical"
+        },
+        {
+          "id": "Observation et suivi d'indicateurs",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de données de performance",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination interprofessionnelle",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication, éthique et respect des limites de rôle",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Anatomie et physiologie de l'exercice",
+        "Principes d'entraînement et de progression",
+        "Biomécanique et qualités physiques",
+        "Récupération, sommeil et prévention des blessures",
+        "Mesure de performance et cadre de pratique sécurisée"
+      ],
+      "work_context_fr": "Clubs, fédérations, centres de performance, structures éducatives ou activité indépendante en coordination avec l'encadrement sportif.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Ne remplace pas médecin, kinésithérapeute ou diététicien; l'évaluation et la prise en charge des problèmes de santé relèvent des professionnels habilités.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Plans and monitors the physical preparation of athletes or groups in line with their sport, level, schedule and the recommendations of the coaching team.",
+      "purpose_es": "Planifica y supervisa la preparación física de deportistas o grupos de acuerdo con su disciplina, nivel, calendario y las recomendaciones del equipo técnico.",
+      "missions_en": [
+        "Gather sports goals, schedules and relevant information with authorized professionals.",
+        "Contribute to assessing physical abilities using suitable and authorized tools.",
+        "Build progressive plans in coordination with the coach and support team.",
+        "Lead planned sessions and adjust workload based on observations and feedback.",
+        "Monitor indicators of progress, recovery and athletic availability.",
+        "Document sessions and communicate relevant alerts to competent professionals."
+      ],
+      "missions_es": [
+        "Recopilar los objetivos deportivos, el calendario y la información pertinente con los profesionales habilitados.",
+        "Contribuir a evaluar las capacidades físicas mediante herramientas adecuadas y autorizadas.",
+        "Elaborar una planificación progresiva en coordinación con el entrenador y el equipo de seguimiento.",
+        "Dirigir las sesiones previstas y ajustar la carga según las observaciones y los comentarios recibidos.",
+        "Supervisar los indicadores de progreso, recuperación y disponibilidad deportiva.",
+        "Documentar las sesiones y comunicar alertas pertinentes a los profesionales competentes."
+      ],
+      "work_context_en": "Sports clubs, federations, performance centres, educational organizations and independent work coordinated with the coaching team.",
+      "work_context_es": "Clubes, federaciones, centros de rendimiento, estructuras educativas y actividad independiente en coordinación con el equipo técnico.",
+      "mapping_note_en": "Does not replace a physician, physiotherapist or dietitian; assessment and management of health problems belong to authorized professionals.",
+      "mapping_note_es": "No sustituye al médico, fisioterapeuta ni dietista; la evaluación y atención de problemas de salud corresponden a profesionales habilitados.",
+      "skills_en": [
+        {
+          "id": "Physical-preparation planning",
+          "type": "transferable"
+        },
+        {
+          "id": "Leading and adapting sessions",
+          "type": "technical"
+        },
+        {
+          "id": "Observation and indicator monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Performance-data analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Interprofessional coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication, ethics and respect for role boundaries",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Anatomy and exercise physiology",
+        "Training and progression principles",
+        "Biomechanics and physical qualities",
+        "Recovery, sleep and injury prevention",
+        "Performance measurement and safe-practice framework"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación de la preparación física",
+          "type": "transferable"
+        },
+        {
+          "id": "Dirección y adaptación de sesiones",
+          "type": "technical"
+        },
+        {
+          "id": "Observación y seguimiento de indicadores",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de datos de rendimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación interprofesional",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación, ética y respeto de los límites profesionales",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Anatomía y fisiología del ejercicio",
+        "Principios de entrenamiento y progresión",
+        "Biomecánica y cualidades físicas",
+        "Recuperación, sueño y prevención de lesiones",
+        "Medición del rendimiento y marco de práctica segura"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.meteorologue",
+      "profile_version": "0.2",
+      "fr_title": "Météorologue",
+      "en_title": "Meteorologist",
+      "purpose_fr": "Analyse les observations atmosphériques et les modèles météorologiques afin de produire des prévisions, des suivis de conditions et des informations utiles à la décision.",
+      "missions_fr": [
+        "Collecter et contrôler des observations provenant de stations, satellites, radars et autres réseaux autorisés.",
+        "Préparer et analyser des séries de données météorologiques et détecter les incohérences.",
+        "Interpréter les sorties de modèles numériques en tenant compte de leurs incertitudes.",
+        "Élaborer des prévisions et bulletins adaptés aux horizons et publics concernés.",
+        "Surveiller l'évolution des phénomènes et actualiser les produits lorsque les données changent.",
+        "Expliquer les résultats, limites et niveaux de confiance aux utilisateurs et partenaires."
+      ],
+      "skills": [
+        {
+          "id": "Analyse de données atmosphériques",
+          "type": "transferable"
+        },
+        {
+          "id": "Interprétation de modèles et cartes météo",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle qualité des observations",
+          "type": "technical"
+        },
+        {
+          "id": "Statistiques et outils de visualisation",
+          "type": "technical"
+        },
+        {
+          "id": "Communication de prévisions et incertitudes",
+          "type": "transferable"
+        },
+        {
+          "id": "Travail collaboratif et veille scientifique",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Météorologie générale et dynamique de l'atmosphère",
+        "Thermodynamique et phénomènes météorologiques",
+        "Observation, instrumentation et télédétection",
+        "Statistiques, modélisation et prévision numérique",
+        "Climatologie, aléas et communication du risque"
+      ],
+      "work_context_fr": "Services météorologiques, recherche, aviation, agriculture, énergie, médias et organismes de gestion des risques.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Les alertes officielles et décisions de sécurité relèvent des autorités et services mandatés; distinguer prévision météo et projection climatique.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Analyzes atmospheric observations and weather models to produce forecasts, monitor conditions and provide information for decision-making.",
+      "purpose_es": "Analiza observaciones atmosféricas y modelos meteorológicos para elaborar previsiones, realizar seguimiento de las condiciones y aportar información para la toma de decisiones.",
+      "missions_en": [
+        "Collect and quality-check observations from stations, satellites, radar and other authorized networks.",
+        "Prepare and analyze weather datasets and detect inconsistencies.",
+        "Interpret numerical-model outputs while accounting for uncertainty.",
+        "Prepare forecasts and bulletins suited to the relevant time horizons and audiences.",
+        "Monitor evolving weather systems and update products when data changes.",
+        "Explain results, limitations and confidence levels to users and partners."
+      ],
+      "missions_es": [
+        "Recopilar y controlar observaciones procedentes de estaciones, satélites, radares y otras redes autorizadas.",
+        "Preparar y analizar series de datos meteorológicos y detectar incoherencias.",
+        "Interpretar los resultados de modelos numéricos teniendo en cuenta sus incertidumbres.",
+        "Elaborar previsiones y boletines adaptados a los horizontes temporales y públicos correspondientes.",
+        "Supervisar la evolución de los fenómenos y actualizar los productos cuando cambien los datos.",
+        "Explicar los resultados, las limitaciones y los niveles de confianza a usuarios y colaboradores."
+      ],
+      "work_context_en": "Meteorological services, research, aviation, agriculture, energy, media and risk-management organizations.",
+      "work_context_es": "Servicios meteorológicos, investigación, aviación, agricultura, energía, medios de comunicación y organismos de gestión de riesgos.",
+      "mapping_note_en": "Official warnings and safety decisions belong to the relevant authorities and mandated services; distinguish weather forecasting from climate projections.",
+      "mapping_note_es": "Las alertas oficiales y las decisiones de seguridad corresponden a las autoridades y servicios designados; debe distinguirse la previsión meteorológica de las proyecciones climáticas.",
+      "skills_en": [
+        {
+          "id": "Atmospheric-data analysis",
+          "type": "transferable"
+        },
+        {
+          "id": "Interpretation of weather models and maps",
+          "type": "technical"
+        },
+        {
+          "id": "Quality control of observations",
+          "type": "technical"
+        },
+        {
+          "id": "Statistics and visualization tools",
+          "type": "technical"
+        },
+        {
+          "id": "Communicating forecasts and uncertainty",
+          "type": "transferable"
+        },
+        {
+          "id": "Collaboration and scientific monitoring",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "General meteorology and atmospheric dynamics",
+        "Thermodynamics and weather phenomena",
+        "Observation, instrumentation and remote sensing",
+        "Statistics, modelling and numerical forecasting",
+        "Climatology, hazards and risk communication"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis de datos atmosféricos",
+          "type": "transferable"
+        },
+        {
+          "id": "Interpretación de modelos y mapas meteorológicos",
+          "type": "technical"
+        },
+        {
+          "id": "Control de calidad de observaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Estadística y herramientas de visualización",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación de previsiones e incertidumbres",
+          "type": "transferable"
+        },
+        {
+          "id": "Trabajo colaborativo y seguimiento científico",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Meteorología general y dinámica atmosférica",
+        "Termodinámica y fenómenos meteorológicos",
+        "Observación, instrumentación y teledetección",
+        "Estadística, modelización y predicción numérica",
+        "Climatología, peligros y comunicación de riesgos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-telecom",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne télécoms",
+      "en_title": "Telecommunications Technician",
+      "purpose_fr": "Installe, met en service et maintient des équipements et liaisons de télécommunication afin d'assurer la disponibilité et la qualité des services de connectivité.",
+      "missions_fr": [
+        "Préparer les interventions à partir des dossiers techniques, demandes et règles de sécurité du site.",
+        "Installer ou remplacer les équipements et composants prévus dans le périmètre d'habilitation.",
+        "Réaliser les contrôles et mesures de fonctionnement avec les instruments adaptés.",
+        "Localiser les dysfonctionnements à partir des symptômes et procédures de diagnostic autorisées.",
+        "Effectuer les opérations de maintenance et documenter les changements réalisés.",
+        "Informer les utilisateurs et équipes réseau de l'état du service et des suites nécessaires."
+      ],
+      "skills": [
+        {
+          "id": "Installation et maintenance d'équipements télécoms",
+          "type": "transferable"
+        },
+        {
+          "id": "Mesures et tests de connectivité",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic méthodique de pannes",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de plans et documentation technique",
+          "type": "technical"
+        },
+        {
+          "id": "Respect des règles de sécurité et habilitations",
+          "type": "transferable"
+        },
+        {
+          "id": "Traçabilité et relation utilisateur",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Architecture générale des réseaux de télécommunication",
+        "Transmission cuivre, fibre et radio selon spécialité",
+        "Équipements, câblage et connectique",
+        "Mesures, protocoles de test et diagnostic",
+        "Sécurité électrique, travail en hauteur et réglementation locale"
+      ],
+      "work_context_fr": "Opérateurs télécoms, intégrateurs, entreprises d'infrastructure, administrations ou prestataires de maintenance.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Les interventions sur pylônes, énergie ou infrastructures critiques exigent habilitations, procédures et supervision adaptées.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Installs, commissions and maintains telecommunications equipment and links to support the availability and quality of connectivity services.",
+      "purpose_es": "Instala, pone en servicio y mantiene equipos y enlaces de telecomunicaciones para garantizar la disponibilidad y calidad de los servicios de conectividad.",
+      "missions_en": [
+        "Prepare work using technical files, requests and site-safety rules.",
+        "Install or replace equipment and components within the authorized scope.",
+        "Carry out operational checks and measurements using appropriate instruments.",
+        "Locate malfunctions using symptoms and authorized diagnostic procedures.",
+        "Perform maintenance and document completed changes.",
+        "Inform users and network teams about service status and required follow-up."
+      ],
+      "missions_es": [
+        "Preparar las intervenciones a partir de expedientes técnicos, solicitudes y normas de seguridad del lugar.",
+        "Instalar o sustituir equipos y componentes dentro del ámbito de habilitación.",
+        "Realizar controles y mediciones de funcionamiento con instrumentos adecuados.",
+        "Localizar fallos a partir de los síntomas y de los procedimientos de diagnóstico autorizados.",
+        "Realizar el mantenimiento y documentar los cambios efectuados.",
+        "Informar a usuarios y equipos de red sobre el estado del servicio y las acciones necesarias."
+      ],
+      "work_context_en": "Telecommunications operators, system integrators, infrastructure companies, public administrations and maintenance providers.",
+      "work_context_es": "Operadores de telecomunicaciones, integradores, empresas de infraestructura, administraciones públicas y proveedores de mantenimiento.",
+      "mapping_note_en": "Work on towers, power systems or critical infrastructure requires appropriate authorization, procedures and supervision.",
+      "mapping_note_es": "Las intervenciones en torres, sistemas de energía o infraestructuras críticas requieren habilitaciones, procedimientos y supervisión adecuados.",
+      "skills_en": [
+        {
+          "id": "Installation and maintenance of telecom equipment",
+          "type": "transferable"
+        },
+        {
+          "id": "Connectivity measurements and testing",
+          "type": "technical"
+        },
+        {
+          "id": "Methodical fault diagnosis",
+          "type": "technical"
+        },
+        {
+          "id": "Reading plans and technical documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Following safety rules and authorization requirements",
+          "type": "transferable"
+        },
+        {
+          "id": "Traceability and user relations",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "General telecommunications network architecture",
+        "Copper, fibre and radio transmission according to specialization",
+        "Equipment, cabling and connectors",
+        "Measurements, test protocols and diagnostics",
+        "Electrical safety, working at height and local regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Instalación y mantenimiento de equipos de telecomunicaciones",
+          "type": "transferable"
+        },
+        {
+          "id": "Mediciones y pruebas de conectividad",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico metódico de averías",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de planos y documentación técnica",
+          "type": "technical"
+        },
+        {
+          "id": "Cumplimiento de normas de seguridad y habilitaciones",
+          "type": "transferable"
+        },
+        {
+          "id": "Trazabilidad y relación con usuarios",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Arquitectura general de redes de telecomunicaciones",
+        "Transmisión por cobre, fibra y radio según la especialidad",
+        "Equipos, cableado y conectores",
+        "Mediciones, protocolos de prueba y diagnóstico",
+        "Seguridad eléctrica, trabajo en altura y normativa local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.telecom.ingenieur-reseaux",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure réseaux",
+      "en_title": "Network Engineer",
+      "purpose_fr": "Conçoit, dimensionne et fait évoluer des architectures de réseaux de communication en recherchant disponibilité, performance, sécurité et maîtrise des coûts.",
+      "missions_fr": [
+        "Recueillir les besoins métiers, contraintes de capacité, niveaux de service et exigences de sécurité.",
+        "Définir des architectures réseau adaptées aux environnements et technologies retenus.",
+        "Évaluer les capacités, la résilience et les dépendances des solutions proposées.",
+        "Préparer les dossiers de conception, plans d'adressage et documents d'exploitation.",
+        "Coordonner les déploiements, migrations et changements avec les équipes concernées.",
+        "Analyser les indicateurs et incidents récurrents pour proposer des améliorations durables."
+      ],
+      "skills": [
+        {
+          "id": "Conception d'architectures réseau",
+          "type": "transferable"
+        },
+        {
+          "id": "Planification de capacité et disponibilité",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de performance et diagnostic",
+          "type": "technical"
+        },
+        {
+          "id": "Documentation technique et gestion de changement",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination de projets techniques",
+          "type": "transferable"
+        },
+        {
+          "id": "Sécurité réseau et gestion des risques",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Réseaux IP et principes de routage et commutation",
+        "Architectures LAN, WAN, sans-fil et télécoms",
+        "Services réseau, supervision et qualité de service",
+        "Résilience, continuité et sécurité des infrastructures",
+        "Gestion de projet, normes et documentation technique"
+      ],
+      "work_context_fr": "Opérateurs, fournisseurs cloud, grandes entreprises, intégrateurs, centres de données et administrations.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Le périmètre peut aller de l'ingénierie d'entreprise aux réseaux opérateurs; les accès aux infrastructures critiques sont soumis à autorisation.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Designs, sizes and evolves communication-network architectures to achieve availability, performance, security and cost control.",
+      "purpose_es": "Diseña, dimensiona y evoluciona arquitecturas de redes de comunicación buscando disponibilidad, rendimiento, seguridad y control de costes.",
+      "missions_en": [
+        "Gather business needs, capacity constraints, service levels and security requirements.",
+        "Define network architectures suited to the selected environments and technologies.",
+        "Assess capacity, resilience and dependencies of proposed solutions.",
+        "Prepare design files, addressing plans and operational documents.",
+        "Coordinate deployments, migrations and changes with relevant teams.",
+        "Analyze indicators and recurring incidents to recommend lasting improvements."
+      ],
+      "missions_es": [
+        "Recopilar las necesidades del negocio, las limitaciones de capacidad, los niveles de servicio y los requisitos de seguridad.",
+        "Definir arquitecturas de red adaptadas a los entornos y tecnologías elegidos.",
+        "Evaluar la capacidad, resiliencia y dependencias de las soluciones propuestas.",
+        "Preparar expedientes de diseño, planes de direccionamiento y documentos de explotación.",
+        "Coordinar despliegues, migraciones y cambios con los equipos correspondientes.",
+        "Analizar indicadores e incidentes recurrentes para proponer mejoras duraderas."
+      ],
+      "work_context_en": "Telecommunications operators, cloud providers, large enterprises, system integrators, data centres and public administrations.",
+      "work_context_es": "Operadores, proveedores cloud, grandes empresas, integradores, centros de datos y administraciones públicas.",
+      "mapping_note_en": "The scope may range from enterprise engineering to carrier networks; access to critical infrastructure is subject to authorization.",
+      "mapping_note_es": "El ámbito puede abarcar desde la ingeniería empresarial hasta las redes de operadores; el acceso a infraestructuras críticas está sujeto a autorización.",
+      "skills_en": [
+        {
+          "id": "Network architecture design",
+          "type": "transferable"
+        },
+        {
+          "id": "Capacity and availability planning",
+          "type": "technical"
+        },
+        {
+          "id": "Performance analysis and troubleshooting",
+          "type": "technical"
+        },
+        {
+          "id": "Technical documentation and change management",
+          "type": "technical"
+        },
+        {
+          "id": "Technical project coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Network security and risk management",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "IP networks and routing and switching principles",
+        "LAN, WAN, wireless and telecom architectures",
+        "Network services, monitoring and quality of service",
+        "Infrastructure resilience, continuity and security",
+        "Project management, standards and technical documentation"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de arquitecturas de red",
+          "type": "transferable"
+        },
+        {
+          "id": "Planificación de capacidad y disponibilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de rendimiento y diagnóstico",
+          "type": "technical"
+        },
+        {
+          "id": "Documentación técnica y gestión de cambios",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de proyectos técnicos",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguridad de redes y gestión de riesgos",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Redes IP y principios de enrutamiento y conmutación",
+        "Arquitecturas LAN, WAN, inalámbricas y de telecomunicaciones",
+        "Servicios de red, supervisión y calidad de servicio",
+        "Resiliencia, continuidad y seguridad de infraestructuras",
+        "Gestión de proyectos, normas y documentación técnica"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.marine.marin-matelot",
+      "profile_version": "0.2",
+      "fr_title": "Marin / Matelot",
+      "en_title": "Deckhand",
+      "purpose_fr": "Contribue aux opérations courantes à bord d'un navire sous l'autorité de l'équipage responsable, en participant à la veille, à l'entretien et à la sécurité selon ses qualifications.",
+      "missions_fr": [
+        "Prendre connaissance des consignes de bord, de l'organisation du travail et des tâches assignées.",
+        "Participer aux opérations ordinaires de pont et à l'entretien courant dans les limites de formation.",
+        "Assurer les tâches de veille ou d'assistance à la navigation lorsqu'il est qualifié et désigné.",
+        "Maintenir les espaces et équipements confiés dans un état ordonné et signaler les anomalies.",
+        "Participer aux exercices de sécurité et appliquer les consignes apprises sous encadrement.",
+        "Communiquer les observations utiles à l'officier responsable et renseigner les suivis demandés."
+      ],
+      "skills": [
+        {
+          "id": "Travail d'équipe et discipline de bord",
+          "type": "transferable"
+        },
+        {
+          "id": "Entretien courant des équipements confiés",
+          "type": "technical"
+        },
+        {
+          "id": "Communication et veille attentive",
+          "type": "technical"
+        },
+        {
+          "id": "Application de consignes de sécurité maritime",
+          "type": "technical"
+        },
+        {
+          "id": "Endurance et adaptation à la vie embarquée",
+          "type": "transferable"
+        },
+        {
+          "id": "Compte rendu et respect de la chaîne hiérarchique",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Organisation d'un navire et rôles de l'équipage",
+        "Notions de matelotage et opérations de pont",
+        "Principes de sécurité maritime et prévention des risques",
+        "Notions de veille et de communication maritime",
+        "Certificats, aptitudes et règles maritimes applicables"
+      ],
+      "work_context_fr": "Navires de commerce, pêche, service, transport côtier ou autres flottes selon les qualifications et la réglementation.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Les fonctions de quart, de manœuvre et de sécurité sont limitées par les brevets, certificats, familiarisation et consignes du navire.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Supports routine shipboard operations under the authority of the responsible crew, contributing to watchkeeping, maintenance and safety according to qualifications.",
+      "purpose_es": "Contribuye a las operaciones habituales a bordo de un buque bajo la autoridad de la tripulación responsable, participando en vigilancia, mantenimiento y seguridad según sus cualificaciones.",
+      "missions_en": [
+        "Review onboard instructions, work organization and assigned duties.",
+        "Take part in routine deck duties and maintenance within the limits of training.",
+        "Perform watchkeeping or navigation-assistance duties when qualified and assigned.",
+        "Keep assigned spaces and equipment orderly and report anomalies.",
+        "Take part in safety drills and follow supervised instructions.",
+        "Communicate relevant observations to the responsible officer and complete required records."
+      ],
+      "missions_es": [
+        "Conocer las instrucciones a bordo, la organización del trabajo y las tareas asignadas.",
+        "Participar en las tareas habituales de cubierta y mantenimiento dentro de los límites de su formación.",
+        "Realizar tareas de vigilancia o asistencia a la navegación cuando esté cualificado y designado.",
+        "Mantener ordenados los espacios y equipos asignados y comunicar anomalías.",
+        "Participar en ejercicios de seguridad y aplicar las instrucciones bajo supervisión.",
+        "Comunicar observaciones pertinentes al oficial responsable y completar los registros requeridos."
+      ],
+      "work_context_en": "Commercial, fishing, service, coastal-transport and other vessels, according to qualifications and regulations.",
+      "work_context_es": "Buques mercantes, pesqueros, de servicio, transporte costero y otras flotas, según las cualificaciones y la normativa.",
+      "mapping_note_en": "Watchkeeping, manoeuvring and safety duties are limited by the vessel’s required certificates, familiarization, training and instructions.",
+      "mapping_note_es": "Las funciones de guardia, maniobra y seguridad están limitadas por los títulos, la familiarización, la formación y las instrucciones del buque.",
+      "skills_en": [
+        {
+          "id": "Teamwork and onboard discipline",
+          "type": "transferable"
+        },
+        {
+          "id": "Routine maintenance of assigned equipment",
+          "type": "technical"
+        },
+        {
+          "id": "Communication and attentive watchkeeping",
+          "type": "technical"
+        },
+        {
+          "id": "Following maritime safety instructions",
+          "type": "technical"
+        },
+        {
+          "id": "Endurance and adaptation to life at sea",
+          "type": "transferable"
+        },
+        {
+          "id": "Reporting and respect for the chain of command",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Ship organization and crew roles",
+        "Basic seamanship and deck operations",
+        "Maritime safety and risk-prevention principles",
+        "Basic watchkeeping and maritime communication",
+        "Applicable maritime certificates, fitness requirements and rules"
+      ],
+      "skills_es": [
+        {
+          "id": "Trabajo en equipo y disciplina a bordo",
+          "type": "transferable"
+        },
+        {
+          "id": "Mantenimiento habitual de los equipos asignados",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación y vigilancia atenta",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de instrucciones de seguridad marítima",
+          "type": "technical"
+        },
+        {
+          "id": "Resistencia y adaptación a la vida embarcada",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación de incidencias y respeto de la cadena de mando",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Organización del buque y funciones de la tripulación",
+        "Nociones de marinería y operaciones de cubierta",
+        "Principios de seguridad marítima y prevención de riesgos",
+        "Nociones de vigilancia y comunicación marítima",
+        "Certificados, aptitudes y normas marítimas aplicables"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.marine.technicien-portuaire",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne d’exploitation portuaire",
+      "en_title": "Port Technical Operations Technician",
+      "purpose_fr": "Assure le suivi technique et opérationnel des installations et équipements portuaires afin de contribuer à la continuité, à la sécurité et à la qualité des services du port.",
+      "missions_fr": [
+        "Suivre l'état des installations, équipements et infrastructures relevant de son périmètre.",
+        "Réaliser ou coordonner les inspections et opérations de maintenance planifiées.",
+        "Enregistrer les anomalies, prioriser les demandes et transmettre les besoins d'intervention.",
+        "Contribuer à la préparation des opérations portuaires avec les équipes d'exploitation.",
+        "Vérifier la disponibilité documentaire des équipements et suivre les prestataires techniques.",
+        "Produire des comptes rendus et participer aux actions d'amélioration et de prévention."
+      ],
+      "skills": [
+        {
+          "id": "Suivi technique d'infrastructures",
+          "type": "transferable"
+        },
+        {
+          "id": "Planification et traçabilité de maintenance",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination d'intervenants et prestataires",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de plans et documents techniques",
+          "type": "technical"
+        },
+        {
+          "id": "Communication opérationnelle et reporting",
+          "type": "transferable"
+        },
+        {
+          "id": "Prévention des risques en environnement portuaire",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Fonctionnement général d'un port et de ses terminaux",
+        "Infrastructures, équipements et réseaux portuaires",
+        "Maintenance préventive et corrective",
+        "Santé, sécurité et environnement portuaires",
+        "Logistique, exploitation et exigences réglementaires locales"
+      ],
+      "work_context_fr": "Autorités portuaires, terminaux, entreprises de manutention, opérateurs logistiques et prestataires techniques.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Ne pas confondre ce rôle avec conducteur d'engins, officier de port ou autorité de contrôle; les habilitations dépendent des tâches.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Monitors port facilities and equipment to support continuity, safety and service quality.",
+      "purpose_es": "Supervisa las instalaciones y los equipos portuarios para contribuir a la continuidad, la seguridad y la calidad del servicio.",
+      "missions_en": [
+        "Monitor the condition of facilities, equipment and infrastructure within the assigned scope.",
+        "Carry out or coordinate scheduled inspections and maintenance activities.",
+        "Record anomalies, prioritize requests and forward intervention needs.",
+        "Contribute to preparing port operations with operating teams.",
+        "Check that equipment documentation is available and monitor technical contractors.",
+        "Prepare reports and take part in improvement and prevention activities."
+      ],
+      "missions_es": [
+        "Supervisar el estado de las instalaciones, los equipos y las infraestructuras de su ámbito.",
+        "Realizar o coordinar inspecciones y operaciones de mantenimiento planificadas.",
+        "Registrar anomalías, priorizar solicitudes y transmitir las necesidades de intervención.",
+        "Contribuir a preparar las operaciones portuarias junto con los equipos de explotación.",
+        "Comprobar la disponibilidad de la documentación de los equipos y supervisar a los proveedores técnicos.",
+        "Elaborar informes y participar en acciones de mejora y prevención."
+      ],
+      "work_context_en": "Port authorities, terminals, cargo-handling companies, logistics operators and technical service providers.",
+      "work_context_es": "Autoridades portuarias, terminales, empresas de manipulación de cargas, operadores logísticos y proveedores de servicios técnicos.",
+      "mapping_note_en": "Do not confuse this role with equipment operator, port officer or regulatory authority; authorizations depend on the tasks performed.",
+      "mapping_note_es": "No debe confundirse esta función con la de operador de maquinaria, oficial portuario o autoridad de control; las habilitaciones dependen de las tareas realizadas.",
+      "skills_en": [
+        {
+          "id": "Technical monitoring of infrastructure",
+          "type": "transferable"
+        },
+        {
+          "id": "Maintenance planning and traceability",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination of contractors and service providers",
+          "type": "technical"
+        },
+        {
+          "id": "Reading plans and technical documents",
+          "type": "technical"
+        },
+        {
+          "id": "Operational communication and reporting",
+          "type": "transferable"
+        },
+        {
+          "id": "Risk prevention in port environments",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "General operation of ports and terminals",
+        "Port infrastructure, equipment and networks",
+        "Preventive and corrective maintenance",
+        "Port health, safety and environmental principles",
+        "Logistics, operations and local regulatory requirements"
+      ],
+      "skills_es": [
+        {
+          "id": "Seguimiento técnico de infraestructuras",
+          "type": "transferable"
+        },
+        {
+          "id": "Planificación y trazabilidad del mantenimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de contratistas y proveedores",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de planos y documentos técnicos",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación operativa e informes",
+          "type": "transferable"
+        },
+        {
+          "id": "Prevención de riesgos en entornos portuarios",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Funcionamiento general de puertos y terminales",
+        "Infraestructuras, equipos y redes portuarias",
+        "Mantenimiento preventivo y correctivo",
+        "Principios de salud, seguridad y medio ambiente portuarios",
+        "Logística, explotación y requisitos regulatorios locales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.art.bibliothecaire",
+      "profile_version": "0.2",
+      "fr_title": "Bibliothécaire",
+      "en_title": "Librarian",
+      "purpose_fr": "Développe l'accès aux ressources documentaires et accompagne les publics dans la recherche, la découverte et l'utilisation de l'information et des collections.",
+      "missions_fr": [
+        "Accueillir les publics, clarifier leurs besoins et les orienter vers les ressources adaptées.",
+        "Acquérir, réceptionner et traiter les documents selon la politique documentaire.",
+        "Décrire, classer et indexer les ressources dans le catalogue de la structure.",
+        "Gérer les prêts, retours, réservations et opérations courantes de circulation des documents.",
+        "Concevoir des actions de médiation, de lecture et d'éducation à l'information.",
+        "Contribuer à la conservation, à la mise à jour des collections et aux services numériques."
+      ],
+      "skills": [
+        {
+          "id": "Recherche documentaire et accompagnement des publics",
+          "type": "transferable"
+        },
+        {
+          "id": "Catalogage, indexation et classement",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de collections et de circulation",
+          "type": "technical"
+        },
+        {
+          "id": "Médiation culturelle et animation",
+          "type": "technical"
+        },
+        {
+          "id": "Maîtrise d'outils documentaires et numériques",
+          "type": "transferable"
+        },
+        {
+          "id": "Organisation, communication et service aux usagers",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Sciences de l'information et des bibliothèques",
+        "Organisation, description et conservation des collections",
+        "Sources, catalogues et stratégies de recherche documentaire",
+        "Médiation, lecture publique et éducation aux médias",
+        "Droit d'auteur, accès à l'information et protection des données"
+      ],
+      "work_context_fr": "Bibliothèques publiques, universitaires, scolaires, spécialisées, centres de documentation et services numériques.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Les politiques d'acquisition, conditions d'accès et règles de conservation dépendent de l'établissement et du droit applicable.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Develops access to documentary resources and supports users in finding, discovering and using information and collections.",
+      "purpose_es": "Facilita el acceso a recursos documentales y acompaña a los usuarios en la búsqueda, el descubrimiento y el uso de información y colecciones.",
+      "missions_en": [
+        "Welcome users, clarify their needs and direct them to suitable resources.",
+        "Acquire, receive and process documents in line with the collection policy.",
+        "Describe, classify and index resources in the organization’s catalogue.",
+        "Manage loans, returns, reservations and routine document-circulation activities.",
+        "Design cultural mediation, reading and information-literacy activities.",
+        "Contribute to preservation, collection updates and digital services."
+      ],
+      "missions_es": [
+        "Recibir a los usuarios, aclarar sus necesidades y orientarlos hacia recursos adecuados.",
+        "Adquirir, recibir y procesar documentos conforme a la política documental.",
+        "Describir, clasificar e indexar recursos en el catálogo de la organización.",
+        "Gestionar préstamos, devoluciones, reservas y operaciones habituales de circulación documental.",
+        "Diseñar actividades de mediación cultural, lectura y educación informacional.",
+        "Contribuir a la conservación, actualización de colecciones y servicios digitales."
+      ],
+      "work_context_en": "Public, university, school and specialist libraries, documentation centres and digital information services.",
+      "work_context_es": "Bibliotecas públicas, universitarias, escolares y especializadas, centros de documentación y servicios digitales de información.",
+      "mapping_note_en": "Acquisition policies, access conditions and preservation rules depend on the institution and applicable law.",
+      "mapping_note_es": "Las políticas de adquisición, las condiciones de acceso y las normas de conservación dependen de la institución y de la legislación aplicable.",
+      "skills_en": [
+        {
+          "id": "Documentary research and user support",
+          "type": "transferable"
+        },
+        {
+          "id": "Cataloguing, indexing and classification",
+          "type": "technical"
+        },
+        {
+          "id": "Collection and circulation management",
+          "type": "technical"
+        },
+        {
+          "id": "Cultural mediation and activities",
+          "type": "technical"
+        },
+        {
+          "id": "Use of documentary and digital tools",
+          "type": "transferable"
+        },
+        {
+          "id": "Organization, communication and user service",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Information and library sciences",
+        "Organization, description and preservation of collections",
+        "Sources, catalogues and documentary-search strategies",
+        "Mediation, public reading and media literacy",
+        "Copyright, access to information and data protection"
+      ],
+      "skills_es": [
+        {
+          "id": "Investigación documental y acompañamiento de usuarios",
+          "type": "transferable"
+        },
+        {
+          "id": "Catalogación, indización y clasificación",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de colecciones y circulación",
+          "type": "technical"
+        },
+        {
+          "id": "Mediación cultural y dinamización",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de herramientas documentales y digitales",
+          "type": "transferable"
+        },
+        {
+          "id": "Organización, comunicación y atención a usuarios",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Ciencias de la información y biblioteconomía",
+        "Organización, descripción y conservación de colecciones",
+        "Fuentes, catálogos y estrategias de búsqueda documental",
+        "Mediación, lectura pública y alfabetización mediática",
+        "Derechos de autor, acceso a la información y protección de datos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.art.mediateur-culturel",
+      "profile_version": "0.2",
+      "fr_title": "Médiateur / Médiatrice culturel(le)",
+      "en_title": "Cultural Mediator",
+      "purpose_fr": "Conçoit et anime des actions qui facilitent la rencontre entre les publics, les œuvres, les patrimoines et les institutions culturelles.",
+      "missions_fr": [
+        "Identifier les publics, partenaires et besoins de médiation associés à une programmation ou un lieu.",
+        "Préparer des parcours de visite, ateliers, supports et activités adaptés aux participants.",
+        "Présenter des œuvres, pratiques ou patrimoines en contextualisant les informations disponibles.",
+        "Animer les échanges et adapter les formats aux âges, langues et besoins d'accessibilité.",
+        "Coordonner les aspects pratiques avec les équipes artistiques, éducatives et techniques.",
+        "Recueillir les retours, évaluer la participation et améliorer les actions proposées."
+      ],
+      "skills": [
+        {
+          "id": "Conception d'activités de médiation",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication orale et adaptation des contenus",
+          "type": "technical"
+        },
+        {
+          "id": "Animation de groupes et facilitation",
+          "type": "technical"
+        },
+        {
+          "id": "Recherche et contextualisation culturelle",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination de partenaires et logistique",
+          "type": "transferable"
+        },
+        {
+          "id": "Évaluation, inclusion et accessibilité",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Histoire de l'art, patrimoine ou domaine culturel concerné",
+        "Médiation et pédagogie culturelle",
+        "Connaissance des publics et pratiques de participation",
+        "Conception de projets et organisation d'événements",
+        "Accessibilité, droits culturels et règles de conservation applicables"
+      ],
+      "work_context_fr": "Musées, bibliothèques, centres culturels, sites patrimoniaux, festivals, collectivités et associations.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "La médiation ne se substitue pas aux fonctions de conservation-restauration, de recherche scientifique ou de sécurité des collections.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Designs and leads activities that help audiences engage with artworks, heritage, cultural practices and institutions.",
+      "purpose_es": "Diseña y dirige actividades que facilitan el encuentro entre los públicos, las obras, el patrimonio, las prácticas y las instituciones culturales.",
+      "missions_en": [
+        "Identify audiences, partners and mediation needs linked to a programme or venue.",
+        "Prepare visits, workshops, materials and activities suited to participants.",
+        "Present artworks, practices or heritage while providing appropriate context.",
+        "Lead discussions and adapt formats to participants’ ages, languages and accessibility needs.",
+        "Coordinate practical arrangements with artistic, educational and technical teams.",
+        "Gather feedback, assess participation and improve proposed activities."
+      ],
+      "missions_es": [
+        "Identificar los públicos, los colaboradores y las necesidades de mediación vinculadas a un programa o espacio.",
+        "Preparar visitas, talleres, materiales y actividades adaptados a los participantes.",
+        "Presentar obras, prácticas o patrimonio aportando el contexto adecuado.",
+        "Animar los intercambios y adaptar los formatos a las edades, idiomas y necesidades de accesibilidad.",
+        "Coordinar los aspectos prácticos con los equipos artísticos, educativos y técnicos.",
+        "Recoger comentarios, evaluar la participación y mejorar las actividades propuestas."
+      ],
+      "work_context_en": "Museums, libraries, cultural centres, heritage sites, festivals, local authorities and associations.",
+      "work_context_es": "Museos, bibliotecas, centros culturales, lugares patrimoniales, festivales, entidades locales y asociaciones.",
+      "mapping_note_en": "Mediation does not replace collection conservation, restoration, scientific research or collection-security functions.",
+      "mapping_note_es": "La mediación no sustituye las funciones de conservación-restauración, investigación científica ni seguridad de las colecciones.",
+      "skills_en": [
+        {
+          "id": "Designing mediation activities",
+          "type": "transferable"
+        },
+        {
+          "id": "Oral communication and content adaptation",
+          "type": "technical"
+        },
+        {
+          "id": "Group facilitation",
+          "type": "technical"
+        },
+        {
+          "id": "Cultural research and contextualization",
+          "type": "technical"
+        },
+        {
+          "id": "Partner coordination and logistics",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluation, inclusion and accessibility",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Art history, heritage or the relevant cultural field",
+        "Cultural mediation and pedagogy",
+        "Audience knowledge and participation practices",
+        "Project design and event organization",
+        "Accessibility, cultural rights and applicable conservation rules"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de actividades de mediación",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación oral y adaptación de contenidos",
+          "type": "technical"
+        },
+        {
+          "id": "Dinamización y facilitación de grupos",
+          "type": "technical"
+        },
+        {
+          "id": "Investigación y contextualización cultural",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de colaboradores y logística",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluación, inclusión y accesibilidad",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Historia del arte, patrimonio o ámbito cultural correspondiente",
+        "Mediación y pedagogía cultural",
+        "Conocimiento de públicos y prácticas de participación",
+        "Diseño de proyectos y organización de eventos",
+        "Accesibilidad, derechos culturales y normas de conservación aplicables"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.veterinaire",
+      "profile_version": "0.2",
+      "fr_title": "Vétérinaire",
+      "en_title": "Veterinarian",
+      "purpose_fr": "Préserve la santé et le bien-être des animaux et contribue à la santé publique par des activités de prévention, diagnostic, soins et conseil relevant de son habilitation professionnelle.",
+      "missions_fr": [
+        "Recueillir l'historique et les observations utiles auprès du détenteur de l'animal.",
+        "Réaliser l'examen clinique et les évaluations autorisées selon l'espèce et le contexte.",
+        "Établir une appréciation diagnostique et proposer une prise en charge adaptée dans son champ de compétence.",
+        "Conseiller sur la prévention, l'hygiène, l'alimentation et le bien-être animal.",
+        "Contribuer à la surveillance sanitaire et signaler les situations relevant des autorités compétentes.",
+        "Tenir les dossiers médicaux et communiquer avec les propriétaires et autres professionnels."
+      ],
+      "skills": [
+        {
+          "id": "Examen clinique et raisonnement vétérinaire",
+          "type": "transferable"
+        },
+        {
+          "id": "Prévention et suivi sanitaire animal",
+          "type": "technical"
+        },
+        {
+          "id": "Communication et conseil aux détenteurs",
+          "type": "technical"
+        },
+        {
+          "id": "Tenue de dossiers et traçabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Observation du bien-être et biosécurité",
+          "type": "transferable"
+        },
+        {
+          "id": "Collaboration interprofessionnelle et éthique",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Anatomie, physiologie et pathologie animales",
+        "Médecine et chirurgie vétérinaires selon spécialité",
+        "Pharmacologie et usage raisonné des médicaments vétérinaires",
+        "Épidémiologie, zoonoses et santé publique vétérinaire",
+        "Nutrition, bien-être, biosécurité et réglementation animale"
+      ],
+      "work_context_fr": "Cliniques, élevages, laboratoires, services publics vétérinaires, santé animale, recherche et organisations de santé publique.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Profession réglementée dans de nombreux pays; diplôme reconnu, inscription ou autorisation et limites de compétence sont à vérifier localement.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Protects animal health and welfare and contributes to public health through prevention, diagnosis, care and advice within professional authorization.",
+      "purpose_es": "Protege la salud y el bienestar de los animales y contribuye a la salud pública mediante prevención, diagnóstico, atención y asesoramiento dentro de su habilitación profesional.",
+      "missions_en": [
+        "Collect relevant history and observations from the animal’s keeper.",
+        "Carry out clinical examinations and authorized assessments suited to the species and context.",
+        "Form a diagnostic assessment and propose appropriate care within the scope of competence.",
+        "Advise on prevention, hygiene, nutrition and animal welfare.",
+        "Contribute to animal-health surveillance and report situations to the competent authorities when required.",
+        "Maintain medical records and communicate with owners and other professionals."
+      ],
+      "missions_es": [
+        "Recopilar antecedentes y observaciones pertinentes del responsable del animal.",
+        "Realizar exámenes clínicos y evaluaciones autorizadas adaptadas a la especie y al contexto.",
+        "Formular una valoración diagnóstica y proponer una atención adecuada dentro del ámbito de competencia.",
+        "Asesorar sobre prevención, higiene, alimentación y bienestar animal.",
+        "Contribuir a la vigilancia sanitaria animal y comunicar las situaciones a las autoridades competentes cuando sea necesario.",
+        "Mantener los expedientes médicos y comunicarse con los propietarios y otros profesionales."
+      ],
+      "work_context_en": "Clinics, farms, laboratories, public veterinary services, animal health, research and public-health organizations.",
+      "work_context_es": "Clínicas, explotaciones ganaderas, laboratorios, servicios veterinarios públicos, salud animal, investigación y organizaciones de salud pública.",
+      "mapping_note_en": "A regulated profession in many countries; recognized qualifications, registration or authorization and scope of competence must be checked locally.",
+      "mapping_note_es": "Profesión regulada en numerosos países; deben verificarse localmente las cualificaciones reconocidas, la inscripción o autorización y los límites de competencia.",
+      "skills_en": [
+        {
+          "id": "Clinical examination and veterinary reasoning",
+          "type": "transferable"
+        },
+        {
+          "id": "Animal-health prevention and monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Communication and advice to animal keepers",
+          "type": "technical"
+        },
+        {
+          "id": "Record-keeping and traceability",
+          "type": "technical"
+        },
+        {
+          "id": "Animal-welfare observation and biosecurity",
+          "type": "transferable"
+        },
+        {
+          "id": "Interprofessional collaboration and ethics",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Animal anatomy, physiology and pathology",
+        "Veterinary medicine and surgery according to specialization",
+        "Pharmacology and responsible use of veterinary medicines",
+        "Epidemiology, zoonoses and veterinary public health",
+        "Nutrition, welfare, biosecurity and animal regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Examen clínico y razonamiento veterinario",
+          "type": "transferable"
+        },
+        {
+          "id": "Prevención y seguimiento de la salud animal",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación y asesoramiento a responsables de animales",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento de expedientes y trazabilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Observación del bienestar animal y bioseguridad",
+          "type": "transferable"
+        },
+        {
+          "id": "Colaboración interprofesional y ética",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Anatomía, fisiología y patología animal",
+        "Medicina y cirugía veterinarias según la especialidad",
+        "Farmacología y uso responsable de medicamentos veterinarios",
+        "Epidemiología, zoonosis y salud pública veterinaria",
+        "Nutrición, bienestar, bioseguridad y normativa animal"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.aquaculteur",
+      "profile_version": "0.2",
+      "fr_title": "Aquaculteur / Aquacultrice",
+      "en_title": "Aquaculture Farmer",
+      "purpose_fr": "Organise l'élevage d'organismes aquatiques en maîtrisant les paramètres de production, la santé des élevages et l'utilisation responsable des ressources.",
+      "missions_fr": [
+        "Préparer les cycles de production et planifier les besoins en alevins, aliments et intrants.",
+        "Suivre les paramètres de qualité de l'eau et consigner les observations de production.",
+        "Organiser l'alimentation, le suivi de croissance et les opérations courantes d'élevage.",
+        "Observer les signes de stress ou de maladie et solliciter les spécialistes compétents.",
+        "Planifier les récoltes, le tri, le conditionnement et la traçabilité des lots.",
+        "Suivre les coûts, les stocks, les résultats techniques et les pratiques environnementales."
+      ],
+      "skills": [
+        {
+          "id": "Gestion de cycles de production aquacole",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi de la qualité de l'eau",
+          "type": "technical"
+        },
+        {
+          "id": "Alimentation et suivi de croissance",
+          "type": "technical"
+        },
+        {
+          "id": "Observation sanitaire et biosécurité",
+          "type": "technical"
+        },
+        {
+          "id": "Organisation des récoltes et traçabilité",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion des intrants et suivi technico-économique",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Biologie et besoins des espèces élevées",
+        "Qualité de l'eau et paramètres d'élevage",
+        "Nutrition et conduite des élevages aquatiques",
+        "Santé animale aquatique et biosécurité",
+        "Gestion durable des ressources, réglementation et impacts environnementaux"
+      ],
+      "work_context_fr": "Exploitations piscicoles, fermes aquacoles, écloseries, coopératives, projets de développement et structures de transformation.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "repère international de cadrage des familles de tâches; classification indicative, non équivalence réglementaire locale"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "repère complémentaire de tâches et compétences; contexte national non transposable automatiquement"
+        }
+      ],
+      "mapping_note": "Les espèces, densités, traitements et rejets doivent respecter les avis techniques et exigences environnementales et sanitaires locales.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, certificats, titres protégés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Organizes the farming of aquatic organisms by managing production parameters, stock health and responsible use of resources.",
+      "purpose_es": "Organiza la cría de organismos acuáticos gestionando los parámetros de producción, la salud de los cultivos y el uso responsable de los recursos.",
+      "missions_en": [
+        "Prepare production cycles and plan requirements for juveniles, feed and inputs.",
+        "Monitor water-quality parameters and record production observations.",
+        "Organize feeding, growth monitoring and routine farming operations.",
+        "Observe signs of stress or disease and consult qualified specialists when needed.",
+        "Plan harvesting, sorting, packaging and batch traceability.",
+        "Monitor costs, stocks, technical results and environmental practices."
+      ],
+      "missions_es": [
+        "Preparar los ciclos de producción y planificar las necesidades de alevines, alimentos e insumos.",
+        "Supervisar los parámetros de calidad del agua y registrar las observaciones de producción.",
+        "Organizar la alimentación, el seguimiento del crecimiento y las operaciones habituales de cría.",
+        "Observar señales de estrés o enfermedad y consultar a especialistas cualificados cuando sea necesario.",
+        "Planificar la cosecha, clasificación, acondicionamiento y trazabilidad de los lotes.",
+        "Supervisar los costes, las existencias, los resultados técnicos y las prácticas ambientales."
+      ],
+      "work_context_en": "Fish farms, aquaculture facilities, hatcheries, cooperatives, development projects and processing facilities.",
+      "work_context_es": "Explotaciones piscícolas, instalaciones acuícolas, criaderos, cooperativas, proyectos de desarrollo y centros de transformación.",
+      "mapping_note_en": "Species, stocking densities, treatments and discharges must comply with local technical advice and environmental and health requirements.",
+      "mapping_note_es": "Las especies, densidades de cultivo, tratamientos y vertidos deben respetar las recomendaciones técnicas y los requisitos ambientales y sanitarios locales.",
+      "skills_en": [
+        {
+          "id": "Aquaculture production-cycle management",
+          "type": "transferable"
+        },
+        {
+          "id": "Water-quality monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Feeding and growth monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Health observation and biosecurity",
+          "type": "technical"
+        },
+        {
+          "id": "Harvest organization and traceability",
+          "type": "transferable"
+        },
+        {
+          "id": "Input management and technical-economic monitoring",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Biology and needs of farmed species",
+        "Water quality and farming parameters",
+        "Nutrition and management of aquatic stocks",
+        "Aquatic animal health and biosecurity",
+        "Sustainable resource management, regulation and environmental impacts"
+      ],
+      "skills_es": [
+        {
+          "id": "Gestión de ciclos de producción acuícola",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento de la calidad del agua",
+          "type": "technical"
+        },
+        {
+          "id": "Alimentación y seguimiento del crecimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Observación sanitaria y bioseguridad",
+          "type": "technical"
+        },
+        {
+          "id": "Organización de cosechas y trazabilidad",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión de insumos y seguimiento técnico-económico",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Biología y necesidades de las especies cultivadas",
+        "Calidad del agua y parámetros de cría",
+        "Nutrición y manejo de cultivos acuáticos",
+        "Salud animal acuática y bioseguridad",
+        "Gestión sostenible de recursos, normativa e impactos ambientales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "4.2",
+  "checked_date": "2026-11-22",
+  "official_bulk_directory": "https://ilostat.ilo.org/data/bulk/",
+  "bulk_download_documentation": "https://rplumber.ilo.org/files/website/bulk/indicator.html",
+  "datasets": [
+    {
+      "indicator_code": "EAR_EMTA_SEX_OCU_CUR_NB_A",
+      "title": "Average monthly earnings of employees by sex, occupation and currency",
+      "frequency": "annual",
+      "measure": "mean monthly earnings",
+      "currency_policy": "Keep only CUR_TYPE_LCU observations; preserve currency label and do not convert from USD/PPP.",
+      "classification_dimension": "classif1",
+      "sex_filter": "SEX_T",
+      "occupation_classification": "Must inspect classif1 code and label; do not assume ISCO-08 without metadata confirmation.",
+      "source_url": "https://ilostat.ilo.org/data/",
+      "bulk_url": "https://rplumber.ilo.org/data/indicator?format=.csv.gz&id=EAR_EMTA_SEX_OCU_CUR_NB_A",
+      "status": "official_catalogue_entry; raw data ingestion and classification audit pending"
+    },
+    {
+      "indicator_code": "SDG_0851_SEX_OCU_NB_A",
+      "title": "Average hourly earnings of employees by sex and occupation (local currency)",
+      "frequency": "annual",
+      "measure": "mean hourly earnings",
+      "currency_policy": "Local currency; retain hourly period and never annualize without observed working-hours data.",
+      "classification_dimension": "classif1",
+      "sex_filter": "SEX_T",
+      "occupation_classification": "Must inspect classif1 code and label; do not assume ISCO-08 without metadata confirmation.",
+      "source_url": "https://ilostat.ilo.org/data/",
+      "bulk_url": "https://rplumber.ilo.org/data/indicator?format=.csv.gz&id=SDG_0851_SEX_OCU_NB_A",
+      "status": "official_bulk_dataset_listed; 47,322 observations across 137 reference areas in the directory snapshot checked 2026-11-22"
+    }
+  ],
+  "publication_gate": [
+    "Country and ISO code confirmed",
+    "Local currency confirmed from classification metadata",
+    "Reference year and source survey retained",
+    "ISCO version and occupation code confirmed from classification metadata",
+    "M-TIER task-to-occupation crosswalk reviewed and approved",
+    "Gross/net and employee/self-employed population scope retained",
+    "Do not derive low/median/high from a mean"
+  ]
+}

@@ -1,0 +1,1072 @@
+{
+  "catalog_version": "0.5.0",
+  "status": "reference_register_only",
+  "sources": [
+    {
+      "id": "source.esco.about",
+      "publisher": "Commission européenne — ESCO",
+      "title": "What is ESCO?",
+      "url": "https://esco.ec.europa.eu/en/about-esco/what-esco",
+      "scope": "European multilingual occupation and skills classification",
+      "intended_use": [
+        "occupation terminology",
+        "skills relationships",
+        "multilingual interoperability"
+      ],
+      "limitations": [
+        "European labour-market context",
+        "not a national licensing authority",
+        "verify dataset-specific reuse terms"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Dataset and API/software terms must be checked separately before reuse; no bulk content copied in this register."
+    },
+    {
+      "id": "source.esco.api",
+      "publisher": "Commission européenne — ESCO",
+      "title": "ESCO API",
+      "url": "https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/esco-api",
+      "scope": "API access to versioned ESCO concepts",
+      "intended_use": [
+        "future controlled lookup",
+        "URI-based mapping"
+      ],
+      "limitations": [
+        "API version must be explicitly selected and stored"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Check API and dataset terms before integration."
+    },
+    {
+      "id": "source.ilo.isco08",
+      "publisher": "Organisation internationale du Travail",
+      "title": "ISCO-08 — structure, definitions and correspondence tables",
+      "url": "https://spf.ilo.org/public/english/bureau/stat/isco/isco08/index.htm",
+      "scope": "International statistical classification of occupations",
+      "intended_use": [
+        "broad occupational grouping",
+        "statistical crosswalks"
+      ],
+      "limitations": [
+        "not a detailed learning taxonomy",
+        "partial mappings must be flagged"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Review the specific publication/data terms before redistribution."
+    },
+    {
+      "id": "source.onet.database31",
+      "publisher": "U.S. Department of Labor, Employment and Training Administration / National Center for O*NET Development",
+      "title": "O*NET 31.0 Database",
+      "url": "https://www.onetcenter.org/database.html",
+      "scope": "United States occupational information, tasks, skills, knowledge and work activities",
+      "intended_use": [
+        "supplementary occupational detail",
+        "skills and task enrichment"
+      ],
+      "limitations": [
+        "United States context",
+        "third-party exceptions may apply",
+        "do not transfer US licensing or labour-market facts to other countries"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "CC BY 4.0 for the database except stated exceptions; attribution required and modifications must be indicated."
+    },
+    {
+      "id": "source.onet.license31",
+      "publisher": "O*NET Resource Center",
+      "title": "O*NET 31.0 Database Content License",
+      "url": "https://www.onetcenter.org/license_db.html",
+      "scope": "Reuse terms for O*NET 31.0 downloadable database",
+      "intended_use": [
+        "license review",
+        "attribution compliance"
+      ],
+      "limitations": [
+        "license does not automatically cover all O*NET site content or third-party material"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "CC BY 4.0; credit O*NET 31.0 Database and USDOL/ETA, link license, indicate changes."
+    },
+    {
+      "id": "source.nist.nice",
+      "publisher": "National Institute of Standards and Technology (NIST)",
+      "title": "NICE Workforce Framework for Cybersecurity — Resource Center",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/about",
+      "scope": "Cadre de référence pour décrire les tâches, connaissances, compétences, rôles et domaines de compétences en cybersécurité.",
+      "intended_use": [
+        "structuration des tâches et compétences cybersécurité",
+        "vocabulaire commun des rôles"
+      ],
+      "limitations": [
+        "ne définit pas à lui seul tous les intitulés de postes du marché",
+        "les rôles de travail ne sont pas synonymes de professions ou d’emplois"
+      ],
+      "checked_at": "2026-11-22",
+      "evidence_type": "framework_reference"
+    },
+    {
+      "id": "source.enisa.ecsf",
+      "publisher": "Agence de l’Union européenne pour la cybersécurité (ENISA)",
+      "title": "European Cybersecurity Skills Framework (ECSF)",
+      "url": "https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf",
+      "scope": "12 profils types de professionnels de la cybersécurité avec responsabilités, tâches, compétences et connaissances.",
+      "intended_use": [
+        "profils de rôle cybersécurité",
+        "comparaison fonctionnelle des missions et compétences"
+      ],
+      "limitations": [
+        "référentiel européen ; ne constitue pas une classification mondiale exhaustive",
+        "un rapprochement fonctionnel n’est pas une équivalence réglementaire ou de titre"
+      ],
+      "checked_at": "2026-11-22",
+      "evidence_type": "role_framework"
+    },
+    {
+      "id": "source.enisa.crosswalk",
+      "publisher": "ENISA et Commission européenne — ESCO",
+      "title": "Crosswalk between ESCO and ECSF",
+      "url": "https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf",
+      "scope": "Correspondances publiées entre profils ECSF et occupations/compétences ESCO.",
+      "intended_use": [
+        "vérifier les correspondances documentées incident responder, CISO, etc."
+      ],
+      "limitations": [
+        "ne couvre pas toutes les variantes de titres",
+        "les relations peuvent être exactes, plus spécifiques ou simplement partager des tâches"
+      ],
+      "checked_at": "2026-11-22",
+      "evidence_type": "crosswalk"
+    },
+    {
+      "id": "source.esco.skill-ict-testing",
+      "publisher": "Commission européenne — ESCO",
+      "title": "Ethical hacker — ESCO occupation profile",
+      "url": "https://esco.ec.europa.eu/sites/default/files/ethical%20hacker.pdf",
+      "scope": "Profil ESCO du métier ethical hacker, comprenant des missions, compétences et connaissances associées.",
+      "intended_use": [
+        "contrôle du vocabulaire métier et des compétences associées au test de sécurité autorisé"
+      ],
+      "limitations": [
+        "profil ESCO européen ; ne définit pas les conditions d’exercice dans chaque pays",
+        "les informations de compétences ne constituent pas un guide pratique de test"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupation_profile"
+    },
+    {
+      "id": "source.esco.risk-management",
+      "publisher": "Commission européenne — ESCO",
+      "title": "Implement ICT risk management (ESCO skill)",
+      "url": "https://esco.ec.europa.eu/en/classification/skills?uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "scope": "Compétence de gestion des risques TIC et mesures de réduction.",
+      "intended_use": [
+        "vérifier le vocabulaire de gestion des risques TIC"
+      ],
+      "limitations": [
+        "ne prouve pas les exigences d’un emploi dans un pays donné"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupation_skill_concept"
+    },
+    {
+      "id": "source.who.health-classification",
+      "publisher": "Organisation mondiale de la Santé (OMS)",
+      "title": "Classifying health workers",
+      "url": "https://cdn.who.int/media/docs/default-source/health-workforce/dek/classifying-health-workers.pdf?download=true",
+      "scope": "Classification des groupes de professionnels de santé et définitions professionnelles liées à ISCO-08.",
+      "intended_use": [
+        "délimitation des familles de métiers de santé",
+        "description générale des fonctions infirmières et médicales"
+      ],
+      "limitations": [
+        "ne remplace pas les lois nationales, ordres professionnels ou référentiels de formation",
+        "les conditions d’exercice et titres protégés varient selon les pays"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupational_classification"
+    },
+    {
+      "id": "source.who.public-health-workforce",
+      "publisher": "Organisation mondiale de la Santé (OMS)",
+      "title": "Public health workforce — Essential public health functions",
+      "url": "https://iris.who.int/bitstream/handle/10665/376577/9789240091214-eng.pdf",
+      "scope": "Panorama des catégories de personnels contribuant aux fonctions essentielles de santé publique.",
+      "intended_use": [
+        "contexte des métiers d’épidémiologie et de santé publique"
+      ],
+      "limitations": [
+        "les titres, qualifications et responsabilités varient selon les contextes nationaux"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "workforce_framework"
+    },
+    {
+      "id": "source.oecd.west-africa-agrifood",
+      "publisher": "OCDE",
+      "title": "Africa’s Development Dynamics 2024 — Skills for agri-food in West Africa",
+      "url": "https://www.oecd.org/en/publications/africa-s-development-dynamics-2024_df06c7a4-en/full-report/component-13.html",
+      "scope": "Compétences et professions mobilisées dans les chaînes agroalimentaires en Afrique de l’Ouest.",
+      "intended_use": [
+        "compétences de production agricole et agroalimentaire",
+        "contexte régional ouest-africain"
+      ],
+      "limitations": [
+        "analyse sectorielle régionale, pas une fiche officielle de chaque profession",
+        "ne définit pas les exigences réglementaires nationales"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "regional_sector_analysis"
+    },
+    {
+      "id": "source.fao.field-technician",
+      "publisher": "Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO)",
+      "title": "District Field Technician — job description",
+      "url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601282&lang=en",
+      "scope": "Exemple concret de responsabilités et compétences demandées dans une fonction de terrain liée à l’agriculture et au développement rural.",
+      "intended_use": [
+        "illustrer les tâches de conseil et d’appui agricole de terrain"
+      ],
+      "limitations": [
+        "offre d’emploi liée à un projet et à un pays précis; ne pas généraliser les exigences linguistiques, d’expérience ou de diplôme"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "job_description_example"
+    },
+    {
+      "id": "source.unesco-teaching-standards",
+      "publisher": "UNESCO / Education International",
+      "title": "Global framework of professional teaching standards",
+      "url": "https://www.ei-ie.org/en/item/25734:global-framework-of-professional-teaching-standards",
+      "scope": "Cadre mondial de référence pour élaborer des standards professionnels de l’enseignement.",
+      "intended_use": [
+        "compétences pédagogiques et développement professionnel des enseignants"
+      ],
+      "limitations": [
+        "cadre de référence, non équivalent à un programme national de formation ou à une autorisation d’enseigner"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "professional_standards_framework"
+    },
+    {
+      "id": "source.iea.gapc",
+      "publisher": "International Engineering Alliance (IEA)",
+      "title": "Graduate Attributes and Professional Competencies — Version 4",
+      "url": "https://www.internationalengineeringalliance.org/about/documents",
+      "scope": "Attributs de formation et compétences professionnelles génériques pour les ingénieurs et technologues en ingénierie.",
+      "intended_use": [
+        "compétences de conception, résolution de problèmes, communication, éthique, travail d’équipe et apprentissage continu"
+      ],
+      "limitations": [
+        "cadre de référence de compétences, ne définit pas les titres professionnels ni les règles de licence de chaque pays"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "professional_competency_framework"
+    },
+    {
+      "id": "source.abet.engineering-outcomes",
+      "publisher": "ABET",
+      "title": "Criteria for Accrediting Engineering Programs 2025–2026",
+      "url": "https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2025-2026/",
+      "scope": "Résultats attendus des programmes d’ingénierie accrédités par ABET.",
+      "intended_use": [
+        "compléter les compétences génériques d’ingénierie et de conception"
+      ],
+      "limitations": [
+        "référentiel d’accréditation de programmes, pas une norme mondiale d’autorisation individuelle; contexte ABET"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "education_accreditation_criteria"
+    },
+    {
+      "id": "source.bls.human-resources",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Human Resources Specialists — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm",
+      "scope": "Description américaine des tâches, contextes et voies d’accès des spécialistes RH.",
+      "intended_use": [
+        "comparaison des tâches RH",
+        "vocabulaire professionnel"
+      ],
+      "limitations": [
+        "contexte des États-Unis",
+        "ne pas transférer les exigences de diplôme ou données salariales à d’autres pays"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupation_reference"
+    },
+    {
+      "id": "source.bls.social-workers",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Social Workers — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+      "scope": "Description américaine des fonctions et contextes du travail social.",
+      "intended_use": [
+        "comparaison des missions du travail social"
+      ],
+      "limitations": [
+        "contexte des États-Unis",
+        "titres et obligations professionnelles à vérifier par pays"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupation_reference"
+    },
+    {
+      "id": "source.bls.legal-workers",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Occupational Requirements Survey — Legal workers",
+      "url": "https://www.bls.gov/ors/factsheet/pdf/legal-occupations.pdf",
+      "scope": "Groupe professionnel américain comprenant notamment les avocats et professions juridiques associées.",
+      "intended_use": [
+        "contexte du groupe professionnel juridique"
+      ],
+      "limitations": [
+        "ne décrit pas spécifiquement tous les postes de juriste d’entreprise",
+        "données américaines"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupational_group_reference"
+    },
+    {
+      "id": "source.bls.occupational-profiles",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Occupational Requirements Survey — Occupational Profiles",
+      "url": "https://www.bls.gov/ors/factsheet/orsprofiles.htm",
+      "scope": "Profils de groupes professionnels et exigences de travail aux États-Unis.",
+      "intended_use": [
+        "comparaison des environnements et exigences générales de travail"
+      ],
+      "limitations": [
+        "couverture par groupes et professions sélectionnées",
+        "données américaines, pas une norme mondiale"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupational_group_reference"
+    },
+    {
+      "id": "source.bls.hotel-desk-clerks",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Hotel, Motel, and Resort Desk Clerks — Occupational Requirements Survey",
+      "url": "https://www.bls.gov/ors/factsheet/orsprofiles.htm",
+      "scope": "Répertoire BLS des profils de professions, comprenant les réceptionnistes d’hébergement.",
+      "intended_use": [
+        "repère comparatif pour accueil hôtelier"
+      ],
+      "limitations": [
+        "référence de groupe américaine",
+        "les tâches locales et systèmes hôteliers varient"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupational_group_reference"
+    },
+    {
+      "id": "source.bls.cooks",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Cooks — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/cooks.htm",
+      "scope": "Description américaine du métier de cuisinier et de ses tâches générales.",
+      "intended_use": [
+        "comparaison des tâches de préparation culinaire"
+      ],
+      "limitations": [
+        "contexte des États-Unis",
+        "règles sanitaires nationales à vérifier localement"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupation_reference"
+    },
+    {
+      "id": "source.bls.journalism",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "News Analysts, Reporters, and Journalists — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/media-and-communication/news-analysts-reporters-and-journalists.htm",
+      "scope": "Description américaine des tâches et contextes des journalistes.",
+      "intended_use": [
+        "comparaison des tâches journalistiques"
+      ],
+      "limitations": [
+        "contexte des États-Unis",
+        "ne remplace pas les codes déontologiques nationaux"
+      ],
+      "checked_at": "2026-11-21",
+      "evidence_type": "occupation_reference"
+    },
+    {
+      "id": "source.irena.jobs2025",
+      "publisher": "International Renewable Energy Agency (IRENA)",
+      "title": "Renewable energy and jobs: Annual review 2025",
+      "url": "https://www.irena.org/Publications/2026/Jan/Renewable-energy-and-jobs-Annual-review-2025",
+      "scope": "Global renewable energy employment value chain and workforce development",
+      "intended_use": [
+        "renewable energy sector context",
+        "workforce and skill context"
+      ],
+      "limitations": [
+        "sector-level analysis, not a job description for every country",
+        "employment estimates and skill needs vary by country and technology"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a cited contextual reference; review report reuse terms before reproducing figures or content."
+    },
+    {
+      "id": "source.bls.solar-pv-installers",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Solar Photovoltaic Installers — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/solar-photovoltaic-installers.htm",
+      "scope": "U.S. occupational description for solar photovoltaic installers",
+      "intended_use": [
+        "comparative task and work-context reference"
+      ],
+      "limitations": [
+        "United States context only",
+        "local electrical authorizations and safety rules must be verified"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Public U.S. government information; retain attribution and verify page terms."
+    },
+    {
+      "id": "source.iea.workforce-skills",
+      "publisher": "International Energy Agency (IEA)",
+      "title": "Ensuring a Skilled Renewable Energy and Energy Efficiency Workforce",
+      "url": "https://www.iea.org/reports/ensuring-a-skilled-renewable-energy-and-energy-efficiency-workforce",
+      "scope": "Skills needs in renewable energy and energy efficiency",
+      "intended_use": [
+        "energy workforce skills context",
+        "cross-occupation skill categories"
+      ],
+      "limitations": [
+        "sector and regional coverage may not represent every national labour market"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Cite the source; review publication terms before reproducing material."
+    },
+    {
+      "id": "source.bls.industrial-occupations",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Occupational Outlook Handbook — Industrial machinery maintenance and production occupations",
+      "url": "https://www.bls.gov/ooh/",
+      "scope": "U.S. occupational descriptions for industrial production and machinery maintenance",
+      "intended_use": [
+        "comparative task families and work context"
+      ],
+      "limitations": [
+        "United States context only",
+        "not a substitute for local occupational standards"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Public U.S. government information; retain attribution and verify page terms."
+    },
+    {
+      "id": "source.unep.eia-guidance",
+      "publisher": "United Nations Environment Programme (UNEP)",
+      "title": "Environmental Impact Assessment guidance and resources",
+      "url": "https://www.unep.org/",
+      "scope": "Environmental assessment and environmental management context",
+      "intended_use": [
+        "environmental assessment context",
+        "impact mitigation and environmental decision-making"
+      ],
+      "limitations": [
+        "general institutional context; country procedures and legal thresholds must be checked separately"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a discovery/context reference; identify and cite the specific guidance document before publication."
+    },
+    {
+      "id": "source.bls.water-wastewater-operators",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Water and Wastewater Treatment Plant and System Operators — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/production/water-and-wastewater-treatment-plant-and-system-operators.htm",
+      "scope": "U.S. occupational description for water and wastewater plant operators",
+      "intended_use": [
+        "comparison of plant operation, monitoring and sampling tasks"
+      ],
+      "limitations": [
+        "United States context only",
+        "licensing and operating requirements vary by jurisdiction"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Public U.S. government information; retain attribution and verify page terms."
+    },
+    {
+      "id": "source.bls.environmental-technicians",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Environmental Science and Protection Technicians — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-science-and-protection-technicians.htm",
+      "scope": "U.S. occupational description for environmental monitoring technicians",
+      "intended_use": [
+        "comparative field, laboratory and environmental monitoring tasks"
+      ],
+      "limitations": [
+        "United States context only",
+        "not a local regulatory or licensing source"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Public U.S. government information; retain attribution and verify page terms."
+    },
+    {
+      "id": "source.bls.environmental-engineers",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Environmental Engineers — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineers.htm",
+      "scope": "U.S. occupational description for environmental engineering professionals",
+      "intended_use": [
+        "comparative environmental engineering task and skill context"
+      ],
+      "limitations": [
+        "United States context only",
+        "does not define local engineering authorization"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Public U.S. government information; retain attribution and verify page terms."
+    },
+    {
+      "id": "source.ilo.future-skills",
+      "publisher": "International Labour Organization (ILO)",
+      "title": "Lifelong Learning and Skills for the Future",
+      "url": "https://webapps.ilo.org/static/english/intserv/flagships/WoW_LLL_EN_HTML.html",
+      "scope": "Skills, lifelong learning and green transition context",
+      "intended_use": [
+        "green skills and climate literacy context"
+      ],
+      "limitations": [
+        "broad skills analysis, not an individual occupation standard"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Cite the publication; check ILO reuse terms before reproducing content."
+    },
+    {
+      "id": "source.skillsengland.livestock-unit-technician",
+      "publisher": "Skills England",
+      "title": "Livestock unit technician — occupational map",
+      "url": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0938",
+      "scope": "England occupational standard describing livestock-unit duties, knowledge and skills",
+      "intended_use": [
+        "livestock management tasks, animal welfare, biosecurity and records"
+      ],
+      "limitations": [
+        "England context; does not establish requirements in Benin or other countries"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.bls.biological-technicians",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Biological Technicians — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm",
+      "scope": "U.S. occupational description for biological technicians",
+      "intended_use": [
+        "laboratory preparation, samples, experiments, records and work context"
+      ],
+      "limitations": [
+        "United States context only; not a local qualification or licensing standard"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.bls.architects",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Architects — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/architects.htm",
+      "scope": "U.S. occupational description for architects",
+      "intended_use": [
+        "client requirements, design, plans and project coordination context"
+      ],
+      "limitations": [
+        "United States context only; architectural practice and protected title rules vary by country"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.bls.automotive-service-technicians",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Automotive Service Technicians and Mechanics — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm",
+      "scope": "U.S. occupational description for automotive service technicians and mechanics",
+      "intended_use": [
+        "inspection, diagnosis, maintenance, repair and electric vehicle context"
+      ],
+      "limitations": [
+        "United States context only; high-voltage safety and environmental rules require local verification"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.onet.electromechanical-technicians",
+      "publisher": "O*NET OnLine",
+      "title": "Electro-Mechanical and Mechatronics Technologists and Technicians (17-3024.00)",
+      "url": "https://www.onetonline.org/link/summary/17-3024.00",
+      "scope": "U.S. occupational information for electromechanical and automation technician roles",
+      "intended_use": [
+        "automated equipment operation, testing, maintenance, calibration and documentation"
+      ],
+      "limitations": [
+        "U.S. occupational taxonomy; local titles and scope of practice may differ"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.bls.customer-service-representatives",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Customer Service Representatives — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
+      "scope": "U.S. occupational description for customer service representatives",
+      "intended_use": [
+        "customer questions, complaints, order handling, records and communication"
+      ],
+      "limitations": [
+        "United States context only; industry-specific rules vary"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.bls.wholesale-sales-representatives",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Wholesale and Manufacturing Sales Representatives — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm",
+      "scope": "U.S. occupational description for wholesale and manufacturing sales representatives",
+      "intended_use": [
+        "prospecting, client needs analysis, product presentation, negotiation and follow-up"
+      ],
+      "limitations": [
+        "United States context only; commercial law and product-specific rules vary"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.bls.statisticians",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "title": "Mathematicians and Statisticians — Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+      "scope": "U.S. occupational description for statisticians and related analytical work",
+      "intended_use": [
+        "study design, sampling, statistical modelling, analysis and communication of limitations"
+      ],
+      "limitations": [
+        "United States context only; qualification pathways differ internationally"
+      ],
+      "checked_at": "2026-11-21",
+      "reuse_rights": "Use as a linked reference; do not reproduce substantial source text. Verify current page and terms before publication."
+    },
+    {
+      "id": "source.nist.nice.components-v2.2.0",
+      "publisher": "National Institute of Standards and Technology (NIST) / NICE",
+      "title": "NICE Framework Components v2.2.0 — Current Versions and release notice",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/nice-framework-current-versions",
+      "release_notice_url": "https://www.nist.gov/news-events/news/2026/04/nice-releases-nice-framework-components-v220",
+      "version": "2.2.0",
+      "published": "2026-04-28",
+      "checked_at": "2026-11-22",
+      "scope": "Versioned work role categories, work roles, competency areas and Task, Knowledge and Skill statements for cybersecurity workforce descriptions.",
+      "intended_use": [
+        "cross-check tasks, knowledge and skills",
+        "structure learning outcomes and role descriptions",
+        "track versioned cybersecurity workforce vocabulary"
+      ],
+      "limitations": [
+        "NICE work roles are not synonymous with jobs or occupations",
+        "US-origin framework; adapt descriptions to other countries and sectors",
+        "does not confer professional authorization or certification"
+      ],
+      "reuse_rights": "Use official downloadable component files under their applicable terms; retain source/version and do not copy substantial text without checking reuse conditions.",
+      "evidence_type": "versioned_workforce_framework"
+    },
+    {
+      "id": "source.enisa.ecsf.role-profiles-2022",
+      "publisher": "Agence de l’Union européenne pour la cybersécurité (ENISA)",
+      "title": "European Cybersecurity Skills Framework — Role Profiles",
+      "url": "https://www.enisa.europa.eu/sites/default/files/publications/European%20Cybersecurity%20Skills%20Framework%20Role%20Profiles.pdf",
+      "published": "2022-09-19",
+      "checked_at": "2026-11-22",
+      "scope": "Original ECSF baseline role-profile set: 12 cybersecurity professional profiles, missions, tasks, skills and knowledge.",
+      "intended_use": [
+        "baseline role-by-role comparison",
+        "identify mission and skill boundaries",
+        "support career and curriculum design"
+      ],
+      "limitations": [
+        "European role framework, not a global exhaustive occupation taxonomy",
+        "baseline 2022 version; ENISA states the framework is under revision",
+        "functional similarity is not occupational or regulatory equivalence"
+      ],
+      "reuse_rights": "Cite and link the source; review ENISA publication terms before reproducing profile content.",
+      "evidence_type": "role_profile_framework"
+    },
+    {
+      "id": "src.onet.registered-nurse",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Registered Nurses",
+      "url": "https://www.onetonline.org/link/details/29-1141.00",
+      "scope": "USA; Occupation-specific tasks, scope and US registration note; not a universal licensing rule.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.family-medicine-physician",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Family Medicine Physicians",
+      "url": "https://www.onetonline.org/link/details/29-1215.00",
+      "scope": "USA; Occupation-specific scope and tasks for family medicine physicians.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.epidemiologist",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Epidemiologists",
+      "url": "https://www.onetonline.org/link/details/19-1041.00",
+      "scope": "USA; Occupation-specific disease surveillance, investigation, analysis and public-health tasks.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.farmer-manager",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Farmers, Ranchers, and Other Agricultural Managers",
+      "url": "https://www.onetonline.org/link/details/11-9013.00",
+      "scope": "USA; Farm and agricultural establishment management scope; profile is noted as partial.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.agricultural-extension-educator",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Farm and Home Management Educators",
+      "url": "https://www.onetonline.org/link/details/25-9021.00",
+      "scope": "USA; Direct occupational synonym includes Agricultural Extension Educator; extension/advisory tasks.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.colead.irrigation-technician",
+      "publisher": "COLEAD",
+      "title": "COLEAD — Irrigation Technician job description",
+      "url": "https://resources.colead.link/en/system/files/file_fields/2023/12/11/colead-jobdescriptioncatalogue2023-web.pdf",
+      "scope": "ACP region; Direct role description: install, monitor, operate and maintain irrigation/fertigation equipment; training and qualification statements are context-specific.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.agricultural-technician",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Agricultural Technicians",
+      "url": "https://www.onetonline.org/link/details/19-4012.00",
+      "scope": "USA; Occupation-specific research support, sampling, testing and field/lab tasks.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.primary-teacher",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Elementary School Teachers",
+      "url": "https://www.onetonline.org/link/details/25-2021.00",
+      "scope": "USA; Direct occupational profile for primary/elementary teachers and teaching tasks.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.vet-teacher",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Career/Technical Education Teachers, Secondary School",
+      "url": "https://www.onetonline.org/link/details/25-2032.00",
+      "scope": "USA; Direct occupational profile for vocational/career/technical teachers.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.instructional-coordinator",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Instructional Coordinators",
+      "url": "https://www.onetonline.org/link/details/25-9031.00",
+      "scope": "USA; Direct profile includes Instructional Designer among reported job titles; curricular design and teacher support.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.civil-engineer",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Civil Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2051.00",
+      "scope": "USA; Occupation-specific civil engineering scope and project/construction tasks.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.mechanical-engineer",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Mechanical Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2141.00",
+      "scope": "USA; Occupation-specific mechanical engineering design, operation and maintenance scope.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.electrical-engineer",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Electrical Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2071.00",
+      "scope": "USA; Occupation-specific electrical systems and equipment design/development scope.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.esco.about",
+      "publisher": "European Commission",
+      "title": "European Commission — What is ESCO?",
+      "url": "https://esco.ec.europa.eu/en/about-esco/what-esco",
+      "scope": "EU; ESCO scope and data model; useful as a European reference, not a global occupational authority.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.esco.isco",
+      "publisher": "European Commission",
+      "title": "European Commission — ISCO relationship in ESCO",
+      "url": "https://esco.ec.europa.eu/fr/node/203",
+      "scope": "International/EU; Explains ESCO occupation-to-ISCO-08 hierarchy and mapping semantics.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.fao.irrigation-training",
+      "publisher": "FAO",
+      "title": "FAO — Capacity development in irrigation and drainage",
+      "url": "https://www.fao.org/4/y5524e/y5524e07.htm",
+      "scope": "International; Distinguishes field/on-the-job training from specialist college/university pathways in irrigation.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.fao.irrigation-manual",
+      "publisher": "FAO",
+      "title": "FAO — Irrigation training manuals for field assistants and technicians",
+      "url": "https://www.fao.org/4/ai587e/ai587e.pdf",
+      "scope": "International; Training topics include surveying, crop water needs, scheduling, irrigation methods, canals and water control.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.jobzones",
+      "publisher": "O*NET OnLine",
+      "title": "O*NET OnLine — Job Zones",
+      "url": "https://www.onetonline.org/find/zone?z=0",
+      "scope": "USA; US preparation framework combining education, experience and training; not transferable as national licensing requirements.",
+      "intended_use": [
+        "direct occupational evidence",
+        "training pathway evidence where specified"
+      ],
+      "limitations": [
+        "scope is limited to the jurisdiction/context stated",
+        "not a universal licensing or qualification authority"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.enisa.ecsf.roleprofiles.v2022",
+      "publisher": "ENISA",
+      "title": "European Cybersecurity Skills Framework — Role Profiles",
+      "url": "https://www.enisa.europa.eu/sites/default/files/publications/European%20Cybersecurity%20Skills%20Framework%20Role%20Profiles.pdf",
+      "scope": "European cybersecurity professional role profiles; 12 profiles with missions, tasks, skills and knowledge",
+      "intended_use": [
+        "direct cybersecurity role evidence",
+        "skills and task reference",
+        "training pathway design"
+      ],
+      "limitations": [
+        "EU framework; adaptable internationally but not a national licence or universal job taxonomy"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.enisa.ecsf.esco.crosswalk",
+      "publisher": "ENISA",
+      "title": "Crosswalk between ESCO and ECSF",
+      "url": "https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf",
+      "scope": "Official relationship table between ESCO occupation concepts and ECSF cybersecurity role profiles, including exact, broader, narrower and shared-task relationships",
+      "intended_use": [
+        "ESCO-to-ECSF mapping evidence",
+        "mapping relationship validation"
+      ],
+      "limitations": [
+        "EU classification context; only listed relationships can be claimed as official ENISA mappings"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.pentester",
+      "publisher": "O*NET OnLine",
+      "title": "Penetration Testers",
+      "url": "https://www.onetonline.org/link/details/15-1299.04",
+      "scope": "US occupation profile with job scope and occupational tasks for penetration testers",
+      "intended_use": [
+        "direct occupational evidence for penetration testing role"
+      ],
+      "limitations": [
+        "US occupational framework; no global licensing or training rule"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    },
+    {
+      "id": "src.onet.infosec-analyst",
+      "publisher": "O*NET OnLine",
+      "title": "Information Security Analysts",
+      "url": "https://www.onetonline.org/link/details/15-1212.00",
+      "scope": "US occupation profile for information security analysts, security measures, vulnerability risk and mitigation",
+      "intended_use": [
+        "direct occupational evidence for security analyst/SOC adjacent role"
+      ],
+      "limitations": [
+        "US occupational framework; job titles overlap and do not define a universal SOC job"
+      ],
+      "checked_at": "2026-11-22",
+      "reuse_rights": "Link/reference only; no bulk content copied."
+    }
+  ]
+}

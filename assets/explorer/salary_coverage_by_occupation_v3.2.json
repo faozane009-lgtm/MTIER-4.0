@@ -1,0 +1,3688 @@
+{
+  "version": "3.2",
+  "checked_date": "2026-11-22",
+  "record_count": 115,
+  "policy": "No salary value is assigned from a broad occupational group to an individual occupation. Low/median/high values are published only after exact occupation mapping, source period, currency, gross/net status and geography are validated.",
+  "records": [
+    {
+      "occupation_id": "occupation.health.infirmier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.health.medecin-generaliste",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.health.epidemiologiste",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.agriculteur",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.conseiller-agricole",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-irrigation",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.edu.enseignant-primaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.edu.formateur-professionnel",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.edu.ingenieur-pedagogique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.constr.ingenieur-genie-civil",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-mecanique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-electrique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-grc",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-soc",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.pentester-ethique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.reponse-incidents",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-iam",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-cloud",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-appsec",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-reseaux",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.coordinateur-reponse-incident",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.cyber.specialiste-iam",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-logiciel",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-mobile",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.data.analyste-donnees",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.data.ingenieur-donnees",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.transport.agent-logistique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.transport.responsable-approvisionnement",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.fin.comptable",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-financier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.mgmt.chef-projet",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.geologue",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.social.assistant-social",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.social.conseiller-insertion",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.mgmt.charge-ressources-humaines",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.law.juriste-entreprise",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.media.journaliste",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.art.designer-graphique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.hosp.receptionniste-hotel",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.hosp.cuisinier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.craft.menuisier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.craft.plombier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.energy.technicien-solaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.energy.ingenieur-energie",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.manuf.operateur-production",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.manuf.technicien-maintenance-industrielle",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.charge-biodiversite",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.technicien-eau-assainissement",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.ecologue",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.technicien-dechets",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.analyste-climat",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.charge-etudes-impact",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-elevage",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.biologiste",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-laboratoire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.eng.technicien-automatisme",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.constr.architecte",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.auto.mecanicien-automobile",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-vehicules-electriques",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.bus.commercial",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.bus.conseiller-clientele",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.statisticien",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.law.agent-administration-publique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.media.redacteur-contenu",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.art.designer-ux-ui",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.real.agent-immobilier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-patrimoine-immobilier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.security.agent-securite",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.security.sapeur-pompier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sport.educateur-sportif",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sport.preparateur-physique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.meteorologue",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-telecom",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.telecom.ingenieur-reseaux",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.marine.marin-matelot",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.marine.technicien-portuaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.art.bibliothecaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.art.mediateur-culturel",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.veterinaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.aquaculteur",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-agroalimentaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.env.technicien-assainissement",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.health.technicien-biomedical",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.health.kinesitherapeute",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.health.dieteticien",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.health.ambulancier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.social.educateur-specialise",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.social.coordinateur-humanitaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.edu.conseiller-orientation",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-chimiste",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sci.biostatisticien",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.architecte-logiciel",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-devops",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.administrateur-base-donnees",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-ia",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.testeur-logiciel",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.it.technicien-support",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.data.developpeur-bi",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.eng.automaticien",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-robotique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.constr.geometre-topographe",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.transport.gestionnaire-entrepot",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-diagnostic-auto",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-interne",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.fin.agent-microfinance",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.bus.charge-developpement-commercial",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.mgmt.responsable-ressources-humaines",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.law.charge-conformite",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.hosp.chef-cuisine",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.craft.couturier",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-facility",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-fibre-optique",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.security.preventionniste-sst",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.sport.entraineur-sportif",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    },
+    {
+      "occupation_id": "occupation.marine.agent-exploitation-portuaire",
+      "salary_section_enabled": true,
+      "display_policy": "show_country_specific_estimate_only_when_occupation_mapping_and_source_are_verified; otherwise show_not_verified_for_this_country",
+      "country_status": [
+        {
+          "country_code": "BJ",
+          "status": "national_context_available_occupation_level_estimate_not_verified",
+          "source_id": "salary.bj.ilostat.profile"
+        },
+        {
+          "country_code": "US",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.us.bls.oews"
+        },
+        {
+          "country_code": "CA",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.ca.jobbank"
+        },
+        {
+          "country_code": "FR",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.fr.insee"
+        },
+        {
+          "country_code": "GB",
+          "status": "occupation_mapping_required_before_estimate",
+          "source_id": "salary.uk.ons.ashe"
+        }
+      ]
+    }
+  ]
+}

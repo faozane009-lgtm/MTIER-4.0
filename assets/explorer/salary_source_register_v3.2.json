@@ -1,0 +1,66 @@
+{
+  "version": "3.2",
+  "checked_date": "2026-11-22",
+  "sources": [
+    {
+      "source_id": "salary.bj.ilostat.profile",
+      "country_code": "BJ",
+      "title": "ILOSTAT — Profil pays Bénin",
+      "url": "https://ilostat.ilo.org/fr/data/country-profiles/ben/",
+      "source_type": "international_statistics",
+      "scope": "National labour-market context; not an individual occupation wage table.",
+      "checked_date": "2026-11-22",
+      "limitation": "The source currently identified does not provide a validated low/median/high salary range for each of the 115 M-TIER occupations."
+    },
+    {
+      "source_id": "salary.us.bls.ooh",
+      "country_code": "US",
+      "title": "BLS Occupational Outlook Handbook — occupational pay and training",
+      "url": "https://www.bls.gov/ooh/about/occupational-information-included-in-the-ooh.htm",
+      "source_type": "national_statistics",
+      "scope": "Occupation profiles with median pay, education/training and outlook; US only.",
+      "checked_date": "2026-11-22",
+      "limitation": "A validated occupation-code match is required; BLS median pay alone is not a low/median/high range."
+    },
+    {
+      "source_id": "salary.us.bls.oews",
+      "country_code": "US",
+      "title": "BLS Occupational Employment and Wage Statistics",
+      "url": "https://www.bls.gov/oes/",
+      "source_type": "national_statistics",
+      "scope": "Occupation-level wage percentiles and geographic breakdowns; US only.",
+      "checked_date": "2026-11-22",
+      "limitation": "Requires verified SOC/O*NET crosswalk and reference-year selection for each occupation."
+    },
+    {
+      "source_id": "salary.ca.jobbank",
+      "country_code": "CA",
+      "title": "Government of Canada Job Bank — wage reports",
+      "url": "https://www.jobbank.gc.ca/trend-analysis/search-wages",
+      "source_type": "government_labour_agency",
+      "scope": "Low, median and high wages by occupation and Canadian location.",
+      "checked_date": "2026-11-22",
+      "limitation": "Requires verified NOC mapping and geographic selection for each occupation."
+    },
+    {
+      "source_id": "salary.fr.insee",
+      "country_code": "FR",
+      "title": "INSEE — salaires et revenus salariaux",
+      "url": "https://www.insee.fr/fr/statistiques/7457170",
+      "source_type": "national_statistics",
+      "scope": "French wage statistics by socio-professional category and territory.",
+      "checked_date": "2026-11-22",
+      "limitation": "Not every M-TIER occupation has a direct PCS-level match; broad category averages must not be presented as occupation-specific estimates."
+    },
+    {
+      "source_id": "salary.uk.ons.ashe",
+      "country_code": "GB",
+      "title": "ONS — Annual Survey of Hours and Earnings",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours",
+      "source_type": "national_statistics",
+      "scope": "UK earnings statistics by SOC occupational classification.",
+      "checked_date": "2026-11-22",
+      "limitation": "Requires verified SOC mapping; some public tables are aggregated at broad occupation levels."
+    }
+  ]
+}

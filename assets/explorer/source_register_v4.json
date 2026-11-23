@@ -1,0 +1,1239 @@
+{
+  "version": "4.0",
+  "checked_date": "2026-11-22",
+  "sources": [
+    {
+      "source_id": "src.onet.registered-nurse",
+      "title": "O*NET OnLine — Registered Nurses",
+      "url": "https://www.onetonline.org/link/details/29-1141.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific tasks, scope and US registration note; not a universal licensing rule."
+    },
+    {
+      "source_id": "src.onet.family-medicine-physician",
+      "title": "O*NET OnLine — Family Medicine Physicians",
+      "url": "https://www.onetonline.org/link/details/29-1215.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific scope and tasks for family medicine physicians."
+    },
+    {
+      "source_id": "src.onet.epidemiologist",
+      "title": "O*NET OnLine — Epidemiologists",
+      "url": "https://www.onetonline.org/link/details/19-1041.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific disease surveillance, investigation, analysis and public-health tasks."
+    },
+    {
+      "source_id": "src.onet.farmer-manager",
+      "title": "O*NET OnLine — Farmers, Ranchers, and Other Agricultural Managers",
+      "url": "https://www.onetonline.org/link/details/11-9013.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Farm and agricultural establishment management scope; profile is noted as partial."
+    },
+    {
+      "source_id": "src.onet.agricultural-extension-educator",
+      "title": "O*NET OnLine — Farm and Home Management Educators",
+      "url": "https://www.onetonline.org/link/details/25-9021.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct occupational synonym includes Agricultural Extension Educator; extension/advisory tasks."
+    },
+    {
+      "source_id": "src.colead.irrigation-technician",
+      "title": "COLEAD — Irrigation Technician job description",
+      "url": "https://resources.colead.link/en/system/files/file_fields/2023/12/11/colead-jobdescriptioncatalogue2023-web.pdf",
+      "jurisdiction": "ACP region",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct role description: install, monitor, operate and maintain irrigation/fertigation equipment; training and qualification statements are context-specific."
+    },
+    {
+      "source_id": "src.onet.agricultural-technician",
+      "title": "O*NET OnLine — Agricultural Technicians",
+      "url": "https://www.onetonline.org/link/details/19-4012.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific research support, sampling, testing and field/lab tasks."
+    },
+    {
+      "source_id": "src.onet.primary-teacher",
+      "title": "O*NET OnLine — Elementary School Teachers",
+      "url": "https://www.onetonline.org/link/details/25-2021.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct occupational profile for primary/elementary teachers and teaching tasks."
+    },
+    {
+      "source_id": "src.onet.vet-teacher",
+      "title": "O*NET OnLine — Career/Technical Education Teachers, Secondary School",
+      "url": "https://www.onetonline.org/link/details/25-2032.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct occupational profile for vocational/career/technical teachers."
+    },
+    {
+      "source_id": "src.onet.instructional-coordinator",
+      "title": "O*NET OnLine — Instructional Coordinators",
+      "url": "https://www.onetonline.org/link/details/25-9031.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct profile includes Instructional Designer among reported job titles; curricular design and teacher support."
+    },
+    {
+      "source_id": "src.onet.civil-engineer",
+      "title": "O*NET OnLine — Civil Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2051.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific civil engineering scope and project/construction tasks."
+    },
+    {
+      "source_id": "src.onet.mechanical-engineer",
+      "title": "O*NET OnLine — Mechanical Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2141.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific mechanical engineering design, operation and maintenance scope."
+    },
+    {
+      "source_id": "src.onet.electrical-engineer",
+      "title": "O*NET OnLine — Electrical Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2071.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific electrical systems and equipment design/development scope."
+    },
+    {
+      "source_id": "src.esco.about",
+      "title": "European Commission — What is ESCO?",
+      "url": "https://esco.ec.europa.eu/en/about-esco/what-esco",
+      "jurisdiction": "EU",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "ESCO scope and data model; useful as a European reference, not a global occupational authority."
+    },
+    {
+      "source_id": "src.esco.isco",
+      "title": "European Commission — ISCO relationship in ESCO",
+      "url": "https://esco.ec.europa.eu/fr/node/203",
+      "jurisdiction": "International/EU",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Explains ESCO occupation-to-ISCO-08 hierarchy and mapping semantics."
+    },
+    {
+      "source_id": "src.fao.irrigation-training",
+      "title": "FAO — Capacity development in irrigation and drainage",
+      "url": "https://www.fao.org/4/y5524e/y5524e07.htm",
+      "jurisdiction": "International",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Distinguishes field/on-the-job training from specialist college/university pathways in irrigation."
+    },
+    {
+      "source_id": "src.fao.irrigation-manual",
+      "title": "FAO — Irrigation training manuals for field assistants and technicians",
+      "url": "https://www.fao.org/4/ai587e/ai587e.pdf",
+      "jurisdiction": "International",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Training topics include surveying, crop water needs, scheduling, irrigation methods, canals and water control."
+    },
+    {
+      "source_id": "src.onet.jobzones",
+      "title": "O*NET OnLine — Job Zones",
+      "url": "https://www.onetonline.org/find/zone?z=0",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "US preparation framework combining education, experience and training; not transferable as national licensing requirements."
+    },
+    {
+      "source_id": "src.enisa.ecsf.roleprofiles.v2022",
+      "title": "European Cybersecurity Skills Framework — Role Profiles",
+      "url": "https://www.enisa.europa.eu/sites/default/files/publications/European%20Cybersecurity%20Skills%20Framework%20Role%20Profiles.pdf",
+      "jurisdiction": "European cybersecurity professional role profiles; 12 profiles with missions, tasks, skills and knowledge",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "direct cybersecurity role evidence; skills and task reference; training pathway design"
+    },
+    {
+      "source_id": "src.enisa.ecsf.esco.crosswalk",
+      "title": "Crosswalk between ESCO and ECSF",
+      "url": "https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf",
+      "jurisdiction": "Official relationship table between ESCO occupation concepts and ECSF cybersecurity role profiles, including exact, broader, narrower and shared-task relationships",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "ESCO-to-ECSF mapping evidence; mapping relationship validation"
+    },
+    {
+      "source_id": "src.onet.pentester",
+      "title": "Penetration Testers",
+      "url": "https://www.onetonline.org/link/details/15-1299.04",
+      "jurisdiction": "US occupation profile with job scope and occupational tasks for penetration testers",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "direct occupational evidence for penetration testing role"
+    },
+    {
+      "source_id": "src.onet.infosec-analyst",
+      "title": "Information Security Analysts",
+      "url": "https://www.onetonline.org/link/details/15-1212.00",
+      "jurisdiction": "US occupation profile for information security analysts, security measures, vulnerability risk and mitigation",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "direct occupational evidence for security analyst/SOC adjacent role"
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-infirmier",
+      "title": "O*NET OnLine search — Nurse",
+      "url": "https://www.onetonline.org/find/quick?s=Nurse",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-medecin-generaliste",
+      "title": "O*NET OnLine search — General Practitioner",
+      "url": "https://www.onetonline.org/find/quick?s=General+Practitioner",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-epidemiologiste",
+      "title": "O*NET OnLine search — Epidemiologist",
+      "url": "https://www.onetonline.org/find/quick?s=Epidemiologist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-agriculteur",
+      "title": "O*NET OnLine search — Farmer",
+      "url": "https://www.onetonline.org/find/quick?s=Farmer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-conseiller-agricole",
+      "title": "O*NET OnLine search — Agricultural Extension Adviser",
+      "url": "https://www.onetonline.org/find/quick?s=Agricultural+Extension+Adviser",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-technicien-irrigation",
+      "title": "O*NET OnLine search — Irrigation Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Irrigation+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-edu-enseignant-primaire",
+      "title": "O*NET OnLine search — Primary School Teacher",
+      "url": "https://www.onetonline.org/find/quick?s=Primary+School+Teacher",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-edu-formateur-professionnel",
+      "title": "O*NET OnLine search — Vocational Education and Training Trainer",
+      "url": "https://www.onetonline.org/find/quick?s=Vocational+Education+and+Training+Trainer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-edu-ingenieur-pedagogique",
+      "title": "O*NET OnLine search — Instructional Designer",
+      "url": "https://www.onetonline.org/find/quick?s=Instructional+Designer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-constr-ingenieur-genie-civil",
+      "title": "O*NET OnLine search — Civil Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Civil+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-eng-ingenieur-mecanique",
+      "title": "O*NET OnLine search — Mechanical Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Mechanical+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-eng-ingenieur-electrique",
+      "title": "O*NET OnLine search — Electrical Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Electrical+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-analyste-grc",
+      "title": "O*NET OnLine search — Governance, Risk and Compliance Analyst",
+      "url": "https://www.onetonline.org/find/quick?s=Governance%2C+Risk+and+Compliance+Analyst",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-analyste-soc",
+      "title": "O*NET OnLine search — Security Operations Center Analyst",
+      "url": "https://www.onetonline.org/find/quick?s=Security+Operations+Center+Analyst",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-pentester-ethique",
+      "title": "O*NET OnLine search — Ethical Penetration Tester",
+      "url": "https://www.onetonline.org/find/quick?s=Ethical+Penetration+Tester",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-reponse-incidents",
+      "title": "O*NET OnLine search — Cyber Incident Responder",
+      "url": "https://www.onetonline.org/find/quick?s=Cyber+Incident+Responder",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-ingenieur-iam",
+      "title": "O*NET OnLine search — Identity and Access Management Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Identity+and+Access+Management+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-ingenieur-securite-cloud",
+      "title": "O*NET OnLine search — Cloud Security Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Cloud+Security+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-ingenieur-appsec",
+      "title": "O*NET OnLine search — Application Security Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Application+Security+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-ingenieur-securite-reseaux",
+      "title": "O*NET OnLine search — Network Security Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Network+Security+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-coordinateur-reponse-incident",
+      "title": "O*NET OnLine search — Incident Response Coordinator",
+      "url": "https://www.onetonline.org/find/quick?s=Incident+Response+Coordinator",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-cyber-specialiste-iam",
+      "title": "O*NET OnLine search — Identity and Access Management Specialist",
+      "url": "https://www.onetonline.org/find/quick?s=Identity+and+Access+Management+Specialist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-developpeur-logiciel",
+      "title": "O*NET OnLine search — Software Developer",
+      "url": "https://www.onetonline.org/find/quick?s=Software+Developer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-developpeur-mobile",
+      "title": "O*NET OnLine search — Mobile Application Developer",
+      "url": "https://www.onetonline.org/find/quick?s=Mobile+Application+Developer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-data-analyste-donnees",
+      "title": "O*NET OnLine search — Data Analyst",
+      "url": "https://www.onetonline.org/find/quick?s=Data+Analyst",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-data-ingenieur-donnees",
+      "title": "O*NET OnLine search — Data Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Data+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-transport-agent-logistique",
+      "title": "O*NET OnLine search — Logistics Clerk",
+      "url": "https://www.onetonline.org/find/quick?s=Logistics+Clerk",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-transport-responsable-approvisionnement",
+      "title": "O*NET OnLine search — Supply Chain Planner",
+      "url": "https://www.onetonline.org/find/quick?s=Supply+Chain+Planner",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-fin-comptable",
+      "title": "O*NET OnLine search — Accountant",
+      "url": "https://www.onetonline.org/find/quick?s=Accountant",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-fin-auditeur-financier",
+      "title": "O*NET OnLine search — Financial Auditor",
+      "url": "https://www.onetonline.org/find/quick?s=Financial+Auditor",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-mgmt-chef-projet",
+      "title": "O*NET OnLine search — Project Manager",
+      "url": "https://www.onetonline.org/find/quick?s=Project+Manager",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-geologue",
+      "title": "O*NET OnLine search — Geologist",
+      "url": "https://www.onetonline.org/find/quick?s=Geologist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-social-assistant-social",
+      "title": "O*NET OnLine search — Social Worker",
+      "url": "https://www.onetonline.org/find/quick?s=Social+Worker",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-social-conseiller-insertion",
+      "title": "O*NET OnLine search — Employment Support Adviser",
+      "url": "https://www.onetonline.org/find/quick?s=Employment+Support+Adviser",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-mgmt-charge-ressources-humaines",
+      "title": "O*NET OnLine search — Human Resources Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Human+Resources+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-law-juriste-entreprise",
+      "title": "O*NET OnLine search — Corporate Legal Counsel",
+      "url": "https://www.onetonline.org/find/quick?s=Corporate+Legal+Counsel",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-media-journaliste",
+      "title": "O*NET OnLine search — Journalist",
+      "url": "https://www.onetonline.org/find/quick?s=Journalist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-art-designer-graphique",
+      "title": "O*NET OnLine search — Graphic Designer",
+      "url": "https://www.onetonline.org/find/quick?s=Graphic+Designer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-hosp-receptionniste-hotel",
+      "title": "O*NET OnLine search — Hotel Receptionist",
+      "url": "https://www.onetonline.org/find/quick?s=Hotel+Receptionist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-hosp-cuisinier",
+      "title": "O*NET OnLine search — Cook",
+      "url": "https://www.onetonline.org/find/quick?s=Cook",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-craft-menuisier",
+      "title": "O*NET OnLine search — Carpenter",
+      "url": "https://www.onetonline.org/find/quick?s=Carpenter",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-craft-plombier",
+      "title": "O*NET OnLine search — Plumber",
+      "url": "https://www.onetonline.org/find/quick?s=Plumber",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-energy-technicien-solaire",
+      "title": "O*NET OnLine search — Solar Photovoltaic Installer",
+      "url": "https://www.onetonline.org/find/quick?s=Solar+Photovoltaic+Installer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-energy-ingenieur-energie",
+      "title": "O*NET OnLine search — Energy Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Energy+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-manuf-operateur-production",
+      "title": "O*NET OnLine search — Manufacturing Production Operator",
+      "url": "https://www.onetonline.org/find/quick?s=Manufacturing+Production+Operator",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-manuf-technicien-maintenance-industrielle",
+      "title": "O*NET OnLine search — Industrial Machinery Maintenance Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Industrial+Machinery+Maintenance+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-charge-biodiversite",
+      "title": "O*NET OnLine search — Biodiversity Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Biodiversity+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-technicien-eau-assainissement",
+      "title": "O*NET OnLine search — Water and Sanitation Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Water+and+Sanitation+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-ecologue",
+      "title": "O*NET OnLine search — Ecologist",
+      "url": "https://www.onetonline.org/find/quick?s=Ecologist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-technicien-dechets",
+      "title": "O*NET OnLine search — Waste Management Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Waste+Management+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-analyste-climat",
+      "title": "O*NET OnLine search — Climate Analyst",
+      "url": "https://www.onetonline.org/find/quick?s=Climate+Analyst",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-charge-etudes-impact",
+      "title": "O*NET OnLine search — Environmental Impact Assessment Specialist",
+      "url": "https://www.onetonline.org/find/quick?s=Environmental+Impact+Assessment+Specialist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-technicien-elevage",
+      "title": "O*NET OnLine search — Livestock Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Livestock+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-biologiste",
+      "title": "O*NET OnLine search — Biologist",
+      "url": "https://www.onetonline.org/find/quick?s=Biologist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-technicien-laboratoire",
+      "title": "O*NET OnLine search — Laboratory Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Laboratory+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-eng-technicien-automatisme",
+      "title": "O*NET OnLine search — Automation Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Automation+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-constr-architecte",
+      "title": "O*NET OnLine search — Architect",
+      "url": "https://www.onetonline.org/find/quick?s=Architect",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-auto-mecanicien-automobile",
+      "title": "O*NET OnLine search — Automotive Mechanic",
+      "url": "https://www.onetonline.org/find/quick?s=Automotive+Mechanic",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-auto-technicien-vehicules-electriques",
+      "title": "O*NET OnLine search — Electric Vehicle Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Electric+Vehicle+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-bus-commercial",
+      "title": "O*NET OnLine search — Sales Representative",
+      "url": "https://www.onetonline.org/find/quick?s=Sales+Representative",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-bus-conseiller-clientele",
+      "title": "O*NET OnLine search — Customer Service Advisor",
+      "url": "https://www.onetonline.org/find/quick?s=Customer+Service+Advisor",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-statisticien",
+      "title": "O*NET OnLine search — Statistician",
+      "url": "https://www.onetonline.org/find/quick?s=Statistician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-law-agent-administration-publique",
+      "title": "O*NET OnLine search — Public Administration Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Public+Administration+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-media-redacteur-contenu",
+      "title": "O*NET OnLine search — Content Writer",
+      "url": "https://www.onetonline.org/find/quick?s=Content+Writer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-art-designer-ux-ui",
+      "title": "O*NET OnLine search — UX/UI Designer",
+      "url": "https://www.onetonline.org/find/quick?s=UX%2FUI+Designer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-real-agent-immobilier",
+      "title": "O*NET OnLine search — Real Estate Agent",
+      "url": "https://www.onetonline.org/find/quick?s=Real+Estate+Agent",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-real-gestionnaire-patrimoine-immobilier",
+      "title": "O*NET OnLine search — Real Estate Asset Manager",
+      "url": "https://www.onetonline.org/find/quick?s=Real+Estate+Asset+Manager",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-security-agent-securite",
+      "title": "O*NET OnLine search — Security Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Security+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-security-sapeur-pompier",
+      "title": "O*NET OnLine search — Firefighter",
+      "url": "https://www.onetonline.org/find/quick?s=Firefighter",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sport-educateur-sportif",
+      "title": "O*NET OnLine search — Sports Instructor",
+      "url": "https://www.onetonline.org/find/quick?s=Sports+Instructor",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sport-preparateur-physique",
+      "title": "O*NET OnLine search — Strength and Conditioning Coach",
+      "url": "https://www.onetonline.org/find/quick?s=Strength+and+Conditioning+Coach",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-meteorologue",
+      "title": "O*NET OnLine search — Meteorologist",
+      "url": "https://www.onetonline.org/find/quick?s=Meteorologist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-telecom-technicien-telecom",
+      "title": "O*NET OnLine search — Telecommunications Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Telecommunications+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-telecom-ingenieur-reseaux",
+      "title": "O*NET OnLine search — Network Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Network+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-marine-marin-matelot",
+      "title": "O*NET OnLine search — Deckhand",
+      "url": "https://www.onetonline.org/find/quick?s=Deckhand",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-marine-technicien-portuaire",
+      "title": "O*NET OnLine search — Port Technical Operations Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Port+Technical+Operations+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-art-bibliothecaire",
+      "title": "O*NET OnLine search — Librarian",
+      "url": "https://www.onetonline.org/find/quick?s=Librarian",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-art-mediateur-culturel",
+      "title": "O*NET OnLine search — Cultural Mediator",
+      "url": "https://www.onetonline.org/find/quick?s=Cultural+Mediator",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-veterinaire",
+      "title": "O*NET OnLine search — Veterinarian",
+      "url": "https://www.onetonline.org/find/quick?s=Veterinarian",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-aquaculteur",
+      "title": "O*NET OnLine search — Aquaculture Farmer",
+      "url": "https://www.onetonline.org/find/quick?s=Aquaculture+Farmer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-agri-technicien-agroalimentaire",
+      "title": "O*NET OnLine search — Food Processing Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Food+Processing+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-env-technicien-assainissement",
+      "title": "O*NET OnLine search — Sanitation Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Sanitation+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-technicien-biomedical",
+      "title": "O*NET OnLine search — Biomedical Equipment Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Biomedical+Equipment+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-kinesitherapeute",
+      "title": "O*NET OnLine search — Physiotherapist",
+      "url": "https://www.onetonline.org/find/quick?s=Physiotherapist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-dieteticien",
+      "title": "O*NET OnLine search — Dietitian",
+      "url": "https://www.onetonline.org/find/quick?s=Dietitian",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-health-ambulancier",
+      "title": "O*NET OnLine search — Emergency Medical Transport Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Emergency+Medical+Transport+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-social-educateur-specialise",
+      "title": "O*NET OnLine search — Special Needs / Social Educator",
+      "url": "https://www.onetonline.org/find/quick?s=Special+Needs+%2F+Social+Educator",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-social-coordinateur-humanitaire",
+      "title": "O*NET OnLine search — Humanitarian Project Coordinator",
+      "url": "https://www.onetonline.org/find/quick?s=Humanitarian+Project+Coordinator",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-edu-conseiller-orientation",
+      "title": "O*NET OnLine search — Career Guidance Counsellor",
+      "url": "https://www.onetonline.org/find/quick?s=Career+Guidance+Counsellor",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-technicien-chimiste",
+      "title": "O*NET OnLine search — Chemical Laboratory Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Chemical+Laboratory+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sci-biostatisticien",
+      "title": "O*NET OnLine search — Biostatistician",
+      "url": "https://www.onetonline.org/find/quick?s=Biostatistician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-architecte-logiciel",
+      "title": "O*NET OnLine search — Software Architect",
+      "url": "https://www.onetonline.org/find/quick?s=Software+Architect",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-ingenieur-devops",
+      "title": "O*NET OnLine search — DevOps Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=DevOps+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-administrateur-base-donnees",
+      "title": "O*NET OnLine search — Database Administrator",
+      "url": "https://www.onetonline.org/find/quick?s=Database+Administrator",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-ingenieur-ia",
+      "title": "O*NET OnLine search — AI Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=AI+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-testeur-logiciel",
+      "title": "O*NET OnLine search — Software Tester",
+      "url": "https://www.onetonline.org/find/quick?s=Software+Tester",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-it-technicien-support",
+      "title": "O*NET OnLine search — IT Support Technician",
+      "url": "https://www.onetonline.org/find/quick?s=IT+Support+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-data-developpeur-bi",
+      "title": "O*NET OnLine search — Business Intelligence Developer",
+      "url": "https://www.onetonline.org/find/quick?s=Business+Intelligence+Developer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-eng-automaticien",
+      "title": "O*NET OnLine search — Automation Technician / Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Automation+Technician+%2F+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-eng-ingenieur-robotique",
+      "title": "O*NET OnLine search — Robotics Engineer",
+      "url": "https://www.onetonline.org/find/quick?s=Robotics+Engineer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-constr-geometre-topographe",
+      "title": "O*NET OnLine search — Surveying Technician / Surveyor",
+      "url": "https://www.onetonline.org/find/quick?s=Surveying+Technician+%2F+Surveyor",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-transport-gestionnaire-entrepot",
+      "title": "O*NET OnLine search — Warehouse Manager",
+      "url": "https://www.onetonline.org/find/quick?s=Warehouse+Manager",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-auto-technicien-diagnostic-auto",
+      "title": "O*NET OnLine search — Automotive Diagnostic Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Automotive+Diagnostic+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-fin-auditeur-interne",
+      "title": "O*NET OnLine search — Internal Auditor",
+      "url": "https://www.onetonline.org/find/quick?s=Internal+Auditor",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-fin-agent-microfinance",
+      "title": "O*NET OnLine search — Microfinance Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Microfinance+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-bus-charge-developpement-commercial",
+      "title": "O*NET OnLine search — Business Development Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Business+Development+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-mgmt-responsable-ressources-humaines",
+      "title": "O*NET OnLine search — Human Resources Manager",
+      "url": "https://www.onetonline.org/find/quick?s=Human+Resources+Manager",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-law-charge-conformite",
+      "title": "O*NET OnLine search — Compliance Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Compliance+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-hosp-chef-cuisine",
+      "title": "O*NET OnLine search — Head Chef",
+      "url": "https://www.onetonline.org/find/quick?s=Head+Chef",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-craft-couturier",
+      "title": "O*NET OnLine search — Tailor / Dressmaker",
+      "url": "https://www.onetonline.org/find/quick?s=Tailor+%2F+Dressmaker",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-real-gestionnaire-facility",
+      "title": "O*NET OnLine search — Facilities Manager",
+      "url": "https://www.onetonline.org/find/quick?s=Facilities+Manager",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-telecom-technicien-fibre-optique",
+      "title": "O*NET OnLine search — Fiber Optic Technician",
+      "url": "https://www.onetonline.org/find/quick?s=Fiber+Optic+Technician",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-security-preventionniste-sst",
+      "title": "O*NET OnLine search — Occupational Health and Safety Specialist",
+      "url": "https://www.onetonline.org/find/quick?s=Occupational+Health+and+Safety+Specialist",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-sport-entraineur-sportif",
+      "title": "O*NET OnLine search — Sports Coach",
+      "url": "https://www.onetonline.org/find/quick?s=Sports+Coach",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    },
+    {
+      "source_id": "src.onet.search.occupation-marine-agent-exploitation-portuaire",
+      "title": "O*NET OnLine search — Port Operations Officer",
+      "url": "https://www.onetonline.org/find/quick?s=Port+Operations+Officer",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_database_search",
+      "checked_date": "2026-11-22",
+      "use_note": "Recherche officielle ciblée par titre anglais; référence candidate à examiner, pas une correspondance métier vérifiée. Contexte américain uniquement."
+    }
+  ]
+}

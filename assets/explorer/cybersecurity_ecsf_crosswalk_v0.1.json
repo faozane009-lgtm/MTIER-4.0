@@ -1,0 +1,312 @@
+{
+  "report_id": "mtier.cybersecurity.source_and_classification_audit.v2",
+  "date": "2026-11-22",
+  "source_archive": "MTIER-4.0-Explorer-Foundation-v2.4.zip",
+  "status": "documentary_review_complete_mapping_candidates_not_confirmed",
+  "methodology": {
+    "esco_version": "1.2.1 (official ESCO current version shown on ESCO site; ENISA crosswalk references ESCO v1.2)",
+    "ecsf_baseline": "Role Profiles published 2022; ENISA says ECSF is currently under revision and a public consultation is planned for end 2026.",
+    "nice_version": "NICE Framework Components 2.2.0, release 2026-04-28",
+    "rule": "Only ESCO codes and relationships explicitly listed in the ENISA↔ESCO crosswalk are reproduced. They are not inserted into the canonical M-TIER classification_crosswalk until the ESCO concept URI, version, tasks and reviewer are recorded.",
+    "isco08": "No ISCO-08 unit-group codes assigned in this checkpoint; classification requires review of official group definitions and the actual task bundle.",
+    "onet": "No O*NET SOC codes assigned in this checkpoint; US occupational context and task scope require separate controlled review."
+  },
+  "summary": {
+    "mtiers_cyber_profiles_reviewed": 10,
+    "ecsf_roles_reviewed": 12,
+    "direct_functional_coverage": 2,
+    "partial_functional_coverage": 4,
+    "no_dedicated_profile": 6,
+    "esco_relationship_rows_reproduced_from_enisa": 16,
+    "canonical_external_mappings_confirmed": 2,
+    "profiles_published": 0,
+    "esco_ecsf_relationship_rows_reproduced": 20
+  },
+  "ecsf_coverage": [
+    {
+      "ecsf_role": "Chief Information Security Officer (CISO)",
+      "coverage": "absent",
+      "mtier_profiles": [],
+      "official_ESCO_relationship_note": "ESCO 2529.1 — Chief ICT security officer; exact ESCO↔ECSF relation published by ENISA, but no dedicated M-TIER profile."
+    },
+    {
+      "ecsf_role": "Cyber Incident Responder",
+      "coverage": "direct",
+      "mtier_profiles": [
+        "occupation.cyber.reponse-incidents"
+      ],
+      "official_ESCO_relationship_note": "ESCO 2529.7 — Cyber incident responder; exact ESCO↔ECSF relation published by ENISA."
+    },
+    {
+      "ecsf_role": "Cyber Legal, Policy & Compliance Officer",
+      "coverage": "partial",
+      "mtier_profiles": [
+        "occupation.cyber.analyste-grc"
+      ],
+      "official_ESCO_relationship_note": "ESCO 1213.9 — Director of compliance and information security is more specific than the ECSF profile; not an exact match for M-TIER Analyst GRC."
+    },
+    {
+      "ecsf_role": "Cyber Threat Intelligence Specialist",
+      "coverage": "absent",
+      "mtier_profiles": [],
+      "official_ESCO_relationship_note": "ESCO 2422.8 — Intelligence officer is broader than the ECSF role; no M-TIER dedicated profile."
+    },
+    {
+      "ecsf_role": "Cybersecurity Architect",
+      "coverage": "partial",
+      "mtier_profiles": [
+        "occupation.cyber.ingenieur-securite-cloud",
+        "occupation.cyber.ingenieur-appsec",
+        "occupation.cyber.ingenieur-securite-reseaux"
+      ],
+      "official_ESCO_relationship_note": "ESCO 2511.14 ICT system architect, 2512.3 software architect, 2512.6 cloud architect and 2523.2 ICT network architect share tasks with ECSF Architect; M-TIER specializations are not direct equivalents."
+    },
+    {
+      "ecsf_role": "Cybersecurity Auditor",
+      "coverage": "absent",
+      "mtier_profiles": [],
+      "official_ESCO_relationship_note": "ESCO 2511.18 IT auditor and 2519.2 ICT auditor manager have broader relationships to ECSF Cybersecurity Auditor; no M-TIER dedicated profile."
+    },
+    {
+      "ecsf_role": "Cybersecurity Educator",
+      "coverage": "absent",
+      "mtier_profiles": [],
+      "official_ESCO_relationship_note": "ESCO 2310.1 Higher education lecturer and 2356 IT trainer are broader relationships; no dedicated M-TIER cyber educator profile."
+    },
+    {
+      "ecsf_role": "Cybersecurity Implementer",
+      "coverage": "partial",
+      "mtier_profiles": [
+        "occupation.cyber.ingenieur-iam",
+        "occupation.cyber.specialiste-iam",
+        "occupation.cyber.ingenieur-securite-cloud",
+        "occupation.cyber.ingenieur-appsec",
+        "occupation.cyber.ingenieur-securite-reseaux"
+      ],
+      "official_ESCO_relationship_note": "ESCO 2529.3 Embedded system security engineer, 2529.6 ICT security administrator and 3512.3 ICT security technician share tasks with ECSF Implementer; M-TIER links remain task-level only."
+    },
+    {
+      "ecsf_role": "Cybersecurity Researcher",
+      "coverage": "absent",
+      "mtier_profiles": [],
+      "official_ESCO_relationship_note": "ESCO 2149.2.8 Research engineer is broader than the ECSF role; no dedicated M-TIER profile."
+    },
+    {
+      "ecsf_role": "Cybersecurity Risk Manager",
+      "coverage": "partial",
+      "mtier_profiles": [
+        "occupation.cyber.analyste-grc"
+      ],
+      "official_ESCO_relationship_note": "ESCO 2529.8 Cybersecurity risk manager is an exact ESCO↔ECSF match, but the current M-TIER GRC profile is not yet shown to cover the full risk-manager accountability."
+    },
+    {
+      "ecsf_role": "Digital Forensics Investigator",
+      "coverage": "absent",
+      "mtier_profiles": [],
+      "official_ESCO_relationship_note": "ESCO 2529.2 Digital forensic expert is an exact ESCO↔ECSF match; no dedicated M-TIER profile."
+    },
+    {
+      "ecsf_role": "Penetration Tester",
+      "coverage": "direct",
+      "mtier_profiles": [
+        "occupation.cyber.pentester-ethique"
+      ],
+      "official_ESCO_relationship_note": "ESCO 2529.4 Ethical hacker is an exact ESCO↔ECSF match; proposed M-TIER alignment remains subject to URI and task review."
+    }
+  ],
+  "overlap_decisions": [
+    {
+      "profiles": [
+        "occupation.cyber.ingenieur-iam",
+        "occupation.cyber.specialiste-iam"
+      ],
+      "status": "distinct_provisional_profiles",
+      "decision": "Keep both drafts for now. Engineer = design, integration, automation and technical governance; specialist = operational identity lifecycle, access requests and periodic access review. Reassess against real job descriptions from at least three different labour markets before counting them as distinct occupations."
+    },
+    {
+      "profiles": [
+        "occupation.cyber.reponse-incidents",
+        "occupation.cyber.coordinateur-reponse-incident"
+      ],
+      "status": "one_occupation_plus_provisional_function",
+      "decision": "Keep the coordinator record in the data as a provisional functional variant, but exclude it from the count of distinct occupations until evidence shows autonomous hiring demand and distinct accountability."
+    }
+  ],
+  "source_updates": [
+    {
+      "source_id": "source.enisa.crosswalk",
+      "url": "https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf",
+      "supports": "Official relationship types and ESCO codes for ECSF roles."
+    },
+    {
+      "source_id": "source.enisa.ecsf.role-profiles-2022",
+      "url": "https://www.enisa.europa.eu/sites/default/files/publications/European%20Cybersecurity%20Skills%20Framework%20Role%20Profiles.pdf",
+      "supports": "Baseline ECSF role profiles and their tasks, skills and knowledge."
+    },
+    {
+      "source_id": "source.nist.nice.components-v2.2.0",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/nice-framework-current-versions",
+      "supports": "Versioned NICE work roles and Task, Knowledge and Skill components."
+    },
+    {
+      "source_id": "source.esco.about",
+      "url": "https://esco.ec.europa.eu/en/about-esco/what-esco",
+      "supports": "ESCO occupation structure, version and relationship to ISCO-08."
+    },
+    {
+      "source_id": "source.ilo.isco08",
+      "url": "https://spf.ilo.org/public/english/bureau/stat/isco/isco08/index.htm",
+      "supports": "Official ISCO-08 group definitions and correspondence tables; no code assigned in this checkpoint."
+    }
+  ],
+  "limitations": [
+    "The official ENISA crosswalk is an ESCO↔ECSF relationship table, not an automatic M-TIER occupation crosswalk.",
+    "A direct ESCO↔ECSF relationship does not by itself validate a M-TIER profile mapping.",
+    "No national licensing, education, certification, salary or employment-demand claims are made.",
+    "The NICE Framework describes work roles, tasks, knowledge and skills; a work role is not automatically a job or occupation.",
+    "Professional review remains required for the two overlap decisions and all final occupation mappings.",
+    "Deux correspondances ESCO exactes ont ensuite été confirmées au niveau des concepts par le crosswalk ENISA et inscrites dans le registre canonique v3.0 : Ethical hacker (2529.4) et Cyber incident responder (2529.7). Cette confirmation ne remplace pas la revue experte indépendante des fiches M-TIER."
+  ],
+  "esco_ecsf_relationships": [
+    {
+      "esco_code": "2529.1",
+      "esco_occupation": "Chief ICT security officer",
+      "relationship": "exact",
+      "ecsf_role_profile": "Chief Information Security Officer (CISO)",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2529.7",
+      "esco_occupation": "Cyber incident responder",
+      "relationship": "exact",
+      "ecsf_role_profile": "Cyber Incident Responder",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "1213.9",
+      "esco_occupation": "Director of compliance and information security",
+      "relationship": "more_specific_than",
+      "ecsf_role_profile": "Cyber Legal, Policy & Compliance Officer",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2619.4",
+      "esco_occupation": "Data protection officer",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cyber Legal, Policy & Compliance Officer",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2422.8",
+      "esco_occupation": "Intelligence officer",
+      "relationship": "broader_than",
+      "ecsf_role_profile": "Cyber Threat Intelligence Specialist",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2511.14",
+      "esco_occupation": "ICT system architect",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Architect",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2512.3",
+      "esco_occupation": "Software architect",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Architect",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2512.6",
+      "esco_occupation": "Cloud architect",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Architect",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2523.2",
+      "esco_occupation": "ICT network architect",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Architect",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2511.18",
+      "esco_occupation": "IT auditor",
+      "relationship": "broader_than",
+      "ecsf_role_profile": "Cybersecurity Auditor",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2519.2",
+      "esco_occupation": "ICT auditor manager",
+      "relationship": "broader_than",
+      "ecsf_role_profile": "Cybersecurity Auditor",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2310.1",
+      "esco_occupation": "Higher education lecturer",
+      "relationship": "broader_than",
+      "ecsf_role_profile": "Cybersecurity Educator",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2356",
+      "esco_occupation": "Information technology trainer",
+      "relationship": "broader_than",
+      "ecsf_role_profile": "Cybersecurity Educator",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2529.3",
+      "esco_occupation": "Embedded system security engineer",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Implementer",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2529.6",
+      "esco_occupation": "ICT security administrator",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Implementer",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "3512.3",
+      "esco_occupation": "ICT security technician",
+      "relationship": "shares_tasks_with",
+      "ecsf_role_profile": "Cybersecurity Implementer",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2149.2.8",
+      "esco_occupation": "Research engineer",
+      "relationship": "broader_than",
+      "ecsf_role_profile": "Cybersecurity Researcher",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2529.8",
+      "esco_occupation": "Cybersecurity risk manager",
+      "relationship": "exact",
+      "ecsf_role_profile": "Cybersecurity Risk Manager",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2529.2",
+      "esco_occupation": "Digital forensic expert",
+      "relationship": "exact",
+      "ecsf_role_profile": "Digital Forensics Investigator",
+      "source_id": "source.enisa.crosswalk"
+    },
+    {
+      "esco_code": "2529.4",
+      "esco_occupation": "Ethical hacker",
+      "relationship": "exact",
+      "ecsf_role_profile": "Penetration Tester",
+      "source_id": "source.enisa.crosswalk"
+    }
+  ]
+}

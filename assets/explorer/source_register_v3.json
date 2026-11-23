@@ -1,0 +1,204 @@
+{
+  "version": "3.0",
+  "checked_date": "2026-11-22",
+  "sources": [
+    {
+      "source_id": "src.onet.registered-nurse",
+      "title": "O*NET OnLine — Registered Nurses",
+      "url": "https://www.onetonline.org/link/details/29-1141.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific tasks, scope and US registration note; not a universal licensing rule."
+    },
+    {
+      "source_id": "src.onet.family-medicine-physician",
+      "title": "O*NET OnLine — Family Medicine Physicians",
+      "url": "https://www.onetonline.org/link/details/29-1215.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific scope and tasks for family medicine physicians."
+    },
+    {
+      "source_id": "src.onet.epidemiologist",
+      "title": "O*NET OnLine — Epidemiologists",
+      "url": "https://www.onetonline.org/link/details/19-1041.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific disease surveillance, investigation, analysis and public-health tasks."
+    },
+    {
+      "source_id": "src.onet.farmer-manager",
+      "title": "O*NET OnLine — Farmers, Ranchers, and Other Agricultural Managers",
+      "url": "https://www.onetonline.org/link/details/11-9013.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Farm and agricultural establishment management scope; profile is noted as partial."
+    },
+    {
+      "source_id": "src.onet.agricultural-extension-educator",
+      "title": "O*NET OnLine — Farm and Home Management Educators",
+      "url": "https://www.onetonline.org/link/details/25-9021.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct occupational synonym includes Agricultural Extension Educator; extension/advisory tasks."
+    },
+    {
+      "source_id": "src.colead.irrigation-technician",
+      "title": "COLEAD — Irrigation Technician job description",
+      "url": "https://resources.colead.link/en/system/files/file_fields/2023/12/11/colead-jobdescriptioncatalogue2023-web.pdf",
+      "jurisdiction": "ACP region",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct role description: install, monitor, operate and maintain irrigation/fertigation equipment; training and qualification statements are context-specific."
+    },
+    {
+      "source_id": "src.onet.agricultural-technician",
+      "title": "O*NET OnLine — Agricultural Technicians",
+      "url": "https://www.onetonline.org/link/details/19-4012.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific research support, sampling, testing and field/lab tasks."
+    },
+    {
+      "source_id": "src.onet.primary-teacher",
+      "title": "O*NET OnLine — Elementary School Teachers",
+      "url": "https://www.onetonline.org/link/details/25-2021.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct occupational profile for primary/elementary teachers and teaching tasks."
+    },
+    {
+      "source_id": "src.onet.vet-teacher",
+      "title": "O*NET OnLine — Career/Technical Education Teachers, Secondary School",
+      "url": "https://www.onetonline.org/link/details/25-2032.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct occupational profile for vocational/career/technical teachers."
+    },
+    {
+      "source_id": "src.onet.instructional-coordinator",
+      "title": "O*NET OnLine — Instructional Coordinators",
+      "url": "https://www.onetonline.org/link/details/25-9031.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Direct profile includes Instructional Designer among reported job titles; curricular design and teacher support."
+    },
+    {
+      "source_id": "src.onet.civil-engineer",
+      "title": "O*NET OnLine — Civil Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2051.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific civil engineering scope and project/construction tasks."
+    },
+    {
+      "source_id": "src.onet.mechanical-engineer",
+      "title": "O*NET OnLine — Mechanical Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2141.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific mechanical engineering design, operation and maintenance scope."
+    },
+    {
+      "source_id": "src.onet.electrical-engineer",
+      "title": "O*NET OnLine — Electrical Engineers",
+      "url": "https://www.onetonline.org/link/details/17-2071.00",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation-specific electrical systems and equipment design/development scope."
+    },
+    {
+      "source_id": "src.esco.about",
+      "title": "European Commission — What is ESCO?",
+      "url": "https://esco.ec.europa.eu/en/about-esco/what-esco",
+      "jurisdiction": "EU",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "ESCO scope and data model; useful as a European reference, not a global occupational authority."
+    },
+    {
+      "source_id": "src.esco.isco",
+      "title": "European Commission — ISCO relationship in ESCO",
+      "url": "https://esco.ec.europa.eu/fr/node/203",
+      "jurisdiction": "International/EU",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Explains ESCO occupation-to-ISCO-08 hierarchy and mapping semantics."
+    },
+    {
+      "source_id": "src.fao.irrigation-training",
+      "title": "FAO — Capacity development in irrigation and drainage",
+      "url": "https://www.fao.org/4/y5524e/y5524e07.htm",
+      "jurisdiction": "International",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Distinguishes field/on-the-job training from specialist college/university pathways in irrigation."
+    },
+    {
+      "source_id": "src.fao.irrigation-manual",
+      "title": "FAO — Irrigation training manuals for field assistants and technicians",
+      "url": "https://www.fao.org/4/ai587e/ai587e.pdf",
+      "jurisdiction": "International",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "Training topics include surveying, crop water needs, scheduling, irrigation methods, canals and water control."
+    },
+    {
+      "source_id": "src.onet.jobzones",
+      "title": "O*NET OnLine — Job Zones",
+      "url": "https://www.onetonline.org/find/zone?z=0",
+      "jurisdiction": "USA",
+      "source_type": "official_occupational_or_sector_reference",
+      "checked_date": "2026-11-22",
+      "use_note": "US preparation framework combining education, experience and training; not transferable as national licensing requirements."
+    },
+    {
+      "source_id": "src.enisa.ecsf.roleprofiles.v2022",
+      "title": "European Cybersecurity Skills Framework — Role Profiles",
+      "url": "https://www.enisa.europa.eu/sites/default/files/publications/European%20Cybersecurity%20Skills%20Framework%20Role%20Profiles.pdf",
+      "jurisdiction": "European cybersecurity professional role profiles; 12 profiles with missions, tasks, skills and knowledge",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "direct cybersecurity role evidence; skills and task reference; training pathway design"
+    },
+    {
+      "source_id": "src.enisa.ecsf.esco.crosswalk",
+      "title": "Crosswalk between ESCO and ECSF",
+      "url": "https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf",
+      "jurisdiction": "Official relationship table between ESCO occupation concepts and ECSF cybersecurity role profiles, including exact, broader, narrower and shared-task relationships",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "ESCO-to-ECSF mapping evidence; mapping relationship validation"
+    },
+    {
+      "source_id": "src.onet.pentester",
+      "title": "Penetration Testers",
+      "url": "https://www.onetonline.org/link/details/15-1299.04",
+      "jurisdiction": "US occupation profile with job scope and occupational tasks for penetration testers",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "direct occupational evidence for penetration testing role"
+    },
+    {
+      "source_id": "src.onet.infosec-analyst",
+      "title": "Information Security Analysts",
+      "url": "https://www.onetonline.org/link/details/15-1212.00",
+      "jurisdiction": "US occupation profile for information security analysts, security measures, vulnerability risk and mitigation",
+      "source_type": "official_professional_framework_or_occupational_profile",
+      "checked_date": "2026-11-22",
+      "use_note": "direct occupational evidence for security analyst/SOC adjacent role"
+    }
+  ]
+}

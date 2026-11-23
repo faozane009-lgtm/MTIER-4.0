@@ -1,0 +1,302 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "M-TIER Occupation Record",
+  "type": "object",
+  "required": [
+    "id",
+    "canonical_title",
+    "domain_id",
+    "family_id",
+    "definition",
+    "tasks",
+    "skills",
+    "status",
+    "sources",
+    "review"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^occupation\\.[a-z0-9]+\\.[a-z0-9-]+$"
+    },
+    "canonical_title": {
+      "type": "object",
+      "required": [
+        "fr"
+      ],
+      "properties": {
+        "fr": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        },
+        "es": {
+          "type": "string"
+        }
+      }
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "value": {
+            "type": "string"
+          },
+          "locale": {
+            "type": "string"
+          },
+          "region": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "domain_id": {
+      "type": "string"
+    },
+    "family_id": {
+      "type": "string"
+    },
+    "definition": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "tasks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "text"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "locale": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "technical",
+              "transferable",
+              "knowledge"
+            ]
+          },
+          "level": {
+            "enum": [
+              "introductory",
+              "intermediate",
+              "advanced"
+            ]
+          }
+        }
+      }
+    },
+    "education_routes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "route_type": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "country_scope": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "country_facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "country_code": {
+            "type": "string"
+          },
+          "salary": {
+            "type": [
+              "object",
+              "null"
+            ]
+          },
+          "licensing": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "outlook": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "external_classifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "system": {
+            "enum": [
+              "ISCO-08",
+              "ESCO",
+              "O*NET",
+              "OTHER"
+            ]
+          },
+          "code": {
+            "type": "string"
+          },
+          "version": {
+            "type": "string"
+          },
+          "mapping_type": {
+            "enum": [
+              "exact",
+              "close",
+              "broader",
+              "narrower",
+              "manual_review"
+            ]
+          }
+        }
+      }
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "rights_checked",
+        "fact_checked",
+        "localized",
+        "reviewed",
+        "published",
+        "review_due",
+        "expired",
+        "withdrawn"
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "publisher",
+          "url",
+          "scope",
+          "checked_at",
+          "reuse_rights"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "scope": {
+            "type": "string"
+          },
+          "checked_at": {
+            "type": "string",
+            "format": "date"
+          },
+          "reuse_rights": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "reviewed_at",
+        "reviewer_role",
+        "next_review_at"
+      ],
+      "properties": {
+        "reviewed_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "reviewer_role": {
+          "type": "string"
+        },
+        "next_review_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        }
+      }
+    },
+    "translation_status": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "enum": [
+            "existing_unverified_needs_human_review",
+            "machine_draft_needs_human_review",
+            "human_reviewed"
+          ]
+        },
+        "es": {
+          "enum": [
+            "existing_unverified_needs_human_review",
+            "machine_draft_needs_human_review",
+            "human_reviewed"
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

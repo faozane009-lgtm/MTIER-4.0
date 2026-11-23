@@ -1,0 +1,1610 @@
+{
+  "profile_set_version": "0.2.0",
+  "batch_id": "batch_01",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "100 profils supplémentaires, enrichis par lots contrôlés; ce lot en couvre 10.",
+  "record_count": 10,
+  "methodology": "Profils éditoriaux de synthèse construits à partir des intitulés et tâches candidates du catalogue. ESCO, ISCO-08 et O*NET sont utilisés ici comme cadres de classification et de comparaison, pas comme preuve que chaque formulation est une citation officielle. Les missions sont reformulées. Les exigences réglementaires, diplômes et données nationales restent à vérifier par pays. Revue professionnelle requise avant publication. Harmonisation wave 1: knowledge domains brought to the common minimum of five, with occupation-specific wording; missions, skills, evidence, draft status and identifiers preserved.",
+  "profiles": [
+    {
+      "occupation_id": "occupation.it.developpeur-logiciel",
+      "profile_version": "0.2",
+      "fr_title": "Développeur / Développeuse logiciel",
+      "en_title": "Software Developer",
+      "purpose_fr": "Conçoit, réalise, teste et maintient des logiciels en traduisant des besoins utilisateurs et techniques en solutions fiables.",
+      "missions_fr": [
+        "Recueillir et clarifier les besoins fonctionnels avec les utilisateurs et les parties prenantes.",
+        "Proposer une conception technique adaptée aux contraintes du produit et de son environnement.",
+        "Écrire du code lisible, documenté et conforme aux conventions de l’équipe.",
+        "Créer et exécuter des tests pour vérifier les comportements attendus.",
+        "Analyser les anomalies, corriger les défauts et améliorer la qualité du logiciel.",
+        "Documenter les décisions techniques et contribuer à la maintenance des applications."
+      ],
+      "skills": [
+        {
+          "id": "Programmation et structuration du code",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse des besoins logiciels",
+          "type": "technical"
+        },
+        {
+          "id": "Conception et modélisation logicielle",
+          "type": "technical"
+        },
+        {
+          "id": "Tests et débogage",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion de versions et collaboration technique",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation et communication d’équipe",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de programmation et structures de données",
+        "Architecture logicielle et cycle de vie du développement",
+        "Bases de données et échanges entre systèmes",
+        "Qualité logicielle, tests et maintenance",
+        "Principes de sécurité applicative, protection des données et gestion des dépendances"
+      ],
+      "work_context_fr": "Entreprises de services numériques, équipes produit, administrations, entreprises de tous secteurs ou activité indépendante selon le cadre légal et contractuel.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Profil de synthèse à confronter aux tâches réelles du poste. Les langages, outils et niveaux d’autonomie varient fortement selon les produits et les organisations.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Designs, builds, tests and maintains software by translating user and technical needs into reliable solutions.",
+      "purpose_es": "Diseña, desarrolla, prueba y mantiene software transformando las necesidades de usuarios y requisitos técnicos en soluciones fiables.",
+      "missions_en": [
+        "Gather and clarify functional requirements with users and stakeholders.",
+        "Propose a technical design suited to product and environment constraints.",
+        "Write readable, documented code that follows team conventions.",
+        "Create and run tests to verify expected behaviour.",
+        "Analyze defects, fix issues and improve software quality.",
+        "Document technical decisions and contribute to application maintenance."
+      ],
+      "missions_es": [
+        "Recopilar y aclarar los requisitos funcionales con los usuarios y las partes interesadas.",
+        "Proponer un diseño técnico adecuado a las limitaciones del producto y su entorno.",
+        "Escribir código legible y documentado que respete las convenciones del equipo.",
+        "Crear y ejecutar pruebas para verificar los comportamientos esperados.",
+        "Analizar anomalías, corregir defectos y mejorar la calidad del software.",
+        "Documentar las decisiones técnicas y contribuir al mantenimiento de las aplicaciones."
+      ],
+      "work_context_en": "Digital service companies, product teams, public administrations, organizations across sectors and independent work subject to legal and contractual conditions.",
+      "work_context_es": "Empresas de servicios digitales, equipos de producto, administraciones públicas, organizaciones de todos los sectores y actividad independiente sujeta a condiciones legales y contractuales.",
+      "mapping_note_en": "This is a summary profile to be compared with the actual duties of the role. Languages, tools and autonomy levels vary considerably across products and organizations.",
+      "mapping_note_es": "Este perfil es una síntesis que debe contrastarse con las tareas reales del puesto. Los lenguajes, las herramientas y los niveles de autonomía varían considerablemente según los productos y las organizaciones.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Programming and code organization",
+          "type": "technical"
+        },
+        {
+          "id": "Software requirements analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Software design and modelling",
+          "type": "technical"
+        },
+        {
+          "id": "Testing and debugging",
+          "type": "transferable"
+        },
+        {
+          "id": "Version control and technical collaboration",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation and team communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Programming principles and data structures",
+        "Software architecture and development lifecycle",
+        "Databases and system integration",
+        "Software quality, testing and maintenance",
+        "Application security, data protection and dependency management"
+      ],
+      "skills_es": [
+        {
+          "id": "Programación y estructuración del código",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de requisitos de software",
+          "type": "technical"
+        },
+        {
+          "id": "Diseño y modelado de software",
+          "type": "technical"
+        },
+        {
+          "id": "Pruebas y depuración",
+          "type": "transferable"
+        },
+        {
+          "id": "Control de versiones y colaboración técnica",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentación y comunicación en equipo",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de programación y estructuras de datos",
+        "Arquitectura de software y ciclo de vida del desarrollo",
+        "Bases de datos e integración entre sistemas",
+        "Calidad del software, pruebas y mantenimiento",
+        "Seguridad de aplicaciones, protección de datos y gestión de dependencias"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-mobile",
+      "profile_version": "0.2",
+      "fr_title": "Développeur / Développeuse mobile",
+      "en_title": "Mobile Application Developer",
+      "purpose_fr": "Développe et maintient des applications pour téléphones et tablettes en tenant compte des usages, des contraintes des appareils et de la qualité de service.",
+      "missions_fr": [
+        "Analyser les besoins et définir les parcours et comportements de l’application.",
+        "Concevoir des interfaces mobiles accessibles et adaptées aux tailles d’écran ciblées.",
+        "Développer les fonctionnalités et les connexions aux services nécessaires.",
+        "Tester l’application sur différents appareils et versions prises en charge.",
+        "Corriger les anomalies et suivre les performances, la stabilité et l’accessibilité.",
+        "Préparer la documentation technique et contribuer aux mises à jour de l’application."
+      ],
+      "skills": [
+        {
+          "id": "Développement d’applications mobiles",
+          "type": "technical"
+        },
+        {
+          "id": "Conception d’interfaces et parcours utilisateurs",
+          "type": "technical"
+        },
+        {
+          "id": "Intégration de services et API",
+          "type": "transferable"
+        },
+        {
+          "id": "Tests sur appareils et émulateurs",
+          "type": "transferable"
+        },
+        {
+          "id": "Diagnostic des problèmes de performance",
+          "type": "transferable"
+        },
+        {
+          "id": "Collaboration avec design et équipes produit",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes des plateformes mobiles et de leurs cycles de vie",
+        "Conception d’interfaces accessibles",
+        "Réseaux, API et stockage local",
+        "Sécurité des données et protection de la vie privée",
+        "Cycle de vie des applications mobiles, permissions, stockage local et publication sur les plateformes"
+      ],
+      "work_context_fr": "Équipes de développement mobile, éditeurs de logiciels, startups, agences numériques ou services informatiques internes.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Le profil ne présume aucun framework ou langage particulier. Les compétences attendues dépendent de la plateforme, de l’architecture et du produit.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Develops and maintains applications for phones and tablets while considering user needs, device constraints and service quality.",
+      "purpose_es": "Desarrolla y mantiene aplicaciones para teléfonos y tabletas teniendo en cuenta los usos, las limitaciones de los dispositivos y la calidad del servicio.",
+      "missions_en": [
+        "Analyze requirements and define application journeys and behaviours.",
+        "Design accessible mobile interfaces suited to target screen sizes.",
+        "Develop features and integrations with the required services.",
+        "Test applications on different supported devices and operating-system versions.",
+        "Fix defects and monitor performance, stability and accessibility.",
+        "Prepare technical documentation and contribute to application updates."
+      ],
+      "missions_es": [
+        "Analizar las necesidades y definir los recorridos y comportamientos de la aplicación.",
+        "Diseñar interfaces móviles accesibles y adaptadas a los tamaños de pantalla previstos.",
+        "Desarrollar funcionalidades e integraciones con los servicios necesarios.",
+        "Probar las aplicaciones en distintos dispositivos y versiones compatibles.",
+        "Corregir anomalías y supervisar el rendimiento, la estabilidad y la accesibilidad.",
+        "Preparar la documentación técnica y contribuir a las actualizaciones de la aplicación."
+      ],
+      "work_context_en": "Mobile development teams, software publishers, startups, digital agencies and internal IT departments.",
+      "work_context_es": "Equipos de desarrollo móvil, editoriales de software, empresas emergentes, agencias digitales y departamentos informáticos internos.",
+      "mapping_note_en": "This profile does not assume a specific framework or programming language. Expected skills depend on the platform, architecture and product.",
+      "mapping_note_es": "Este perfil no presupone ningún framework ni lenguaje de programación concreto. Las competencias esperadas dependen de la plataforma, la arquitectura y el producto.",
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "skills_en": [
+        {
+          "id": "Mobile application development",
+          "type": "technical"
+        },
+        {
+          "id": "Interface design and user journeys",
+          "type": "technical"
+        },
+        {
+          "id": "Service and API integration",
+          "type": "transferable"
+        },
+        {
+          "id": "Testing on devices and emulators",
+          "type": "transferable"
+        },
+        {
+          "id": "Performance issue diagnosis",
+          "type": "transferable"
+        },
+        {
+          "id": "Collaboration with design and product teams",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Mobile platform principles and lifecycle",
+        "Accessible interface design",
+        "Networks, APIs and local storage",
+        "Data security and privacy protection",
+        "Mobile application lifecycle, permissions, local storage and platform publishing"
+      ],
+      "skills_es": [
+        {
+          "id": "Desarrollo de aplicaciones móviles",
+          "type": "technical"
+        },
+        {
+          "id": "Diseño de interfaces y recorridos de usuario",
+          "type": "technical"
+        },
+        {
+          "id": "Integración de servicios y API",
+          "type": "transferable"
+        },
+        {
+          "id": "Pruebas en dispositivos y emuladores",
+          "type": "transferable"
+        },
+        {
+          "id": "Diagnóstico de problemas de rendimiento",
+          "type": "transferable"
+        },
+        {
+          "id": "Colaboración con equipos de diseño y producto",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios y ciclo de vida de las plataformas móviles",
+        "Diseño de interfaces accesibles",
+        "Redes, API y almacenamiento local",
+        "Seguridad de datos y protección de la privacidad",
+        "Ciclo de vida de las aplicaciones móviles, permisos, almacenamiento local y publicación en plataformas"
+      ],
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.data.analyste-donnees",
+      "profile_version": "0.2",
+      "fr_title": "Analyste de données",
+      "en_title": "Data Analyst",
+      "purpose_fr": "Transforme des données en informations compréhensibles afin d’aider une organisation à suivre ses activités et à prendre des décisions mieux informées.",
+      "missions_fr": [
+        "Clarifier la question métier et les indicateurs utiles à l’analyse.",
+        "Identifier les sources de données autorisées et vérifier leur pertinence.",
+        "Nettoyer, structurer et contrôler la qualité des données.",
+        "Réaliser des analyses descriptives et rechercher des tendances ou écarts.",
+        "Présenter les résultats sous forme de tableaux, graphiques ou rapports compréhensibles.",
+        "Expliquer les limites des données et protéger les informations confidentielles."
+      ],
+      "skills": [
+        {
+          "id": "Analyse exploratoire de données",
+          "type": "technical"
+        },
+        {
+          "id": "Nettoyage et préparation des données",
+          "type": "technical"
+        },
+        {
+          "id": "Statistiques descriptives",
+          "type": "technical"
+        },
+        {
+          "id": "Visualisation et présentation des résultats",
+          "type": "technical"
+        },
+        {
+          "id": "Formulation de questions métier",
+          "type": "transferable"
+        },
+        {
+          "id": "Protection et gouvernance des données",
+          "type": "technical"
+        }
+      ],
+      "knowledge": [
+        "Types de données et qualité des données",
+        "Statistiques de base et interprétation",
+        "Bases de données et requêtes",
+        "Principes de visualisation et de communication analytique",
+        "Qualité, gouvernance, confidentialité et limites d’interprétation des données"
+      ],
+      "work_context_fr": "Services d’études, équipes de pilotage, banques, administrations, entreprises commerciales, ONG, recherche et organisations de nombreux secteurs.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Les outils analytiques ne sont pas imposés dans ce profil. Les responsabilités relatives aux données sensibles doivent être définies par les règles applicables.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Turns data into understandable information to help an organization monitor its activities and make better-informed decisions.",
+      "purpose_es": "Transforma los datos en información comprensible para ayudar a una organización a supervisar sus actividades y tomar decisiones mejor fundamentadas.",
+      "missions_en": [
+        "Clarify the business question and the indicators needed for analysis.",
+        "Identify authorized data sources and check their relevance.",
+        "Clean, structure and check data quality.",
+        "Perform descriptive analyses and identify trends or deviations.",
+        "Present findings through understandable tables, charts or reports.",
+        "Explain data limitations and protect confidential information."
+      ],
+      "missions_es": [
+        "Aclarar la pregunta de negocio y los indicadores necesarios para el análisis.",
+        "Identificar las fuentes de datos autorizadas y comprobar su pertinencia.",
+        "Limpiar, estructurar y controlar la calidad de los datos.",
+        "Realizar análisis descriptivos e identificar tendencias o desviaciones.",
+        "Presentar los resultados mediante tablas, gráficos o informes comprensibles.",
+        "Explicar las limitaciones de los datos y proteger la información confidencial."
+      ],
+      "work_context_en": "Research departments, performance teams, banks, public administrations, commercial businesses, NGOs, research organizations and many other sectors.",
+      "work_context_es": "Departamentos de estudios, equipos de seguimiento, bancos, administraciones públicas, empresas comerciales, ONG, investigación y organizaciones de numerosos sectores.",
+      "mapping_note_en": "Analytical tools are not prescribed in this profile. Responsibilities involving sensitive data must be defined by the applicable rules.",
+      "mapping_note_es": "Este perfil no impone herramientas analíticas concretas. Las responsabilidades relativas a datos sensibles deben definirse conforme a las normas aplicables.",
+      "skills_en": [
+        {
+          "id": "Exploratory data analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Data cleaning and preparation",
+          "type": "technical"
+        },
+        {
+          "id": "Descriptive statistics",
+          "type": "technical"
+        },
+        {
+          "id": "Data visualization and presentation",
+          "type": "technical"
+        },
+        {
+          "id": "Business-question formulation",
+          "type": "transferable"
+        },
+        {
+          "id": "Data protection and governance",
+          "type": "technical"
+        }
+      ],
+      "knowledge_en": [
+        "Data types and data quality",
+        "Basic statistics and interpretation",
+        "Databases and queries",
+        "Visualization and analytical communication principles",
+        "Data quality, governance, confidentiality and interpretation limits"
+      ],
+      "skills_es": [
+        {
+          "id": "Análisis exploratorio de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Limpieza y preparación de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Estadística descriptiva",
+          "type": "technical"
+        },
+        {
+          "id": "Visualización y presentación de resultados",
+          "type": "technical"
+        },
+        {
+          "id": "Formulación de preguntas de negocio",
+          "type": "transferable"
+        },
+        {
+          "id": "Protección y gobernanza de datos",
+          "type": "technical"
+        }
+      ],
+      "knowledge_es": [
+        "Tipos y calidad de datos",
+        "Estadística básica e interpretación",
+        "Bases de datos y consultas",
+        "Principios de visualización y comunicación analítica",
+        "Calidad, gobernanza, confidencialidad y límites de interpretación de los datos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.data.ingenieur-donnees",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure données",
+      "en_title": "Data Engineer",
+      "purpose_fr": "Conçoit et maintient les systèmes qui collectent, organisent, transforment et rendent disponibles des données fiables pour les usages autorisés.",
+      "missions_fr": [
+        "Comprendre les besoins de données des équipes utilisatrices.",
+        "Concevoir des flux de collecte et de transformation adaptés aux sources disponibles.",
+        "Mettre en place des contrôles de qualité, de cohérence et de traçabilité.",
+        "Organiser le stockage et la mise à disposition des données selon les besoins.",
+        "Surveiller les traitements et résoudre les incidents de fonctionnement.",
+        "Documenter les pipelines et appliquer les règles de sécurité et de gouvernance."
+      ],
+      "skills": [
+        {
+          "id": "Conception de pipelines de données",
+          "type": "technical"
+        },
+        {
+          "id": "Intégration et transformation de données",
+          "type": "technical"
+        },
+        {
+          "id": "Modélisation et stockage des données",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle de qualité et traçabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Automatisation et supervision des traitements",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation et collaboration inter-équipes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Bases de données relationnelles et non relationnelles",
+        "Architecture des systèmes de données",
+        "Traitements par lots et flux de données",
+        "Sécurité, gouvernance et cycle de vie des données",
+        "Modélisation, orchestration, observabilité et gouvernance des pipelines de données"
+      ],
+      "work_context_fr": "Équipes data, plateformes numériques, services informatiques, entreprises de services et organisations qui exploitent des volumes de données.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Les technologies et architectures varient selon les volumes, contraintes de disponibilité et exigences de confidentialité. Aucune plateforme particulière n’est présumée.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Designs and maintains systems that collect, organize, transform and make reliable data available for authorized uses.",
+      "purpose_es": "Diseña y mantiene sistemas que recopilan, organizan, transforman y ponen a disposición datos fiables para usos autorizados.",
+      "missions_en": [
+        "Understand data requirements from user teams.",
+        "Design collection and transformation pipelines suited to available sources.",
+        "Implement quality, consistency and traceability checks.",
+        "Organize data storage and availability according to requirements.",
+        "Monitor processing jobs and resolve operational incidents.",
+        "Document pipelines and apply security and governance rules."
+      ],
+      "missions_es": [
+        "Comprender las necesidades de datos de los equipos usuarios.",
+        "Diseñar flujos de recopilación y transformación adaptados a las fuentes disponibles.",
+        "Implementar controles de calidad, coherencia y trazabilidad.",
+        "Organizar el almacenamiento y la disponibilidad de los datos según las necesidades.",
+        "Supervisar los procesos y resolver incidentes de funcionamiento.",
+        "Documentar los flujos de datos y aplicar las normas de seguridad y gobernanza."
+      ],
+      "work_context_en": "Data teams, digital platforms, IT departments, service companies and organizations that process data at scale.",
+      "work_context_es": "Equipos de datos, plataformas digitales, departamentos informáticos, empresas de servicios y organizaciones que trabajan con grandes volúmenes de datos.",
+      "mapping_note_en": "Technologies and architectures vary according to data volumes, availability constraints and confidentiality requirements. No specific platform is assumed.",
+      "mapping_note_es": "Las tecnologías y arquitecturas varían según los volúmenes de datos, las exigencias de disponibilidad y los requisitos de confidencialidad. No se presupone ninguna plataforma concreta.",
+      "skills_en": [
+        {
+          "id": "Data-pipeline design",
+          "type": "technical"
+        },
+        {
+          "id": "Data integration and transformation",
+          "type": "technical"
+        },
+        {
+          "id": "Data modelling and storage",
+          "type": "technical"
+        },
+        {
+          "id": "Quality control and traceability",
+          "type": "technical"
+        },
+        {
+          "id": "Process automation and monitoring",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation and cross-team collaboration",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Relational and non-relational databases",
+        "Data-system architecture",
+        "Batch processing and data streams",
+        "Data security, governance and lifecycle",
+        "Data-pipeline modelling, orchestration, observability and governance"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de flujos de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Integración y transformación de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Modelado y almacenamiento de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Control de calidad y trazabilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Automatización y supervisión de procesos",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentación y colaboración entre equipos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Bases de datos relacionales y no relacionales",
+        "Arquitectura de sistemas de datos",
+        "Procesamiento por lotes y flujos de datos",
+        "Seguridad, gobernanza y ciclo de vida de los datos",
+        "Modelado, orquestación, observabilidad y gobernanza de flujos de datos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.transport.agent-logistique",
+      "profile_version": "0.2",
+      "fr_title": "Agent / Agente logistique",
+      "en_title": "Logistics Clerk",
+      "purpose_fr": "Contribue à la circulation physique et documentaire des marchandises, depuis leur réception jusqu’à leur stockage, préparation et expédition.",
+      "missions_fr": [
+        "Réceptionner les marchandises et vérifier les quantités et documents associés.",
+        "Enregistrer les mouvements dans les outils de suivi utilisés.",
+        "Ranger les produits en respectant les règles de stockage et de sécurité.",
+        "Préparer les commandes et contrôler leur conformité avant expédition.",
+        "Signaler les écarts, dommages ou ruptures de stock selon les procédures.",
+        "Participer aux inventaires et à l’amélioration de l’organisation logistique."
+      ],
+      "skills": [
+        {
+          "id": "Contrôle de réception et de préparation",
+          "type": "technical"
+        },
+        {
+          "id": "Suivi des stocks et des mouvements",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation d’outils de gestion logistique",
+          "type": "transferable"
+        },
+        {
+          "id": "Lecture de documents de transport",
+          "type": "transferable"
+        },
+        {
+          "id": "Organisation et gestion des priorités",
+          "type": "transferable"
+        },
+        {
+          "id": "Respect des consignes de sécurité",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de stockage et de manutention",
+        "Documents usuels de réception et d’expédition",
+        "Gestion des stocks et inventaires",
+        "Règles de sécurité et de traçabilité des marchandises",
+        "Traçabilité des flux, gestion des stocks et indicateurs de performance logistique"
+      ],
+      "work_context_fr": "Entrepôts, plateformes de distribution, commerces, industries, entreprises de transport et services logistiques d’organisations publiques ou privées.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Les tâches physiques, équipements utilisés et habilitations éventuelles dépendent du site et de la réglementation locale.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Supports the physical and documentary flow of goods from receipt through storage and order preparation to dispatch.",
+      "purpose_es": "Contribuye al flujo físico y documental de mercancías desde su recepción hasta su almacenamiento, preparación y expedición.",
+      "missions_en": [
+        "Receive goods and check quantities and accompanying documents.",
+        "Record movements in the tracking systems used.",
+        "Store products in accordance with storage and safety rules.",
+        "Prepare orders and check their accuracy before dispatch.",
+        "Report discrepancies, damage or stock-outs in accordance with procedures.",
+        "Take part in stocktakes and improve logistics organization."
+      ],
+      "missions_es": [
+        "Recibir mercancías y comprobar las cantidades y los documentos asociados.",
+        "Registrar los movimientos en las herramientas de seguimiento utilizadas.",
+        "Almacenar los productos respetando las normas de almacenamiento y seguridad.",
+        "Preparar los pedidos y comprobar su conformidad antes de la expedición.",
+        "Comunicar las diferencias, los daños o las roturas de existencias conforme a los procedimientos.",
+        "Participar en los inventarios y contribuir a mejorar la organización logística."
+      ],
+      "work_context_en": "Warehouses, distribution centres, retailers, manufacturers, transport companies and logistics departments in public or private organizations.",
+      "work_context_es": "Almacenes, plataformas de distribución, comercios, industrias, empresas de transporte y servicios logísticos de organizaciones públicas o privadas.",
+      "mapping_note_en": "Physical duties, equipment used and any required authorizations depend on the site and local regulations.",
+      "mapping_note_es": "Las tareas físicas, los equipos utilizados y las habilitaciones necesarias dependen del centro de trabajo y de la normativa local.",
+      "skills_en": [
+        {
+          "id": "Goods-receipt and order-preparation checks",
+          "type": "technical"
+        },
+        {
+          "id": "Stock and movement tracking",
+          "type": "technical"
+        },
+        {
+          "id": "Use of logistics-management tools",
+          "type": "transferable"
+        },
+        {
+          "id": "Reading transport documents",
+          "type": "transferable"
+        },
+        {
+          "id": "Organization and priority management",
+          "type": "transferable"
+        },
+        {
+          "id": "Following safety instructions",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Storage and handling principles",
+        "Common receipt and dispatch documents",
+        "Stock management and inventory",
+        "Safety and traceability rules for goods",
+        "Flow traceability, stock management and logistics performance indicators"
+      ],
+      "skills_es": [
+        {
+          "id": "Control de recepción y preparación de pedidos",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento de existencias y movimientos",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de herramientas de gestión logística",
+          "type": "transferable"
+        },
+        {
+          "id": "Lectura de documentos de transporte",
+          "type": "transferable"
+        },
+        {
+          "id": "Organización y gestión de prioridades",
+          "type": "transferable"
+        },
+        {
+          "id": "Cumplimiento de instrucciones de seguridad",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de almacenamiento y manipulación",
+        "Documentos habituales de recepción y expedición",
+        "Gestión de existencias e inventarios",
+        "Normas de seguridad y trazabilidad de mercancías",
+        "Trazabilidad de flujos, gestión de existencias e indicadores de rendimiento logístico"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.transport.responsable-approvisionnement",
+      "profile_version": "0.2",
+      "fr_title": "Responsable approvisionnement",
+      "en_title": "Supply Chain Planner",
+      "purpose_fr": "Planifie les besoins en biens et services et coordonne les commandes afin de soutenir la continuité des opérations et la maîtrise des stocks.",
+      "missions_fr": [
+        "Recueillir les prévisions et besoins des services concernés.",
+        "Analyser les niveaux de stock, délais et contraintes d’approvisionnement.",
+        "Planifier les commandes en tenant compte des priorités et capacités disponibles.",
+        "Coordonner les échanges avec les fournisseurs et les équipes internes.",
+        "Suivre les retards, ruptures et risques de disponibilité.",
+        "Analyser les indicateurs et proposer des améliorations des processus."
+      ],
+      "skills": [
+        {
+          "id": "Planification des approvisionnements",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse des stocks et des besoins",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination fournisseurs et équipes internes",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi des délais et des risques",
+          "type": "transferable"
+        },
+        {
+          "id": "Analyse d’indicateurs logistiques",
+          "type": "technical"
+        },
+        {
+          "id": "Négociation et communication professionnelle",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Gestion de la chaîne d’approvisionnement",
+        "Prévision de la demande et gestion des stocks",
+        "Processus d’achat et documents commerciaux",
+        "Indicateurs de performance et gestion des risques",
+        "Analyse des besoins, stratégie fournisseurs, gestion des risques et continuité d’approvisionnement"
+      ],
+      "work_context_fr": "Industrie, distribution, commerce, santé, organisations humanitaires et administrations disposant de flux d’achats ou de stocks.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Le périmètre peut relever de la planification, des achats ou de la gestion de stocks selon l’organisation. Les délégations d’achat et seuils d’approbation sont propres à chaque employeur.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Plans requirements for goods and services and coordinates orders to support operational continuity and stock control.",
+      "purpose_es": "Planifica las necesidades de bienes y servicios y coordina los pedidos para apoyar la continuidad operativa y el control de existencias.",
+      "missions_en": [
+        "Gather forecasts and requirements from relevant departments.",
+        "Analyze stock levels, lead times and supply constraints.",
+        "Plan orders according to priorities and available capacity.",
+        "Coordinate communication with suppliers and internal teams.",
+        "Monitor delays, shortages and availability risks.",
+        "Analyze indicators and recommend process improvements."
+      ],
+      "missions_es": [
+        "Recopilar las previsiones y necesidades de los departamentos correspondientes.",
+        "Analizar los niveles de existencias, los plazos y las limitaciones de suministro.",
+        "Planificar los pedidos teniendo en cuenta las prioridades y la capacidad disponible.",
+        "Coordinar los intercambios con proveedores y equipos internos.",
+        "Supervisar los retrasos, las roturas de stock y los riesgos de disponibilidad.",
+        "Analizar los indicadores y proponer mejoras de los procesos."
+      ],
+      "work_context_en": "Manufacturing, distribution, retail, healthcare, humanitarian organizations and public administrations with purchasing or inventory flows.",
+      "work_context_es": "Industria, distribución, comercio, salud, organizaciones humanitarias y administraciones con flujos de compras o existencias.",
+      "mapping_note_en": "Depending on the organization, the scope may cover planning, purchasing or inventory management. Purchasing authority and approval thresholds are specific to each employer.",
+      "mapping_note_es": "Según la organización, el ámbito puede abarcar planificación, compras o gestión de existencias. Las delegaciones de compra y los umbrales de aprobación son propios de cada empleador.",
+      "skills_en": [
+        {
+          "id": "Supply planning",
+          "type": "technical"
+        },
+        {
+          "id": "Stock and requirements analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Supplier and internal-team coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Lead-time and risk monitoring",
+          "type": "transferable"
+        },
+        {
+          "id": "Logistics-indicator analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Negotiation and professional communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Supply-chain management",
+        "Demand forecasting and inventory management",
+        "Purchasing processes and commercial documents",
+        "Performance indicators and risk management",
+        "Requirements analysis, supplier strategy, risk management and supply continuity"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación de aprovisionamientos",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de existencias y necesidades",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de proveedores y equipos internos",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento de plazos y riesgos",
+          "type": "transferable"
+        },
+        {
+          "id": "Análisis de indicadores logísticos",
+          "type": "technical"
+        },
+        {
+          "id": "Negociación y comunicación profesional",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Gestión de la cadena de suministro",
+        "Previsión de la demanda y gestión de existencias",
+        "Procesos de compra y documentos comerciales",
+        "Indicadores de rendimiento y gestión de riesgos",
+        "Análisis de necesidades, estrategia de proveedores, gestión de riesgos y continuidad del suministro"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.fin.comptable",
+      "profile_version": "0.2",
+      "fr_title": "Comptable",
+      "en_title": "Accountant",
+      "purpose_fr": "Enregistre, classe et contrôle les opérations financières afin de contribuer à la fiabilité des comptes et des informations utilisées par l’organisation.",
+      "missions_fr": [
+        "Collecter et vérifier les pièces justificatives des opérations.",
+        "Enregistrer les transactions selon le référentiel comptable applicable.",
+        "Effectuer les rapprochements et contrôles périodiques.",
+        "Contribuer à la préparation des états et rapports comptables.",
+        "Classer et conserver les documents conformément aux règles applicables.",
+        "Signaler les anomalies et respecter la confidentialité des informations financières."
+      ],
+      "skills": [
+        {
+          "id": "Enregistrement des opérations comptables",
+          "type": "technical"
+        },
+        {
+          "id": "Rapprochements et contrôles",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation d’outils comptables",
+          "type": "technical"
+        },
+        {
+          "id": "Organisation et classement documentaire",
+          "type": "transferable"
+        },
+        {
+          "id": "Analyse des écarts",
+          "type": "technical"
+        },
+        {
+          "id": "Rigueur et confidentialité",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes et référentiel comptables applicables",
+        "Pièces justificatives et cycle comptable",
+        "Contrôles internes de base",
+        "Obligations fiscales et déclaratives à vérifier selon le pays",
+        "Contrôle interne, pièces justificatives, clôture comptable et principes de conformité fiscale locale"
+      ],
+      "work_context_fr": "Cabinets comptables, entreprises, associations, administrations et organisations de toutes tailles.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Les actes réservés, obligations de signature, normes et responsabilités fiscales varient selon le pays et le niveau de qualification. Ce profil ne confère aucun titre réglementé.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Records, classifies and checks financial transactions to support reliable accounts and information used by the organization.",
+      "purpose_es": "Registra, clasifica y controla las operaciones financieras para contribuir a la fiabilidad de las cuentas y de la información utilizada por la organización.",
+      "missions_en": [
+        "Collect and verify supporting documents for transactions.",
+        "Record transactions in accordance with the applicable accounting framework.",
+        "Carry out reconciliations and periodic checks.",
+        "Contribute to preparing accounting statements and reports.",
+        "Classify and retain documents in accordance with applicable rules.",
+        "Report anomalies and protect the confidentiality of financial information."
+      ],
+      "missions_es": [
+        "Recopilar y verificar los justificantes de las operaciones.",
+        "Registrar las operaciones conforme al marco contable aplicable.",
+        "Realizar conciliaciones y controles periódicos.",
+        "Contribuir a preparar estados e informes contables.",
+        "Clasificar y conservar los documentos conforme a las normas aplicables.",
+        "Comunicar las anomalías y respetar la confidencialidad de la información financiera."
+      ],
+      "work_context_en": "Accounting firms, companies, associations, public administrations and organizations of all sizes.",
+      "work_context_es": "Despachos contables, empresas, asociaciones, administraciones públicas y organizaciones de todos los tamaños.",
+      "mapping_note_en": "Reserved activities, signing obligations, standards and tax responsibilities vary by country and qualification level. This profile does not confer any regulated title.",
+      "mapping_note_es": "Los actos reservados, las obligaciones de firma, las normas y las responsabilidades fiscales varían según el país y el nivel de cualificación. Este perfil no concede ningún título regulado.",
+      "skills_en": [
+        {
+          "id": "Recording accounting transactions",
+          "type": "technical"
+        },
+        {
+          "id": "Reconciliations and checks",
+          "type": "technical"
+        },
+        {
+          "id": "Use of accounting tools",
+          "type": "technical"
+        },
+        {
+          "id": "Document organization and filing",
+          "type": "transferable"
+        },
+        {
+          "id": "Variance analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Accuracy and confidentiality",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Applicable accounting principles and framework",
+        "Supporting documents and accounting cycle",
+        "Basic internal controls",
+        "Tax and filing obligations to be checked by country",
+        "Internal control, supporting documents, accounting close and local tax-compliance principles"
+      ],
+      "skills_es": [
+        {
+          "id": "Registro de operaciones contables",
+          "type": "technical"
+        },
+        {
+          "id": "Conciliaciones y controles",
+          "type": "technical"
+        },
+        {
+          "id": "Uso de herramientas contables",
+          "type": "technical"
+        },
+        {
+          "id": "Organización y clasificación documental",
+          "type": "transferable"
+        },
+        {
+          "id": "Análisis de desviaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Rigor y confidencialidad",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios y marco contable aplicables",
+        "Justificantes y ciclo contable",
+        "Controles internos básicos",
+        "Obligaciones fiscales y declarativas que deben verificarse según el país",
+        "Control interno, justificantes, cierre contable y principios de cumplimiento fiscal local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-financier",
+      "profile_version": "0.2",
+      "fr_title": "Auditeur / Auditrice financier(ère)",
+      "en_title": "Financial Auditor",
+      "purpose_fr": "Examine des informations financières, des contrôles et des processus afin d’évaluer leur fiabilité au regard du périmètre et des critères d’audit définis.",
+      "missions_fr": [
+        "Comprendre l’activité, le périmètre et les critères de la mission.",
+        "Préparer un programme de travail fondé sur les risques identifiés.",
+        "Collecter et examiner des éléments probants appropriés.",
+        "Évaluer la conception et le fonctionnement des contrôles pertinents.",
+        "Documenter les constats, limites et conclusions de manière traçable.",
+        "Présenter les résultats et suivre les recommandations selon le mandat."
+      ],
+      "skills": [
+        {
+          "id": "Planification d’une mission d’audit",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse des risques et contrôles",
+          "type": "technical"
+        },
+        {
+          "id": "Examen critique des pièces et données",
+          "type": "technical"
+        },
+        {
+          "id": "Documentation des éléments probants",
+          "type": "transferable"
+        },
+        {
+          "id": "Rédaction de constats et rapports",
+          "type": "transferable"
+        },
+        {
+          "id": "Indépendance, éthique et confidentialité",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes comptables et information financière",
+        "Méthodologie et normes d’audit applicables",
+        "Contrôle interne et gestion des risques",
+        "Gouvernance, éthique et exigences réglementaires",
+        "Évaluation des risques d’audit, éléments probants, matérialité et normes professionnelles applicables"
+      ],
+      "work_context_fr": "Cabinets d’audit, directions d’audit interne, organismes publics, institutions financières et organisations soumises à des contrôles.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Les responsabilités d’audit légal, la signature de rapports et les titres professionnels sont réglementés différemment selon les pays. Aucune habilitation n’est présumée.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Examines financial information, controls and processes to assess their reliability against the defined audit scope and criteria.",
+      "purpose_es": "Examina información financiera, controles y procesos para evaluar su fiabilidad conforme al alcance y los criterios de auditoría definidos.",
+      "missions_en": [
+        "Understand the activity, scope and criteria of the assignment.",
+        "Prepare a work programme based on identified risks.",
+        "Collect and examine appropriate audit evidence.",
+        "Assess the design and operation of relevant controls.",
+        "Document findings, limitations and conclusions in a traceable way.",
+        "Present results and follow up recommendations within the mandate."
+      ],
+      "missions_es": [
+        "Comprender la actividad, el alcance y los criterios de la misión.",
+        "Preparar un programa de trabajo basado en los riesgos identificados.",
+        "Recopilar y examinar evidencias de auditoría adecuadas.",
+        "Evaluar el diseño y el funcionamiento de los controles pertinentes.",
+        "Documentar los hallazgos, las limitaciones y las conclusiones de forma trazable.",
+        "Presentar los resultados y hacer seguimiento de las recomendaciones conforme al mandato."
+      ],
+      "work_context_en": "Audit firms, internal-audit departments, public bodies, financial institutions and organizations subject to audits.",
+      "work_context_es": "Firmas de auditoría, departamentos de auditoría interna, organismos públicos, instituciones financieras y organizaciones sujetas a controles.",
+      "mapping_note_en": "Statutory audit responsibilities, report signing and professional titles are regulated differently across countries. No professional authorization is presumed.",
+      "mapping_note_es": "Las responsabilidades de auditoría legal, la firma de informes y los títulos profesionales están regulados de forma diferente según el país. No se presume ninguna habilitación profesional.",
+      "skills_en": [
+        {
+          "id": "Audit engagement planning",
+          "type": "technical"
+        },
+        {
+          "id": "Risk and control analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Critical review of documents and data",
+          "type": "technical"
+        },
+        {
+          "id": "Audit-evidence documentation",
+          "type": "transferable"
+        },
+        {
+          "id": "Writing findings and reports",
+          "type": "transferable"
+        },
+        {
+          "id": "Independence, ethics and confidentiality",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Accounting principles and financial information",
+        "Applicable audit methodology and standards",
+        "Internal control and risk management",
+        "Governance, ethics and regulatory requirements",
+        "Audit-risk assessment, evidence, materiality and applicable professional standards"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación de una misión de auditoría",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de riesgos y controles",
+          "type": "technical"
+        },
+        {
+          "id": "Examen crítico de documentos y datos",
+          "type": "technical"
+        },
+        {
+          "id": "Documentación de evidencias",
+          "type": "transferable"
+        },
+        {
+          "id": "Redacción de hallazgos e informes",
+          "type": "transferable"
+        },
+        {
+          "id": "Independencia, ética y confidencialidad",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios contables e información financiera",
+        "Metodología y normas de auditoría aplicables",
+        "Control interno y gestión de riesgos",
+        "Gobernanza, ética y requisitos regulatorios",
+        "Evaluación de riesgos de auditoría, evidencias, materialidad y normas profesionales aplicables"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.mgmt.chef-projet",
+      "profile_version": "0.2",
+      "fr_title": "Chef / Cheffe de projet",
+      "en_title": "Project Manager",
+      "purpose_fr": "Organise et coordonne un projet pour atteindre des objectifs et livrables convenus en gérant les délais, ressources, risques et communications.",
+      "missions_fr": [
+        "Clarifier les objectifs, livrables, contraintes et parties prenantes.",
+        "Construire un plan de travail et répartir les responsabilités.",
+        "Coordonner les activités et suivre l’avancement par rapport au plan.",
+        "Identifier les risques, dépendances et changements à traiter.",
+        "Faciliter la communication et la prise de décision entre parties prenantes.",
+        "Clôturer le projet, documenter les résultats et recueillir les enseignements."
+      ],
+      "skills": [
+        {
+          "id": "Planification et organisation de projet",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination d’équipes et de parties prenantes",
+          "type": "transferable"
+        },
+        {
+          "id": "Suivi des délais, coûts et livrables",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion des risques et changements",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication et facilitation",
+          "type": "transferable"
+        },
+        {
+          "id": "Évaluation et capitalisation des résultats",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Cycle de vie et gouvernance des projets",
+        "Planification, estimation et suivi",
+        "Gestion des risques et des dépendances",
+        "Méthodes prédictives et approches adaptatives",
+        "Gouvernance de projet, gestion des changements, suivi des risques et mesure des bénéfices"
+      ],
+      "work_context_fr": "Entreprises, administrations, ONG, organisations internationales et équipes temporaires ou permanentes conduisant des projets.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Le titre recouvre des niveaux et domaines très différents. Les budgets, délégations, méthodes et responsabilités sont définis par l’organisation et le secteur.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Organizes and coordinates a project to achieve agreed objectives and deliverables while managing timelines, resources, risks and communication.",
+      "purpose_es": "Organiza y coordina un proyecto para alcanzar objetivos y entregables acordados gestionando plazos, recursos, riesgos y comunicación.",
+      "missions_en": [
+        "Clarify objectives, deliverables, constraints and stakeholders.",
+        "Build a work plan and allocate responsibilities.",
+        "Coordinate activities and monitor progress against the plan.",
+        "Identify risks, dependencies and changes requiring action.",
+        "Facilitate communication and decision-making among stakeholders.",
+        "Close the project, document results and capture lessons learned."
+      ],
+      "missions_es": [
+        "Aclarar los objetivos, entregables, limitaciones y partes interesadas.",
+        "Elaborar un plan de trabajo y distribuir responsabilidades.",
+        "Coordinar las actividades y supervisar el avance respecto al plan.",
+        "Identificar riesgos, dependencias y cambios que requieran actuación.",
+        "Facilitar la comunicación y la toma de decisiones entre las partes interesadas.",
+        "Cerrar el proyecto, documentar los resultados y recoger las lecciones aprendidas."
+      ],
+      "work_context_en": "Companies, public administrations, NGOs, international organizations and temporary or permanent project teams.",
+      "work_context_es": "Empresas, administraciones públicas, ONG, organizaciones internacionales y equipos de proyecto temporales o permanentes.",
+      "mapping_note_en": "The title covers very different levels and fields. Budgets, delegated authority, methods and responsibilities are defined by the organization and sector.",
+      "mapping_note_es": "El título abarca niveles y ámbitos muy diferentes. Los presupuestos, las delegaciones, los métodos y las responsabilidades los define la organización y el sector.",
+      "skills_en": [
+        {
+          "id": "Project planning and organization",
+          "type": "technical"
+        },
+        {
+          "id": "Team and stakeholder coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Tracking timelines, costs and deliverables",
+          "type": "transferable"
+        },
+        {
+          "id": "Risk and change management",
+          "type": "transferable"
+        },
+        {
+          "id": "Communication and facilitation",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluation and capture of results",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Project lifecycle and governance",
+        "Planning, estimation and monitoring",
+        "Risk and dependency management",
+        "Predictive methods and adaptive approaches",
+        "Project governance, change management, risk monitoring and benefits measurement"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación y organización de proyectos",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de equipos y partes interesadas",
+          "type": "transferable"
+        },
+        {
+          "id": "Seguimiento de plazos, costes y entregables",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión de riesgos y cambios",
+          "type": "transferable"
+        },
+        {
+          "id": "Comunicación y facilitación",
+          "type": "transferable"
+        },
+        {
+          "id": "Evaluación y capitalización de resultados",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Ciclo de vida y gobernanza de proyectos",
+        "Planificación, estimación y seguimiento",
+        "Gestión de riesgos y dependencias",
+        "Métodos predictivos y enfoques adaptativos",
+        "Gobernanza de proyectos, gestión de cambios, seguimiento de riesgos y medición de beneficios"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; no equivalence of diploma, licence, certification or professional authorization is presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presume ninguna equivalencia de títulos, licencias, certificaciones ni autorizaciones profesionales.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.geologue",
+      "profile_version": "0.2",
+      "fr_title": "Géologue",
+      "en_title": "Geologist",
+      "purpose_fr": "Étudie les matériaux, structures, processus et l’histoire de la Terre à partir d’observations, d’échantillons, de mesures et de données scientifiques.",
+      "missions_fr": [
+        "Définir les objectifs d’une étude géologique et préparer les observations nécessaires.",
+        "Réaliser des observations et relevés de terrain dans le respect des règles de sécurité.",
+        "Décrire, échantillonner et documenter les matériaux selon un protocole adapté.",
+        "Analyser et interpréter des données géologiques et résultats de laboratoire.",
+        "Produire des cartes, modèles, notes ou rapports présentant les résultats et leurs limites.",
+        "Partager les conclusions avec les équipes techniques et les parties prenantes concernées."
+      ],
+      "skills": [
+        {
+          "id": "Observation et description géologique",
+          "type": "technical"
+        },
+        {
+          "id": "Collecte et documentation de données de terrain",
+          "type": "technical"
+        },
+        {
+          "id": "Interprétation de données et résultats analytiques",
+          "type": "technical"
+        },
+        {
+          "id": "Cartographie et représentation spatiale",
+          "type": "technical"
+        },
+        {
+          "id": "Rédaction de rapports scientifiques",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion des incertitudes et travail interdisciplinaire",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Minéralogie, pétrologie et géologie structurale",
+        "Processus géologiques et histoire de la Terre",
+        "Méthodes de terrain et d’échantillonnage",
+        "Principes de cartographie et d’analyse spatiale",
+        "Cartographie géologique, géomorphologie, interprétation des données de terrain et gestion des incertitudes"
+      ],
+      "work_context_fr": "Bureaux d’études, recherche, universités, services géologiques, secteurs minier, environnemental, énergétique et travaux d’infrastructure.",
+      "evidence": [
+        {
+          "source_id": "source.esco.about",
+          "use": "cadre_taxonomique_contextuel"
+        },
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "classification_occupationnelle_contextuelle"
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "référence_comparative_des_tâches_et_compétences"
+        }
+      ],
+      "mapping_note": "Les missions spécialisées et les responsabilités de terrain dépendent du domaine (ressources, risques, environnement, recherche) et des règles locales.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; aucune équivalence de diplôme, licence, certification ou autorisation professionnelle n’est présumée.",
+      "purpose_en": "Studies Earth materials, structures, processes and history through observations, samples, measurements and scientific data.",
+      "purpose_es": "Estudia los materiales, las estructuras, los procesos y la historia de la Tierra mediante observaciones, muestras, mediciones y datos científicos.",
+      "missions_en": [
+        "Define geological study objectives and prepare the required observations.",
+        "Carry out field observations and surveys in accordance with safety rules.",
+        "Describe, sample and document materials using an appropriate protocol.",
+        "Analyze and interpret geological data and laboratory results.",
+        "Produce maps, models, notes or reports that present findings and limitations.",
+        "Share conclusions with technical teams and relevant stakeholders."
+      ],
+      "missions_es": [
+        "Definir los objetivos del estudio geológico y preparar las observaciones necesarias.",
+        "Realizar observaciones y levantamientos de campo respetando las normas de seguridad.",
+        "Describir, tomar muestras y documentar materiales siguiendo un protocolo adecuado.",
+        "Analizar e interpretar datos geológicos y resultados de laboratorio.",
+        "Elaborar mapas, modelos, notas o informes que presenten los resultados y sus limitaciones.",
+        "Compartir las conclusiones con los equipos técnicos y las partes interesadas pertinentes."
+      ],
+      "work_context_en": "Consultancies, research organizations, universities, geological surveys, mining, environmental and energy sectors, and infrastructure projects.",
+      "work_context_es": "Consultoras, investigación, universidades, servicios geológicos, sectores minero, ambiental y energético y proyectos de infraestructura.",
+      "mapping_note_en": "Specialist duties and field responsibilities depend on the domain, such as resources, hazards, environment or research, and on local rules.",
+      "mapping_note_es": "Las tareas especializadas y las responsabilidades de campo dependen del ámbito —recursos, riesgos, medio ambiente o investigación— y de las normas locales.",
+      "skills_en": [
+        {
+          "id": "Geological observation and description",
+          "type": "technical"
+        },
+        {
+          "id": "Field-data collection and documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Interpretation of data and analytical results",
+          "type": "technical"
+        },
+        {
+          "id": "Mapping and spatial representation",
+          "type": "technical"
+        },
+        {
+          "id": "Scientific report writing",
+          "type": "transferable"
+        },
+        {
+          "id": "Managing uncertainty and interdisciplinary work",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Mineralogy, petrology and structural geology",
+        "Geological processes and Earth history",
+        "Field and sampling methods",
+        "Mapping and spatial-analysis principles",
+        "Geological mapping, geomorphology, field-data interpretation and uncertainty management"
+      ],
+      "skills_es": [
+        {
+          "id": "Observación y descripción geológica",
+          "type": "technical"
+        },
+        {
+          "id": "Recopilación y documentación de datos de campo",
+          "type": "technical"
+        },
+        {
+          "id": "Interpretación de datos y resultados analíticos",
+          "type": "technical"
+        },
+        {
+          "id": "Cartografía y representación espacial",
+          "type": "technical"
+        },
+        {
+          "id": "Redacción de informes científicos",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión de incertidumbres y trabajo interdisciplinar",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Mineralogía, petrología y geología estructural",
+        "Procesos geológicos e historia de la Tierra",
+        "Métodos de campo y muestreo",
+        "Principios de cartografía y análisis espacial",
+        "Cartografía geológica, geomorfología, interpretación de datos de campo y gestión de incertidumbres"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ]
+}

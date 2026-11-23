@@ -1,0 +1,485 @@
+[
+  {
+    "id": "culture-numerique",
+    "title": "Culture numérique et citoyenneté numérique",
+    "language": "fr",
+    "level": "beginner",
+    "status": "draft",
+    "estimated_hours": 5,
+    "learning_outcomes": [
+      "Identifier les composants essentiels d'un environnement numérique.",
+      "Évaluer la fiabilité d'une information à partir de plusieurs indices.",
+      "Adopter des pratiques responsables pour protéger ses données et son identité numérique."
+    ],
+    "modules": [
+      {
+        "id": "cn-m1",
+        "title": "Comprendre son environnement numérique",
+        "lessons": [
+          {
+            "id": "cn-l1",
+            "title": "Matériel, logiciel et système",
+            "objective": "Distinguer matériel, logiciel et système d'exploitation.",
+            "activity": "Classer des exemples fictifs dans les trois catégories.",
+            "assessment": "Expliquer la différence entre un navigateur et un système d'exploitation."
+          },
+          {
+            "id": "cn-l2",
+            "title": "Fichiers et organisation",
+            "objective": "Organiser des fichiers avec des noms clairs et des dossiers cohérents.",
+            "activity": "Proposer une arborescence pour un petit projet scolaire fictif.",
+            "assessment": "Retrouver trois documents dans une arborescence donnée."
+          }
+        ]
+      },
+      {
+        "id": "cn-m2",
+        "title": "Information et sécurité personnelle",
+        "lessons": [
+          {
+            "id": "cn-l3",
+            "title": "Vérifier une information",
+            "objective": "Comparer l'auteur, la date, la preuve et la source d'une information.",
+            "activity": "Analyser deux articles fictifs contradictoires et justifier lequel est mieux étayé.",
+            "assessment": "Repérer au moins trois indices de fiabilité ou de doute."
+          },
+          {
+            "id": "cn-l4",
+            "title": "Vie privée et identité numérique",
+            "objective": "Reconnaître les données personnelles et choisir des réglages prudents.",
+            "activity": "Examiner un profil fictif et proposer des réglages de confidentialité.",
+            "assessment": "Associer des situations fictives à une mesure de protection adaptée."
+          }
+        ]
+      }
+    ],
+    "translations": {
+      "en": {
+        "title": "Digital Literacy and Digital Citizenship",
+        "learning_outcomes": [
+          "Identify the essential components of a digital environment.",
+          "Assess the reliability of information using several indicators.",
+          "Adopt responsible practices to protect personal data and digital identity."
+        ],
+        "modules": [
+          {
+            "id": "cn-m1",
+            "title": "Understanding Your Digital Environment",
+            "lessons": [
+              {
+                "id": "cn-l1",
+                "title": "Hardware, Software, and Operating Systems",
+                "objective": "Distinguish hardware, software, and operating systems.",
+                "activity": "Sort fictional examples into the three categories.",
+                "assessment": "Explain the difference between a web browser and an operating system."
+              },
+              {
+                "id": "cn-l2",
+                "title": "Files and Organization",
+                "objective": "Organize files using clear names and consistent folders.",
+                "activity": "Propose a folder structure for a small fictional school project.",
+                "assessment": "Locate three documents in a given folder structure."
+              }
+            ]
+          },
+          {
+            "id": "cn-m2",
+            "title": "Information and Personal Security",
+            "lessons": [
+              {
+                "id": "cn-l3",
+                "title": "Checking Information",
+                "objective": "Compare the author, date, evidence, and source of a piece of information.",
+                "activity": "Analyze two fictional contradictory articles and explain which is better supported.",
+                "assessment": "Identify at least three indicators of reliability or doubt."
+              },
+              {
+                "id": "cn-l4",
+                "title": "Privacy and Digital Identity",
+                "objective": "Recognize personal data and choose cautious privacy settings.",
+                "activity": "Review a fictional profile and suggest privacy settings.",
+                "assessment": "Match fictional situations with an appropriate protective measure."
+              }
+            ]
+          }
+        ]
+      },
+      "es": {
+        "title": "Cultura digital y ciudadanía digital",
+        "learning_outcomes": [
+          "Identificar los componentes esenciales de un entorno digital.",
+          "Evaluar la fiabilidad de la información a partir de varios indicios.",
+          "Adoptar prácticas responsables para proteger los datos personales y la identidad digital."
+        ],
+        "modules": [
+          {
+            "id": "cn-m1",
+            "title": "Comprender el entorno digital",
+            "lessons": [
+              {
+                "id": "cn-l1",
+                "title": "Hardware, software y sistemas operativos",
+                "objective": "Distinguir el hardware, el software y los sistemas operativos.",
+                "activity": "Clasificar ejemplos ficticios en las tres categorías.",
+                "assessment": "Explicar la diferencia entre un navegador web y un sistema operativo."
+              },
+              {
+                "id": "cn-l2",
+                "title": "Archivos y organización",
+                "objective": "Organizar archivos con nombres claros y carpetas coherentes.",
+                "activity": "Proponer una estructura de carpetas para un pequeño proyecto escolar ficticio.",
+                "assessment": "Localizar tres documentos en una estructura de carpetas determinada."
+              }
+            ]
+          },
+          {
+            "id": "cn-m2",
+            "title": "Información y seguridad personal",
+            "lessons": [
+              {
+                "id": "cn-l3",
+                "title": "Verificar la información",
+                "objective": "Comparar el autor, la fecha, las pruebas y la fuente de una información.",
+                "activity": "Analizar dos artículos ficticios contradictorios y justificar cuál está mejor fundamentado.",
+                "assessment": "Identificar al menos tres indicios de fiabilidad o de duda."
+              },
+              {
+                "id": "cn-l4",
+                "title": "Privacidad e identidad digital",
+                "objective": "Reconocer los datos personales y elegir ajustes de privacidad prudentes.",
+                "activity": "Examinar un perfil ficticio y proponer ajustes de privacidad.",
+                "assessment": "Relacionar situaciones ficticias con una medida de protección adecuada."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "translation_status": {
+      "en": "machine_draft_needs_human_review",
+      "es": "machine_draft_needs_human_review"
+    }
+  },
+  {
+    "id": "programmation-logique",
+    "title": "Programmation : logique et bases",
+    "language": "fr",
+    "level": "beginner",
+    "status": "draft",
+    "estimated_hours": 8,
+    "learning_outcomes": [
+      "Décomposer un problème simple en étapes ordonnées.",
+      "Utiliser variables, conditions et répétitions dans des exemples pédagogiques.",
+      "Lire et expliquer un petit programme sans dépendre d'un langage particulier."
+    ],
+    "modules": [
+      {
+        "id": "prog-m1",
+        "title": "Penser comme un programmeur",
+        "lessons": [
+          {
+            "id": "prog-l1",
+            "title": "Algorithmes du quotidien",
+            "objective": "Décrire une procédure sous forme d'étapes précises.",
+            "activity": "Écrire un algorithme pour organiser un sac d'école en respectant des contraintes.",
+            "assessment": "Remettre en ordre des étapes et détecter une instruction ambiguë."
+          },
+          {
+            "id": "prog-l2",
+            "title": "Variables et données",
+            "objective": "Expliquer une variable comme un nom associé à une valeur.",
+            "activity": "Suivre l'évolution de variables dans un pseudo-code fictif.",
+            "assessment": "Prédire les valeurs finales de trois variables."
+          }
+        ]
+      },
+      {
+        "id": "prog-m2",
+        "title": "Contrôler le déroulement",
+        "lessons": [
+          {
+            "id": "prog-l3",
+            "title": "Conditions",
+            "objective": "Choisir une action selon une condition vraie ou fausse.",
+            "activity": "Construire un arbre de décision pour un scénario scolaire fictif.",
+            "assessment": "Compléter des branches SI / SINON."
+          },
+          {
+            "id": "prog-l4",
+            "title": "Répétitions et débogage",
+            "objective": "Identifier une répétition et repérer une erreur logique simple.",
+            "activity": "Corriger un pseudo-code qui compte incorrectement des éléments.",
+            "assessment": "Expliquer la correction et donner un cas de test."
+          }
+        ]
+      }
+    ],
+    "translations": {
+      "en": {
+        "title": "Programming: Logic and Fundamentals",
+        "learning_outcomes": [
+          "Break a simple problem into ordered steps.",
+          "Use variables, conditions, and loops in learning examples.",
+          "Read and explain a small program without relying on a specific programming language."
+        ],
+        "modules": [
+          {
+            "id": "prog-m1",
+            "title": "Thinking Like a Programmer",
+            "lessons": [
+              {
+                "id": "prog-l1",
+                "title": "Everyday Algorithms",
+                "objective": "Describe a procedure as a sequence of precise steps.",
+                "activity": "Write an algorithm for packing a school bag while meeting given constraints.",
+                "assessment": "Put steps in the correct order and identify an ambiguous instruction."
+              },
+              {
+                "id": "prog-l2",
+                "title": "Variables and Data",
+                "objective": "Explain a variable as a name associated with a value.",
+                "activity": "Track how variables change in fictional pseudocode.",
+                "assessment": "Predict the final values of three variables."
+              }
+            ]
+          },
+          {
+            "id": "prog-m2",
+            "title": "Controlling Program Flow",
+            "lessons": [
+              {
+                "id": "prog-l3",
+                "title": "Conditions",
+                "objective": "Choose an action based on whether a condition is true or false.",
+                "activity": "Build a decision tree for a fictional school scenario.",
+                "assessment": "Complete IF / ELSE branches."
+              },
+              {
+                "id": "prog-l4",
+                "title": "Loops and Debugging",
+                "objective": "Identify a loop and detect a simple logic error.",
+                "activity": "Correct pseudocode that counts items incorrectly.",
+                "assessment": "Explain the correction and provide a test case."
+              }
+            ]
+          }
+        ]
+      },
+      "es": {
+        "title": "Programación: lógica y fundamentos",
+        "learning_outcomes": [
+          "Descomponer un problema sencillo en pasos ordenados.",
+          "Utilizar variables, condiciones y repeticiones en ejemplos didácticos.",
+          "Leer y explicar un programa breve sin depender de un lenguaje concreto."
+        ],
+        "modules": [
+          {
+            "id": "prog-m1",
+            "title": "Pensar como un programador",
+            "lessons": [
+              {
+                "id": "prog-l1",
+                "title": "Algoritmos cotidianos",
+                "objective": "Describir un procedimiento mediante pasos precisos.",
+                "activity": "Escribir un algoritmo para preparar una mochila escolar respetando ciertas condiciones.",
+                "assessment": "Ordenar una serie de pasos y detectar una instrucción ambigua."
+              },
+              {
+                "id": "prog-l2",
+                "title": "Variables y datos",
+                "objective": "Explicar una variable como un nombre asociado a un valor.",
+                "activity": "Seguir la evolución de variables en un pseudocódigo ficticio.",
+                "assessment": "Predecir los valores finales de tres variables."
+              }
+            ]
+          },
+          {
+            "id": "prog-m2",
+            "title": "Controlar el flujo del programa",
+            "lessons": [
+              {
+                "id": "prog-l3",
+                "title": "Condiciones",
+                "objective": "Elegir una acción según una condición verdadera o falsa.",
+                "activity": "Construir un árbol de decisión para una situación escolar ficticia.",
+                "assessment": "Completar ramas SI / ENTONCES / SI NO."
+              },
+              {
+                "id": "prog-l4",
+                "title": "Repeticiones y depuración",
+                "objective": "Identificar una repetición y detectar un error lógico sencillo.",
+                "activity": "Corregir un pseudocódigo que cuenta elementos de forma incorrecta.",
+                "assessment": "Explicar la corrección y proponer un caso de prueba."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "translation_status": {
+      "en": "machine_draft_needs_human_review",
+      "es": "machine_draft_needs_human_review"
+    }
+  },
+  {
+    "id": "cybersecurite-defensive",
+    "title": "Cybersécurité défensive : principes et bonnes pratiques",
+    "language": "fr",
+    "level": "beginner",
+    "status": "draft",
+    "estimated_hours": 7,
+    "learning_outcomes": [
+      "Expliquer les objectifs de confidentialité, intégrité et disponibilité.",
+      "Reconnaître des risques courants et proposer des mesures de prévention.",
+      "Décrire les limites d'une intervention autorisée et responsable en cybersécurité."
+    ],
+    "modules": [
+      {
+        "id": "cyber-m1",
+        "title": "Fondamentaux de la sécurité",
+        "lessons": [
+          {
+            "id": "cyber-l1",
+            "title": "Confidentialité, intégrité et disponibilité",
+            "objective": "Expliquer les trois objectifs fondamentaux de la sécurité de l'information.",
+            "activity": "Associer des incidents fictifs à l'objectif de sécurité concerné.",
+            "assessment": "Choisir une mesure de protection adaptée à chaque scénario."
+          },
+          {
+            "id": "cyber-l2",
+            "title": "Comptes et authentification",
+            "objective": "Identifier des pratiques de protection des comptes et de récupération sûre.",
+            "activity": "Évaluer une politique de compte fictive et proposer des améliorations sans manipuler de vrais comptes.",
+            "assessment": "Justifier l'intérêt de l'authentification multifacteur et d'un gestionnaire de mots de passe."
+          }
+        ]
+      },
+      {
+        "id": "cyber-m2",
+        "title": "Prévention et responsabilité",
+        "lessons": [
+          {
+            "id": "cyber-l3",
+            "title": "Reconnaître les messages suspects",
+            "objective": "Repérer les signes d'une tentative de tromperie numérique.",
+            "activity": "Classer des messages entièrement fictifs selon leur niveau de risque.",
+            "assessment": "Identifier les indices suspects et choisir une réponse prudente."
+          },
+          {
+            "id": "cyber-l4",
+            "title": "Autorisation et signalement",
+            "objective": "Distinguer apprentissage autorisé, test encadré et accès non autorisé.",
+            "activity": "Analyser des situations fictives et décider si une autorisation explicite existe.",
+            "assessment": "Expliquer pourquoi tout test doit rester dans un périmètre autorisé et isolé."
+          }
+        ]
+      }
+    ],
+    "translations": {
+      "en": {
+        "title": "Defensive Cybersecurity: Principles and Good Practices",
+        "learning_outcomes": [
+          "Explain the goals of confidentiality, integrity, and availability.",
+          "Recognize common risks and suggest preventive measures.",
+          "Describe the boundaries of authorized and responsible cybersecurity work."
+        ],
+        "modules": [
+          {
+            "id": "cyber-m1",
+            "title": "Security Fundamentals",
+            "lessons": [
+              {
+                "id": "cyber-l1",
+                "title": "Confidentiality, Integrity, and Availability",
+                "objective": "Explain the three core goals of information security.",
+                "activity": "Match fictional incidents with the security goal concerned.",
+                "assessment": "Choose an appropriate protective measure for each scenario."
+              },
+              {
+                "id": "cyber-l2",
+                "title": "Accounts and Authentication",
+                "objective": "Identify practices for protecting accounts and recovering access safely.",
+                "activity": "Review a fictional account policy and suggest improvements without interacting with real accounts.",
+                "assessment": "Explain the value of multi-factor authentication and a password manager."
+              }
+            ]
+          },
+          {
+            "id": "cyber-m2",
+            "title": "Prevention and Responsibility",
+            "lessons": [
+              {
+                "id": "cyber-l3",
+                "title": "Recognizing Suspicious Messages",
+                "objective": "Identify signs of digital deception attempts.",
+                "activity": "Classify entirely fictional messages by their level of risk.",
+                "assessment": "Identify suspicious indicators and choose a cautious response."
+              },
+              {
+                "id": "cyber-l4",
+                "title": "Authorization and Reporting",
+                "objective": "Distinguish authorized learning, supervised testing, and unauthorized access.",
+                "activity": "Analyze fictional situations and decide whether explicit authorization exists.",
+                "assessment": "Explain why every test must remain within an authorized and isolated scope."
+              }
+            ]
+          }
+        ]
+      },
+      "es": {
+        "title": "Ciberseguridad defensiva: principios y buenas prácticas",
+        "learning_outcomes": [
+          "Explicar los objetivos de confidencialidad, integridad y disponibilidad.",
+          "Reconocer riesgos habituales y proponer medidas preventivas.",
+          "Describir los límites de una intervención autorizada y responsable en ciberseguridad."
+        ],
+        "modules": [
+          {
+            "id": "cyber-m1",
+            "title": "Fundamentos de seguridad",
+            "lessons": [
+              {
+                "id": "cyber-l1",
+                "title": "Confidencialidad, integridad y disponibilidad",
+                "objective": "Explicar los tres objetivos fundamentales de la seguridad de la información.",
+                "activity": "Relacionar incidentes ficticios con el objetivo de seguridad correspondiente.",
+                "assessment": "Elegir una medida de protección adecuada para cada escenario."
+              },
+              {
+                "id": "cyber-l2",
+                "title": "Cuentas y autenticación",
+                "objective": "Identificar prácticas para proteger cuentas y recuperar el acceso de forma segura.",
+                "activity": "Evaluar una política de cuentas ficticia y proponer mejoras sin manipular cuentas reales.",
+                "assessment": "Justificar la utilidad de la autenticación multifactor y de un gestor de contraseñas."
+              }
+            ]
+          },
+          {
+            "id": "cyber-m2",
+            "title": "Prevención y responsabilidad",
+            "lessons": [
+              {
+                "id": "cyber-l3",
+                "title": "Reconocer mensajes sospechosos",
+                "objective": "Detectar señales de intentos de engaño digital.",
+                "activity": "Clasificar mensajes completamente ficticios según su nivel de riesgo.",
+                "assessment": "Identificar indicios sospechosos y elegir una respuesta prudente."
+              },
+              {
+                "id": "cyber-l4",
+                "title": "Autorización y notificación",
+                "objective": "Distinguir el aprendizaje autorizado, las pruebas supervisadas y el acceso no autorizado.",
+                "activity": "Analizar situaciones ficticias y decidir si existe una autorización explícita.",
+                "assessment": "Explicar por qué toda prueba debe mantenerse dentro de un alcance autorizado y aislado."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "translation_status": {
+      "en": "machine_draft_needs_human_review",
+      "es": "machine_draft_needs_human_review"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "version": "4.0",
+  "checked_date": "2026-11-22",
+  "sources": [
+    {
+      "source_id": "edu.unesco.isced2011",
+      "title": "UNESCO Institute for Statistics — ISCED",
+      "url": "https://www.uis.unesco.org/en/methods-and-tools/isced",
+      "jurisdiction": "International",
+      "checked_date": "2026-11-22",
+      "use_note": "International comparability framework for education programmes and qualifications; not a national credential register."
+    },
+    {
+      "source_id": "edu.unesco.unevoc.benin",
+      "title": "UNESCO-UNEVOC — Benin TVET country profile",
+      "url": "https://connect.unevoc.unesco.org/home/Profils%2Bnationaux%2Bd%60EFTP%2Bdynamiques/country%3DBEN%26lang%3Dfr",
+      "jurisdiction": "Benin",
+      "checked_date": "2026-11-22",
+      "use_note": "Country TVET structure and apprenticeship context; notes no NQF at time of profile."
+    },
+    {
+      "source_id": "edu.benin.tvet.2022",
+      "title": "Benin — framework law on technical and vocational education and training (Law No. 2022-01; secondary source profile)",
+      "url": "https://www.inter-reseaux.org/wp-content/uploads/Benin-LMP-2025-final.pdf",
+      "jurisdiction": "Benin",
+      "checked_date": "2026-11-22",
+      "use_note": "Context on Benin TVET law and system; verify the law text and current implementing decrees before legal claims."
+    },
+    {
+      "source_id": "edu.us.onet.jobzones",
+      "title": "O*NET OnLine — Job Zones",
+      "url": "https://www.onetonline.org/find/zone?z=0",
+      "jurisdiction": "USA",
+      "checked_date": "2026-11-22",
+      "use_note": "Preparation/experience framework; not state licensing guidance."
+    },
+    {
+      "source_id": "edu.ca.jobbank.profiles",
+      "title": "Government of Canada Job Bank — Explore careers",
+      "url": "https://www.jobbank.gc.ca/marketreport/requirements",
+      "jurisdiction": "Canada",
+      "checked_date": "2026-11-22",
+      "use_note": "Occupation requirements lookup; occupation/NOC match and provincial regulation still required."
+    },
+    {
+      "source_id": "edu.fr.francecompetences.rncp",
+      "title": "France compétences — Vérifier la reconnaissance officielle d’un diplôme",
+      "url": "https://www.francecompetences.fr/fiche/comment-verifier-la-reconnaissance-officielle-de-votre-diplome/",
+      "jurisdiction": "France",
+      "checked_date": "2026-11-22",
+      "use_note": "RNCP/RS recognition and active certification checks; not a universal requirement for all jobs."
+    },
+    {
+      "source_id": "edu.uk.nationalcareers",
+      "title": "UK National Careers Service — Explore careers",
+      "url": "https://nationalcareers.service.gov.uk/explore-careers",
+      "jurisdiction": "United Kingdom",
+      "checked_date": "2026-11-22",
+      "use_note": "Career profiles provide qualifications, pay and progression information; check regulators for protected titles."
+    }
+  ]
+}

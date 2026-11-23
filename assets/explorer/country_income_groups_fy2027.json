@@ -1,0 +1,1759 @@
+{
+  "version": "1.0",
+  "checked_date": "2026-11-22",
+  "source": "World Bank Country and Lending Groups, FY2027; GNI per capita thresholds based on 2025 Atlas method",
+  "source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+  "records": [
+    {
+      "country_name": "Afghanistan",
+      "country_code": "AF",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "AL",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Algeria",
+      "country_code": "DZ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "American Samoa",
+      "country_code": "AS",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Andorra",
+      "country_code": "AD",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Angola",
+      "country_code": "AO",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Antigua and Barbuda",
+      "country_code": "AG",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Argentina",
+      "country_code": "AR",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Armenia",
+      "country_code": "AM",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Aruba",
+      "country_code": "AW",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Australia",
+      "country_code": "AU",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AT",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Azerbaijan",
+      "country_code": "AZ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bahamas, The",
+      "country_code": "BS",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bahrain",
+      "country_code": "BH",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bangladesh",
+      "country_code": "BD",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Barbados",
+      "country_code": "BB",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Belarus",
+      "country_code": "BY",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Belize",
+      "country_code": "BZ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Benin",
+      "country_code": "BJ",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bermuda",
+      "country_code": "BM",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bhutan",
+      "country_code": "BT",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bolivia",
+      "country_code": "BO",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BA",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Botswana",
+      "country_code": "BW",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Brazil",
+      "country_code": "BR",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "British Virgin Islands",
+      "country_code": "VG",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Brunei Darussalam",
+      "country_code": "BN",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BG",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Burkina Faso",
+      "country_code": "BF",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Burundi",
+      "country_code": "BI",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Cabo Verde",
+      "country_code": "CV",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Cambodia",
+      "country_code": "KH",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Cameroon",
+      "country_code": "CM",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Canada",
+      "country_code": "CA",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Cayman Islands",
+      "country_code": "KY",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Central African Republic",
+      "country_code": "CF",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Chad",
+      "country_code": "TD",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Channel Islands",
+      "country_code": "JE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Chile",
+      "country_code": "CL",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "China",
+      "country_code": "CN",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Colombia",
+      "country_code": "CO",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Comoros",
+      "country_code": "KM",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Congo, Dem. Rep",
+      "country_code": "CD",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Congo, Rep.",
+      "country_code": "CG",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Costa Rica",
+      "country_code": "CR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Cuba",
+      "country_code": "CU",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Curaçao",
+      "country_code": "CW",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CY",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Czechia",
+      "country_code": "CZ",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Côte d'Ivoire",
+      "country_code": "CI",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DK",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Djibouti",
+      "country_code": "DJ",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Dominica",
+      "country_code": "DM",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Dominican Republic",
+      "country_code": "DO",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Ecuador",
+      "country_code": "EC",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Egypt, Arab Rep.",
+      "country_code": "EG",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "El Salvador",
+      "country_code": "SV",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Equatorial Guinea",
+      "country_code": "GQ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Eritrea",
+      "country_code": "ER",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Eswatini",
+      "country_code": "SZ",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Ethiopia",
+      "country_code": "ET",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Faroe Islands",
+      "country_code": "FO",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Fiji",
+      "country_code": "FJ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FI",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "France",
+      "country_code": "FR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "French Polynesia",
+      "country_code": "PF",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Gabon",
+      "country_code": "GA",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Gambia, The",
+      "country_code": "GM",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Georgia",
+      "country_code": "GE",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Ghana",
+      "country_code": "GH",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Gibraltar",
+      "country_code": "GI",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Greenland",
+      "country_code": "GL",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Grenada",
+      "country_code": "GD",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Guam",
+      "country_code": "GU",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Guatemala",
+      "country_code": "GT",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Guinea",
+      "country_code": "GN",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Guinea-Bissau",
+      "country_code": "GW",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Guyana",
+      "country_code": "GY",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HT",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Honduras",
+      "country_code": "HN",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Hong Kong SAR, China",
+      "country_code": "HK",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HU",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "IS",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "India",
+      "country_code": "IN",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Indonesia",
+      "country_code": "ID",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Iran, Islamic Rep.",
+      "country_code": "IR",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Iraq",
+      "country_code": "IQ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Isle of Man",
+      "country_code": "IM",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Israel",
+      "country_code": "IL",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "IT",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Jamaica",
+      "country_code": "JM",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Japan",
+      "country_code": "JP",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Jordan",
+      "country_code": "JO",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Kazakhstan",
+      "country_code": "KZ",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Kenya",
+      "country_code": "KE",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Kiribati",
+      "country_code": "KI",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Korea, Dem. People's Republic",
+      "country_code": "KP",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Korea, Rep.",
+      "country_code": "KR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Kosovo",
+      "country_code": "XK",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": "World Bank economy code represented with XK extension; not ISO 3166-1 official assignment."
+    },
+    {
+      "country_name": "Kuwait",
+      "country_code": "KW",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Kyrgyz Republic",
+      "country_code": "KG",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Lao PDR",
+      "country_code": "LA",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LV",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Lebanon",
+      "country_code": "LB",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Lesotho",
+      "country_code": "LS",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Liberia",
+      "country_code": "LR",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Libya",
+      "country_code": "LY",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Liechtenstein",
+      "country_code": "LI",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LT",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LU",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Macao SAR, China",
+      "country_code": "MO",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Madagascar",
+      "country_code": "MG",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Malawi",
+      "country_code": "MW",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Malaysia",
+      "country_code": "MY",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Maldives",
+      "country_code": "MV",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Mali",
+      "country_code": "ML",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Malta",
+      "country_code": "MT",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Marshall Islands",
+      "country_code": "MH",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Mauritania",
+      "country_code": "MR",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Mauritius",
+      "country_code": "MU",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Mexico",
+      "country_code": "MX",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Micronesia, Fed. Sts.",
+      "country_code": "FM",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Moldova",
+      "country_code": "MD",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Monaco",
+      "country_code": "MC",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Mongolia",
+      "country_code": "MN",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "ME",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Morocco",
+      "country_code": "MA",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Mozambique",
+      "country_code": "MZ",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Myanmar",
+      "country_code": "MM",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Namibia",
+      "country_code": "NA",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Nauru",
+      "country_code": "NR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Nepal",
+      "country_code": "NP",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NL",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "New Caledonia",
+      "country_code": "NC",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "New Zealand",
+      "country_code": "NZ",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Nicaragua",
+      "country_code": "NI",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Niger",
+      "country_code": "NE",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Nigeria",
+      "country_code": "NG",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MK",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Northern Mariana Islands",
+      "country_code": "MP",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NO",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Oman",
+      "country_code": "OM",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Pakistan",
+      "country_code": "PK",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Palau",
+      "country_code": "PW",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Panama",
+      "country_code": "PA",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Papua New Guinea",
+      "country_code": "PG",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Paraguay",
+      "country_code": "PY",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Peru",
+      "country_code": "PE",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Philippines",
+      "country_code": "PH",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "PL",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PT",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Puerto Rico",
+      "country_code": "PR",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Qatar",
+      "country_code": "QA",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "RO",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Russian Federation",
+      "country_code": "RU",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Rwanda",
+      "country_code": "RW",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Samoa",
+      "country_code": "WS",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "San Marino",
+      "country_code": "SM",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Saudi Arabia",
+      "country_code": "SA",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Senegal",
+      "country_code": "SN",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "RS",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Seychelles",
+      "country_code": "SC",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Sierra Leone",
+      "country_code": "SL",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Singapore",
+      "country_code": "SG",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Sint Maarten (Dutch part)",
+      "country_code": "SX",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Slovak Republic",
+      "country_code": "SK",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Solomon Islands",
+      "country_code": "SB",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Somalia",
+      "country_code": "SO",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "South Africa",
+      "country_code": "ZA",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "South Sudan",
+      "country_code": "SS",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ES",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Sri Lanka",
+      "country_code": "LK",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "St. Kitts and Nevis",
+      "country_code": "KN",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "St. Lucia",
+      "country_code": "LC",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "St. Martin (French part)",
+      "country_code": "MF",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "St. Vincent and the Grenadines",
+      "country_code": "VC",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Sudan",
+      "country_code": "SD",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Suriname",
+      "country_code": "SR",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CH",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Syrian Arab Republic",
+      "country_code": "SY",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "São Tomé and Principe",
+      "country_code": "ST",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Taiwan, China",
+      "country_code": "TW",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Tajikistan",
+      "country_code": "TJ",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Tanzania",
+      "country_code": "TZ",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Thailand",
+      "country_code": "TH",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Timor-Leste",
+      "country_code": "TL",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Togo",
+      "country_code": "TG",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Tonga",
+      "country_code": "TO",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Trinidad and Tobago",
+      "country_code": "TT",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Tunisia",
+      "country_code": "TN",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Turkmenistan",
+      "country_code": "TM",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Turks and Caicos Islands",
+      "country_code": "TC",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Tuvalu",
+      "country_code": "TV",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Türkiye",
+      "country_code": "TR",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Uganda",
+      "country_code": "UG",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Ukraine",
+      "country_code": "UA",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "United Arab Emirates",
+      "country_code": "AE",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "United Kingdom",
+      "country_code": "GB",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Uruguay",
+      "country_code": "UY",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Uzbekistan",
+      "country_code": "UZ",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Vanuatu",
+      "country_code": "VU",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Venezuela",
+      "country_code": "VE",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Vietnam",
+      "country_code": "VN",
+      "world_bank_income_group_fy2027": "upper_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Virgin Islands (U.S.)",
+      "country_code": "VI",
+      "world_bank_income_group_fy2027": "high",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "West Bank and Gaza",
+      "country_code": "PS",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Yemen, Rep.",
+      "country_code": "YE",
+      "world_bank_income_group_fy2027": "low",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Zambia",
+      "country_code": "ZM",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    },
+    {
+      "country_name": "Zimbabwe",
+      "country_code": "ZW",
+      "world_bank_income_group_fy2027": "lower_middle",
+      "classification_source_url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country",
+      "classification_checked_date": "2026-11-22",
+      "code_note": null
+    }
+  ],
+  "model_factors": {
+    "low": 0.02,
+    "lower_middle": 0.045,
+    "upper_middle": 0.14,
+    "high": 0.62
+  },
+  "important_limitation": "Income groups are used only as scenario inputs for modeled salary estimates; they are not wage statistics."
+}

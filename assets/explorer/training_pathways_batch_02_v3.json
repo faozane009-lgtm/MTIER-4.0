@@ -1,0 +1,137 @@
+{
+  "version": "3.0",
+  "checked_date": "2026-11-22",
+  "record_count": 10,
+  "pathways": [
+    {
+      "occupation_id": "occupation.cyber.analyste-grc",
+      "pathway_fr": "Formation en informatique, systèmes d’information, gestion, droit ou audit → bases de gouvernance et gestion des risques → apprentissage des contrôles, politiques et référentiels → expérience supervisée en conformité/audit/risques.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Le cadre ENISA décrit les rôles de conformité et de gestion des risques, sans imposer de diplôme mondial."
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-soc",
+      "pathway_fr": "Formation IT/réseaux/systèmes → fondamentaux de cybersécurité et surveillance → apprentissage encadré de la qualification d’alertes, des journaux et de la documentation d’incidents → expérience supervisée en équipe SOC/CSIRT.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Le rôle SOC peut recouper l’Incident Responder ECSF sans être automatiquement identique."
+    },
+    {
+      "occupation_id": "occupation.cyber.pentester-ethique",
+      "pathway_fr": "Formation en informatique, développement ou réseaux → fondamentaux de sécurité et d’évaluation des systèmes → apprentissage de l’éthique, du droit et des règles d’autorisation → pratique uniquement en environnements pédagogiques explicitement autorisés et supervisés → rédaction de rapports.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Voie indicative; toute évaluation doit être autorisée et supervisée. Aucun diplôme ni certificat n’est une exigence universelle."
+    },
+    {
+      "occupation_id": "occupation.cyber.reponse-incidents",
+      "pathway_fr": "Formation IT/systèmes/réseaux → bases de défense et gestion des incidents → apprentissage des processus de réponse, documentation et coordination → exercices supervisés et expérience en équipe de réponse.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Correspondance exacte ESCO–ECSF pour le concept Cyber incident responder; les prérequis varient selon les pays et employeurs."
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-iam",
+      "pathway_fr": "Formation systèmes d’information, informatique ou ingénierie → annuaires, authentification et gestion des identités → gouvernance des accès et intégration des applications → projets IAM encadrés et expérience d’exploitation.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Aucun rôle IAM distinct n’est confirmé dans le crosswalk ENISA–ESCO consulté."
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-cloud",
+      "pathway_fr": "Formation cloud, systèmes, réseaux ou informatique → architecture et opérations cloud → identité, configuration sécurisée, protection des données et gestion des risques → expérience supervisée sur plateformes cloud.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Correspondance partielle possible avec Cybersecurity Architect/Implementer; aucune équivalence exacte pour cet intitulé."
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-appsec",
+      "pathway_fr": "Formation développement logiciel ou informatique → cycle de vie logiciel et architecture → principes de conception sécurisée, assurance qualité et gestion des risques applicatifs → expérience encadrée en équipe de développement.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Correspondance partielle avec ECSF Architect/Implementer; aucune équivalence exacte AppSec dans le crosswalk consulté."
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-reseaux",
+      "pathway_fr": "Formation réseaux et systèmes → architecture réseau et exploitation → contrôles de sécurité, segmentation, surveillance et gestion des risques → projets et expérience supervisés.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Correspondance partielle avec ICT network architect / ECSF Cybersecurity Architect; pas d’équivalence exacte."
+    },
+    {
+      "occupation_id": "occupation.cyber.coordinateur-reponse-incident",
+      "pathway_fr": "Expérience préalable en informatique, sécurité ou continuité d’activité → formation en coordination de crise, communication et gouvernance d’incident → exercices supervisés → expérience de pilotage transverse.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Fonction de coordination pouvant être un rôle interne plutôt qu’une profession autonome; validation par des experts et offres d’emploi nécessaire."
+    },
+    {
+      "occupation_id": "occupation.cyber.specialiste-iam",
+      "pathway_fr": "Formation ou expérience en administration IT/systèmes → gestion des identités et des comptes → cycle de vie des accès, revues et contrôles → expérience supervisée dans une équipe IAM ou support sécurité.",
+      "status": "documented_as_role_based_learning_route",
+      "source_ids": [
+        "src.enisa.ecsf.roleprofiles.v2022",
+        "source.nist.nice",
+        "source.nist.nice.components-v2.2.0"
+      ],
+      "country_scope": "global_role_based_route",
+      "country_validation_required": true,
+      "notes_fr": "Le périmètre opérationnel IAM ne correspond pas à un profil ECSF/ESCO autonome dans le crosswalk consulté."
+    }
+  ]
+}

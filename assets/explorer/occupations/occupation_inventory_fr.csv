@@ -1,0 +1,116 @@
+﻿id,titre_fr,domaine_id,famille_id,statut,nombre_taches,nombre_competences,nombre_sources
+occupation.agri.agriculteur,Agriculteur / Agricultrice,domain.agri,family.agri.01,draft,3,3,0
+occupation.agri.technicien-elevage,Technicien / Technicienne d’élevage,domain.agri,family.agri.02,draft,3,3,0
+occupation.env.charge-biodiversite,Chargé / Chargée de biodiversité,domain.env,family.env.01,draft,3,3,0
+occupation.env.technicien-eau-assainissement,Technicien / Technicienne eau et assainissement,domain.env,family.env.03,draft,3,3,0
+occupation.health.medecin-generaliste,Médecin généraliste,domain.health,family.health.01,draft,3,3,0
+occupation.health.infirmier,Infirmier / Infirmière,domain.health,family.health.02,draft,3,3,0
+occupation.social.assistant-social,Assistant social / Assistante sociale,domain.social,family.social.01,draft,3,3,0
+occupation.social.conseiller-insertion,Conseiller / Conseillère en insertion professionnelle,domain.social,family.social.03,draft,3,3,0
+occupation.edu.enseignant-primaire,Enseignant / Enseignante du primaire,domain.edu,family.edu.01,draft,3,3,0
+occupation.edu.formateur-professionnel,Formateur / Formatrice professionnel(le),domain.edu,family.edu.04,draft,3,3,0
+occupation.sci.biologiste,Biologiste,domain.sci,family.sci.01,draft,3,3,0
+occupation.sci.technicien-laboratoire,Technicien / Technicienne de laboratoire,domain.sci,family.sci.04,draft,3,3,0
+occupation.it.developpeur-logiciel,Développeur / Développeuse logiciel,domain.it,family.it.01,draft,3,3,0
+occupation.it.developpeur-mobile,Développeur / Développeuse mobile,domain.it,family.it.02,draft,3,3,0
+occupation.cyber.analyste-grc,Analyste gouvernance risques conformité,domain.cyber,family.cyber.01,draft,3,3,0
+occupation.cyber.analyste-soc,Analyste SOC,domain.cyber,family.cyber.02,draft,3,3,0
+occupation.cyber.pentester-ethique,Testeur / Testeuse d’intrusion éthique,domain.cyber,family.cyber.07,draft,3,3,0
+occupation.cyber.reponse-incidents,Spécialiste réponse aux incidents,domain.cyber,family.cyber.09,draft,3,3,0
+occupation.cyber.ingenieur-iam,Ingénieur / Ingénieure gestion des identités et accès,domain.cyber,family.cyber.11,draft,3,3,0
+occupation.cyber.ingenieur-securite-cloud,Ingénieur / Ingénieure sécurité cloud,domain.cyber,family.cyber.05,draft,3,3,0
+occupation.cyber.ingenieur-appsec,Ingénieur / Ingénieure sécurité applicative,domain.cyber,family.cyber.06,draft,3,3,0
+occupation.data.analyste-donnees,Analyste de données,domain.data,family.data.01,draft,3,3,0
+occupation.data.ingenieur-donnees,Ingénieur / Ingénieure données,domain.data,family.data.02,draft,3,3,0
+occupation.eng.ingenieur-mecanique,Ingénieur / Ingénieure mécanique,domain.eng,family.eng.01,draft,3,3,0
+occupation.eng.technicien-automatisme,Technicien / Technicienne en automatisme,domain.eng,family.eng.04,draft,3,3,0
+occupation.constr.architecte,Architecte,domain.constr,family.constr.01,draft,3,3,0
+occupation.constr.ingenieur-genie-civil,Ingénieur / Ingénieure génie civil,domain.constr,family.constr.02,draft,3,3,0
+occupation.energy.technicien-solaire,Technicien / Technicienne solaire photovoltaïque,domain.energy,family.energy.03,draft,3,3,0
+occupation.energy.ingenieur-energie,Ingénieur / Ingénieure énergie,domain.energy,family.energy.01,draft,3,3,0
+occupation.manuf.operateur-production,Opérateur / Opératrice de production,domain.manuf,family.manuf.01,draft,3,3,0
+occupation.manuf.technicien-maintenance-industrielle,Technicien / Technicienne de maintenance industrielle,domain.manuf,family.manuf.03,draft,3,3,0
+occupation.transport.agent-logistique,Agent / Agente logistique,domain.transport,family.transport.05,draft,3,3,0
+occupation.transport.responsable-approvisionnement,Responsable approvisionnement,domain.transport,family.transport.07,draft,3,3,0
+occupation.auto.mecanicien-automobile,Mécanicien / Mécanicienne automobile,domain.auto,family.auto.01,draft,3,3,0
+occupation.auto.technicien-vehicules-electriques,Technicien / Technicienne véhicules électriques,domain.auto,family.auto.04,draft,3,3,0
+occupation.fin.comptable,Comptable,domain.fin,family.fin.01,draft,3,3,0
+occupation.fin.auditeur-financier,Auditeur / Auditrice financier(ère),domain.fin,family.fin.02,draft,3,3,0
+occupation.bus.commercial,Commercial / Commerciale,domain.bus,family.bus.01,draft,3,3,0
+occupation.bus.conseiller-clientele,Conseiller / Conseillère clientèle,domain.bus,family.bus.05,draft,3,3,0
+occupation.mgmt.chef-projet,Chef / Cheffe de projet,domain.mgmt,family.mgmt.02,draft,3,3,0
+occupation.mgmt.charge-ressources-humaines,Chargé / Chargée des ressources humaines,domain.mgmt,family.mgmt.03,draft,3,3,0
+occupation.law.juriste-entreprise,Juriste d’entreprise,domain.law,family.law.01,draft,3,3,0
+occupation.law.agent-administration-publique,Agent / Agente d’administration publique,domain.law,family.law.06,draft,3,3,0
+occupation.media.journaliste,Journaliste,domain.media,family.media.01,draft,3,3,0
+occupation.media.redacteur-contenu,Rédacteur / Rédactrice de contenu,domain.media,family.media.04,draft,3,3,0
+occupation.art.designer-graphique,Designer graphique,domain.art,family.art.02,draft,3,3,0
+occupation.art.designer-ux-ui,Designer UX/UI,domain.art,family.art.03,draft,3,3,0
+occupation.hosp.receptionniste-hotel,Réceptionniste en hôtellerie,domain.hosp,family.hosp.01,draft,3,3,0
+occupation.hosp.cuisinier,Cuisinier / Cuisinière,domain.hosp,family.hosp.03,draft,3,3,0
+occupation.real.agent-immobilier,Agent / Agente immobilier(ère),domain.real,family.real.01,draft,3,3,0
+occupation.real.gestionnaire-patrimoine-immobilier,Gestionnaire de patrimoine immobilier,domain.real,family.real.02,draft,3,3,0
+occupation.security.agent-securite,Agent / Agente de sécurité,domain.security,family.security.01,draft,3,3,0
+occupation.security.sapeur-pompier,Sapeur-pompier / Sapeuse-pompière,domain.security,family.security.03,draft,3,3,0
+occupation.sport.educateur-sportif,Éducateur sportif / Éducatrice sportive,domain.sport,family.sport.01,draft,3,3,0
+occupation.sport.preparateur-physique,Préparateur physique / Préparatrice physique,domain.sport,family.sport.02,draft,3,3,0
+occupation.sci.geologue,Géologue,domain.sci,family.sci.01,draft,3,3,0
+occupation.sci.meteorologue,Météorologue,domain.sci,family.sci.02,draft,3,3,0
+occupation.telecom.technicien-telecom,Technicien / Technicienne télécoms,domain.telecom,family.telecom.01,draft,3,3,0
+occupation.telecom.ingenieur-reseaux,Ingénieur / Ingénieure réseaux,domain.telecom,family.telecom.02,draft,3,3,0
+occupation.marine.marin-matelot,Marin / Matelot,domain.marine,family.marine.01,draft,3,3,0
+occupation.marine.technicien-portuaire,Technicien / Technicienne d’exploitation portuaire,domain.marine,family.marine.02,draft,3,3,0
+occupation.art.bibliothecaire,Bibliothécaire,domain.art,family.art.01,draft,3,3,0
+occupation.art.mediateur-culturel,Médiateur / Médiatrice culturel(le),domain.art,family.art.02,draft,3,3,0
+occupation.sci.statisticien,Statisticien / Statisticienne,domain.sci,family.sci.03,draft,3,3,0
+occupation.craft.menuisier,Menuisier / Menuisière,domain.craft,family.craft.01,draft,3,3,0
+occupation.craft.plombier,Plombier / Plombière,domain.craft,family.craft.02,draft,3,3,0
+occupation.agri.veterinaire,Vétérinaire,domain.agri,family.agri.02,draft,3,3,0
+occupation.agri.aquaculteur,Aquaculteur / Aquacultrice,domain.agri,family.agri.03,draft,3,3,0
+occupation.agri.technicien-agroalimentaire,Technicien / Technicienne en agroalimentaire,domain.agri,family.agri.04,draft,3,3,0
+occupation.agri.conseiller-agricole,Conseiller / Conseillère agricole,domain.agri,family.agri.05,draft,3,3,0
+occupation.agri.technicien-irrigation,Technicien / Technicienne en irrigation,domain.agri,family.agri.07,draft,3,3,0
+occupation.env.ecologue,Écologue,domain.env,family.env.01,draft,3,3,0
+occupation.env.technicien-dechets,Technicien / Technicienne en gestion des déchets,domain.env,family.env.02,draft,3,3,0
+occupation.env.technicien-assainissement,Technicien / Technicienne en assainissement,domain.env,family.env.03,draft,3,3,0
+occupation.env.analyste-climat,Analyste des risques climatiques,domain.env,family.env.04,draft,3,3,0
+occupation.env.charge-etudes-impact,Chargé / Chargée d’études d’impact environnemental,domain.env,family.env.06,draft,3,3,0
+occupation.health.technicien-biomedical,Technicien / Technicienne biomédical,domain.health,family.health.04,draft,3,3,0
+occupation.health.kinesitherapeute,Kinésithérapeute,domain.health,family.health.06,draft,3,3,0
+occupation.health.epidemiologiste,Épidémiologiste,domain.health,family.health.07,draft,3,3,0
+occupation.health.dieteticien,Diététicien / Diététicienne,domain.health,family.health.08,draft,3,3,0
+occupation.health.ambulancier,Ambulancier / Ambulancière,domain.health,family.health.10,draft,3,3,0
+occupation.social.educateur-specialise,Éducateur spécialisé / Éducatrice spécialisée,domain.social,family.social.03,draft,3,3,0
+occupation.social.coordinateur-humanitaire,Coordinateur / Coordinatrice de projet humanitaire,domain.social,family.social.07,draft,3,3,0
+occupation.edu.ingenieur-pedagogique,Ingénieur / Ingénieure pédagogique,domain.edu,family.edu.06,draft,3,3,0
+occupation.edu.conseiller-orientation,Conseiller / Conseillère d’orientation,domain.edu,family.edu.07,draft,3,3,0
+occupation.sci.technicien-chimiste,Technicien / Technicienne chimiste,domain.sci,family.sci.02,draft,3,3,0
+occupation.sci.biostatisticien,Biostatisticien / Biostatisticienne,domain.sci,family.sci.04,draft,3,3,0
+occupation.it.architecte-logiciel,Architecte logiciel,domain.it,family.it.03,draft,3,3,0
+occupation.it.ingenieur-devops,Ingénieur / Ingénieure DevOps,domain.it,family.it.05,draft,3,3,0
+occupation.it.administrateur-base-donnees,Administrateur / Administratrice de bases de données,domain.it,family.it.06,draft,3,3,0
+occupation.it.ingenieur-ia,Ingénieur / Ingénieure en intelligence artificielle,domain.it,family.it.07,draft,3,3,0
+occupation.it.testeur-logiciel,Testeur / Testeuse logiciel,domain.it,family.it.08,draft,3,3,0
+occupation.it.technicien-support,Technicien / Technicienne support informatique,domain.it,family.it.09,draft,3,3,0
+occupation.cyber.ingenieur-securite-reseaux,Ingénieur / Ingénieure sécurité réseaux,domain.cyber,family.cyber.03,draft,3,3,0
+occupation.cyber.coordinateur-reponse-incident,Coordinateur / Coordinatrice de réponse aux incidents,domain.cyber,family.cyber.09,draft,3,3,0
+occupation.cyber.specialiste-iam,Spécialiste gestion des identités et des accès (IAM),domain.cyber,family.cyber.11,draft,3,3,0
+occupation.data.developpeur-bi,Développeur / Développeuse BI,domain.data,family.data.04,draft,3,3,0
+occupation.eng.ingenieur-electrique,Ingénieur / Ingénieure électricien,domain.eng,family.eng.02,draft,3,3,0
+occupation.eng.automaticien,Automaticien / Automaticienne,domain.eng,family.eng.04,draft,3,3,0
+occupation.eng.ingenieur-robotique,Ingénieur / Ingénieure robotique,domain.eng,family.eng.05,draft,3,3,0
+occupation.constr.geometre-topographe,Géomètre-topographe,domain.constr,family.constr.04,draft,3,3,0
+occupation.transport.gestionnaire-entrepot,Gestionnaire d’entrepôt,domain.transport,family.transport.05,draft,3,3,0
+occupation.auto.technicien-diagnostic-auto,Technicien / Technicienne diagnostic automobile,domain.auto,family.auto.02,draft,3,3,0
+occupation.fin.auditeur-interne,Auditeur / Auditrice interne,domain.fin,family.fin.02,draft,3,3,0
+occupation.fin.agent-microfinance,Agent / Agente de microfinance,domain.fin,family.fin.07,draft,3,3,0
+occupation.bus.charge-developpement-commercial,Chargé / Chargée de développement commercial,domain.bus,family.bus.01,draft,3,3,0
+occupation.mgmt.responsable-ressources-humaines,Responsable des ressources humaines,domain.mgmt,family.mgmt.03,draft,3,3,0
+occupation.law.charge-conformite,Chargé / Chargée de conformité,domain.law,family.law.04,draft,3,3,0
+occupation.hosp.chef-cuisine,Chef / Cheffe de cuisine,domain.hosp,family.hosp.02,draft,3,3,0
+occupation.craft.couturier,Couturier / Couturière,domain.craft,family.craft.01,draft,3,3,0
+occupation.real.gestionnaire-facility,Gestionnaire de services généraux et bâtiments,domain.real,family.real.05,draft,3,3,0
+occupation.telecom.technicien-fibre-optique,Technicien / Technicienne fibre optique,domain.telecom,family.telecom.02,draft,3,3,0
+occupation.security.preventionniste-sst,Préventeur / Préventrice en santé et sécurité au travail,domain.security,family.security.03,draft,3,3,0
+occupation.sport.entraineur-sportif,Entraîneur / Entraîneuse sportif,domain.sport,family.sport.01,draft,3,3,0
+occupation.marine.agent-exploitation-portuaire,Agent / Agente d’exploitation portuaire,domain.marine,family.marine.01,draft,3,3,0

@@ -1,0 +1,106 @@
+{
+  "version": "4.1",
+  "checked_date": "2026-11-22",
+  "sources": [
+    {
+      "source_id": "salary.bj.ilostat.profile",
+      "country_code": "BJ",
+      "title": "ILOSTAT — Profil pays Bénin",
+      "url": "https://ilostat.ilo.org/fr/data/country-profiles/ben/",
+      "source_type": "international_statistics",
+      "scope": "National labour-market context; not an individual occupation wage table.",
+      "checked_date": "2026-11-22",
+      "limitation": "The source currently identified does not provide a validated low/median/high salary range for each of the 115 M-TIER occupations."
+    },
+    {
+      "source_id": "salary.us.bls.ooh",
+      "country_code": "US",
+      "title": "BLS Occupational Outlook Handbook — occupational pay, education and outlook (May 2025 estimates)",
+      "url": "https://www.bls.gov/ooh/",
+      "source_type": "national_statistics",
+      "scope": "Occupation-specific median wages and, for many occupations, 10th/90th percentile annual wages and outlook; US only. Six exact M-TIER occupation matches are included in salary_estimates_v3.3.json.",
+      "checked_date": "2026-11-22",
+      "limitation": "Exact occupation match required. These figures are US employee wages and cannot be reused as estimates for another country."
+    },
+    {
+      "source_id": "salary.us.bls.oews",
+      "country_code": "US",
+      "title": "BLS Occupational Employment and Wage Statistics — May 2025 tables",
+      "url": "https://www.bls.gov/oes/tables.htm",
+      "source_type": "national_statistics",
+      "scope": "National, state, metropolitan and industry occupation wage estimates for approximately 830 US occupations; May 2025 dataset published 15 May 2026.",
+      "checked_date": "2026-11-22",
+      "limitation": "Requires validated SOC match; use the appropriate percentile and wage definition. US only."
+    },
+    {
+      "source_id": "salary.ca.jobbank",
+      "country_code": "CA",
+      "title": "Government of Canada Job Bank — wage reports",
+      "url": "https://www.jobbank.gc.ca/trend-analysis/search-wages",
+      "source_type": "government_labour_agency",
+      "scope": "Low, median and high wages by occupation and Canadian location.",
+      "checked_date": "2026-11-22",
+      "limitation": "Requires verified NOC mapping and geographic selection for each occupation."
+    },
+    {
+      "source_id": "salary.fr.insee",
+      "country_code": "FR",
+      "title": "INSEE — salaires et revenus salariaux",
+      "url": "https://www.insee.fr/fr/statistiques/7457170",
+      "source_type": "national_statistics",
+      "scope": "French wage statistics by socio-professional category and territory.",
+      "checked_date": "2026-11-22",
+      "limitation": "Not every M-TIER occupation has a direct PCS-level match; broad category averages must not be presented as occupation-specific estimates."
+    },
+    {
+      "source_id": "salary.uk.ons.ashe",
+      "country_code": "GB",
+      "title": "ONS — Annual Survey of Hours and Earnings",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours",
+      "source_type": "national_statistics",
+      "scope": "UK earnings statistics by SOC occupational classification.",
+      "checked_date": "2026-11-22",
+      "limitation": "Requires verified SOC mapping; some public tables are aggregated at broad occupation levels."
+    },
+    {
+      "source_id": "salary.uk.ons.ashe.2026",
+      "country_code": "GB",
+      "title": "ONS Annual Survey of Hours and Earnings — 2026 provisional, occupation tables",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/occupation2digitsocashetable2",
+      "source_type": "national_statistics",
+      "scope": "UK annual paid-hours and earnings estimates by occupation; 2026 provisional edition released 22 October 2026. Four-digit SOC dataset also available.",
+      "checked_date": "2026-11-22",
+      "limitation": "Must validate the matching SOC 2020 code and distinguish provisional from revised estimates."
+    },
+    {
+      "source_id": "salary.fr.insee.2026",
+      "country_code": "FR",
+      "title": "INSEE — Salaires dans le secteur privé par catégorie socioprofessionnelle détaillée",
+      "url": "https://www.data.gouv.fr/datasets/salaires-dans-le-secteur-prive-par-categorie-socioprofessionnelle-detaillee",
+      "source_type": "national_statistics",
+      "scope": "French net full-time-equivalent salary data by detailed socio-professional category; dataset updated 9 October 2026.",
+      "checked_date": "2026-11-22",
+      "limitation": "Private-sector scope excludes some occupations/sectors; PCS matching must be exact and net amounts must not be mixed with gross estimates."
+    },
+    {
+      "source_id": "salary.global.ilostat.earnings.catalogue",
+      "country_code": "ZZ",
+      "title": "ILOSTAT — Earnings and income data catalogue",
+      "url": "https://ilostat.ilo.org/data/",
+      "source_type": "international_statistics",
+      "scope": "Official catalogue includes average hourly and monthly earnings by sex and occupation in local currency, and median earnings by occupation and currency where reported.",
+      "checked_date": "2026-11-22",
+      "limitation": "Catalogue presence is not itself a matched observation. Download, observation period, country, currency, ISCO code, population scope and occupation mapping must be verified for each record."
+    },
+    {
+      "source_id": "salary.us.bls.oews.may2025",
+      "country_code": "US",
+      "title": "U.S. Bureau of Labor Statistics — OEWS May 2025 tables",
+      "url": "https://www.bls.gov/oes/tables.htm",
+      "source_type": "national_statistics",
+      "scope": "Official US occupational wage estimates with 10th, 25th, 50th, 75th and 90th percentile wages for published occupations.",
+      "checked_date": "2026-11-22",
+      "limitation": "US-only; a SOC occupation match is required. Do not transfer values to another country."
+    }
+  ]
+}

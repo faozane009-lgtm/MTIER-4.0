@@ -1,0 +1,411 @@
+{
+  "@@locale": "es",
+  "languageMenuTooltip": "Idioma de la aplicación",
+  "languageFrench": "Français",
+  "languageEnglish": "English",
+  "languageSpanish": "Español",
+  "switchToFrench": "FR",
+  "navExplorer": "Explorar",
+  "navProfile": "Perfil",
+  "navMatch": "Match",
+  "navProgress": "Progreso",
+  "navAcademy": "Academia",
+  "navAssistant": "IA",
+  "localizationCoverageWarningEn": "La navegación y algunos contenidos están traducidos. La mayoría de las etiquetas de formularios, los perfiles profesionales detallados y los itinerarios de Explorer siguen en francés. El contenido en inglés es un borrador asistido por máquina pendiente de revisión humana.",
+  "localizationCoverageWarningEs": "La navegación y algunos contenidos están traducidos. La mayoría de las etiquetas de formularios, los perfiles profesionales detallados y los itinerarios de Explorer siguen en francés. El contenido en español es un borrador asistido por máquina pendiente de revisión humana.",
+  "explorerDomain": "Área",
+  "explorerAllDomains": "Todas las áreas",
+  "explorerNoResults": "Ninguna profesión coincide con esta búsqueda.",
+  "explorerPresentation": "Presentación",
+  "explorerMainTasks": "Funciones principales",
+  "explorerSkills": "Competencias",
+  "explorerKnowledge": "Conocimientos por adquirir",
+  "explorerWorkEnvironment": "Entorno de trabajo",
+  "explorerTrainingPath": "Itinerario formativo",
+  "explorerQualifications": "Notas sobre cualificaciones",
+  "explorerOutlook": "Perspectivas profesionales",
+  "explorerSalary": "Información salarial",
+  "explorerClassifications": "Clasificaciones internacionales",
+  "explorerSources": "Fuentes y estado editorial",
+  "explorerCandidateNote": "Perfil candidato: todavía requiere revisión profesional y validación por país.",
+  "explorerMissingContent": "Contenido pendiente.",
+  "profileTitle": "Mi perfil",
+  "profileIntro": "Tu espacio personal conecta tus objetivos, competencias y profesiones de Explorer. Tu información permanece privada.",
+  "profileGeneralInfo": "1. Información general",
+  "profileEducation": "2. Estudios y formación",
+  "profileLearningPreferences": "3. Preferencias de aprendizaje",
+  "profileOccupationLinks": "4. Profesiones seguidas en Explorer",
+  "profileSkills": "5. Competencias",
+  "profileGoals": "6. Objetivos personales",
+  "profilePrivacy": "7. Privacidad y consentimientos",
+  "profileDisplayName": "Nombre visible (opcional)",
+  "profileAgeRange": "Rango de edad (opcional)",
+  "profileCountry": "País — código ISO (opcional)",
+  "profileRegion": "Región / departamento (opcional)",
+  "profileEducationLevel": "Nivel educativo actual",
+  "profileLearningFormat": "Formato preferido",
+  "profilePreferredLanguage": "Idioma preferido",
+  "profileFollowedOccupations": "Añadir a profesiones seguidas",
+  "profileValidatePreview": "Validar y previsualizar el perfil",
+  "profileClearLocalData": "Borrar todos los datos locales",
+  "profileLocalSaved": "Perfil guardado localmente en este dispositivo.",
+  "matchTitle": "Mi orientación profesional",
+  "matchIntro": "Sugerencias basadas en tu información de Perfil y las 115 profesiones de Explorer. Las puntuaciones son orientativas, no veredictos.",
+  "matchSources": "Fuentes utilizadas",
+  "matchProfileIncomplete": "Tu perfil necesita más información",
+  "matchNoResults": "Todavía no hay una coincidencia clara con la información disponible. Añade o precisa tus intereses, competencias y objetivos en Perfil.",
+  "matchMethod": "Método: competencias 45 %, intereses 30 %, objetivos 10 %, profesiones seguidas 15 %. Las dimensiones sin datos no contribuyen a la puntuación y sus pesos no se redistribuyen. La comparación textual sigue siendo aproximada.",
+  "matchWhy": "¿Por qué esta sugerencia?",
+  "matchSkillGaps": "Competencias de la profesión por explorar",
+  "matchPathway": "Itinerario formativo (Explorer)",
+  "matchOutlook": "Tendencia general (no localizada)",
+  "progressTitle": "Progreso",
+  "progressIntro": "Tu espacio de progreso conecta objetivos, profesiones de Match, competencias de Explorer y aprendizajes de Academy. Los indicadores describen actividades, no tu valor ni tu potencial.",
+  "progressOverview": "Resumen",
+  "progressAddGoal": "Añadir un objetivo concreto",
+  "progressGoalTitle": "Título del objetivo",
+  "progressGoalType": "Tipo de objetivo",
+  "progressGoalStatus": "Estado inicial",
+  "progressAddGoalButton": "Añadir objetivo",
+  "progressNoGoals": "Todavía no hay objetivos. Puedes empezar con un objetivo de un itinerario de Academy.",
+  "progressLessonsViewed": "lección(es) de Academy consultada(s).",
+  "progressAddEvidence": "Describir un logro",
+  "progressAddJournal": "Añadir una nota",
+  "progressPrivateNote": "Tus objetivos, notas y logros son privados por defecto.",
+  "academyTitle": "Academia",
+  "academyIntro": "Aprendizajes conectados con tus sugerencias de Match y los itinerarios documentados en Explorer. El contenido de demostración no es un título ni una certificación.",
+  "academyConnections": "Conexiones con otros módulos",
+  "academyPersonalizationPending": "Personalización pendiente",
+  "academyRecommendedPaths": "1. Itinerarios relacionados con tus sugerencias de Match",
+  "academyIntroPaths": "2. Itinerarios introductorios disponibles",
+  "academyDraftWarning": "Estos itinerarios son prototipos educativos en borrador. No sustituyen una formación reconocida.",
+  "academyLessonObjective": "Objetivo",
+  "academyLessonActivity": "Actividad de aprendizaje",
+  "academyLessonAssessment": "Comprobación de conocimientos",
+  "profileInterests": "3. Áreas de interés",
+  "profileAgeNotSpecified": "No especificado",
+  "profilePrimary": "Primaria",
+  "profileSecondary": "Secundaria",
+  "profileVocational": "Formación profesional",
+  "profileUndergraduate": "Educación superior — grado universitario",
+  "profileGraduate": "Máster o superior",
+  "profileOther": "Otro / no especificado",
+  "profilePractical": "Ejercicios prácticos",
+  "profileShortLessons": "Lecciones breves",
+  "profileVideos": "Vídeos",
+  "profileReading": "Lecturas y fichas",
+  "profileMixed": "Una combinación de formatos",
+  "profileInterestHint": "p. ej., tecnología, salud, ciencias",
+  "profileSkillsHint": "p. ej., redacción, Python, comunicación",
+  "profileOccupationPickerIntro": "Elige una profesión directamente del catálogo Explorer. El enlace conserva su occupation_id exacto; no hace falta introducir un ID manualmente.",
+  "profilePrivate": "Perfil privado",
+  "profilePublicDisabled": "La visibilidad pública no está activada en esta versión.",
+  "profilePersonalization": "Personalización de recomendaciones",
+  "profilePersonalizationDescription": "Utilizar tus intereses y objetivos para adaptar las sugerencias.",
+  "profilePortfolio": "Compartir el portafolio",
+  "profilePortfolioDescription": "Desactivado por defecto; esta versión no publica contenido.",
+  "profileAnalytics": "Análisis opcionales",
+  "profilePreviewDialogTitle": "Vista previa del perfil validado",
+  "profileClose": "Cerrar",
+  "profileAdd": "Añadir",
+  "profileCountryError": "El código de país debe contener exactamente 2 letras (p. ej., BJ).",
+  "progressTypeCareer": "Carrera",
+  "progressTypeLearning": "Aprendizaje",
+  "progressTypeSkill": "Competencia",
+  "progressTypeProject": "Proyecto",
+  "progressStatusInProgress": "En curso",
+  "progressStatusPaused": "En pausa",
+  "progressStatusPause": "Pausar",
+  "progressStatusComplete": "Completar",
+  "progressStatusArchive": "Archivar",
+  "progressDeleteGoal": "Eliminar objetivo",
+  "progressDeleteEvidence": "Eliminar logro",
+  "progressDeleteNote": "Eliminar nota",
+  "progressEvidencePrivate": "Guardar en privado",
+  "progressStartAcademy": "Empieza una lección en Academy; su identificador aparecerá aquí automáticamente.",
+  "progressNoMatch": "Completa tus competencias, intereses u objetivos en Perfil para mostrar tus sugerencias.",
+  "progressNoGaps": "Los datos actuales no identifican brechas de competencias.",
+  "progressGapDisclaimer": "Competencia por desarrollar; no es una valoración de tu nivel.",
+  "progressEvidenceHint": "Añade una breve descripción de un proyecto o ejercicio realizado. Tu portafolio sigue siendo privado.",
+  "progressJournalHint": "Lo que he aprendido / lo que todavía me cuesta",
+  "progressDeleteConfirmation": "Confirmar eliminación",
+  "progressDeletePrompt": "¿Eliminar este elemento permanentemente de este dispositivo?",
+  "profileEducationOther": "Detalle opcional (curso, título o formación)",
+  "profileSelectOccupation": "Seleccionar una profesión de Explorer",
+  "profileClearDataWarning": "Esta acción elimina de este dispositivo el perfil, los objetivos, las lecciones consultadas, las notas y los logros. No se puede deshacer.",
+  "profileLocalMode": "Modo local — integración del backend aplazada",
+  "profileLocalModeSaved": "Perfil guardado localmente en este dispositivo. No se envía nada a Supabase.",
+  "profileLocalModeDirty": "Los cambios se guardan localmente en este dispositivo. No se envía nada a Supabase.",
+  "profileInterconnectionNote": "Conexiones: user_id compartido; occupation_id enlaza Explorer; intereses y objetivos alimentan Match; preferencias de aprendizaje alimentan Academy; competencias y progreso alimentan Progress.",
+  "progressMetricLessons": "Lecciones consultadas",
+  "progressMetricActiveGoals": "Objetivos activos",
+  "progressMetricCompletedGoals": "Objetivos completados",
+  "progressMetricEvidence": "Logros",
+  "progressLocalStorageNote": "Los datos se guardan localmente en este dispositivo. La sincronización con Supabase llegará tras validar los módulos.",
+  "progressAssociatedOccupation": "Profesión relacionada (opcional)",
+  "progressNoOccupation": "Ninguna profesión relacionada",
+  "progressStatusCompleted": "Completado",
+  "progressViewedOn": "Consultada el",
+  "progressViewedInAcademy": "Consultada en Academy",
+  "progressMatchSummary": "competencia(s) declarada(s) en Perfil · sugerencia(s) de Match examinada(s).",
+  "progressMatchScore": "Coincidencia orientativa:",
+  "progressPrivateEvidence": "Privado · guardado en este dispositivo",
+  "themeMenuTooltip": "Apariencia",
+  "themeSystem": "Según el sistema",
+  "themeLight": "Claro",
+  "themeDark": "Oscuro",
+  "navHome": "Inicio",
+  "navJourney": "Recorrido",
+  "journeyTabMatch": "Match",
+  "journeyTabProgress": "Progreso",
+  "homeGreeting": "Te damos la bienvenida a M-TIER",
+  "homeIntro": "Explora profesiones, define tus objetivos y avanza a tu ritmo. Tu información se comparte entre los módulos.",
+  "homeExplorerCard": "Explorar profesiones",
+  "homeJourneyCard": "Mi recorrido",
+  "homeAcademyCard": "Aprender",
+  "homeProfileCard": "Mi perfil",
+  "homeYourProgress": "Mi actividad",
+  "homeTopSuggestions": "Mis primeras sugerencias",
+  "homeNoSuggestions": "Añade algunos intereses o competencias en Perfil para obtener sugerencias de Match.",
+  "homeYourGoals": "Mis objetivos activos",
+  "homeNoGoals": "Todavía no tienes un objetivo activo. Añade uno en Perfil o Progress.",
+  "homeContinueAcademy": "Continuar en Academy",
+  "explorerCount": "{filtered} de {total} profesiones",
+  "@explorerCount": {
+    "placeholders": {
+      "filtered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "explorerProfileAvailable": "Perfil detallado disponible",
+  "explorerProfilePending": "Perfil detallado pendiente",
+  "explorerSalaryUnavailable": "No hay datos salariales verificados para esta ficha. No se estima ni inventa ningún importe.",
+  "explorerSalaryAvailable": "Hay datos salariales verificados en {verifiedCountries} países (cobertura orientativa: {salaryCountries} países). Esta versión solo muestra la disponibilidad, no los importes.",
+  "@explorerSalaryAvailable": {
+    "placeholders": {
+      "verifiedCountries": {
+        "type": "String"
+      },
+      "salaryCountries": {
+        "type": "String"
+      }
+    }
+  },
+  "explorerSalaryOtherCountries": "No hay datos disponibles para los demás países.",
+  "explorerDescriptionMissing": "Descripción pendiente",
+  "explorerSkillsMissing": "Competencias detalladas pendientes.",
+  "explorerKnowledgeMissing": "Conocimientos detallados pendientes.",
+  "explorerWorkContextMissing": "Información pendiente.",
+  "explorerPathwayMissing": "Itinerario general pendiente.",
+  "explorerOutlookMissing": "Perspectivas no documentadas.",
+  "explorerEsco": "ESCO",
+  "explorerIsco08": "ISCO-08",
+  "explorerOnet": "O*NET",
+  "explorerClassificationDisclaimer": "No se afirma ningún código exacto sin una correspondencia validada.",
+  "explorerSourcesMissing": "Fuentes vinculadas directamente a esta ficha: pendientes.",
+  "explorerEditorialStatus": "Estado: {status}",
+  "@explorerEditorialStatus": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "explorerPartialData": "No se pudieron cargar algunos datos ({count} archivo(s)). Las demás secciones siguen disponibles. Consulta los registros de depuración.",
+  "@explorerPartialData": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "retry": "Reintentar",
+  "explorerLoadFailure": "Explorer no puede cargar los datos en este momento.",
+  "explorerNeedsReview": "pendiente de revisión",
+  "explorerReferenceReview": "referencia pendiente de revisión",
+  "explorerDraftStatus": "borrador",
+  "matchLoadError": "No se pudieron cargar los datos de Explorer para calcular las sugerencias.",
+  "matchSourceSummary": "{occupations} profesiones de Explorer · {skills} competencias · {interests} intereses · {goals} objetivos",
+  "@matchSourceSummary": {
+    "placeholders": {
+      "occupations": {
+        "type": "int"
+      },
+      "skills": {
+        "type": "int"
+      },
+      "interests": {
+        "type": "int"
+      },
+      "goals": {
+        "type": "int"
+      }
+    }
+  },
+  "matchProfileHint": "Añade intereses, competencias, objetivos o profesiones seguidas en Perfil. Las sugerencias se calcularán a partir de estos datos.",
+  "matchResultsSummary": "{results} profesiones comparadas · {relevant} sugerencias con al menos una señal",
+  "@matchResultsSummary": {
+    "placeholders": {
+      "results": {
+        "type": "int"
+      },
+      "relevant": {
+        "type": "int"
+      }
+    }
+  },
+  "matchScore": "Coincidencia orientativa: {score}%",
+  "@matchScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "matchSharedId": "Identificador compartido: {id}",
+  "@matchSharedId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "matchReasonSkills": "Competencias del perfil relacionadas: {skills}",
+  "@matchReasonSkills": {
+    "placeholders": {
+      "skills": {
+        "type": "String"
+      }
+    }
+  },
+  "matchReasonInterest": "Área o tema de interés relacionado: {interest}",
+  "@matchReasonInterest": {
+    "placeholders": {
+      "interest": {
+        "type": "String"
+      }
+    }
+  },
+  "matchReasonGoal": "Objetivo relacionado: {goal}",
+  "@matchReasonGoal": {
+    "placeholders": {
+      "goal": {
+        "type": "String"
+      }
+    }
+  },
+  "matchReasonFollowed": "Ya está en tus profesiones seguidas de Explorer",
+  "matchReasonWeak": "Coincidencia limitada según la información disponible.",
+  "matchReasonEducation": "Nivel educativo declarado en Perfil: {education} (compáralo con los requisitos del itinerario).",
+  "@matchReasonEducation": {
+    "placeholders": {
+      "education": {
+        "type": "String"
+      }
+    }
+  },
+  "academyExplorerUnavailable": "Las profesiones e itinerarios de Explorer no están disponibles para Academy.",
+  "academyContentUnavailable": "No se pudo cargar el contenido educativo de Academy.",
+  "academyConnectionSummary": "{occupations} profesiones compartidas · {matches} sugerencias de Match disponibles · preferencias: {format}",
+  "@academyConnectionSummary": {
+    "placeholders": {
+      "occupations": {
+        "type": "int"
+      },
+      "matches": {
+        "type": "int"
+      },
+      "format": {
+        "type": "String"
+      }
+    }
+  },
+  "academyFormatUnspecified": "no especificadas",
+  "academyProfileHint": "Añade intereses, competencias, objetivos o profesiones seguidas en Perfil para que Match sugiera profesiones y Academy adapte los itinerarios.",
+  "academyIntroAvailable": "Los tres itinerarios introductorios siguen disponibles a continuación.",
+  "academyOccupationLabel": "Profesión que quieres preparar",
+  "academyDraftNotice": "Estos itinerarios son prototipos educativos en borrador. No sustituyen una formación reconocida.",
+  "academyProgressNote": "Las lecciones consultadas aparecen en Progress. Sus identificadores y marcas de tiempo se guardan localmente en este dispositivo.",
+  "academyIndicativeNote": "Puntuación orientativa: sirve para explorar una opción, no para decidir por ti.",
+  "academyNoPathway": "No hay un itinerario general documentado para esta profesión.",
+  "academySharedId": "Identificador compartido Explorer / Match: {id}",
+  "@academySharedId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "academyCountryValidation": "Comprueba en tu país: las titulaciones, los títulos regulados y los requisitos de acceso pueden variar.",
+  "academyLevelPending": "nivel por precisar",
+  "academyEstimatedHours": "horas orientativas",
+  "academyViewedCount": "{viewed}/{total} lecciones consultadas",
+  "@academyViewedCount": {
+    "placeholders": {
+      "viewed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "academyPrototypeDraft": "Prototipo — borrador",
+  "academyModuleFallback": "Módulo",
+  "academyLessonFallback": "Lección",
+  "academyObjectivePending": "Por precisar",
+  "academyActivityPending": "Actividad por preparar",
+  "academyAssessmentPending": "Evaluación por preparar",
+  "academyClose": "Cerrar",
+  "academyReviewLesson": "Volver a ver la lección",
+  "academyMarkViewed": "Marcar como consultada",
+  "academyCourseFallback": "Itinerario",
+  "academyLevelBeginner": "Principiante",
+  "academyLevelIntermediate": "Intermedio",
+  "academyLevelAdvanced": "Avanzado",
+  "commonCancel": "Cancelar",
+  "commonDelete": "Eliminar",
+  "progressLoadError": "Los datos compartidos necesarios para Progress no están disponibles.",
+  "progressGoalsSection": "1. Objetivos personales",
+  "progressAcademySection": "2. Actividad de Academy",
+  "progressMatchSection": "3. Competencias y sugerencias de Match",
+  "progressEvidenceSection": "4. Logros y evidencias",
+  "progressJournalSection": "5. Diario de aprendizaje",
+  "progressDataContract": "Contrato de datos: Perfil proporciona objetivos y competencias declarados; Match proporciona sugerencias; Explorer proporciona los occupation_id y las competencias; Academy proporciona los identificadores de las lecciones consultadas. Progress conserva objetivos, notas y evidencias.",
+  "progressTitleFallback": "Profesión",
+  "profileFollowedCount": "{followed} de {total} profesiones de Explorer seguidas.",
+  "@profileFollowedCount": {
+    "placeholders": {
+      "followed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "profileExplorerUnavailable": "El catálogo Explorer no está disponible.",
+  "profileNoMoreOccupations": "Ya sigues todas las profesiones disponibles.",
+  "profileTagAdd": "Añadir",
+  "profileGoalHint": "p. ej., explorar profesiones digitales",
+  "explorerSearchLabel": "Buscar profesiones",
+  "explorerLoadError": "No se pudo cargar el catálogo de Explorer.",
+  "explorerTranslationDraftStatus": "Traducción preliminar · requiere revisión humana",
+  "explorerDetailTranslationNotice": "El contenido EN/ES cuenta con traducciones preliminares completas, pero aún no ha sido validado por un revisor humano. Verifica títulos, habilitaciones, itinerarios y perspectivas con fuentes oficiales del país correspondiente.",
+  "commonLocalDataCleared": "Se han borrado los datos locales de M-TIER.",
+  "matchScoreDisclaimer": "La puntuación es un indicador ponderado, no una probabilidad de éxito. Las competencias aportan hasta 45 puntos, los intereses 30, los objetivos 10 y las profesiones seguidas 15. Las dimensiones sin datos no se redistribuyen.",
+  "commonEdit": "Editar",
+  "commonSave": "Guardar",
+  "progressEditContent": "Editar el contenido",
+  "assistantExplorerUnavailable": "Los datos de Explorer no están disponibles para la asistente.",
+  "assistantAcademyUnavailable": "El contenido de Academy no está disponible.",
+  "localStorageNewerVersion": "Los datos locales proceden de una versión más reciente de M-TIER. Están protegidos para evitar que se sobrescriban.",
+  "localStorageRestoreFailed": "No se pudieron restaurar los datos locales. Se utiliza un estado vacío; los datos guardados anteriormente no se eliminan automáticamente.",
+  "localStorageSaveFailed": "No se pudieron guardar los datos localmente. Comprueba el espacio disponible en el dispositivo e inténtalo de nuevo.",
+  "profileNotSpecified": "Sin especificar",
+  "explorerExpertReviewRequired": "borrador pendiente de revisión por un experto del ámbito"
+}

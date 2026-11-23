@@ -1,0 +1,3575 @@
+{
+  "catalog_version": "0.6.0",
+  "status": "mapping_in_progress",
+  "generated_on": "2026-11-22",
+  "record_count": 115,
+  "records": [
+    {
+      "occupation_id": "occupation.agri.agriculteur",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-elevage",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.charge-biodiversite",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.technicien-eau-assainissement",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.medecin-generaliste",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.infirmier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.social.assistant-social",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.social.conseiller-insertion",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.enseignant-primaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.formateur-professionnel",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.biologiste",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-laboratoire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-logiciel",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.developpeur-mobile",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-grc",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.analyste-soc",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.pentester-ethique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "esco_code": "2529.4",
+          "dataset_version": "1.2.1",
+          "match_status": "confirmed",
+          "match_method": "official_ENISA_ESCO_ECSF_crosswalk_exact_match",
+          "confidence": 1.0
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "ENISA crosswalk: ESCO Ethical hacker (2529.4) is an exact match to ECSF Penetration Tester. Source: https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf ; checked 2026-11-22. Confirmed at the ESCO–ECSF concept level; independent M-TIER occupational review remains required."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.reponse-incidents",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "esco_code": "2529.7",
+          "dataset_version": "1.2.1",
+          "match_status": "confirmed",
+          "match_method": "official_ENISA_ESCO_ECSF_crosswalk_exact_match",
+          "confidence": 1.0
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "ENISA crosswalk: ESCO Cyber incident responder (2529.7) is an exact match to ECSF Cyber Incident Responder. Source: https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/crosswalk-between-esco-and-ecsf ; checked 2026-11-22. Confirmed at the ESCO–ECSF concept level; independent M-TIER occupational review remains required."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-iam",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-cloud",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-appsec",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.data.analyste-donnees",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.data.ingenieur-donnees",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-mecanique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.technicien-automatisme",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.constr.architecte",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.constr.ingenieur-genie-civil",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.energy.technicien-solaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.energy.ingenieur-energie",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.manuf.operateur-production",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.manuf.technicien-maintenance-industrielle",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.transport.agent-logistique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.transport.responsable-approvisionnement",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.auto.mecanicien-automobile",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-vehicules-electriques",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.fin.comptable",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-financier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.bus.commercial",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.bus.conseiller-clientele",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.mgmt.chef-projet",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.mgmt.charge-ressources-humaines",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.law.juriste-entreprise",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.law.agent-administration-publique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.media.journaliste",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.media.redacteur-contenu",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.art.designer-graphique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.art.designer-ux-ui",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.hosp.receptionniste-hotel",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.hosp.cuisinier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.real.agent-immobilier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-patrimoine-immobilier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.security.agent-securite",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.security.sapeur-pompier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sport.educateur-sportif",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sport.preparateur-physique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.geologue",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.meteorologue",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-telecom",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.telecom.ingenieur-reseaux",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.marine.marin-matelot",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.marine.technicien-portuaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.art.bibliothecaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.art.mediateur-culturel",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.statisticien",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.craft.menuisier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.craft.plombier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.veterinaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.aquaculteur",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-agroalimentaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.conseiller-agricole",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.agri.technicien-irrigation",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.ecologue",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.technicien-dechets",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.technicien-assainissement",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.analyste-climat",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.env.charge-etudes-impact",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.technicien-biomedical",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.kinesitherapeute",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.epidemiologiste",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.dieteticien",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.health.ambulancier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.social.educateur-specialise",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.social.coordinateur-humanitaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.ingenieur-pedagogique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.conseiller-orientation",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-chimiste",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.biostatisticien",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.architecte-logiciel",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-devops",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.administrateur-base-donnees",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-ia",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.testeur-logiciel",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.it.technicien-support",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.ingenieur-securite-reseaux",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.coordinateur-reponse-incident",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.cyber.specialiste-iam",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.data.developpeur-bi",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-electrique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.automaticien",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.eng.ingenieur-robotique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.constr.geometre-topographe",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.transport.gestionnaire-entrepot",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.auto.technicien-diagnostic-auto",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.fin.auditeur-interne",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.fin.agent-microfinance",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.bus.charge-developpement-commercial",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.mgmt.responsable-ressources-humaines",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.law.charge-conformite",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.hosp.chef-cuisine",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.craft.couturier",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.real.gestionnaire-facility",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.telecom.technicien-fibre-optique",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.security.preventionniste-sst",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.sport.entraineur-sportif",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    },
+    {
+      "occupation_id": "occupation.marine.agent-exploitation-portuaire",
+      "links": {
+        "esco": {
+          "concept_uri": null,
+          "dataset_version": "1.2.1",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "isco08": {
+          "unit_group_code": null,
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        },
+        "onet": {
+          "soc_code": null,
+          "database_version": "31.0",
+          "match_status": "not_mapped",
+          "match_method": null,
+          "confidence": null
+        }
+      },
+      "review": {
+        "review_required": true,
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "notes": "Aucun code externe ne doit être renseigné sans correspondance vérifiée."
+      }
+    }
+  ]
+}

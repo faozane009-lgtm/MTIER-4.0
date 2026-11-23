@@ -1,0 +1,2446 @@
+{
+  "profile_set_version": "0.4.0",
+  "batch_id": "batch_07",
+  "status": "draft_enrichment_not_published",
+  "target_plan": "Lot de 15 nouveaux profils candidats, sélectionnés dans l’ordre du reliquat du catalogue de 115 métiers.",
+  "methodology": "Profils descriptifs avec six missions, six compétences typées et cinq domaines de connaissances minimum. Les références internationales servent de repères et ne remplacent pas les règles nationales. Aucun salaire, diplôme, licence ou débouché local n’est inventé. Révision experte requise.",
+  "record_count": 15,
+  "profiles": [
+    {
+      "occupation_id": "occupation.agri.technicien-agroalimentaire",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne en agroalimentaire",
+      "en_title": "Food Processing Technician",
+      "purpose_fr": "Contribue à transformer, contrôler et conserver des produits alimentaires en respectant les exigences de qualité, d’hygiène, de traçabilité et de sécurité applicables.",
+      "missions_fr": [
+        "Préparer les matières premières, les équipements et les documents de production selon le programme établi.",
+        "Surveiller les paramètres de transformation et relever les écarts par rapport aux consignes validées.",
+        "Réaliser ou assister les contrôles de qualité prévus sur les matières premières, les produits en cours et les produits finis.",
+        "Appliquer les règles d’hygiène, de nettoyage, de prévention des contaminations et de sécurité au poste.",
+        "Renseigner les fiches de fabrication, les résultats de contrôle et les données de traçabilité.",
+        "Isoler et signaler les lots non conformes puis contribuer à l’analyse des causes et aux actions correctives autorisées."
+      ],
+      "skills": [
+        {
+          "id": "Surveillance de procédés alimentaires",
+          "type": "technical"
+        },
+        {
+          "id": "Contrôle qualité et prélèvements selon protocole",
+          "type": "technical"
+        },
+        {
+          "id": "Application des bonnes pratiques d’hygiène",
+          "type": "technical"
+        },
+        {
+          "id": "Traçabilité et tenue des enregistrements",
+          "type": "technical"
+        },
+        {
+          "id": "Détection et signalement des non-conformités",
+          "type": "transferable"
+        },
+        {
+          "id": "Rigueur et communication avec l’équipe de production",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes de transformation et conservation des aliments",
+        "Microbiologie et risques de contamination alimentaire",
+        "Hygiène, nettoyage et bonnes pratiques de fabrication",
+        "Contrôle qualité, échantillonnage et traçabilité",
+        "Systèmes de management de la sécurité alimentaire et réglementation locale"
+      ],
+      "work_context_fr": "Industries agroalimentaires, coopératives, unités de transformation, laboratoires de contrôle ou petites unités de production; les responsabilités varient selon la taille du site et les habilitations locales.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.oecd.west-africa-agrifood",
+          "use": "Contexte de compétences de la chaîne agroalimentaire en Afrique de l’Ouest; source macrosectorielle et non référentiel de poste."
+        }
+      ],
+      "mapping_note": "Les contrôles, libérations de lots et décisions de sécurité alimentaire doivent respecter les responsabilités et procédures réglementaires du site.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Contributes to processing, checking and preserving food products in accordance with applicable quality, hygiene, traceability and safety requirements.",
+      "purpose_es": "Contribuye a transformar, controlar y conservar productos alimentarios respetando los requisitos aplicables de calidad, higiene, trazabilidad y seguridad.",
+      "missions_en": [
+        "Prepare raw materials, equipment and production documents according to the established schedule.",
+        "Monitor processing parameters and record deviations from approved instructions.",
+        "Carry out or assist with planned quality checks on raw materials, work-in-progress and finished products.",
+        "Apply hygiene, cleaning, contamination-prevention and workstation-safety rules.",
+        "Complete production sheets, control results and traceability records.",
+        "Isolate and report non-compliant batches and contribute to authorized cause analysis and corrective actions."
+      ],
+      "missions_es": [
+        "Preparar materias primas, equipos y documentos de producción conforme al programa establecido.",
+        "Supervisar los parámetros de transformación y registrar las desviaciones respecto a las instrucciones aprobadas.",
+        "Realizar o apoyar los controles de calidad previstos sobre materias primas, productos en curso y productos terminados.",
+        "Aplicar las normas de higiene, limpieza, prevención de contaminaciones y seguridad del puesto.",
+        "Completar las fichas de fabricación, los resultados de control y los registros de trazabilidad.",
+        "Aislar y comunicar los lotes no conformes y contribuir al análisis de causas y a las acciones correctivas autorizadas."
+      ],
+      "work_context_en": "Food-processing industries, cooperatives, processing units, quality-control laboratories and small production facilities; responsibilities vary with site size and local authorizations.",
+      "work_context_es": "Industrias agroalimentarias, cooperativas, unidades de transformación, laboratorios de control y pequeñas unidades de producción; las responsabilidades varían según el tamaño del centro y las habilitaciones locales.",
+      "mapping_note_en": "Controls, batch release and food-safety decisions must follow the site’s regulatory responsibilities and procedures.",
+      "mapping_note_es": "Los controles, la liberación de lotes y las decisiones de seguridad alimentaria deben respetar las responsabilidades y los procedimientos regulatorios del establecimiento.",
+      "skills_en": [
+        {
+          "id": "Monitoring food-processing operations",
+          "type": "technical"
+        },
+        {
+          "id": "Quality control and sampling under procedures",
+          "type": "technical"
+        },
+        {
+          "id": "Applying good hygiene practices",
+          "type": "technical"
+        },
+        {
+          "id": "Traceability and record-keeping",
+          "type": "technical"
+        },
+        {
+          "id": "Detection and reporting of non-conformities",
+          "type": "transferable"
+        },
+        {
+          "id": "Accuracy and communication with production teams",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Food-processing and preservation principles",
+        "Microbiology and food-contamination risks",
+        "Hygiene, cleaning and good manufacturing practices",
+        "Quality control, sampling and traceability",
+        "Food-safety management systems and local regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Seguimiento de procesos alimentarios",
+          "type": "technical"
+        },
+        {
+          "id": "Control de calidad y muestreo conforme a protocolos",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de buenas prácticas de higiene",
+          "type": "technical"
+        },
+        {
+          "id": "Trazabilidad y mantenimiento de registros",
+          "type": "technical"
+        },
+        {
+          "id": "Detección y comunicación de no conformidades",
+          "type": "transferable"
+        },
+        {
+          "id": "Rigor y comunicación con equipos de producción",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de transformación y conservación de alimentos",
+        "Microbiología y riesgos de contaminación alimentaria",
+        "Higiene, limpieza y buenas prácticas de fabricación",
+        "Control de calidad, muestreo y trazabilidad",
+        "Sistemas de gestión de seguridad alimentaria y normativa local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.env.technicien-assainissement",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne en assainissement",
+      "en_title": "Sanitation Technician",
+      "purpose_fr": "Contribue au suivi des installations et services d’assainissement, à la surveillance de leur fonctionnement et au signalement des risques environnementaux et sanitaires.",
+      "missions_fr": [
+        "Inspecter les ouvrages et équipements d’assainissement dans le périmètre confié et relever leur état apparent.",
+        "Effectuer des mesures ou prélèvements prévus par les protocoles et transmettre les échantillons au circuit autorisé.",
+        "Suivre les paramètres de fonctionnement et consigner les relevés dans les registres d’exploitation.",
+        "Identifier les anomalies, obstructions ou dysfonctionnements visibles et alerter le responsable technique.",
+        "Participer à la planification des opérations d’entretien et vérifier leur traçabilité documentaire.",
+        "Informer les usagers sur les consignes de prévention et contribuer aux rapports de suivi environnemental."
+      ],
+      "skills": [
+        {
+          "id": "Inspection visuelle d’ouvrages d’assainissement",
+          "type": "technical"
+        },
+        {
+          "id": "Mesures et prélèvements selon protocole",
+          "type": "technical"
+        },
+        {
+          "id": "Suivi de paramètres d’exploitation",
+          "type": "technical"
+        },
+        {
+          "id": "Tenue de registres techniques",
+          "type": "technical"
+        },
+        {
+          "id": "Communication de prévention auprès des usagers",
+          "type": "transferable"
+        },
+        {
+          "id": "Repérage et signalement des risques",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes d’assainissement collectif et non collectif",
+        "Notions d’hydraulique et de réseaux",
+        "Traitement des eaux usées et gestion des boues",
+        "Hygiène, santé-sécurité et risques biologiques",
+        "Protection de l’environnement et réglementation locale"
+      ],
+      "work_context_fr": "Collectivités, opérateurs d’eau et d’assainissement, bureaux d’études, entreprises de maintenance et projets d’infrastructures; interventions de terrain possibles.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.bls.water-wastewater-operators",
+          "use": "Repère descriptif sur l’exploitation des systèmes d’eau et d’assainissement; contexte américain non transposable."
+        }
+      ],
+      "mapping_note": "Ne pas assimiler ce métier à un ingénieur de conception ou à un opérateur habilité à intervenir sur toute installation; procédures et EPI relèvent de l’employeur et des règles locales.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "purpose_en": "Supports the monitoring of sanitation facilities and services, checks their operation and reports environmental and health risks.",
+      "purpose_es": "Contribuye al seguimiento de instalaciones y servicios de saneamiento, supervisa su funcionamiento y comunica riesgos ambientales y sanitarios.",
+      "missions_en": [
+        "Inspect sanitation structures and equipment within the assigned scope and record their apparent condition.",
+        "Take measurements or samples specified by protocols and transfer samples through the authorized process.",
+        "Monitor operating parameters and record readings in operating logs.",
+        "Identify visible anomalies, blockages or malfunctions and alert the technical manager.",
+        "Help plan maintenance operations and check their documentary traceability.",
+        "Inform users about prevention instructions and contribute to environmental monitoring reports."
+      ],
+      "missions_es": [
+        "Inspeccionar las obras y equipos de saneamiento dentro del ámbito asignado y registrar su estado aparente.",
+        "Realizar mediciones o tomas de muestras previstas por los protocolos y transmitirlas por el circuito autorizado.",
+        "Supervisar los parámetros de funcionamiento y registrar las mediciones en los libros de explotación.",
+        "Identificar anomalías, obstrucciones o fallos visibles y alertar al responsable técnico.",
+        "Participar en la planificación del mantenimiento y comprobar su trazabilidad documental.",
+        "Informar a los usuarios sobre las medidas de prevención y contribuir a los informes de seguimiento ambiental."
+      ],
+      "work_context_en": "Local authorities, water and sanitation operators, consultancies, maintenance companies and infrastructure projects; field work may be required.",
+      "work_context_es": "Entidades locales, operadores de agua y saneamiento, consultoras, empresas de mantenimiento y proyectos de infraestructura; puede requerirse trabajo de campo.",
+      "mapping_note_en": "Do not equate this occupation with a design engineer or a technician authorized to work on every type of installation; procedures and protective equipment are governed by the employer and local rules.",
+      "mapping_note_es": "No debe equipararse esta profesión con la de ingeniero de diseño ni con un operador habilitado para intervenir en cualquier instalación; los procedimientos y equipos de protección dependen del empleador y de las normas locales.",
+      "skills_en": [
+        {
+          "id": "Visual inspection of sanitation facilities",
+          "type": "technical"
+        },
+        {
+          "id": "Measurements and sampling under protocols",
+          "type": "technical"
+        },
+        {
+          "id": "Monitoring operating parameters",
+          "type": "technical"
+        },
+        {
+          "id": "Maintaining technical records",
+          "type": "technical"
+        },
+        {
+          "id": "Preventive communication with service users",
+          "type": "transferable"
+        },
+        {
+          "id": "Identifying and reporting risks",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Principles of collective and non-collective sanitation",
+        "Basic hydraulics and networks",
+        "Wastewater treatment and sludge management",
+        "Hygiene, occupational safety and biological risks",
+        "Environmental protection and local regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Inspección visual de instalaciones de saneamiento",
+          "type": "technical"
+        },
+        {
+          "id": "Mediciones y muestreo conforme a protocolos",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento de parámetros de explotación",
+          "type": "technical"
+        },
+        {
+          "id": "Mantenimiento de registros técnicos",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación preventiva con usuarios",
+          "type": "transferable"
+        },
+        {
+          "id": "Identificación y comunicación de riesgos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de saneamiento colectivo e individual",
+        "Hidráulica básica y redes",
+        "Tratamiento de aguas residuales y gestión de lodos",
+        "Higiene, seguridad laboral y riesgos biológicos",
+        "Protección ambiental y normativa local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.health.technicien-biomedical",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne biomédical",
+      "en_title": "Biomedical Equipment Technician",
+      "purpose_fr": "Assure le suivi technique des équipements médicaux afin de contribuer à leur disponibilité, leur bon fonctionnement et leur utilisation sûre par les professionnels autorisés.",
+      "missions_fr": [
+        "Réceptionner et enregistrer les équipements, accessoires et documents techniques associés.",
+        "Réaliser les contrôles fonctionnels et opérations de maintenance préventive prévus par les notices et procédures approuvées.",
+        "Qualifier les demandes d’intervention et organiser la maintenance corrective dans les limites de compétence.",
+        "Consigner les interventions, résultats de vérification, pièces remplacées et échéances de maintenance.",
+        "Accompagner les utilisateurs sur les bonnes pratiques d’utilisation et transmettre les limites techniques connues.",
+        "Escalader les défauts susceptibles d’affecter la sécurité et contribuer au suivi des alertes et rappels fabricants."
+      ],
+      "skills": [
+        {
+          "id": "Maintenance préventive d’équipements biomédicaux",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic technique encadré",
+          "type": "technical"
+        },
+        {
+          "id": "Lecture de documentation fabricant",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion d’inventaire et de traçabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Communication avec équipes cliniques",
+          "type": "transferable"
+        },
+        {
+          "id": "Priorisation des interventions et gestion des risques",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Principes d’instrumentation et d’électronique appliquée",
+        "Fonctionnement général des dispositifs médicaux",
+        "Métrologie, vérification et maintenance",
+        "Gestion des risques et sécurité électrique",
+        "Traçabilité, réglementation des dispositifs médicaux et vigilance"
+      ],
+      "work_context_fr": "Hôpitaux, cliniques, centres de santé, ateliers biomédicaux, fabricants et prestataires de maintenance; astreintes possibles selon les structures. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.who.health-classification",
+          "use": "Repère de vocabulaire sur les personnels de santé; ne détermine pas les actes autorisés localement."
+        }
+      ],
+      "mapping_note": "Le technicien biomédical ne réalise pas d’actes cliniques; les essais, réparations et remises en service doivent suivre les notices, compétences et exigences locales. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Monitors medical equipment technically to support its availability, correct operation and safe use by authorized healthcare professionals.",
+      "purpose_es": "Realiza el seguimiento técnico de equipos médicos para contribuir a su disponibilidad, correcto funcionamiento y uso seguro por profesionales sanitarios autorizados.",
+      "missions_en": [
+        "Receive and register equipment, accessories and associated technical documents.",
+        "Carry out planned functional checks and preventive maintenance according to manuals and approved procedures.",
+        "Qualify service requests and organize corrective maintenance within the limits of competence.",
+        "Record interventions, verification results, replaced parts and maintenance due dates.",
+        "Support users with good-use practices and explain known technical limitations.",
+        "Escalate defects that may affect safety and contribute to monitoring manufacturer alerts and recalls."
+      ],
+      "missions_es": [
+        "Recibir y registrar equipos, accesorios y documentación técnica asociada.",
+        "Realizar controles funcionales y mantenimiento preventivo previstos conforme a manuales y procedimientos aprobados.",
+        "Clasificar las solicitudes de intervención y organizar el mantenimiento correctivo dentro de los límites de competencia.",
+        "Registrar las intervenciones, los resultados de verificación, las piezas sustituidas y los plazos de mantenimiento.",
+        "Acompañar a los usuarios en buenas prácticas de uso y explicar las limitaciones técnicas conocidas.",
+        "Escalar defectos que puedan afectar a la seguridad y contribuir al seguimiento de alertas y retiradas del fabricante."
+      ],
+      "work_context_en": "Hospitals, clinics, health centres, biomedical workshops, manufacturers and maintenance providers; on-call work may depend on the organization. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "Hospitales, clínicas, centros de salud, talleres biomédicos, fabricantes y proveedores de mantenimiento; las guardias dependen de la organización. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "Biomedical technicians do not perform clinical acts; testing, repair and return to service must follow manuals, competence limits and local requirements. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "El técnico biomédico no realiza actos clínicos; las pruebas, reparaciones y puestas en servicio deben seguir manuales, límites de competencia y requisitos locales. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Preventive maintenance of biomedical equipment",
+          "type": "technical"
+        },
+        {
+          "id": "Supervised technical diagnosis",
+          "type": "technical"
+        },
+        {
+          "id": "Reading manufacturer documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Inventory and traceability management",
+          "type": "technical"
+        },
+        {
+          "id": "Communication with clinical teams",
+          "type": "transferable"
+        },
+        {
+          "id": "Prioritizing interventions and managing risks",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Instrumentation and applied-electronics principles",
+        "General operation of medical devices",
+        "Metrology, verification and maintenance",
+        "Risk management and electrical safety",
+        "Traceability, medical-device regulation and vigilance"
+      ],
+      "skills_es": [
+        {
+          "id": "Mantenimiento preventivo de equipos biomédicos",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico técnico supervisado",
+          "type": "technical"
+        },
+        {
+          "id": "Lectura de documentación del fabricante",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de inventario y trazabilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación con equipos clínicos",
+          "type": "transferable"
+        },
+        {
+          "id": "Priorización de intervenciones y gestión de riesgos",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Principios de instrumentación y electrónica aplicada",
+        "Funcionamiento general de dispositivos médicos",
+        "Metrología, verificación y mantenimiento",
+        "Gestión de riesgos y seguridad eléctrica",
+        "Trazabilidad, normativa de dispositivos médicos y vigilancia"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.health.kinesitherapeute",
+      "profile_version": "0.2",
+      "fr_title": "Kinésithérapeute",
+      "en_title": "Physiotherapist",
+      "purpose_fr": "Évalue les capacités fonctionnelles dans le cadre légal applicable et accompagne les personnes dans la prévention ou la récupération de leurs fonctions motrices et physiques.",
+      "missions_fr": [
+        "Recueillir les informations utiles et prendre connaissance des prescriptions ou orientations lorsque requises.",
+        "Réaliser une évaluation fonctionnelle adaptée aux compétences et au cadre d’exercice.",
+        "Définir des objectifs de prise en charge avec la personne et, si nécessaire, l’équipe pluridisciplinaire.",
+        "Conduire des séances de rééducation et d’exercices thérapeutiques adaptés et réévaluer les progrès.",
+        "Expliquer les exercices, les précautions et les stratégies favorisant l’autonomie au quotidien.",
+        "Documenter les séances, transmettre les informations pertinentes et orienter vers un autre professionnel si nécessaire."
+      ],
+      "skills": [
+        {
+          "id": "Évaluation fonctionnelle et observation du mouvement",
+          "type": "technical"
+        },
+        {
+          "id": "Planification d’objectifs de rééducation",
+          "type": "technical"
+        },
+        {
+          "id": "Conduite d’exercices thérapeutiques adaptés",
+          "type": "technical"
+        },
+        {
+          "id": "Suivi et documentation de prise en charge",
+          "type": "technical"
+        },
+        {
+          "id": "Écoute et communication thérapeutique",
+          "type": "transferable"
+        },
+        {
+          "id": "Travail interprofessionnel et adaptation",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Anatomie et physiologie humaines",
+        "Biomécanique et analyse du mouvement",
+        "Principes de rééducation et de réadaptation",
+        "Évaluation fonctionnelle et suivi des résultats",
+        "Éthique, consentement et cadre réglementaire de la profession"
+      ],
+      "work_context_fr": "Établissements de santé, centres de réadaptation, cabinets, structures sportives ou interventions à domicile selon autorisation; travail en équipe pluridisciplinaire fréquent. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.who.health-classification",
+          "use": "Repère de vocabulaire sur les personnels de santé; ne détermine pas les actes autorisés localement."
+        }
+      ],
+      "mapping_note": "Profession de santé réglementée dans de nombreux pays; titres, prescriptions, actes et conditions d’exercice doivent être vérifiés dans chaque juridiction. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Assesses functional abilities within the applicable legal framework and supports people in preventing or recovering motor and physical functions.",
+      "purpose_es": "Evalúa las capacidades funcionales dentro del marco legal aplicable y acompaña a las personas en la prevención o recuperación de sus funciones motrices y físicas.",
+      "missions_en": [
+        "Collect relevant information and review prescriptions or referrals when required.",
+        "Carry out a functional assessment suited to professional competence and scope of practice.",
+        "Define care goals with the person and, where needed, the multidisciplinary team.",
+        "Deliver suitable rehabilitation and therapeutic-exercise sessions and reassess progress.",
+        "Explain exercises, precautions and strategies that support everyday autonomy.",
+        "Document sessions, share relevant information and refer to another professional when necessary."
+      ],
+      "missions_es": [
+        "Recopilar información pertinente y consultar prescripciones u orientaciones cuando sean necesarias.",
+        "Realizar una evaluación funcional adecuada a las competencias y al ámbito de ejercicio.",
+        "Definir objetivos de atención con la persona y, cuando sea necesario, con el equipo multidisciplinar.",
+        "Realizar sesiones adecuadas de rehabilitación y ejercicio terapéutico y reevaluar los progresos.",
+        "Explicar ejercicios, precauciones y estrategias que favorezcan la autonomía cotidiana.",
+        "Documentar las sesiones, transmitir información pertinente y derivar a otro profesional cuando sea necesario."
+      ],
+      "work_context_en": "Healthcare facilities, rehabilitation centres, private practices, sports structures or home visits where authorized; multidisciplinary teamwork is common. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "Centros sanitarios, centros de rehabilitación, consultas, estructuras deportivas o atención domiciliaria cuando esté autorizada; el trabajo multidisciplinar es frecuente. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "A regulated healthcare profession in many countries; titles, prescriptions, reserved acts and practice conditions must be checked in each jurisdiction. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "Profesión sanitaria regulada en numerosos países; deben verificarse en cada jurisdicción los títulos, prescripciones, actos reservados y condiciones de ejercicio. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Functional assessment and movement observation",
+          "type": "technical"
+        },
+        {
+          "id": "Setting rehabilitation goals",
+          "type": "technical"
+        },
+        {
+          "id": "Delivering adapted therapeutic exercises",
+          "type": "technical"
+        },
+        {
+          "id": "Care monitoring and documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Listening and therapeutic communication",
+          "type": "transferable"
+        },
+        {
+          "id": "Interprofessional teamwork and adaptation",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Human anatomy and physiology",
+        "Biomechanics and movement analysis",
+        "Rehabilitation principles and methods",
+        "Functional assessment and outcome monitoring",
+        "Ethics, consent and professional regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Evaluación funcional y observación del movimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Definición de objetivos de rehabilitación",
+          "type": "technical"
+        },
+        {
+          "id": "Realización de ejercicios terapéuticos adaptados",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento y documentación de la atención",
+          "type": "technical"
+        },
+        {
+          "id": "Escucha y comunicación terapéutica",
+          "type": "transferable"
+        },
+        {
+          "id": "Trabajo interprofesional y adaptación",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Anatomía y fisiología humanas",
+        "Biomecánica y análisis del movimiento",
+        "Principios y métodos de rehabilitación",
+        "Evaluación funcional y seguimiento de resultados",
+        "Ética, consentimiento y regulación profesional"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.health.dieteticien",
+      "profile_version": "0.2",
+      "fr_title": "Diététicien / Diététicienne",
+      "en_title": "Dietitian",
+      "purpose_fr": "Accompagne les personnes ou collectivités dans l’organisation de l’alimentation et la qualité nutritionnelle des repas, dans les limites de son champ de compétence et du cadre local.",
+      "missions_fr": [
+        "Recueillir les habitudes alimentaires, besoins déclarés et contraintes pertinentes avec le consentement de la personne.",
+        "Analyser les apports et pratiques alimentaires à l’aide de méthodes adaptées au contexte.",
+        "Construire des propositions alimentaires individualisées ou collectives selon les objectifs convenus.",
+        "Contribuer à l’élaboration de menus et à l’évaluation de leur équilibre et de leur faisabilité.",
+        "Mener des actions d’éducation nutritionnelle avec des messages compréhensibles et culturellement adaptés.",
+        "Suivre les résultats, documenter les conseils et orienter vers un professionnel de santé lorsque nécessaire."
+      ],
+      "skills": [
+        {
+          "id": "Évaluation des habitudes alimentaires",
+          "type": "technical"
+        },
+        {
+          "id": "Élaboration de recommandations nutritionnelles",
+          "type": "technical"
+        },
+        {
+          "id": "Planification de menus et portions",
+          "type": "technical"
+        },
+        {
+          "id": "Animation d’éducation nutritionnelle",
+          "type": "technical"
+        },
+        {
+          "id": "Écoute et adaptation culturelle des conseils",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation et travail en équipe",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Nutrition humaine et besoins selon les étapes de vie",
+        "Composition des aliments et pratiques culinaires",
+        "Évaluation alimentaire et planification des menus",
+        "Hygiène et sécurité sanitaire des aliments",
+        "Éthique, santé publique et réglementation professionnelle locale"
+      ],
+      "work_context_fr": "Hôpitaux, établissements médico-sociaux, restauration collective, structures de santé publique, cabinets ou programmes communautaires selon le cadre national. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.who.health-classification",
+          "use": "Repère de vocabulaire sur les personnels de santé; ne détermine pas les actes autorisés localement."
+        }
+      ],
+      "mapping_note": "Ne pas confondre conseil diététique et diagnostic ou prescription médicale; les titres protégés et champs d’exercice varient selon les pays. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Supports individuals or groups in organizing food choices and nutritional quality within the limits of professional competence and the local framework.",
+      "purpose_es": "Acompaña a personas o colectivos en la organización de la alimentación y la calidad nutricional dentro de los límites de su competencia y del marco local.",
+      "missions_en": [
+        "Gather eating habits, stated needs and relevant constraints with the person’s consent.",
+        "Assess dietary intake and practices using methods suited to the context.",
+        "Develop individualized or group food recommendations based on agreed goals.",
+        "Contribute to menu development and assess nutritional balance and feasibility.",
+        "Lead nutrition-education activities using understandable and culturally appropriate messages.",
+        "Monitor outcomes, document advice and refer to a healthcare professional when needed."
+      ],
+      "missions_es": [
+        "Recopilar hábitos alimentarios, necesidades expresadas y limitaciones pertinentes con el consentimiento de la persona.",
+        "Evaluar la ingesta y las prácticas alimentarias mediante métodos adecuados al contexto.",
+        "Elaborar propuestas alimentarias individuales o colectivas según los objetivos acordados.",
+        "Contribuir a elaborar menús y evaluar su equilibrio nutricional y viabilidad.",
+        "Realizar actividades de educación nutricional con mensajes comprensibles y adaptados culturalmente.",
+        "Hacer seguimiento de los resultados, documentar los consejos y orientar hacia un profesional sanitario cuando sea necesario."
+      ],
+      "work_context_en": "Hospitals, social-care facilities, collective catering, public-health structures, practices and community programmes, according to the national framework. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "Hospitales, centros sociosanitarios, restauración colectiva, estructuras de salud pública, consultas y programas comunitarios, según el marco nacional. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "Do not confuse dietary advice with medical diagnosis or prescribing; protected titles and scopes of practice vary by country. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "No debe confundirse el asesoramiento dietético con el diagnóstico o la prescripción médica; los títulos protegidos y ámbitos de ejercicio varían según el país. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Assessing eating habits",
+          "type": "technical"
+        },
+        {
+          "id": "Developing nutrition recommendations",
+          "type": "technical"
+        },
+        {
+          "id": "Menu and portion planning",
+          "type": "technical"
+        },
+        {
+          "id": "Leading nutrition-education activities",
+          "type": "technical"
+        },
+        {
+          "id": "Listening and culturally adapting advice",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation and teamwork",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Human nutrition and needs across life stages",
+        "Food composition and culinary practices",
+        "Dietary assessment and menu planning",
+        "Food hygiene and safety",
+        "Ethics, public health and local professional regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Evaluación de hábitos alimentarios",
+          "type": "technical"
+        },
+        {
+          "id": "Elaboración de recomendaciones nutricionales",
+          "type": "technical"
+        },
+        {
+          "id": "Planificación de menús y porciones",
+          "type": "technical"
+        },
+        {
+          "id": "Dirección de actividades de educación nutricional",
+          "type": "technical"
+        },
+        {
+          "id": "Escucha y adaptación cultural de recomendaciones",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentación y trabajo en equipo",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Nutrición humana y necesidades según las etapas de la vida",
+        "Composición de alimentos y prácticas culinarias",
+        "Evaluación alimentaria y planificación de menús",
+        "Higiene y seguridad alimentaria",
+        "Ética, salud pública y regulación profesional local"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.health.ambulancier",
+      "profile_version": "0.2",
+      "fr_title": "Ambulancier / Ambulancière",
+      "en_title": "Emergency Medical Transport Technician",
+      "purpose_fr": "Assure le transport sanitaire et contribue à la prise en charge préhospitalière dans les limites de sa formation, des protocoles et des autorisations locales.",
+      "missions_fr": [
+        "Préparer le véhicule, le matériel et les documents nécessaires à la mission de transport.",
+        "Vérifier l’état apparent du matériel et signaler les anomalies avant le départ.",
+        "Accueillir et installer la personne transportée avec respect, sécurité et confidentialité.",
+        "Assurer la surveillance et l’assistance correspondant à son niveau de qualification et aux protocoles applicables.",
+        "Communiquer les informations utiles à la régulation et à l’équipe receveuse selon les règles de transmission.",
+        "Nettoyer, réapprovisionner et tracer les opérations réalisées après chaque transport."
+      ],
+      "skills": [
+        {
+          "id": "Préparation et vérification du véhicule sanitaire",
+          "type": "technical"
+        },
+        {
+          "id": "Installation et accompagnement du patient",
+          "type": "technical"
+        },
+        {
+          "id": "Surveillance dans le cadre de compétence",
+          "type": "technical"
+        },
+        {
+          "id": "Transmission structurée des informations",
+          "type": "technical"
+        },
+        {
+          "id": "Conduite prudente et gestion du temps",
+          "type": "transferable"
+        },
+        {
+          "id": "Empathie, discrétion et maîtrise relationnelle",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Organisation des transports sanitaires et chaîne de secours",
+        "Notions de premiers secours correspondant à la qualification",
+        "Hygiène, prévention des infections et nettoyage du matériel",
+        "Communication, confidentialité et droits des patients",
+        "Réglementation du transport sanitaire et protocoles locaux"
+      ],
+      "work_context_fr": "Entreprises de transport sanitaire, hôpitaux, services d’urgence ou organismes publics; horaires variables et travail en équipe. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.who.health-classification",
+          "use": "Repère de vocabulaire sur les personnels de santé; ne détermine pas les actes autorisés localement."
+        }
+      ],
+      "mapping_note": "Les gestes de soins, médicaments, équipements et responsabilités cliniques ne doivent jamais dépasser la qualification, les protocoles et le droit local. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Provides medical transport and contributes to pre-hospital support within the limits of training, protocols and local authorizations.",
+      "purpose_es": "Presta transporte sanitario y contribuye a la atención prehospitalaria dentro de los límites de su formación, los protocolos y las autorizaciones locales.",
+      "missions_en": [
+        "Prepare the vehicle, equipment and documents required for the transport assignment.",
+        "Check the apparent condition of equipment and report anomalies before departure.",
+        "Welcome and position the person being transported with respect, safety and confidentiality.",
+        "Provide monitoring and assistance appropriate to the qualification level and applicable protocols.",
+        "Communicate relevant information to dispatch and receiving teams under the applicable handover rules.",
+        "Clean and restock equipment and record operations after each transport."
+      ],
+      "missions_es": [
+        "Preparar el vehículo, el material y los documentos necesarios para el transporte.",
+        "Comprobar el estado aparente del material y comunicar anomalías antes de salir.",
+        "Recibir y acomodar a la persona transportada con respeto, seguridad y confidencialidad.",
+        "Realizar la vigilancia y asistencia correspondientes al nivel de cualificación y a los protocolos aplicables.",
+        "Transmitir la información pertinente a regulación y al equipo receptor conforme a las normas de comunicación.",
+        "Limpiar y reponer el material y registrar las operaciones después de cada transporte."
+      ],
+      "work_context_en": "Medical-transport companies, hospitals, emergency services and public organizations; schedules vary and teamwork is common. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "Empresas de transporte sanitario, hospitales, servicios de urgencias y organismos públicos; los horarios varían y el trabajo en equipo es habitual. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "Care procedures, medicines, equipment and clinical responsibilities must never exceed the qualification, protocols and local law. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "Los actos asistenciales, medicamentos, equipos y responsabilidades clínicas nunca deben exceder la cualificación, los protocolos y la legislación local. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Preparing and checking the medical vehicle",
+          "type": "technical"
+        },
+        {
+          "id": "Positioning and supporting the patient",
+          "type": "technical"
+        },
+        {
+          "id": "Monitoring within the scope of competence",
+          "type": "technical"
+        },
+        {
+          "id": "Structured handover of information",
+          "type": "technical"
+        },
+        {
+          "id": "Safe driving and time management",
+          "type": "transferable"
+        },
+        {
+          "id": "Empathy, discretion and interpersonal skills",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Organization of medical transport and emergency-response systems",
+        "First-aid principles corresponding to the qualification",
+        "Hygiene, infection prevention and equipment cleaning",
+        "Communication, confidentiality and patient rights",
+        "Medical-transport regulation and local protocols"
+      ],
+      "skills_es": [
+        {
+          "id": "Preparación y comprobación del vehículo sanitario",
+          "type": "technical"
+        },
+        {
+          "id": "Acomodación y acompañamiento del paciente",
+          "type": "technical"
+        },
+        {
+          "id": "Vigilancia dentro del ámbito de competencia",
+          "type": "technical"
+        },
+        {
+          "id": "Transmisión estructurada de información",
+          "type": "technical"
+        },
+        {
+          "id": "Conducción prudente y gestión del tiempo",
+          "type": "transferable"
+        },
+        {
+          "id": "Empatía, discreción y habilidades interpersonales",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Organización del transporte sanitario y cadena de emergencias",
+        "Principios de primeros auxilios correspondientes a la cualificación",
+        "Higiene, prevención de infecciones y limpieza de equipos",
+        "Comunicación, confidencialidad y derechos de los pacientes",
+        "Normativa de transporte sanitario y protocolos locales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.social.educateur-specialise",
+      "profile_version": "0.2",
+      "fr_title": "Éducateur spécialisé / Éducatrice spécialisée",
+      "en_title": "Special Needs / Social Educator",
+      "purpose_fr": "Accompagne des personnes confrontées à des difficultés sociales, éducatives ou d’autonomie en construisant avec elles des objectifs d’inclusion et de participation.",
+      "missions_fr": [
+        "Accueillir la personne et recueillir ses attentes, ressources et besoins dans une relation respectueuse.",
+        "Contribuer à l’évaluation de la situation avec l’équipe et les partenaires concernés.",
+        "Co-construire un projet d’accompagnement avec des objectifs réalistes et révisables.",
+        "Organiser des activités éducatives favorisant l’autonomie, les compétences sociales et la participation.",
+        "Observer les évolutions, documenter les faits utiles et ajuster l’accompagnement avec l’équipe.",
+        "Faciliter les liens avec les familles, services et ressources communautaires dans le respect du consentement."
+      ],
+      "skills": [
+        {
+          "id": "Élaboration de projets d’accompagnement",
+          "type": "technical"
+        },
+        {
+          "id": "Animation d’activités éducatives",
+          "type": "technical"
+        },
+        {
+          "id": "Observation et rédaction professionnelle",
+          "type": "technical"
+        },
+        {
+          "id": "Médiation et communication relationnelle",
+          "type": "transferable"
+        },
+        {
+          "id": "Travail en réseau et coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Respect des droits et posture éthique",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Développement humain et apprentissages",
+        "Inclusion, handicap et participation sociale",
+        "Méthodes d’accompagnement éducatif",
+        "Protection des personnes et prévention des violences",
+        "Éthique, confidentialité et politiques sociales locales"
+      ],
+      "work_context_fr": "Établissements sociaux et médico-sociaux, services éducatifs, associations, structures communautaires et dispositifs d’accompagnement; travail d’équipe fréquent. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.bls.social-workers",
+          "use": "Repère adjacent sur les pratiques de services sociaux; les rôles ne sont pas équivalents et le contexte est américain."
+        }
+      ],
+      "mapping_note": "Le profil ne remplace pas les qualifications spécifiques requises pour la protection de l’enfance, les soins ou les interventions réglementées. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Supports people facing social, educational or autonomy-related difficulties by developing inclusion and participation goals with them.",
+      "purpose_es": "Acompaña a personas que afrontan dificultades sociales, educativas o de autonomía, construyendo con ellas objetivos de inclusión y participación.",
+      "missions_en": [
+        "Welcome the person and understand their expectations, resources and needs in a respectful relationship.",
+        "Contribute to assessing the situation with the team and relevant partners.",
+        "Co-develop a support plan with realistic and revisable objectives.",
+        "Organize educational activities that support autonomy, social skills and participation.",
+        "Observe changes, document relevant facts and adjust support with the team.",
+        "Facilitate links with families, services and community resources while respecting consent."
+      ],
+      "missions_es": [
+        "Recibir a la persona y conocer sus expectativas, recursos y necesidades mediante una relación respetuosa.",
+        "Contribuir a evaluar la situación con el equipo y los colaboradores pertinentes.",
+        "Construir conjuntamente un proyecto de acompañamiento con objetivos realistas y revisables.",
+        "Organizar actividades educativas que favorezcan la autonomía, las competencias sociales y la participación.",
+        "Observar la evolución, documentar hechos pertinentes y adaptar el acompañamiento con el equipo.",
+        "Facilitar los vínculos con familias, servicios y recursos comunitarios respetando el consentimiento."
+      ],
+      "work_context_en": "Social and social-care facilities, educational services, associations, community structures and support programmes; teamwork is common. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "Centros sociales y sociosanitarios, servicios educativos, asociaciones, estructuras comunitarias y programas de acompañamiento; el trabajo en equipo es frecuente. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "This profile does not replace specific qualifications required for child protection, healthcare or regulated interventions. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "Este perfil no sustituye las cualificaciones específicas exigidas para protección de menores, atención sanitaria o intervenciones reguladas. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Developing support plans",
+          "type": "technical"
+        },
+        {
+          "id": "Leading educational activities",
+          "type": "technical"
+        },
+        {
+          "id": "Observation and professional documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Mediation and interpersonal communication",
+          "type": "transferable"
+        },
+        {
+          "id": "Network collaboration and coordination",
+          "type": "transferable"
+        },
+        {
+          "id": "Respect for rights and ethical practice",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Human development and learning",
+        "Inclusion, disability and social participation",
+        "Educational-support methods",
+        "Protection of people and prevention of violence",
+        "Ethics, confidentiality and local social policies"
+      ],
+      "skills_es": [
+        {
+          "id": "Elaboración de proyectos de acompañamiento",
+          "type": "technical"
+        },
+        {
+          "id": "Dirección de actividades educativas",
+          "type": "technical"
+        },
+        {
+          "id": "Observación y documentación profesional",
+          "type": "technical"
+        },
+        {
+          "id": "Mediación y comunicación interpersonal",
+          "type": "transferable"
+        },
+        {
+          "id": "Trabajo en red y coordinación",
+          "type": "transferable"
+        },
+        {
+          "id": "Respeto de derechos y postura ética",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Desarrollo humano y aprendizaje",
+        "Inclusión, discapacidad y participación social",
+        "Métodos de acompañamiento educativo",
+        "Protección de personas y prevención de la violencia",
+        "Ética, confidencialidad y políticas sociales locales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.social.coordinateur-humanitaire",
+      "profile_version": "0.2",
+      "fr_title": "Coordinateur / Coordinatrice de projet humanitaire",
+      "en_title": "Humanitarian Project Coordinator",
+      "purpose_fr": "Planifie et coordonne un projet d’assistance avec les équipes et partenaires afin de répondre à des besoins identifiés, tout en assurant le suivi des ressources, des résultats et des principes humanitaires.",
+      "missions_fr": [
+        "Contribuer à l’analyse des besoins et à la formulation des objectifs avec les communautés et partenaires.",
+        "Préparer le plan de travail, le calendrier, le budget opérationnel et la répartition des responsabilités.",
+        "Coordonner les activités et les échanges entre équipes terrain, fonctions support et partenaires.",
+        "Suivre les indicateurs, les dépenses, les risques et les écarts par rapport au plan approuvé.",
+        "Veiller à la qualité des retours communautaires, à la redevabilité et à la prise en compte des personnes vulnérables.",
+        "Consolider les rapports, documenter les apprentissages et proposer des ajustements au responsable du programme."
+      ],
+      "skills": [
+        {
+          "id": "Planification et suivi de projet",
+          "type": "technical"
+        },
+        {
+          "id": "Coordination d’équipes et partenaires",
+          "type": "technical"
+        },
+        {
+          "id": "Suivi budgétaire et indicateurs",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de besoins et redevabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Communication interculturelle",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestion des priorités et résolution de problèmes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Cycle de gestion de projet et cadre logique",
+        "Principes humanitaires et redevabilité envers les populations",
+        "Suivi-évaluation et gestion des données",
+        "Budgétisation, achats et gestion des risques",
+        "Protection, inclusion, sécurité et coordination sectorielle"
+      ],
+      "work_context_fr": "ONG nationales et internationales, agences humanitaires, organisations communautaires et programmes de développement; déplacements et environnements changeants possibles. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.ilo.future-skills",
+          "use": "Repère général sur les compétences et l’apprentissage au travail; ne constitue pas un référentiel humanitaire."
+        }
+      ],
+      "mapping_note": "Les décisions de sécurité, de protection, de distribution et de gestion de données sensibles doivent suivre les politiques de l’organisation et les cadres applicables; aucune procédure opérationnelle de terrain n’est présumée. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Plans and coordinates an assistance project with teams and partners to address identified needs while monitoring resources, results and humanitarian principles.",
+      "purpose_es": "Planifica y coordina un proyecto de asistencia con equipos y colaboradores para responder a necesidades identificadas y supervisar recursos, resultados y principios humanitarios.",
+      "missions_en": [
+        "Contribute to needs analysis and objective-setting with communities and partners.",
+        "Prepare the work plan, schedule, operating budget and allocation of responsibilities.",
+        "Coordinate activities and communication between field teams, support functions and partners.",
+        "Monitor indicators, expenditure, risks and deviations from the approved plan.",
+        "Promote quality community feedback, accountability and consideration of vulnerable people.",
+        "Consolidate reports, document lessons and propose adjustments to the programme manager."
+      ],
+      "missions_es": [
+        "Contribuir al análisis de necesidades y a la definición de objetivos con las comunidades y los colaboradores.",
+        "Preparar el plan de trabajo, el calendario, el presupuesto operativo y la distribución de responsabilidades.",
+        "Coordinar las actividades y los intercambios entre equipos de terreno, funciones de apoyo y colaboradores.",
+        "Supervisar indicadores, gastos, riesgos y desviaciones respecto al plan aprobado.",
+        "Velar por la calidad de la retroalimentación comunitaria, la rendición de cuentas y la consideración de las personas vulnerables.",
+        "Consolidar informes, documentar aprendizajes y proponer ajustes al responsable del programa."
+      ],
+      "work_context_en": "National and international NGOs, humanitarian agencies, community organizations and development programmes; travel and changing environments may be involved. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "ONG nacionales e internacionales, agencias humanitarias, organizaciones comunitarias y programas de desarrollo; puede haber desplazamientos y entornos cambiantes. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "Security, protection, distribution and sensitive-data decisions must follow organizational policies and applicable frameworks; no field-operational procedure is presumed. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "Las decisiones de seguridad, protección, distribución y gestión de datos sensibles deben seguir las políticas de la organización y los marcos aplicables; no se presume ningún procedimiento operativo de terreno. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Project planning and monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Team and partner coordination",
+          "type": "technical"
+        },
+        {
+          "id": "Budget and indicator monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Needs analysis and accountability",
+          "type": "technical"
+        },
+        {
+          "id": "Intercultural communication",
+          "type": "transferable"
+        },
+        {
+          "id": "Priority management and problem-solving",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Project-management cycle and logical framework",
+        "Humanitarian principles and accountability to affected populations",
+        "Monitoring, evaluation and data management",
+        "Budgeting, procurement and risk management",
+        "Protection, inclusion, safety and sector coordination"
+      ],
+      "skills_es": [
+        {
+          "id": "Planificación y seguimiento de proyectos",
+          "type": "technical"
+        },
+        {
+          "id": "Coordinación de equipos y colaboradores",
+          "type": "technical"
+        },
+        {
+          "id": "Seguimiento presupuestario e indicadores",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de necesidades y rendición de cuentas",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación intercultural",
+          "type": "transferable"
+        },
+        {
+          "id": "Gestión de prioridades y resolución de problemas",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Ciclo de gestión de proyectos y marco lógico",
+        "Principios humanitarios y rendición de cuentas ante las poblaciones afectadas",
+        "Seguimiento, evaluación y gestión de datos",
+        "Presupuestación, compras y gestión de riesgos",
+        "Protección, inclusión, seguridad y coordinación sectorial"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.edu.conseiller-orientation",
+      "profile_version": "0.2",
+      "fr_title": "Conseiller / Conseillère d’orientation",
+      "en_title": "Career Guidance Counsellor",
+      "purpose_fr": "Aide les personnes à mieux comprendre leurs intérêts, compétences et possibilités de formation ou d’emploi afin de construire des choix d’orientation informés et évolutifs.",
+      "missions_fr": [
+        "Présenter le cadre de l’accompagnement, ses limites, la confidentialité et le rôle actif de la personne.",
+        "Explorer le parcours, les intérêts, les compétences, les contraintes et les aspirations de la personne.",
+        "Utiliser des outils d’information ou d’exploration adaptés sans les présenter comme des diagnostics définitifs.",
+        "Présenter des options de formation, métiers et passerelles à partir de sources vérifiables et datées.",
+        "Aider à comparer les options, définir des étapes et préparer un plan d’action réaliste.",
+        "Assurer le suivi, actualiser les informations et orienter vers des services spécialisés si nécessaire."
+      ],
+      "skills": [
+        {
+          "id": "Entretien d’orientation et écoute active",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse de parcours et compétences",
+          "type": "technical"
+        },
+        {
+          "id": "Recherche et vérification d’informations métiers",
+          "type": "technical"
+        },
+        {
+          "id": "Animation d’ateliers d’orientation",
+          "type": "technical"
+        },
+        {
+          "id": "Facilitation de décision sans imposer de choix",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidentialité et posture non discriminante",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge": [
+        "Développement de carrière et transitions professionnelles",
+        "Métiers, secteurs et systèmes de formation",
+        "Techniques d’entretien et accompagnement",
+        "Évaluation des compétences et limites des outils psychométriques",
+        "Éthique, inclusion et protection des données personnelles"
+      ],
+      "work_context_fr": "Établissements scolaires, universités, services publics de l’emploi, associations, centres de formation ou cabinets spécialisés; accompagnement individuel et collectif. Le périmètre concret dépend de la taille de la structure, de l’organisation du travail, des équipements disponibles et des règles nationales; les responsabilités doivent être confirmées auprès de l’employeur et des autorités compétentes.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.ilo.future-skills",
+          "use": "Repère sur l’apprentissage tout au long de la vie et l’évolution des compétences."
+        }
+      ],
+      "mapping_note": "Les tests d’intérêts ou de personnalité ne doivent pas être présentés comme des verdicts; les titres de psychologue et actes réservés ne sont pas inclus dans ce profil. Pour le rapprochement ESCO/ISCO-08/O*NET, classer selon les tâches réellement exercées et le niveau de responsabilité, et non sur le seul intitulé. Toute correspondance demeure indicative tant que le code, la version, le périmètre et les conditions de réutilisation n’ont pas été vérifiés.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 4,
+      "purpose_en": "Helps people understand their interests, skills and training or employment options so they can make informed and evolving career decisions.",
+      "purpose_es": "Ayuda a las personas a comprender sus intereses, competencias y opciones de formación o empleo para tomar decisiones de orientación informadas y evolutivas.",
+      "missions_en": [
+        "Explain the support framework, its limits, confidentiality and the person’s active role.",
+        "Explore the person’s background, interests, skills, constraints and aspirations.",
+        "Use suitable information or exploration tools without presenting them as definitive diagnoses.",
+        "Present training, occupation and transition options using verifiable and dated sources.",
+        "Help compare options, define steps and prepare a realistic action plan.",
+        "Follow up, update information and refer to specialist services when necessary."
+      ],
+      "missions_es": [
+        "Explicar el marco del acompañamiento, sus límites, la confidencialidad y el papel activo de la persona.",
+        "Explorar la trayectoria, los intereses, las competencias, las limitaciones y las aspiraciones de la persona.",
+        "Utilizar herramientas adecuadas de información o exploración sin presentarlas como diagnósticos definitivos.",
+        "Presentar opciones de formación, profesiones y transiciones a partir de fuentes verificables y fechadas.",
+        "Ayudar a comparar opciones, definir etapas y preparar un plan de acción realista.",
+        "Realizar seguimiento, actualizar la información y orientar hacia servicios especializados cuando sea necesario."
+      ],
+      "work_context_en": "Schools, universities, public employment services, associations, training centres and specialist practices; individual and group support. The actual scope depends on facility size, work organization, available equipment and national rules; responsibilities must be confirmed with the employer and competent authorities.",
+      "work_context_es": "Centros educativos, universidades, servicios públicos de empleo, asociaciones, centros de formación y consultas especializadas; acompañamiento individual y colectivo. El ámbito concreto depende del tamaño del centro, la organización del trabajo, los equipos disponibles y las normas nacionales; las responsabilidades deben confirmarse con el empleador y las autoridades competentes.",
+      "mapping_note_en": "Interest or personality tests must not be presented as verdicts; psychologist titles and reserved acts are outside this profile. For ESCO/ISCO-08/O*NET mapping, classify according to actual tasks and responsibility level, not title alone. Any mapping remains indicative until code, version, scope and reuse conditions are verified.",
+      "mapping_note_es": "Las pruebas de intereses o personalidad no deben presentarse como veredictos; los títulos de psicólogo y los actos reservados quedan fuera de este perfil. Para la correspondencia ESCO/ISCO-08/O*NET, clasificar según las tareas reales y el nivel de responsabilidad, no solo por el título. Toda correspondencia sigue siendo indicativa hasta verificar código, versión, alcance y condiciones de reutilización.",
+      "skills_en": [
+        {
+          "id": "Career-guidance interviews and active listening",
+          "type": "technical"
+        },
+        {
+          "id": "Career-path and skills analysis",
+          "type": "technical"
+        },
+        {
+          "id": "Research and verification of career information",
+          "type": "technical"
+        },
+        {
+          "id": "Leading career-guidance workshops",
+          "type": "technical"
+        },
+        {
+          "id": "Facilitating decisions without imposing choices",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidentiality and non-discriminatory practice",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_en": [
+        "Career development and professional transitions",
+        "Occupations, sectors and training systems",
+        "Interviewing and support methods",
+        "Skills assessment and limits of psychometric tools",
+        "Ethics, inclusion and personal-data protection"
+      ],
+      "skills_es": [
+        {
+          "id": "Entrevistas de orientación y escucha activa",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de trayectorias y competencias",
+          "type": "technical"
+        },
+        {
+          "id": "Búsqueda y verificación de información profesional",
+          "type": "technical"
+        },
+        {
+          "id": "Dirección de talleres de orientación",
+          "type": "technical"
+        },
+        {
+          "id": "Facilitación de decisiones sin imponer elecciones",
+          "type": "transferable"
+        },
+        {
+          "id": "Confidencialidad y postura no discriminatoria",
+          "type": "knowledge"
+        }
+      ],
+      "knowledge_es": [
+        "Desarrollo profesional y transiciones laborales",
+        "Profesiones, sectores y sistemas de formación",
+        "Técnicas de entrevista y acompañamiento",
+        "Evaluación de competencias y límites de herramientas psicométricas",
+        "Ética, inclusión y protección de datos personales"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.technicien-chimiste",
+      "profile_version": "0.2",
+      "fr_title": "Technicien / Technicienne chimiste",
+      "en_title": "Chemical Laboratory Technician",
+      "purpose_fr": "Prépare et réalise des opérations d’analyse et d’essai en laboratoire selon des méthodes validées, en assurant la qualité des résultats, la traçabilité et la sécurité.",
+      "missions_fr": [
+        "Préparer les échantillons, réactifs et matériels conformément aux procédures documentées.",
+        "Réaliser des analyses ou essais courants dans les limites de sa formation et des méthodes autorisées.",
+        "Utiliser, vérifier et entretenir les équipements de laboratoire selon les consignes applicables.",
+        "Enregistrer les données brutes, observations, calculs et résultats de contrôle de qualité.",
+        "Appliquer les règles de stockage, d’étiquetage, de gestion des déchets et de prévention des expositions.",
+        "Signaler les résultats atypiques, incidents ou écarts de méthode au responsable du laboratoire."
+      ],
+      "skills": [
+        {
+          "id": "Préparation d’échantillons et solutions selon protocole",
+          "type": "technical"
+        },
+        {
+          "id": "Réalisation d’essais analytiques courants",
+          "type": "technical"
+        },
+        {
+          "id": "Utilisation et vérification d’instruments",
+          "type": "technical"
+        },
+        {
+          "id": "Traçabilité et gestion documentaire",
+          "type": "technical"
+        },
+        {
+          "id": "Application des règles de laboratoire",
+          "type": "knowledge"
+        },
+        {
+          "id": "Rigueur et signalement des écarts",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Chimie générale et analytique",
+        "Techniques instrumentales et méthodes de mesure",
+        "Échantillonnage, préparation et conservation des échantillons",
+        "Assurance qualité et validation des méthodes",
+        "Hygiène, sécurité chimique et gestion des déchets"
+      ],
+      "work_context_fr": "Laboratoires de contrôle, production industrielle, environnement, enseignement ou recherche. Les tâches dépendent des méthodes analytiques, des substances manipulées, des équipements et du niveau de supervision; appliquer les procédures de laboratoire, la traçabilité, la gestion des déchets et les règles locales de santé-sécurité.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.bls.biological-technicians",
+          "use": "Repère complémentaire sur les pratiques de laboratoire biologique; à adapter aux règles locales."
+        }
+      ],
+      "mapping_note": "Distinguer les fonctions de préparation, d’analyse, de contrôle qualité et de recherche selon les méthodes réellement utilisées. Les classifications internationales peuvent regrouper différemment les techniciens de laboratoire et les chimistes; vérifier le niveau de qualification, l’autonomie et les substances concernées. Les autorisations de manipulation et règles environnementales sont nationales.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 5,
+      "purpose_en": "Prepares and carries out laboratory analyses and tests using validated methods while ensuring result quality, traceability and safety.",
+      "purpose_es": "Prepara y realiza análisis y ensayos de laboratorio mediante métodos validados, garantizando la calidad de los resultados, la trazabilidad y la seguridad.",
+      "missions_en": [
+        "Prepare samples, reagents and equipment in accordance with documented procedures.",
+        "Carry out routine analyses or tests within the limits of training and authorized methods.",
+        "Use, check and maintain laboratory equipment according to applicable instructions.",
+        "Record raw data, observations, calculations and quality-control results.",
+        "Apply storage, labelling, waste-management and exposure-prevention rules.",
+        "Report unusual results, incidents or method deviations to the laboratory manager."
+      ],
+      "missions_es": [
+        "Preparar muestras, reactivos y equipos conforme a los procedimientos documentados.",
+        "Realizar análisis o ensayos habituales dentro de los límites de la formación y de los métodos autorizados.",
+        "Utilizar, verificar y mantener los equipos de laboratorio conforme a las instrucciones aplicables.",
+        "Registrar datos brutos, observaciones, cálculos y resultados de control de calidad.",
+        "Aplicar las normas de almacenamiento, etiquetado, gestión de residuos y prevención de exposiciones.",
+        "Comunicar resultados atípicos, incidentes o desviaciones de método al responsable del laboratorio."
+      ],
+      "work_context_en": "Testing laboratories, industrial production, environmental services, education and research. Tasks depend on analytical methods, substances handled, equipment and supervision level; follow laboratory procedures, traceability, waste-management and local health-and-safety rules.",
+      "work_context_es": "Laboratorios de control, producción industrial, medio ambiente, enseñanza e investigación. Las tareas dependen de los métodos analíticos, las sustancias utilizadas, los equipos y el nivel de supervisión; deben respetarse los procedimientos de laboratorio, la trazabilidad, la gestión de residuos y las normas locales de salud y seguridad.",
+      "mapping_note_en": "Distinguish sample preparation, analysis, quality control and research according to the methods actually used. International classifications may group laboratory technicians and chemists differently; check qualification level, autonomy and substances involved. Handling authorizations and environmental rules are national.",
+      "mapping_note_es": "Distinguir la preparación de muestras, el análisis, el control de calidad y la investigación según los métodos realmente utilizados. Las clasificaciones internacionales pueden agrupar de forma diferente a técnicos de laboratorio y químicos; deben comprobarse el nivel de cualificación, la autonomía y las sustancias implicadas. Las autorizaciones de manipulación y las normas ambientales son nacionales.",
+      "skills_en": [
+        {
+          "id": "Preparing samples and solutions under procedures",
+          "type": "technical"
+        },
+        {
+          "id": "Performing routine analytical tests",
+          "type": "technical"
+        },
+        {
+          "id": "Using and checking instruments",
+          "type": "technical"
+        },
+        {
+          "id": "Traceability and document management",
+          "type": "technical"
+        },
+        {
+          "id": "Applying laboratory rules",
+          "type": "knowledge"
+        },
+        {
+          "id": "Accuracy and reporting deviations",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "General and analytical chemistry",
+        "Instrumental techniques and measurement methods",
+        "Sampling, preparation and preservation of samples",
+        "Quality assurance and method validation",
+        "Hygiene, chemical safety and waste management"
+      ],
+      "skills_es": [
+        {
+          "id": "Preparación de muestras y soluciones conforme a protocolos",
+          "type": "technical"
+        },
+        {
+          "id": "Realización de ensayos analíticos habituales",
+          "type": "technical"
+        },
+        {
+          "id": "Uso y verificación de instrumentos",
+          "type": "technical"
+        },
+        {
+          "id": "Trazabilidad y gestión documental",
+          "type": "technical"
+        },
+        {
+          "id": "Aplicación de normas de laboratorio",
+          "type": "knowledge"
+        },
+        {
+          "id": "Rigor y comunicación de desviaciones",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Química general y analítica",
+        "Técnicas instrumentales y métodos de medición",
+        "Muestreo, preparación y conservación de muestras",
+        "Aseguramiento de calidad y validación de métodos",
+        "Higiene, seguridad química y gestión de residuos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.sci.biostatisticien",
+      "profile_version": "0.2",
+      "fr_title": "Biostatisticien / Biostatisticienne",
+      "en_title": "Biostatistician",
+      "purpose_fr": "Conçoit ou applique des méthodes statistiques aux données biologiques et de santé afin de produire des analyses reproductibles et correctement interprétées.",
+      "missions_fr": [
+        "Clarifier la question d’étude, les variables, la population et le plan d’analyse avec les équipes scientifiques.",
+        "Examiner la qualité des données, documenter les valeurs manquantes et signaler les biais potentiels.",
+        "Choisir des méthodes statistiques adaptées au plan d’étude et aux hypothèses explicites.",
+        "Réaliser les analyses à l’aide d’outils statistiques et conserver des scripts ou traces reproductibles.",
+        "Interpréter les résultats avec leurs incertitudes et limites sans surinterprétation causale.",
+        "Présenter les résultats, tableaux et méthodes aux équipes et contribuer aux rapports ou publications."
+      ],
+      "skills": [
+        {
+          "id": "Conception de plans d’analyse statistique",
+          "type": "technical"
+        },
+        {
+          "id": "Nettoyage et contrôle qualité des données",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse statistique et programmation",
+          "type": "technical"
+        },
+        {
+          "id": "Documentation et reproductibilité",
+          "type": "technical"
+        },
+        {
+          "id": "Communication de résultats incertains",
+          "type": "transferable"
+        },
+        {
+          "id": "Collaboration interdisciplinaire",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Probabilités et inférence statistique",
+        "Plans d’étude et méthodes épidémiologiques",
+        "Modèles statistiques appliqués aux données biologiques",
+        "Gestion, confidentialité et gouvernance des données de santé",
+        "Reproductibilité, biais, incertitude et interprétation scientifique"
+      ],
+      "work_context_fr": "Équipes de recherche, santé publique, laboratoires, organismes d’études, industrie pharmaceutique ou institutions statistiques. Le périmètre varie selon le protocole, la qualité des données et les responsabilités de conception ou d’analyse; respecter confidentialité, gouvernance des données et exigences éthiques applicables.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.who.health-classification",
+          "use": "Repère de vocabulaire sur les personnels de santé; ne détermine pas les actes autorisés localement."
+        },
+        {
+          "source_id": "source.bls.statisticians",
+          "use": "Repère sur les méthodes statistiques; ne remplace pas les normes sectorielles."
+        }
+      ],
+      "mapping_note": "Comparer les tâches statistiques et biométriques effectives plutôt que le seul titre; distinguer biostatistique, épidémiologie, statistique générale et data science. Les responsabilités liées aux essais, aux données de santé et à la recherche impliquent des exigences éthiques et légales variables selon le pays.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 5,
+      "purpose_en": "Designs or applies statistical methods to biological and health data to produce reproducible analyses that are interpreted appropriately.",
+      "purpose_es": "Diseña o aplica métodos estadísticos a datos biológicos y sanitarios para producir análisis reproducibles e interpretados correctamente.",
+      "missions_en": [
+        "Clarify the study question, variables, population and analysis plan with scientific teams.",
+        "Review data quality, document missing values and report potential bias.",
+        "Select statistical methods suited to the study design and explicit assumptions.",
+        "Perform analyses with statistical tools and retain reproducible scripts or records.",
+        "Interpret results with their uncertainty and limitations, avoiding causal overstatement.",
+        "Present results, tables and methods to teams and contribute to reports or publications."
+      ],
+      "missions_es": [
+        "Aclarar con los equipos científicos la pregunta de estudio, las variables, la población y el plan de análisis.",
+        "Examinar la calidad de los datos, documentar valores ausentes y comunicar posibles sesgos.",
+        "Seleccionar métodos estadísticos adecuados al diseño del estudio y a las hipótesis explícitas.",
+        "Realizar análisis con herramientas estadísticas y conservar scripts o registros reproducibles.",
+        "Interpretar los resultados con sus incertidumbres y limitaciones, evitando atribuir causalidad sin fundamento.",
+        "Presentar resultados, tablas y métodos a los equipos y contribuir a informes o publicaciones."
+      ],
+      "work_context_en": "Research teams, public health, laboratories, study organizations, pharmaceutical industry and statistical institutions. Scope varies with protocol, data quality and design or analysis responsibilities; comply with confidentiality, data governance and applicable ethical requirements.",
+      "work_context_es": "Equipos de investigación, salud pública, laboratorios, organismos de estudios, industria farmacéutica e instituciones estadísticas. El ámbito varía según el protocolo, la calidad de los datos y las responsabilidades de diseño o análisis; deben respetarse la confidencialidad, la gobernanza de datos y los requisitos éticos aplicables.",
+      "mapping_note_en": "Compare actual statistical and biometric tasks rather than title alone; distinguish biostatistics, epidemiology, general statistics and data science. Responsibilities involving trials, health data and research carry ethical and legal requirements that vary by country.",
+      "mapping_note_es": "Comparar las tareas estadísticas y biométricas reales, no solo el título; distinguir bioestadística, epidemiología, estadística general y ciencia de datos. Las responsabilidades relativas a ensayos, datos sanitarios e investigación implican requisitos éticos y legales que varían según el país.",
+      "skills_en": [
+        {
+          "id": "Designing statistical analysis plans",
+          "type": "technical"
+        },
+        {
+          "id": "Data cleaning and quality control",
+          "type": "technical"
+        },
+        {
+          "id": "Statistical analysis and programming",
+          "type": "technical"
+        },
+        {
+          "id": "Documentation and reproducibility",
+          "type": "technical"
+        },
+        {
+          "id": "Communicating uncertain results",
+          "type": "transferable"
+        },
+        {
+          "id": "Interdisciplinary collaboration",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Probability and statistical inference",
+        "Study designs and epidemiological methods",
+        "Statistical models for biological data",
+        "Health-data management, confidentiality and governance",
+        "Reproducibility, bias, uncertainty and scientific interpretation"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de planes de análisis estadístico",
+          "type": "technical"
+        },
+        {
+          "id": "Limpieza y control de calidad de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis estadístico y programación",
+          "type": "technical"
+        },
+        {
+          "id": "Documentación y reproducibilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación de resultados inciertos",
+          "type": "transferable"
+        },
+        {
+          "id": "Colaboración interdisciplinar",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Probabilidad e inferencia estadística",
+        "Diseños de estudio y métodos epidemiológicos",
+        "Modelos estadísticos aplicados a datos biológicos",
+        "Gestión, confidencialidad y gobernanza de datos sanitarios",
+        "Reproducibilidad, sesgos, incertidumbre e interpretación científica"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.it.architecte-logiciel",
+      "profile_version": "0.2",
+      "fr_title": "Architecte logiciel",
+      "en_title": "Software Architect",
+      "purpose_fr": "Définit et fait évoluer la structure technique d’un système logiciel en conciliant besoins fonctionnels, qualité, sécurité, maintenabilité, coûts et contraintes d’exploitation.",
+      "missions_fr": [
+        "Clarifier les exigences fonctionnelles et non fonctionnelles avec les parties prenantes.",
+        "Proposer une architecture cible, ses composants, interfaces, flux et décisions structurantes.",
+        "Évaluer les compromis entre performance, résilience, sécurité, coût et complexité.",
+        "Définir des conventions techniques, critères de qualité et principes d’intégration.",
+        "Examiner les conceptions et accompagner les équipes de développement dans les choix complexes.",
+        "Faire évoluer l’architecture à partir des retours de production, des risques et des changements de besoin."
+      ],
+      "skills": [
+        {
+          "id": "Conception d’architecture applicative",
+          "type": "technical"
+        },
+        {
+          "id": "Modélisation de composants et interfaces",
+          "type": "technical"
+        },
+        {
+          "id": "Évaluation de compromis techniques",
+          "type": "technical"
+        },
+        {
+          "id": "Revue de conception et accompagnement d’équipe",
+          "type": "technical"
+        },
+        {
+          "id": "Communication avec parties prenantes",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation de décisions architecturales",
+          "type": "technical"
+        }
+      ],
+      "knowledge": [
+        "Patrons d’architecture et conception logicielle",
+        "Systèmes distribués, API et intégration",
+        "Bases de données et gestion des données",
+        "Sécurité applicative, identité et protection des données",
+        "Fiabilité, observabilité, performance et exploitation"
+      ],
+      "work_context_fr": "Entreprises numériques, administrations, éditeurs et sociétés de conseil, en lien avec produit, développement, exploitation et sécurité. Le rôle varie selon la taille de l’organisation et le niveau d’architecture confié; les décisions doivent être documentées, révisables et alignées sur les contraintes de disponibilité, sécurité, coûts et conformité.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        }
+      ],
+      "mapping_note": "Classer selon la responsabilité de conception des composants, interfaces et exigences non fonctionnelles; ne pas confondre automatiquement avec architecte d’entreprise, développeur senior ou ingénieur systèmes. Les titres ne sont pas uniformément réglementés et les périmètres dépendent des organisations.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 5,
+      "purpose_en": "Defines and evolves the technical structure of a software system by balancing functional needs, quality, security, maintainability, cost and operational constraints.",
+      "purpose_es": "Define y hace evolucionar la estructura técnica de un sistema de software conciliando necesidades funcionales, calidad, seguridad, mantenibilidad, costes y limitaciones operativas.",
+      "missions_en": [
+        "Clarify functional and non-functional requirements with stakeholders.",
+        "Propose a target architecture, its components, interfaces, flows and key design decisions.",
+        "Assess trade-offs involving performance, resilience, security, cost and complexity.",
+        "Define technical conventions, quality criteria and integration principles.",
+        "Review designs and support development teams with complex technical choices.",
+        "Evolve the architecture based on production feedback, risks and changing needs."
+      ],
+      "missions_es": [
+        "Aclarar los requisitos funcionales y no funcionales con las partes interesadas.",
+        "Proponer una arquitectura objetivo, sus componentes, interfaces, flujos y decisiones estructurales.",
+        "Evaluar los compromisos entre rendimiento, resiliencia, seguridad, coste y complejidad.",
+        "Definir convenciones técnicas, criterios de calidad y principios de integración.",
+        "Revisar diseños y acompañar a los equipos de desarrollo en decisiones técnicas complejas.",
+        "Hacer evolucionar la arquitectura a partir de la experiencia en producción, los riesgos y los cambios de necesidades."
+      ],
+      "work_context_en": "Digital companies, public administrations, software publishers and consultancies, working with product, development, operations and security teams. The role varies with organization size and delegated architecture authority; decisions should be documented, reviewable and aligned with availability, security, cost and compliance constraints.",
+      "work_context_es": "Empresas digitales, administraciones públicas, editoriales de software y consultoras, en relación con producto, desarrollo, operaciones y seguridad. El papel varía según el tamaño de la organización y la responsabilidad arquitectónica asignada; las decisiones deben documentarse, poder revisarse y ajustarse a las limitaciones de disponibilidad, seguridad, costes y cumplimiento.",
+      "mapping_note_en": "Classify according to responsibility for component and interface design and non-functional requirements; do not automatically equate this role with enterprise architect, senior developer or systems engineer. Titles are not uniformly regulated and scopes depend on organizations.",
+      "mapping_note_es": "Clasificar según la responsabilidad sobre el diseño de componentes, interfaces y requisitos no funcionales; no equiparar automáticamente esta función con arquitecto empresarial, desarrollador sénior o ingeniero de sistemas. Los títulos no están regulados de manera uniforme y los ámbitos dependen de las organizaciones.",
+      "skills_en": [
+        {
+          "id": "Application-architecture design",
+          "type": "technical"
+        },
+        {
+          "id": "Component and interface modelling",
+          "type": "technical"
+        },
+        {
+          "id": "Assessment of technical trade-offs",
+          "type": "technical"
+        },
+        {
+          "id": "Design review and team support",
+          "type": "technical"
+        },
+        {
+          "id": "Stakeholder communication",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentation of architectural decisions",
+          "type": "technical"
+        }
+      ],
+      "knowledge_en": [
+        "Architecture patterns and software design",
+        "Distributed systems, APIs and integration",
+        "Databases and data management",
+        "Application security, identity and data protection",
+        "Reliability, observability, performance and operations"
+      ],
+      "skills_es": [
+        {
+          "id": "Diseño de arquitectura de aplicaciones",
+          "type": "technical"
+        },
+        {
+          "id": "Modelado de componentes e interfaces",
+          "type": "technical"
+        },
+        {
+          "id": "Evaluación de compromisos técnicos",
+          "type": "technical"
+        },
+        {
+          "id": "Revisión de diseño y acompañamiento de equipos",
+          "type": "technical"
+        },
+        {
+          "id": "Comunicación con las partes interesadas",
+          "type": "transferable"
+        },
+        {
+          "id": "Documentación de decisiones arquitectónicas",
+          "type": "technical"
+        }
+      ],
+      "knowledge_es": [
+        "Patrones de arquitectura y diseño de software",
+        "Sistemas distribuidos, API e integración",
+        "Bases de datos y gestión de datos",
+        "Seguridad de aplicaciones, identidad y protección de datos",
+        "Fiabilidad, observabilidad, rendimiento y operaciones"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-devops",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure DevOps",
+      "en_title": "DevOps Engineer",
+      "purpose_fr": "Facilite la livraison fiable des logiciels en automatisant les environnements, les déploiements et l’exploitation, et en améliorant la collaboration entre développement et opérations.",
+      "missions_fr": [
+        "Concevoir et maintenir des chaînes d’intégration et de livraison continues adaptées au projet.",
+        "Automatiser la création et la configuration reproductible des environnements.",
+        "Gérer les déploiements et mécanismes de retour arrière selon les procédures approuvées.",
+        "Mettre en place la supervision, les journaux et les indicateurs de fiabilité des services.",
+        "Contribuer à la gestion des incidents, à l’analyse des causes et aux améliorations préventives.",
+        "Collaborer avec les équipes développement, sécurité et exploitation sur les exigences de qualité et de disponibilité."
+      ],
+      "skills": [
+        {
+          "id": "Automatisation CI/CD",
+          "type": "technical"
+        },
+        {
+          "id": "Infrastructure as Code et configuration",
+          "type": "technical"
+        },
+        {
+          "id": "Conteneurisation et orchestration",
+          "type": "technical"
+        },
+        {
+          "id": "Supervision et observabilité",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de versions et collaboration",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse d’incident et amélioration continue",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Systèmes d’exploitation et réseaux",
+        "Chaînes de build, test et déploiement",
+        "Cloud, conteneurs et infrastructure automatisée",
+        "Gestion des secrets, identités et sécurité des pipelines",
+        "Fiabilité, sauvegarde, supervision et continuité de service"
+      ],
+      "work_context_fr": "Équipes de développement et d’exploitation, plateformes cloud ou infrastructures internes. Le périmètre dépend de l’architecture et des habilitations; toute automatisation et intervention sur les environnements doit suivre la gestion des changements, la séparation des accès, la journalisation et les procédures de retour arrière.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        }
+      ],
+      "mapping_note": "Le rapprochement doit tenir compte des tâches dominantes entre développement, automatisation, fiabilité et exploitation; les intitulés DevOps/SRE varient fortement. Vérifier les responsabilités réelles, les habilitations et le périmètre d’accès aux systèmes; ne pas assimiler l’intitulé à une certification.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 5,
+      "purpose_en": "Supports reliable software delivery by automating environments, deployments and operations and improving collaboration between development and operations.",
+      "purpose_es": "Facilita la entrega fiable de software mediante la automatización de entornos, despliegues y operaciones, y mejora la colaboración entre desarrollo y operaciones.",
+      "missions_en": [
+        "Design and maintain continuous-integration and delivery pipelines suited to the project.",
+        "Automate the creation and reproducible configuration of environments.",
+        "Manage deployments and rollback mechanisms under approved procedures.",
+        "Implement monitoring, logging and service-reliability indicators.",
+        "Contribute to incident management, root-cause analysis and preventive improvements.",
+        "Collaborate with development, security and operations teams on quality and availability requirements."
+      ],
+      "missions_es": [
+        "Diseñar y mantener cadenas de integración y entrega continuas adaptadas al proyecto.",
+        "Automatizar la creación y configuración reproducible de entornos.",
+        "Gestionar despliegues y mecanismos de reversión conforme a procedimientos aprobados.",
+        "Implementar supervisión, registros e indicadores de fiabilidad de servicios.",
+        "Contribuir a la gestión de incidentes, el análisis de causas y las mejoras preventivas.",
+        "Colaborar con los equipos de desarrollo, seguridad y operaciones en los requisitos de calidad y disponibilidad."
+      ],
+      "work_context_en": "Development and operations teams, cloud platforms and internal infrastructure. The scope depends on architecture and authorization; automation and environment changes must follow change management, access separation, logging and rollback procedures.",
+      "work_context_es": "Equipos de desarrollo y operaciones, plataformas cloud e infraestructuras internas. El ámbito depende de la arquitectura y las habilitaciones; toda automatización e intervención en entornos debe seguir la gestión de cambios, la separación de accesos, el registro y los procedimientos de reversión.",
+      "mapping_note_en": "The mapping should consider the dominant tasks across development, automation, reliability and operations; DevOps/SRE titles vary widely. Check actual responsibilities, authorizations and system-access scope; the title does not imply a certification.",
+      "mapping_note_es": "La correspondencia debe tener en cuenta las tareas predominantes entre desarrollo, automatización, fiabilidad y operaciones; los títulos DevOps/SRE varían mucho. Verificar las responsabilidades reales, las habilitaciones y el alcance de acceso a sistemas; el título no implica una certificación.",
+      "skills_en": [
+        {
+          "id": "CI/CD automation",
+          "type": "technical"
+        },
+        {
+          "id": "Infrastructure as Code and configuration",
+          "type": "technical"
+        },
+        {
+          "id": "Containerization and orchestration",
+          "type": "technical"
+        },
+        {
+          "id": "Monitoring and observability",
+          "type": "technical"
+        },
+        {
+          "id": "Version control and collaboration",
+          "type": "technical"
+        },
+        {
+          "id": "Incident analysis and continuous improvement",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Operating systems and networks",
+        "Build, test and deployment pipelines",
+        "Cloud, containers and automated infrastructure",
+        "Secrets, identity and pipeline security management",
+        "Reliability, backup, monitoring and service continuity"
+      ],
+      "skills_es": [
+        {
+          "id": "Automatización CI/CD",
+          "type": "technical"
+        },
+        {
+          "id": "Infraestructura como código y configuración",
+          "type": "technical"
+        },
+        {
+          "id": "Contenedorización y orquestación",
+          "type": "technical"
+        },
+        {
+          "id": "Supervisión y observabilidad",
+          "type": "technical"
+        },
+        {
+          "id": "Control de versiones y colaboración",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis de incidentes y mejora continua",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Sistemas operativos y redes",
+        "Cadenas de compilación, pruebas y despliegue",
+        "Cloud, contenedores e infraestructura automatizada",
+        "Gestión de secretos, identidades y seguridad de pipelines",
+        "Fiabilidad, copias de seguridad, supervisión y continuidad del servicio"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.it.administrateur-base-donnees",
+      "profile_version": "0.2",
+      "fr_title": "Administrateur / Administratrice de bases de données",
+      "en_title": "Database Administrator",
+      "purpose_fr": "Administre les systèmes de gestion de bases de données afin de préserver la disponibilité, l’intégrité, la sécurité et les performances des données utilisées par l’organisation.",
+      "missions_fr": [
+        "Installer, configurer et maintenir les systèmes de bases de données selon l’architecture retenue.",
+        "Gérer les comptes, rôles et droits d’accès selon le principe du moindre privilège.",
+        "Surveiller les performances, la capacité, les journaux et les indicateurs de disponibilité.",
+        "Organiser et tester les sauvegardes, restaurations et procédures de continuité approuvées.",
+        "Appliquer les mises à jour et changements selon le processus de gestion des modifications.",
+        "Analyser les incidents, documenter les interventions et conseiller les équipes sur la qualité des données."
+      ],
+      "skills": [
+        {
+          "id": "Administration de SGBD relationnels ou non relationnels",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion des accès et privilèges",
+          "type": "technical"
+        },
+        {
+          "id": "Sauvegarde et restauration contrôlées",
+          "type": "technical"
+        },
+        {
+          "id": "Surveillance et optimisation des performances",
+          "type": "technical"
+        },
+        {
+          "id": "Gestion de changements et documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnostic et résolution structurée de problèmes",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Architecture et fonctionnement des bases de données",
+        "Langages de requête et modélisation des données",
+        "Contrôle d’accès, chiffrement et auditabilité",
+        "Haute disponibilité, sauvegarde et reprise",
+        "Confidentialité, gouvernance et réglementation des données"
+      ],
+      "work_context_fr": "Services informatiques, hébergeurs, administrations et organisations gérant des données structurées. Les responsabilités varient selon criticité et architecture; les sauvegardes, restaurations, accès privilégiés, changements de schéma et opérations de maintenance doivent être autorisés, testés et tracés.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        }
+      ],
+      "mapping_note": "Distinguer administration de bases, ingénierie de données, développement SQL et exploitation systèmes à partir des tâches, de l’autonomie et de la criticité des données. Les exigences de protection des données, de conservation et d’accès sont à vérifier dans chaque juridiction.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 5,
+      "purpose_en": "Administers database-management systems to preserve the availability, integrity, security and performance of data used by an organization.",
+      "purpose_es": "Administra sistemas de gestión de bases de datos para preservar la disponibilidad, integridad, seguridad y rendimiento de los datos utilizados por una organización.",
+      "missions_en": [
+        "Install, configure and maintain database-management systems in line with the chosen architecture.",
+        "Manage accounts, roles and access rights according to the principle of least privilege.",
+        "Monitor performance, capacity, logs and availability indicators.",
+        "Organize and test approved backup, restoration and continuity procedures.",
+        "Apply updates and changes through the change-management process.",
+        "Analyze incidents, document interventions and advise teams on data quality."
+      ],
+      "missions_es": [
+        "Instalar, configurar y mantener sistemas de gestión de bases de datos conforme a la arquitectura elegida.",
+        "Gestionar cuentas, roles y permisos de acceso según el principio de mínimo privilegio.",
+        "Supervisar el rendimiento, la capacidad, los registros y los indicadores de disponibilidad.",
+        "Organizar y probar los procedimientos aprobados de copia de seguridad, restauración y continuidad.",
+        "Aplicar actualizaciones y cambios mediante el proceso de gestión de modificaciones.",
+        "Analizar incidentes, documentar intervenciones y asesorar a los equipos sobre la calidad de los datos."
+      ],
+      "work_context_en": "IT departments, hosting providers, public administrations and organizations managing structured data. Responsibilities vary with criticality and architecture; backups, restores, privileged access, schema changes and maintenance operations must be authorized, tested and recorded.",
+      "work_context_es": "Departamentos informáticos, proveedores de alojamiento, administraciones y organizaciones que gestionan datos estructurados. Las responsabilidades varían según la criticidad y la arquitectura; las copias, restauraciones, accesos privilegiados, cambios de esquema y operaciones de mantenimiento deben autorizarse, probarse y registrarse.",
+      "mapping_note_en": "Distinguish database administration, data engineering, SQL development and systems operations by tasks, autonomy and data criticality. Data-protection, retention and access requirements must be checked in each jurisdiction.",
+      "mapping_note_es": "Distinguir la administración de bases de datos, ingeniería de datos, desarrollo SQL y explotación de sistemas según las tareas, autonomía y criticidad de los datos. Los requisitos de protección, conservación y acceso deben verificarse en cada jurisdicción.",
+      "skills_en": [
+        {
+          "id": "Administration of relational or non-relational DBMS",
+          "type": "technical"
+        },
+        {
+          "id": "Access and privilege management",
+          "type": "technical"
+        },
+        {
+          "id": "Controlled backup and restoration",
+          "type": "technical"
+        },
+        {
+          "id": "Performance monitoring and optimization",
+          "type": "technical"
+        },
+        {
+          "id": "Change management and documentation",
+          "type": "technical"
+        },
+        {
+          "id": "Structured diagnosis and problem-solving",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Database architecture and operation",
+        "Query languages and data modelling",
+        "Access control, encryption and auditability",
+        "High availability, backup and recovery",
+        "Data confidentiality, governance and regulation"
+      ],
+      "skills_es": [
+        {
+          "id": "Administración de SGBD relacionales o no relacionales",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de accesos y privilegios",
+          "type": "technical"
+        },
+        {
+          "id": "Copias de seguridad y restauración controladas",
+          "type": "technical"
+        },
+        {
+          "id": "Supervisión y optimización del rendimiento",
+          "type": "technical"
+        },
+        {
+          "id": "Gestión de cambios y documentación",
+          "type": "technical"
+        },
+        {
+          "id": "Diagnóstico estructurado y resolución de problemas",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Arquitectura y funcionamiento de bases de datos",
+        "Lenguajes de consulta y modelado de datos",
+        "Control de acceso, cifrado y auditabilidad",
+        "Alta disponibilidad, copias de seguridad y recuperación",
+        "Confidencialidad, gobernanza y normativa de datos"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    },
+    {
+      "occupation_id": "occupation.it.ingenieur-ia",
+      "profile_version": "0.2",
+      "fr_title": "Ingénieur / Ingénieure en intelligence artificielle",
+      "en_title": "AI Engineer",
+      "purpose_fr": "Conçoit, intègre et maintient des systèmes utilisant des modèles d’intelligence artificielle en veillant à leur utilité, leur robustesse, leur sécurité et leur suivi en production.",
+      "missions_fr": [
+        "Clarifier le problème métier, les utilisateurs concernés et les critères de réussite mesurables.",
+        "Évaluer la disponibilité, la qualité, les droits d’usage et les limites des données nécessaires.",
+        "Sélectionner ou développer une approche de modélisation adaptée au besoin et aux contraintes.",
+        "Construire des pipelines d’entraînement, d’évaluation et de déploiement reproductibles.",
+        "Évaluer les performances, biais, erreurs et limites du système avant toute mise en service.",
+        "Surveiller le comportement en production, documenter les changements et organiser la réévaluation du modèle."
+      ],
+      "skills": [
+        {
+          "id": "Préparation et gestion de données",
+          "type": "technical"
+        },
+        {
+          "id": "Développement et intégration de modèles",
+          "type": "technical"
+        },
+        {
+          "id": "Évaluation expérimentale et validation",
+          "type": "technical"
+        },
+        {
+          "id": "Déploiement et suivi de modèles",
+          "type": "technical"
+        },
+        {
+          "id": "Analyse critique des biais et limites",
+          "type": "knowledge"
+        },
+        {
+          "id": "Communication interdisciplinaire",
+          "type": "transferable"
+        }
+      ],
+      "knowledge": [
+        "Programmation et ingénierie logicielle",
+        "Statistiques, algèbre linéaire et apprentissage automatique",
+        "Données, qualité, gouvernance et droits d’usage",
+        "Évaluation, robustesse, explicabilité et biais",
+        "Sécurité, confidentialité et gouvernance de l’IA"
+      ],
+      "work_context_fr": "Équipes de recherche et développement, entreprises numériques, industrie, services publics ou conseil. Le travail dépend des données, du domaine d’application et du niveau de risque; vérifier qualité, droits d’usage, biais, explicabilité, sécurité et supervision humaine avant mise en production.",
+      "evidence": [
+        {
+          "source_id": "source.ilo.isco08",
+          "use": "Repère international de regroupement des professions; ne constitue pas une définition exhaustive ni une autorisation d’exercice."
+        },
+        {
+          "source_id": "source.onet.database31",
+          "use": "Repère complémentaire de tâches, compétences et connaissances; contexte américain non transposable automatiquement."
+        },
+        {
+          "source_id": "source.bls.statisticians",
+          "use": "Repère sur les méthodes statistiques; ne remplace pas les normes sectorielles."
+        }
+      ],
+      "mapping_note": "Comparer le rôle selon la conception, l’entraînement, l’évaluation, l’intégration et la maintenance des systèmes d’IA; distinguer recherche, ingénierie ML, analyse de données et développement logiciel. Les règles sur données, décisions automatisées et usages à risque varient selon le pays et le secteur.",
+      "status": "draft_needs_expert_review",
+      "country_specific_requirements": "À vérifier par pays avant publication; les diplômes, autorisations, titres protégés, actes réservés et périmètres d’exercice ne sont pas présumés.",
+      "harmonization_wave": 5,
+      "purpose_en": "Designs, integrates and maintains systems using artificial-intelligence models, with attention to usefulness, robustness, security and production monitoring.",
+      "purpose_es": "Diseña, integra y mantiene sistemas que utilizan modelos de inteligencia artificial, teniendo en cuenta su utilidad, robustez, seguridad y seguimiento en producción.",
+      "missions_en": [
+        "Clarify the business problem, users concerned and measurable success criteria.",
+        "Assess the availability, quality, usage rights and limitations of required data.",
+        "Select or develop a modelling approach suited to the need and constraints.",
+        "Build reproducible training, evaluation and deployment pipelines.",
+        "Evaluate system performance, bias, errors and limitations before deployment.",
+        "Monitor production behaviour, document changes and organize model reassessment."
+      ],
+      "missions_es": [
+        "Aclarar el problema de negocio, los usuarios afectados y los criterios de éxito medibles.",
+        "Evaluar la disponibilidad, calidad, derechos de uso y limitaciones de los datos necesarios.",
+        "Seleccionar o desarrollar un enfoque de modelización adecuado a las necesidades y limitaciones.",
+        "Construir flujos reproducibles de entrenamiento, evaluación y despliegue.",
+        "Evaluar el rendimiento, los sesgos, los errores y las limitaciones del sistema antes de ponerlo en servicio.",
+        "Supervisar el comportamiento en producción, documentar los cambios y organizar la reevaluación del modelo."
+      ],
+      "work_context_en": "Research and development teams, digital companies, industry, public services and consultancies. Work depends on data, application domain and risk level; data quality, usage rights, bias, explainability, security and human oversight must be considered before deployment.",
+      "work_context_es": "Equipos de investigación y desarrollo, empresas digitales, industria, servicios públicos y consultoras. El trabajo depende de los datos, el ámbito de aplicación y el nivel de riesgo; antes de la puesta en servicio deben comprobarse la calidad de los datos, los derechos de uso, los sesgos, la explicabilidad, la seguridad y la supervisión humana.",
+      "mapping_note_en": "Compare the role according to AI-system design, training, evaluation, integration and maintenance; distinguish research, ML engineering, data analysis and software development. Rules on data, automated decisions and high-risk uses vary by country and sector.",
+      "mapping_note_es": "Comparar la función según el diseño, entrenamiento, evaluación, integración y mantenimiento de sistemas de IA; distinguir investigación, ingeniería ML, análisis de datos y desarrollo de software. Las normas sobre datos, decisiones automatizadas y usos de alto riesgo varían según el país y el sector.",
+      "skills_en": [
+        {
+          "id": "Data preparation and management",
+          "type": "technical"
+        },
+        {
+          "id": "Model development and integration",
+          "type": "technical"
+        },
+        {
+          "id": "Experimental evaluation and validation",
+          "type": "technical"
+        },
+        {
+          "id": "Model deployment and monitoring",
+          "type": "technical"
+        },
+        {
+          "id": "Critical analysis of bias and limitations",
+          "type": "knowledge"
+        },
+        {
+          "id": "Interdisciplinary communication",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_en": [
+        "Programming and software engineering",
+        "Statistics, linear algebra and machine learning",
+        "Data quality, governance and usage rights",
+        "Evaluation, robustness, explainability and bias",
+        "AI security, privacy and governance"
+      ],
+      "skills_es": [
+        {
+          "id": "Preparación y gestión de datos",
+          "type": "technical"
+        },
+        {
+          "id": "Desarrollo e integración de modelos",
+          "type": "technical"
+        },
+        {
+          "id": "Evaluación experimental y validación",
+          "type": "technical"
+        },
+        {
+          "id": "Despliegue y seguimiento de modelos",
+          "type": "technical"
+        },
+        {
+          "id": "Análisis crítico de sesgos y limitaciones",
+          "type": "knowledge"
+        },
+        {
+          "id": "Comunicación interdisciplinar",
+          "type": "transferable"
+        }
+      ],
+      "knowledge_es": [
+        "Programación e ingeniería de software",
+        "Estadística, álgebra lineal y aprendizaje automático",
+        "Datos, calidad, gobernanza y derechos de uso",
+        "Evaluación, robustez, explicabilidad y sesgos",
+        "Seguridad, privacidad y gobernanza de la IA"
+      ],
+      "country_specific_requirements_en": "Check requirements in each country before publication; qualifications, authorizations, certificates, protected titles and scopes of practice are not presumed.",
+      "country_specific_requirements_es": "Verificar los requisitos de cada país antes de publicar; no se presuponen títulos, cualificaciones, autorizaciones, certificados ni ámbitos profesionales protegidos.",
+      "translation_status": {
+        "en": "machine_draft_needs_human_review",
+        "es": "machine_draft_needs_human_review"
+      }
+    }
+  ],
+  "harmonization_wave_3": {
+    "profiles_harmonized": 2,
+    "profiles_remaining_in_batch": 13,
+    "baseline": "6 missions / 6 skills / 5 knowledge; controlled skill types; context and mapping notes reviewed",
+    "remaining_in_batch": 0
+  },
+  "harmonization_wave_4": {
+    "profiles_harmonized": 7,
+    "profile_ids": [
+      "occupation.health.technicien-biomedical",
+      "occupation.health.kinesitherapeute",
+      "occupation.health.dieteticien",
+      "occupation.health.ambulancier",
+      "occupation.social.educateur-specialise",
+      "occupation.social.coordinateur-humanitaire",
+      "occupation.edu.conseiller-orientation"
+    ],
+    "status": "structural_harmonization_complete_expert_review_pending"
+  },
+  "harmonization_wave_5": {
+    "profiles_harmonized": 6,
+    "profile_ids": [
+      "occupation.sci.technicien-chimiste",
+      "occupation.sci.biostatisticien",
+      "occupation.it.architecte-logiciel",
+      "occupation.it.ingenieur-devops",
+      "occupation.it.administrateur-base-donnees",
+      "occupation.it.ingenieur-ia"
+    ],
+    "status": "structural_harmonization_complete_expert_review_pending"
+  }
+}
