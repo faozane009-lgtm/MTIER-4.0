@@ -105,12 +105,15 @@ jobs:
         run: python3 scripts/check_translations.py
 
       - name: Analyze Dart and Flutter code
+        id: analyze
         run: flutter analyze --no-fatal-infos
 
       - name: Run Flutter tests
+        id: tests
         run: flutter test
 
       - name: Build debug APK
+        if: ${{ !cancelled() && steps.analyze.outcome == 'success' }}
         run: flutter build apk --debug
 
       - name: Upload debug APK
