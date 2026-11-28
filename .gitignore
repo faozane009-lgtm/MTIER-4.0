@@ -66,3 +66,19 @@ coverage/
 .fvm/flutter_sdk
 .fvmrc.local
 *.env.local
+
+# M-TIER local build artifacts
+*.apk
+
+# M-TIER DOCTOR local installation and data
+.mtier_doctor_backups/
+mtier_doctor/
+mtier-doctor
+scripts/mtier_doctor.py
+
+# Local reports and backups
+backups/
+reports/
+
+# Local workflow backups
+.github/workflows/*.bak-*

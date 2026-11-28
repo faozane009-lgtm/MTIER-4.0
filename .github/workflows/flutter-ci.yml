@@ -116,6 +116,15 @@ jobs:
         if: ${{ !cancelled() && steps.analyze.outcome == 'success' }}
         run: flutter build apk --debug
 
+      - name: Upload resolved pubspec.lock
+        if: ${{ always() && hashFiles('pubspec.lock') != '' }}
+        uses: actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808
+        with:
+          name: mtier-pubspec-lock-${{ github.run_number }}
+          path: pubspec.lock
+          if-no-files-found: error
+          retention-days: 14
+
       - name: Upload debug APK
         if: ${{ always() && hashFiles('build/app/outputs/flutter-apk/app-debug.apk') != '' }}
         uses: actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808
